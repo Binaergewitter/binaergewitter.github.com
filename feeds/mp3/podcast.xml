@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 13 Jul 2012 14:02:34 +0200</lastBuildDate>
-    <atom:updated>2012-07-13T14:02:34+02:00</atom:updated>
+    <lastBuildDate>Fri, 20 Jul 2012 11:43:55 +0200</lastBuildDate>
+    <atom:updated>2012-07-20T11:43:55+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -56,16 +56,16 @@
     
     
     <item>
-      <title>Binärgewitter Talk #21 - (╯°□°）╯︵ ┻━┻</title>
-      <link>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tischumwerfen/</link>
-      <comments>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tischumwerfen/#comments</comments>
-      <pubDate>Fri, 13 Jul 2012 13:30:00 +0200</pubDate>
-      <atom:updated>2012-07-13T13:30:00+02:00</atom:updated>
+      <title>Binärgewitter Talk #22 - teilweise sehe ich Dinge</title>
+      <link>http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-21-zum-tischumwerfen/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-21-zum-tischumwerfen/#comments</comments>
+      <pubDate>Fri, 20 Jul 2012 13:30:00 +0200</pubDate>
+      <atom:updated>2012-07-20T13:30:00+02:00</atom:updated>
 
       
       
       <atom:link rel="payment"
-        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F07%2F13%2Fbinaergewitter-talk-number-21-zum-tischumwerfen%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2321%20-%20(%E2%95%AF%C2%B0%E2%96%A1%C2%B0%EF%BC%89%E2%95%AF%EF%B8%B5%20%E2%94%BB%E2%94%81%E2%94%BB&amp;category=audio&amp;tags=podcast,tech,software"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F07%2F20%2Fbinaergewitter-talk-number-21-zum-tischumwerfen%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2322%20-%20teilweise%20sehe%20ich%20Dinge&amp;category=audio&amp;tags=podcast,tech,software"
         type="text/html"
       />
 
@@ -78,7 +78,327 @@
       <media:credit role="author">Binärgewitter Crew</media:credit>
       <media:rating>nonadult</media:rating>
       
-      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tischumwerfen</guid>
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-21-zum-tischumwerfen</guid>
+      
+      <description>
+        <![CDATA[<p>Das muss man wirklich wissen, ist man nun bei 0 Grad Kelvin ganz tot? Neben den üblichen IT- und Security-News weinen wir über Alsa und Archlinux.</p>
+
+<h1>Moderation</h1>
+
+<ul>
+<li><a href="https://github.com/Binaergewitter/eminem">eminem anpassen</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Nokia-stuerzt-weiter-ab-1647473.html">Nokia</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Neckermann-de-meldet-Insolvenz-an-1646755.html">Neckermann ist Insolvent</a></li>
+<li><a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTE0MjI">kein Nero Linux mehr</a></li>
+<li><a href="http://www.bbc.com/news/technology-18898971">Botnetz Grum</a></li>
+<li><a href="http://www.pro-linux.de/news/1/18614/jolla-erhaelt-grossauftrag-aus-china.html">Jolla</a></li>
+<li><a href="http://www.dailymail.co.uk/news/article-2173122/Royal-Navys-largest-warship-sails-Thames-armed-forces-strength-Olympics.html">Terrorismus</a></li>
+</ul>
+
+
+<h2>Blast from the Past</h2>
+
+<ul>
+<li><a href="http://news.ycombinator.net/item?id=4240788">Apple ist zurueck bei EPEAT - "all eligible Devices"</a>
+
+<ul>
+<li><a href="http://ww2.epeat.net/PublicSearchResults.aspx?return=pm&amp;epeatcountryid=1&amp;manufacturer=32">Retina Mac bei EPEAT</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://blogs.valvesoftware.com/linux/steamd-penguins/">Steam auf Ubuntu</a></li>
+<li><a href="http://aws.typepad.com/aws/2012/07/new-high-io-ec2-instance-type-hi14xlarge.html">SSD bei AWS</a></li>
+<li><a href="http://www.youtube.com/watch?v=32DD4DF7Qpo">Nexus 7 geht nicht auf</a>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=GWl1m0Cd4eI">oder doch</a></li>
+</ul>
+</li>
+<li><a href="http://www.slate.com/blogs/future_tense/2012/07/13/eric_schmidt_on_self_driving_cars_biggest_problem_they_obey_speed_limits.html">Das einzige problem: Sie halten sich an Geschwindigkeitsbegrenzungen</a></li>
+<li><a href="http://packetstormsecurity.org/files/114784/metasploit-localroot.txt">Hack the hackers: pcap_log Privilege Escalation</a></li>
+<li><a href="http://www.youtube.com/watch?v=2laujomh0JY">Nao Evolution of Dance</a></li>
+<li><a href="https://github.com/WhisperSystems/RedPhone">Twitter gibt RedPhone frei</a></li>
+<li><a href="http://news.ycombinator.net/item?id=4254925">Skype Supernodes unterstuetzen Decryption aka. Abhoernubsis</a></li>
+<li><a href="http://delimiter.com.au/2012/07/19/choice-wants-geo-ip-blocking-abolished/">geo-IP Blocking verbieten</a></li>
+<li><a href="http://isc.sans.edu/diary.html?storyid=13720&amp;rss">An analysis of the Yahoo! passwords</a></li>
+<li><a href="http://news.ycombinator.net/item?id=4245982">Intel Core 2 Duo Remote Exec Exploit IN JAVASCRIPT</a></li>
+<li><a href="http://wmpoweruser.com/watch-what-you-store-on-skydriveyou-may-lose-your-microsoft-life/">SkyDrive Code of Conduct - durchsucht deine Box nach Schmuddel</a></li>
+<li><a href="http://www.zdnet.com/the-linux-shell-will-always-be-with-us-7000000742/">The Linux shell will always be with us</a></li>
+<li><a href="http://www.engadget.com/2012/07/18/google-adds-interactive-weather-to-tablets/">Google Wetter auf Tablets</a></li>
+<li><a href="http://www.datamation.com/feature/is-facebook-toast-1.html">Is Facebook Toast?</a>
+
+<ul>
+<li><a href="http://news.ycombinator.net/item?id=4257108">Google+ waechst um 43 prozent in Juni</a></li>
+</ul>
+</li>
+<li><a href="http://news.techworld.com/security/3370518/spike-in-dropbox-spam-raises-security-worries/">Dropox Spam steigt, was ist passiert?</a></li>
+<li><a href="http://arstechnica.com/information-technology/2012/07/firefox-14-arrives-with-secure-search/">Firefox 14 mit "secure search"</a></li>
+<li><a href="http://www.npr.org/blogs/krulwich/2012/07/16/156851175/five-men-agree-to-stand-directly-under-an-exploding-nuclear-bomb?ps=cprs">Atomwaffen sind garnicht schlimm</a></li>
+<li><a href="http://connectedmonster.com/2012/07/17/apples-dilemma-the-7-inch-ipad/">Apple's Dilemma: The 7-inch IPad</a></li>
+<li><a href="http://www.bloomberg.com/news/2012-07-18/apple-must-publish-notice-samsung-didn-t-copy-ipad-judge-says.html">Apple muss sich oeffentlich bei Samsung entschuldigen</a>
+
+<ul>
+<li><a href="i.imgur.com/TmUj2.jpg">Bildvergleich</a></li>
+</ul>
+</li>
+<li><a href="http://arcticready.com/social/gallery">Shell Crowdsources Ads - "Let's Go!"</a>
+
+<ul>
+<li><a href="http://www.upi.com/blog/2012/07/17/Shell-Lets-Go-campaign-a-brilliant-elaborate-hoax-UPDATED/5651342541859/#!/2/">... ist ein gut gemachter Hoax von Green Peace</a></li>
+</ul>
+</li>
+<li><a href="http://%D9%85%D9%88%D9%82%D8%B9.%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA.%D9%85%D8%B5%D8%B1/">UTF-8 URLs</a>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Punycode">Punycode</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=NCns726nBhQ#t=9m42s">Glenn Vanderburg - Software Engineering Doesn't Work!</a></li>
+<li><a href="http://pastebin.com/q0hTkwFh">I invoke</a></li>
+<li><a href="http://arstechnica.com/science/2012/07/epic-fraud-how-to-succeed-in-science-without-doing-any/">Epic fraud</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Automatic_summarization">Automatic Summarization</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="https://wiki.archlinux.org/index.php/DeveloperWiki:usrlib">Archlinux, WTF? - The /lib symlink hell</a>
+
+<ul>
+<li>first things first, do not try to manually move the /lib folder...</li>
+<li>pacman -Syu --ignore glibc #pacman install</li>
+<li>pacman -Syu --ignore glibc #upgrade all the stuff possible</li>
+<li>pacman -Sud --ignore glibc #upgrade all the other packages which depend on glibc</li>
+<li>find /lib -exec pacman -Qo -- {} + # find files in /lib which are unowned or owned by old packages, delete these packages or files</li>
+<li>grep '<sup>lib/'</sup> /var/lib/pacman/local/*/files #find packages which still might have some files in /lib</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/rb2k/status/225737496334577664">Alsa nervt</a>
+
+<ul>
+<li><a href="http://fluendo.com">Fluendo</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://twitter.com/SelfAwareROOMBA">Self aware Roomba</a></li>
+<li><a href="http://www.youtube.com/watch?v=NYiZR6-_37I">Dr Axel Stoll Part 1</a></li>
+<li><a href="http://www.youtube.com/watch?v=EKMUOY8YSW8">Dr Axel Stoll Part 2</a></li>
+<li><a href="http://amzn.to/Lvj27J">Dr Axel Stoll Buch</a></li>
+<li><a href="http://www.foddy.net/Athletics.html">QWOP</a>
+
+<ul>
+<li><a href="http://25.media.tumblr.com/tumblr_m6khue2PGA1qdlh1io1_250.gif">Japanischer Live QWOP</a></li>
+</ul>
+</li>
+<li><a href="https://media.defcon.org/">DEF CON Videos</a></li>
+<li><a href="http://what-if.xkcd.com">What if</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2012-07-20.Binaergewitter.Talk.22.mp3"
+        length="92925026"
+        type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-07-20.Binaergewitter.Talk.22.mp3"
+        fileSize="92925026"
+        type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #22 - teilweise sehe ich Dinge</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Das muss man wirklich wissen, ist man nun bei 0 Grad Kelvin ganz tot? Neben den üblichen IT- und Security-News weinen wir über Alsa und Archlinux.
+
+Moderation
+
+
+eminem anpassen
+
+
+
+Toter der Woche
+
+
+Nokia
+Neckermann ist Insolvent
+kein Nero Linux mehr
+Botnetz Grum
+Jolla
+Terrorismus
+
+
+
+Blast from the Past
+
+
+Apple ist zurueck bei EPEAT - "all eligible Devices"
+
+
+Retina Mac bei EPEAT
+
+
+
+
+
+News
+
+
+Steam auf Ubuntu
+SSD bei AWS
+Nexus 7 geht nicht auf
+
+
+oder doch
+
+
+Das einzige problem: Sie halten sich an Geschwindigkeitsbegrenzungen
+Hack the hackers: pcap_log Privilege Escalation
+Nao Evolution of Dance
+Twitter gibt RedPhone frei
+Skype Supernodes unterstuetzen Decryption aka. Abhoernubsis
+geo-IP Blocking verbieten
+An analysis of the Yahoo! passwords
+Intel Core 2 Duo Remote Exec Exploit IN JAVASCRIPT
+SkyDrive Code of Conduct - durchsucht deine Box nach Schmuddel
+The Linux shell will always be with us
+Google Wetter auf Tablets
+Is Facebook Toast?
+
+
+Google+ waechst um 43 prozent in Juni
+
+
+Dropox Spam steigt, was ist passiert?
+Firefox 14 mit "secure search"
+Atomwaffen sind garnicht schlimm
+Apple's Dilemma: The 7-inch IPad
+Apple muss sich oeffentlich bei Samsung entschuldigen
+
+
+Bildvergleich
+
+
+Shell Crowdsources Ads - "Let's Go!"
+
+
+... ist ein gut gemachter Hoax von Green Peace
+
+
+UTF-8 URLs
+
+
+Punycode
+
+
+
+
+
+Lesefoo
+
+
+Glenn Vanderburg - Software Engineering Doesn't Work!
+I invoke
+Epic fraud
+Automatic Summarization
+
+
+
+Mimimi der Woche
+
+
+Archlinux, WTF? - The /lib symlink hell
+
+
+first things first, do not try to manually move the /lib folder...
+pacman -Syu --ignore glibc #pacman install
+pacman -Syu --ignore glibc #upgrade all the stuff possible
+pacman -Sud --ignore glibc #upgrade all the other packages which depend on glibc
+find /lib -exec pacman -Qo -- {} + # find files in /lib which are unowned or owned by old packages, delete these packages or files
+grep 'lib/' /var/lib/pacman/local/*/files #find packages which still might have some files in /lib
+
+
+Alsa nervt
+
+
+Fluendo
+
+
+
+
+
+Picks
+
+
+Self aware Roomba
+Dr Axel Stoll Part 1
+Dr Axel Stoll Part 2
+Dr Axel Stoll Buch
+QWOP
+
+
+Japanischer Live QWOP
+
+
+DEF CON Videos
+What if
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
+    
+    
+    <item>
+      <title>Binärgewitter Talk #21 - (╯°□°）╯︵ ┻━┻</title>
+      <link>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge/#comments</comments>
+      <pubDate>Fri, 13 Jul 2012 13:30:00 +0200</pubDate>
+      <atom:updated>2012-07-13T13:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F07%2F13%2Fbinaergewitter-talk-number-22-teilweise-sehe-ich-dinge%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2321%20-%20(%E2%95%AF%C2%B0%E2%96%A1%C2%B0%EF%BC%89%E2%95%AF%EF%B8%B5%20%E2%94%BB%E2%94%81%E2%94%BB&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge</guid>
       
       <description>
         <![CDATA[<p>Das neue Studiosetup ist so gut wie fertig, dafür haben wir pfleidi diesmal verloren. Macht aber nix wir quatschen über Indoornavigation, Security Fuckups und vieles mehr.</p>
@@ -109,7 +429,7 @@
 <ul>
 <li><a href="http://xbmc.org/">XBMC</a></li>
 <li><a href="http://openelec.tv/">openELEC</a></li>
-<li>[LG 3D Bluray Player - Nacholge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )</li>
+<li>[LG 3D Bluray Player - Nachfolge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )</li>
 <li><a href="http://www.amazon.de/gp/product/B0043EV3MS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0043EV3MS&amp;linkCode=as2&amp;tag=trektrip">Boxee Box</a></li>
 </ul>
 
@@ -253,7 +573,7 @@ Media Player Foo der Woche
 
 XBMC
 openELEC
-[LG 3D Bluray Player - Nacholge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )
+[LG 3D Bluray Player - Nachfolge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )
 Boxee Box
 
 

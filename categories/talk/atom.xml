@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2012-07-13T14:02:34+02:00</updated>
+  <updated>2012-07-20T11:43:55+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -14,10 +14,154 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #22 - teilweise sehe ich Dinge]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-21-zum-tischumwerfen/"/>
+    <updated>2012-07-20T13:30:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-21-zum-tischumwerfen</id>
+    <content type="html"><![CDATA[<p>Das muss man wirklich wissen, ist man nun bei 0 Grad Kelvin ganz tot? Neben den üblichen IT- und Security-News weinen wir über Alsa und Archlinux.</p>
+
+<h1>Moderation</h1>
+
+<ul>
+<li><a href="https://github.com/Binaergewitter/eminem">eminem anpassen</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Nokia-stuerzt-weiter-ab-1647473.html">Nokia</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Neckermann-de-meldet-Insolvenz-an-1646755.html">Neckermann ist Insolvent</a></li>
+<li><a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTE0MjI">kein Nero Linux mehr</a></li>
+<li><a href="http://www.bbc.com/news/technology-18898971">Botnetz Grum</a></li>
+<li><a href="http://www.pro-linux.de/news/1/18614/jolla-erhaelt-grossauftrag-aus-china.html">Jolla</a></li>
+<li><a href="http://www.dailymail.co.uk/news/article-2173122/Royal-Navys-largest-warship-sails-Thames-armed-forces-strength-Olympics.html">Terrorismus</a></li>
+</ul>
+
+
+<h2>Blast from the Past</h2>
+
+<ul>
+<li><a href="http://news.ycombinator.net/item?id=4240788">Apple ist zurueck bei EPEAT - "all eligible Devices"</a>
+
+<ul>
+<li><a href="http://ww2.epeat.net/PublicSearchResults.aspx?return=pm&amp;epeatcountryid=1&amp;manufacturer=32">Retina Mac bei EPEAT</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://blogs.valvesoftware.com/linux/steamd-penguins/">Steam auf Ubuntu</a></li>
+<li><a href="http://aws.typepad.com/aws/2012/07/new-high-io-ec2-instance-type-hi14xlarge.html">SSD bei AWS</a></li>
+<li><a href="http://www.youtube.com/watch?v=32DD4DF7Qpo">Nexus 7 geht nicht auf</a>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=GWl1m0Cd4eI">oder doch</a></li>
+</ul>
+</li>
+<li><a href="http://www.slate.com/blogs/future_tense/2012/07/13/eric_schmidt_on_self_driving_cars_biggest_problem_they_obey_speed_limits.html">Das einzige problem: Sie halten sich an Geschwindigkeitsbegrenzungen</a></li>
+<li><a href="http://packetstormsecurity.org/files/114784/metasploit-localroot.txt">Hack the hackers: pcap_log Privilege Escalation</a></li>
+<li><a href="http://www.youtube.com/watch?v=2laujomh0JY">Nao Evolution of Dance</a></li>
+<li><a href="https://github.com/WhisperSystems/RedPhone">Twitter gibt RedPhone frei</a></li>
+<li><a href="http://news.ycombinator.net/item?id=4254925">Skype Supernodes unterstuetzen Decryption aka. Abhoernubsis</a></li>
+<li><a href="http://delimiter.com.au/2012/07/19/choice-wants-geo-ip-blocking-abolished/">geo-IP Blocking verbieten</a></li>
+<li><a href="http://isc.sans.edu/diary.html?storyid=13720&amp;rss">An analysis of the Yahoo! passwords</a></li>
+<li><a href="http://news.ycombinator.net/item?id=4245982">Intel Core 2 Duo Remote Exec Exploit IN JAVASCRIPT</a></li>
+<li><a href="http://wmpoweruser.com/watch-what-you-store-on-skydriveyou-may-lose-your-microsoft-life/">SkyDrive Code of Conduct - durchsucht deine Box nach Schmuddel</a></li>
+<li><a href="http://www.zdnet.com/the-linux-shell-will-always-be-with-us-7000000742/">The Linux shell will always be with us</a></li>
+<li><a href="http://www.engadget.com/2012/07/18/google-adds-interactive-weather-to-tablets/">Google Wetter auf Tablets</a></li>
+<li><a href="http://www.datamation.com/feature/is-facebook-toast-1.html">Is Facebook Toast?</a>
+
+<ul>
+<li><a href="http://news.ycombinator.net/item?id=4257108">Google+ waechst um 43 prozent in Juni</a></li>
+</ul>
+</li>
+<li><a href="http://news.techworld.com/security/3370518/spike-in-dropbox-spam-raises-security-worries/">Dropox Spam steigt, was ist passiert?</a></li>
+<li><a href="http://arstechnica.com/information-technology/2012/07/firefox-14-arrives-with-secure-search/">Firefox 14 mit "secure search"</a></li>
+<li><a href="http://www.npr.org/blogs/krulwich/2012/07/16/156851175/five-men-agree-to-stand-directly-under-an-exploding-nuclear-bomb?ps=cprs">Atomwaffen sind garnicht schlimm</a></li>
+<li><a href="http://connectedmonster.com/2012/07/17/apples-dilemma-the-7-inch-ipad/">Apple's Dilemma: The 7-inch IPad</a></li>
+<li><a href="http://www.bloomberg.com/news/2012-07-18/apple-must-publish-notice-samsung-didn-t-copy-ipad-judge-says.html">Apple muss sich oeffentlich bei Samsung entschuldigen</a>
+
+<ul>
+<li><a href="i.imgur.com/TmUj2.jpg">Bildvergleich</a></li>
+</ul>
+</li>
+<li><a href="http://arcticready.com/social/gallery">Shell Crowdsources Ads - "Let's Go!"</a>
+
+<ul>
+<li><a href="http://www.upi.com/blog/2012/07/17/Shell-Lets-Go-campaign-a-brilliant-elaborate-hoax-UPDATED/5651342541859/#!/2/">... ist ein gut gemachter Hoax von Green Peace</a></li>
+</ul>
+</li>
+<li><a href="http://%D9%85%D9%88%D9%82%D8%B9.%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA.%D9%85%D8%B5%D8%B1/">UTF-8 URLs</a>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Punycode">Punycode</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=NCns726nBhQ#t=9m42s">Glenn Vanderburg - Software Engineering Doesn't Work!</a></li>
+<li><a href="http://pastebin.com/q0hTkwFh">I invoke</a></li>
+<li><a href="http://arstechnica.com/science/2012/07/epic-fraud-how-to-succeed-in-science-without-doing-any/">Epic fraud</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Automatic_summarization">Automatic Summarization</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="https://wiki.archlinux.org/index.php/DeveloperWiki:usrlib">Archlinux, WTF? - The /lib symlink hell</a>
+
+<ul>
+<li>first things first, do not try to manually move the /lib folder...</li>
+<li>pacman -Syu --ignore glibc #pacman install</li>
+<li>pacman -Syu --ignore glibc #upgrade all the stuff possible</li>
+<li>pacman -Sud --ignore glibc #upgrade all the other packages which depend on glibc</li>
+<li>find /lib -exec pacman -Qo -- {} + # find files in /lib which are unowned or owned by old packages, delete these packages or files</li>
+<li>grep '<sup>lib/'</sup> /var/lib/pacman/local/*/files #find packages which still might have some files in /lib</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/rb2k/status/225737496334577664">Alsa nervt</a>
+
+<ul>
+<li><a href="http://fluendo.com">Fluendo</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://twitter.com/SelfAwareROOMBA">Self aware Roomba</a></li>
+<li><a href="http://www.youtube.com/watch?v=NYiZR6-_37I">Dr Axel Stoll Part 1</a></li>
+<li><a href="http://www.youtube.com/watch?v=EKMUOY8YSW8">Dr Axel Stoll Part 2</a></li>
+<li><a href="http://amzn.to/Lvj27J">Dr Axel Stoll Buch</a></li>
+<li><a href="http://www.foddy.net/Athletics.html">QWOP</a>
+
+<ul>
+<li><a href="http://25.media.tumblr.com/tumblr_m6khue2PGA1qdlh1io1_250.gif">Japanischer Live QWOP</a></li>
+</ul>
+</li>
+<li><a href="https://media.defcon.org/">DEF CON Videos</a></li>
+<li><a href="http://what-if.xkcd.com">What if</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #21 - (╯°□°）╯︵ ┻━┻]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tischumwerfen/"/>
+    <link href="http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge/"/>
     <updated>2012-07-13T13:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tischumwerfen</id>
+    <id>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge</id>
     <content type="html"><![CDATA[<p>Das neue Studiosetup ist so gut wie fertig, dafür haben wir pfleidi diesmal verloren. Macht aber nix wir quatschen über Indoornavigation, Security Fuckups und vieles mehr.</p>
 
 <h2>Rubrik der Woche</h2>
@@ -46,7 +190,7 @@
 <ul>
 <li><a href="http://xbmc.org/">XBMC</a></li>
 <li><a href="http://openelec.tv/">openELEC</a></li>
-<li>[LG 3D Bluray Player - Nacholge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )</li>
+<li>[LG 3D Bluray Player - Nachfolge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )</li>
 <li><a href="http://www.amazon.de/gp/product/B0043EV3MS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0043EV3MS&amp;linkCode=as2&amp;tag=trektrip">Boxee Box</a></li>
 </ul>
 
@@ -645,119 +789,6 @@
 <li><a href="http://www.talkyoo.net/">Talkyoo</a></li>
 <li><a href="http://www.telcoon.de/">Telcoon</a></li>
 <li><a href="http://www.theverge.com/2012/6/8/3072284/dice-plus-digital-die-ios-android">Dice+</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #17 - SysV Combat Scripts]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/06/08/binaergewitter-talk-number-17-sysv-combat-scripts/"/>
-    <updated>2012-06-08T13:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/06/08/binaergewitter-talk-number-17-sysv-combat-scripts</id>
-    <content type="html"><![CDATA[<p>Drei Zombies essen Pokemons, tanzen wieder durch die News der letzten Woche und quatschen über Systemd.</p>
-
-<h2>OT</h2>
-
-<ul>
-<li><a href="25.media.tumblr.com/tumblr_m3hnnzf9nU1qhbr2so1_400.jpg">Blast from the Past: In Pokemonland werden Pokemon gegessen</a></li>
-</ul>
-
-
-<h2>Rubrik der Woche</h2>
-
-<h3>Verschwoerungstheorie der Woche</h3>
-
-<ul>
-<li><p><a href="http://pastebin.com/Ht8QJYFe">Zombies in Florida(Pastebin)</a></p>
-
-<ul>
-<li>http://www.huffingtonpost.com/2012/05/31/alexander-kinyua-kujoe-agyei-kodie-ate-brain-heart-roommate-maryland_n_1560149.html</li>
-<li><a href="http://all-that-is-interesting.com/post/4956385434/the-first-zombie-proof-house">Zombie proof house</a></li>
-<li><a href="http://www.amazon.de/gp/product/3442458099/ref=as_li_ss_tl?ie=UTF8&amp;tag=trektrip&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3442458099">Der Zombie Survival Guide - deutsch</a></li>
-<li><a href="http://www.amazon.de/gp/product/1400049628/ref=as_li_ss_tl?ie=UTF8&amp;tag=trektrip&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=1400049628">Zombie Survival Guid - englisch</a>
-
-<h2>Toter der Woche</h2></li>
-</ul>
-</li>
-<li><p><a href="http://pipes.yahoo.com/pipes/pipe.info?_id=029d3e6c68d506a17b82b0135350ab03">Yahoo Pipes: TDW Aggregator</a></p></li>
-<li><a href="http://www.spiegel.de/netzwelt/web/trololo-mann-eduard-khil-ist-tot-a-836761.html">Trolololo Mann ist verstorben</a></li>
-<li>500px.com</li>
-<li><a href="http://youarenotaphotographer.com/">Du bist kein Fotograf</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://www.golem.de/news/top-level-domains-google-meldet-google-docs-und-lol-an-1205-92202.html">Google meldet .docs und .lol bei ICANN an</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Internet-Knoten-registrieren-nur-geringen-Anstieg-bei-IPv6-1611745.html">IPv6 Day nur mäßiger Erfolg</a></li>
-<li><a href="http://arstechnica.com/tech-policy/2012/06/confirmed-us-israel-created-stuxnet-lost-control-of-it/">Stuxnet von US und Israelischem Geheimdienst - haben Kontrolle verloren</a>
-
-<ul>
-<li><a href="http://blog.crysys.hu/2012/06/stuxnet-duqu-flame-open-source-license-questions-v0/">Stuxnet/Duqu/Flame und die GPL</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Flame_%28malware%29">Flame Malware</a></li>
-</ul>
-</li>
-<li><a href="http://www.pro-linux.de/news/1/18433/oracle-verliert-copyright-klage-gegen-google.html">Oracle verliert gegen Google</a></li>
-<li><a href="http://blog.apievangelist.com/2012/06/01/barak-obama-directs-all-federal-agencies-to-have-an-api/">Obama: Alle Behoerden soll einen API bereitstellen</a></li>
-<li><a href="http://news.cnet.com/8301-1023_3-57447316-93/facebook-boring-1-in-3-users-are-tuning-it-out/">Facebook fuer 1/3 der user <code>Langweilig</code></a></li>
-<li><a href="http://thenextweb.com/socialmedia/2012/06/06/bad-day-for-linkedin-6-5-million-hashed-passwords-reportedly-leaked-change-yours-now/">Bei Linkedin gehen 6,5 Mio gehashte Passwörter flöten</a>
-
-<ul>
-<li><a href="http://leakedin.org/">Leakedin</a></li>
-<li><a href="http://shiflett.org/blog/2012/jun/leakedin">Blogpost zu Leakedin</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Pbkdf2">PBKDF2</a></li>
-<li>hint zum datensatz: pastebin.com</li>
-</ul>
-</li>
-<li><a href="https://developer.mozilla.org/en/Thunderbird/Autoconfiguration">Thunderbrid Autoconfiguration</a></li>
-<li><a href="http://www.golem.de/news/mozilla-thunderbird-13-macht-sinnlose-anhaenge-sinnlos-1206-92315.html">Thunderbird 13 und Email Anhänge</a></li>
-<li><a href="http://www.heise.de/developer/artikel/vert-x-asynchrones-und-Event-getriebenes-Java-Webframework-1587065.html">vert.x als Altenative zu Node.js?</a></li>
-<li>Archlinux wechselt langsam Richtung systemd -- tautscht udev mit systemd
-
-<ul>
-<li><a href="http://www.heise.de/open/artikel/Das-Init-System-Systemd-Teil-1-1563259.html">Systemd Artikel bei heise</a></li>
-<li><a href="https://wiki.archlinux.org/index.php/Systemd#Native_systemd_configuration_files">Archlinux Wiki zu Systemd</a></li>
-</ul>
-</li>
-<li><a href="http://www.heise.de/open/meldung/Erste-Beta-von-Samba-4-ist-da-1605218.html">erste Beta von Samba 4</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://www.spencertipping.com/posts/2012.0530.why-i-left-google.html">Why I left Google</a> (pfleidi)</li>
-<li><a href="http://amasci.com/amateur/whygnd.html">Warum hat die Steckdose 3 Stifte?</a>
-
-<ul>
-<li><a href="http://xkcd.com/927/">XKCD</a></li>
-<li><a href="http://omegataupodcast.net/2012/03/89-desertec/">Omega Tao: Deserttec</a></li>
-</ul>
-</li>
-<li><a href="http://www.uberlin.co.uk/what-i-know-about-germans/">What I know about Germans</a> (pfleidi)</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>ulimit / offene Files (ingo)</li>
-<li>vhosts mit "Flex RAM",</li>
-<li>alsa.opensrc.org down (ingo)</li>
-<li>vhosts mit krepliger IO, Graphite</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://p.twimg.com/AuzyQyHCAAEPVz0.png#twimg">Twitter Logo sieht aus wie Batman</a></li>
-<li><a href="http://pyload.org/">Pyload</a>(felix)</li>
-<li><a href="http://redis.io">Redis</a> (pfleidi)</li>
-<li><a href="http://www.sinatrarb.com">Sinatra</a> (pfleidi)</li>
-<li><a href="http://code.google.com/p/gource/">Gource</a> (ingo)</li>
 </ul>
 
 ]]></content>
