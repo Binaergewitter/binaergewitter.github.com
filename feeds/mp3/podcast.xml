@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 20 Jul 2012 11:43:55 +0200</lastBuildDate>
-    <atom:updated>2012-07-20T11:43:55+02:00</atom:updated>
+    <lastBuildDate>Sat, 21 Jul 2012 12:30:47 +0200</lastBuildDate>
+    <atom:updated>2012-07-21T12:30:47+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -57,15 +57,15 @@
     
     <item>
       <title>Binärgewitter Talk #22 - teilweise sehe ich Dinge</title>
-      <link>http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-21-zum-tischumwerfen/</link>
-      <comments>http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-21-zum-tischumwerfen/#comments</comments>
+      <link>http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge/#comments</comments>
       <pubDate>Fri, 20 Jul 2012 13:30:00 +0200</pubDate>
       <atom:updated>2012-07-20T13:30:00+02:00</atom:updated>
 
       
       
       <atom:link rel="payment"
-        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F07%2F20%2Fbinaergewitter-talk-number-21-zum-tischumwerfen%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2322%20-%20teilweise%20sehe%20ich%20Dinge&amp;category=audio&amp;tags=podcast,tech,software"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F07%2F20%2Fbinaergewitter-talk-number-22-teilweise-sehe-ich-dinge%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2322%20-%20teilweise%20sehe%20ich%20Dinge&amp;category=audio&amp;tags=podcast,tech,software"
         type="text/html"
       />
 
@@ -78,12 +78,12 @@
       <media:credit role="author">Binärgewitter Crew</media:credit>
       <media:rating>nonadult</media:rating>
       
-      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-21-zum-tischumwerfen</guid>
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge</guid>
       
       <description>
         <![CDATA[<p>Das muss man wirklich wissen, ist man nun bei 0 Grad Kelvin ganz tot? Neben den üblichen IT- und Security-News weinen wir über Alsa und Archlinux.</p>
 
-<h1>Moderation</h1>
+<h1>Interne Dinge</h1>
 
 <ul>
 <li><a href="https://github.com/Binaergewitter/eminem">eminem anpassen</a></li>
@@ -233,7 +233,7 @@
       <itunes:summary>
         <![CDATA[Das muss man wirklich wissen, ist man nun bei 0 Grad Kelvin ganz tot? Neben den üblichen IT- und Security-News weinen wir über Alsa und Archlinux.
 
-Moderation
+Interne Dinge
 
 
 eminem anpassen
@@ -377,15 +377,15 @@ What if
     
     <item>
       <title>Binärgewitter Talk #21 - (╯°□°）╯︵ ┻━┻</title>
-      <link>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge/</link>
-      <comments>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge/#comments</comments>
+      <link>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tischumwerfen/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tischumwerfen/#comments</comments>
       <pubDate>Fri, 13 Jul 2012 13:30:00 +0200</pubDate>
       <atom:updated>2012-07-13T13:30:00+02:00</atom:updated>
 
       
       
       <atom:link rel="payment"
-        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F07%2F13%2Fbinaergewitter-talk-number-22-teilweise-sehe-ich-dinge%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2321%20-%20(%E2%95%AF%C2%B0%E2%96%A1%C2%B0%EF%BC%89%E2%95%AF%EF%B8%B5%20%E2%94%BB%E2%94%81%E2%94%BB&amp;category=audio&amp;tags=podcast,tech,software"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F07%2F13%2Fbinaergewitter-talk-number-21-zum-tischumwerfen%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2321%20-%20(%E2%95%AF%C2%B0%E2%96%A1%C2%B0%EF%BC%89%E2%95%AF%EF%B8%B5%20%E2%94%BB%E2%94%81%E2%94%BB&amp;category=audio&amp;tags=podcast,tech,software"
         type="text/html"
       />
 
@@ -398,7 +398,7 @@ What if
       <media:credit role="author">Binärgewitter Crew</media:credit>
       <media:rating>nonadult</media:rating>
       
-      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge</guid>
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tischumwerfen</guid>
       
       <description>
         <![CDATA[<p>Das neue Studiosetup ist so gut wie fertig, dafür haben wir pfleidi diesmal verloren. Macht aber nix wir quatschen über Indoornavigation, Security Fuckups und vieles mehr.</p>
@@ -429,7 +429,7 @@ What if
 <ul>
 <li><a href="http://xbmc.org/">XBMC</a></li>
 <li><a href="http://openelec.tv/">openELEC</a></li>
-<li>[LG 3D Bluray Player - Nachfolge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )</li>
+<li><a href="http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip">LG 3D Bluray Player - Nachfolge Modell</a></li>
 <li><a href="http://www.amazon.de/gp/product/B0043EV3MS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0043EV3MS&amp;linkCode=as2&amp;tag=trektrip">Boxee Box</a></li>
 </ul>
 
@@ -573,7 +573,7 @@ Media Player Foo der Woche
 
 XBMC
 openELEC
-[LG 3D Bluray Player - Nachfolge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )
+LG 3D Bluray Player - Nachfolge Modell
 Boxee Box
 
 

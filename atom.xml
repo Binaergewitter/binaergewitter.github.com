@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2012-07-20T11:43:55+02:00</updated>
+  <updated>2012-07-21T12:30:47+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #22 - teilweise sehe ich Dinge]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-21-zum-tischumwerfen/"/>
+    <link href="http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge/"/>
     <updated>2012-07-20T13:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-21-zum-tischumwerfen</id>
+    <id>http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge</id>
     <content type="html"><![CDATA[<p>Das muss man wirklich wissen, ist man nun bei 0 Grad Kelvin ganz tot? Neben den üblichen IT- und Security-News weinen wir über Alsa und Archlinux.</p>
 
-<h1>Moderation</h1>
+<h1>Interne Dinge</h1>
 
 <ul>
 <li><a href="https://github.com/Binaergewitter/eminem">eminem anpassen</a></li>
@@ -159,9 +159,9 @@
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #21 - (╯°□°）╯︵ ┻━┻]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge/"/>
+    <link href="http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tischumwerfen/"/>
     <updated>2012-07-13T13:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge</id>
+    <id>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tischumwerfen</id>
     <content type="html"><![CDATA[<p>Das neue Studiosetup ist so gut wie fertig, dafür haben wir pfleidi diesmal verloren. Macht aber nix wir quatschen über Indoornavigation, Security Fuckups und vieles mehr.</p>
 
 <h2>Rubrik der Woche</h2>
@@ -190,7 +190,7 @@
 <ul>
 <li><a href="http://xbmc.org/">XBMC</a></li>
 <li><a href="http://openelec.tv/">openELEC</a></li>
-<li>[LG 3D Bluray Player - Nachfolge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )</li>
+<li><a href="http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip">LG 3D Bluray Player - Nachfolge Modell</a></li>
 <li><a href="http://www.amazon.de/gp/product/B0043EV3MS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0043EV3MS&amp;linkCode=as2&amp;tag=trektrip">Boxee Box</a></li>
 </ul>
 
