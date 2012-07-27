@@ -164,7 +164,13 @@
         <loc>
             http://blog.binaergewitter.de/blog/2012/07/20/binaergewitter-talk-number-22-teilweise-sehe-ich-dinge/
         </loc>
-        <lastmod>2012-07-21T14:23:59+02:00</lastmod>
+        <lastmod>2012-07-27T18:13:12+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulsaudio-hirn-sync/
+        </loc>
+        <lastmod>2012-07-27T18:12:53+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/404.html</loc>
@@ -180,7 +186,7 @@
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/blog/archives/</loc>
-        <lastmod>2012-07-21T14:23:59+02:00</lastmod>
+        <lastmod>2012-07-27T18:13:12+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/impressum/</loc>
@@ -196,6 +202,6 @@
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/</loc>
-        <lastmod>2012-07-21T14:23:59+02:00</lastmod>
+        <lastmod>2012-07-27T18:13:12+02:00</lastmod>
     </url>
 </urlset>
