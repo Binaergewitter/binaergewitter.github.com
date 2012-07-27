@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 27 Jul 2012 18:13:22 +0200</lastBuildDate>
-    <atom:updated>2012-07-27T18:13:22+02:00</atom:updated>
+    <lastBuildDate>Fri, 27 Jul 2012 18:15:38 +0200</lastBuildDate>
+    <atom:updated>2012-07-27T18:15:38+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -56,16 +56,16 @@
     
     
     <item>
-      <title>Binärgewitter Talk #23 - Pulsaudio-Hirn-Sync</title>
-      <link>http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulsaudio-hirn-sync/</link>
-      <comments>http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulsaudio-hirn-sync/#comments</comments>
+      <title>Binärgewitter Talk #23 - Pulseaudio-Hirn-Sync</title>
+      <link>http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulseaudio-hirn-sync/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulseaudio-hirn-sync/#comments</comments>
       <pubDate>Fri, 27 Jul 2012 18:30:00 +0200</pubDate>
       <atom:updated>2012-07-27T18:30:00+02:00</atom:updated>
 
       
       
       <atom:link rel="payment"
-        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F07%2F27%2Fbinaergewitter-talk-number-23-pulsaudio-hirn-sync%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2323%20-%20Pulsaudio-Hirn-Sync&amp;category=audio&amp;tags=podcast,tech,software"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F07%2F27%2Fbinaergewitter-talk-number-23-pulseaudio-hirn-sync%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2323%20-%20Pulseaudio-Hirn-Sync&amp;category=audio&amp;tags=podcast,tech,software"
         type="text/html"
       />
 
@@ -78,7 +78,7 @@
       <media:credit role="author">Binärgewitter Crew</media:credit>
       <media:rating>nonadult</media:rating>
       
-      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulsaudio-hirn-sync</guid>
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulseaudio-hirn-sync</guid>
       
       <description>
         <![CDATA[<p>Wieder mal in Vollbesetzung düsen wir durch die News die Felix ausgesucht hat. Nur mit dem Toten der Woche hat er es diesmal irgendwie nicht hinbekommen, dafür reden wir über (gesprochene) Sprachen und Security Foo.</p>
@@ -242,7 +242,7 @@
         fileSize="100236159"
         type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
-      <itunes:subtitle>Binärgewitter Talk #23 - Pulsaudio-Hirn-Sync</itunes:subtitle>
+      <itunes:subtitle>Binärgewitter Talk #23 - Pulseaudio-Hirn-Sync</itunes:subtitle>
       <itunes:summary>
         <![CDATA[Wieder mal in Vollbesetzung düsen wir durch die News die Felix ausgesucht hat. Nur mit dem Toten der Woche hat er es diesmal irgendwie nicht hinbekommen, dafür reden wir über (gesprochene) Sprachen und Security Foo.
 
