@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 27 Jul 2012 18:15:38 +0200</lastBuildDate>
-    <atom:updated>2012-07-27T18:15:38+02:00</atom:updated>
+    <lastBuildDate>Fri, 27 Jul 2012 18:17:29 +0200</lastBuildDate>
+    <atom:updated>2012-07-27T18:17:29+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -81,7 +81,8 @@
       <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulseaudio-hirn-sync</guid>
       
       <description>
-        <![CDATA[<p>Wieder mal in Vollbesetzung düsen wir durch die News die Felix ausgesucht hat. Nur mit dem Toten der Woche hat er es diesmal irgendwie nicht hinbekommen, dafür reden wir über (gesprochene) Sprachen und Security Foo.</p>
+        <![CDATA[<p>Wieder mal in Vollbesetzung düsen wir durch die News, die Felix ausgesucht hat. Nur mit dem Toten der Woche hat er es diesmal irgendwie nicht hinbekommen, dafür reden wir über (gesprochene) Sprachen und
+Security Foo.</p>
 
 <h2>Kategorie der Woche</h2>
 
@@ -102,7 +103,7 @@
 <h2>Untoter der Woche</h2>
 
 <ul>
-<li><a href="http://www.zdf.de/ZDF/zdfportal/web/heute-Nachrichten/4672/23607064/6d99bd/Das-Linux-der-Sprachen.html">heute vor 125: Esperanto</a>
+<li><a href="http://www.zdf.de/ZDF/zdfportal/web/heute-Nachrichten/4672/23607064/6d99bd/Das-Linux-der-Sprachen.html">125 Jahre Esperanto</a>
 
 <ul>
 <li><a href="http://www.pimpo.de/pimpo.htm">Pimperanto</a></li>
@@ -119,8 +120,7 @@
 <li><a href="http://www.techweekeurope.co.uk/news/usb-3-0-power-delivery-charging-86983">Den Laptop mit neuem USB 3.0 laden - 100W Power</a>
 
 <ul>
-<li>[USB 3.0 Power Delivery Specification]
-(http://www.usb.org/press/USB_Power_Delivery_Spec_Completion_FINAL.pdf ) von Intel, HP, Microsoft, ST-Erricson</li>
+<li><a href="http://www.usb.org/press/USB_Power_Delivery_Spec_Completion_FINAL.pdf">USB 3.0 Power Delivery Specification</a> von Intel, HP, Microsoft, ST-Erricson</li>
 <li><a href="http://semiaccurate.com/2012/07/23/100w-over-usb-is-here-with-the-new-power-delivery-spec/">6 Unterstuetzte Powerprofile von 5,12,20 Volt</a> - Nie wieder proprietaere Ladegerate!</li>
 <li><a href="assets.cantbeunseen.com/hashed_silo_content/silo_content/22917/resized/duck.jpg">Duck</a></li>
 </ul>
@@ -244,7 +244,8 @@
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #23 - Pulseaudio-Hirn-Sync</itunes:subtitle>
       <itunes:summary>
-        <![CDATA[Wieder mal in Vollbesetzung düsen wir durch die News die Felix ausgesucht hat. Nur mit dem Toten der Woche hat er es diesmal irgendwie nicht hinbekommen, dafür reden wir über (gesprochene) Sprachen und Security Foo.
+        <![CDATA[Wieder mal in Vollbesetzung düsen wir durch die News, die Felix ausgesucht hat. Nur mit dem Toten der Woche hat er es diesmal irgendwie nicht hinbekommen, dafür reden wir über (gesprochene) Sprachen und
+Security Foo.
 
 Kategorie der Woche
 
@@ -265,7 +266,7 @@ Meltimmeeeeeee
 Untoter der Woche
 
 
-heute vor 125: Esperanto
+125 Jahre Esperanto
 
 
 Pimperanto
@@ -282,8 +283,7 @@ Google fiber
 Den Laptop mit neuem USB 3.0 laden - 100W Power
 
 
-[USB 3.0 Power Delivery Specification]
-(http://www.usb.org/press/USB_Power_Delivery_Spec_Completion_FINAL.pdf ) von Intel, HP, Microsoft, ST-Erricson
+USB 3.0 Power Delivery Specification von Intel, HP, Microsoft, ST-Erricson
 6 Unterstuetzte Powerprofile von 5,12,20 Volt - Nie wieder proprietaere Ladegerate!
 Duck
 
