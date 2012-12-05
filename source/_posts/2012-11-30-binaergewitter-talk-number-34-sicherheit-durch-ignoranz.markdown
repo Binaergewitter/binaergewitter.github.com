@@ -46,7 +46,7 @@ Mal wieder alle vereint. Wir sprechen über den Tod von wechselbaren CPUs,die Um
   * [Vanilla Ice denies 'under preassure' ripoff]( http://www.youtube.com/watch?v=1s0hEi8zhmg )
 - [Bluetooth nutzen um Traffic zu tracken]( http://yro.slashdot.org/story/12/11/28/2318245/bluetooth-used-to-track-traffic-times )
 - [S3 wird billiger]( http://www.theregister.co.uk/2012/11/29/amazon_s3_price_cut/ )
-   * [total der gute schnurbart]( https://twitter.com/josephwykes/status/273938914652340224/photo/1 )
+   * [Total der gute Schnurrbart]( https://twitter.com/josephwykes/status/273938914652340224/photo/1 )
     * [Google auch]( http://techcrunch.com/2012/11/26/google-drops-pricing-on-cloud-storage-20-adds-new-features-in-advance-of-rival-amazons-first-big-cloud-summit/ )
     * [Google kann nun 10GB Anhänge]( http://www.golem.de/news/gmail-e-mail-anhaenge-mit-10-gbyte-dank-google-drive-1211-95998.html )
 * [NAS Umweltbilanz](http://www.golem.de/news/umweltschuetzer-nas-hat-bessere-oekobilanz-als-die-cloud-1211-96004.html )
