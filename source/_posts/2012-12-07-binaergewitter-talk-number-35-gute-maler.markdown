@@ -22,7 +22,7 @@ Nur zu dritt, weil der Marc packen muss. Wir werden wieder über John und heulen
 
 ## Untoter der Woche
 
-- [Wunderlist2]( http://www.golem.de/news/6wunderkinder-wunderlist-2-wartet-auf-apples-freigabe-1212-96189.h
+- [Wunderlist2]( http://www.golem.de/news/6wunderkinder-wunderlist-2-wartet-auf-apples-freigabe-1212-96189.html )
     * [Titanium Appcelerator]( https://github.com/appcelerator )
 
 ## News
