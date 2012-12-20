@@ -72,8 +72,8 @@ http://www.wired.com/threatlevel/2012/12/public-bus-audio-surveillance/ )
 
 ### Gadgets
 
-- [odb2 Wlan Adapter fürs Auto](http://www.amazon.de/gp/product/B008CPVFT0/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B008CPVFT0&linkCode=as2&tag=trektrip )
-- [odb2 Bluetooth Adpater](http://www.amazon.de/gp/product/B003CLYMSU/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B003CLYMSU&linkCode=as2&tag=trektrip )
+- [obd2 Wlan Adapter fürs Auto](http://www.amazon.de/gp/product/B008CPVFT0/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B008CPVFT0&linkCode=as2&tag=trektrip )
+- [obd2 Bluetooth Adpater](http://www.amazon.de/gp/product/B003CLYMSU/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B003CLYMSU&linkCode=as2&tag=trektrip )
 - Taschenlampen
     * [Magite Mini]( http://www.amazon.de/dp/B00002N6SN?tag=pfleidi-21 )
     * [High Power LED Lampe]( http://www.amazon.de/dp/B001OTYORQ?tag=pfleidi-21 )
@@ -150,7 +150,7 @@ http://www.wired.com/threatlevel/2012/12/public-bus-audio-surveillance/ )
 
 - [Github Ruby Style Guide]( https://github.com/styleguide/ruby ) (pfleidi)
 - [HTML & CSS Adventskalender]( http://advent2012.digitpaint.nl/ ) (pfleidi)
-- [Lamborghini V10 mit einer Dose und dem Mund nachmachen (+ Erklaerung)[ http://www.autoblog.com/2012/12/06/guy-puts-crazy-effort-into-recreating-lamborghini-v10-engine-sou/#continued )
+- [Lamborghini V10 mit einer Dose und dem Mund nachmachen](http://www.autoblog.com/2012/12/06/guy-puts-crazy-effort-into-recreating-lamborghini-v10-engine-sou/#continued )
 
 ## Mimimi der Woche
 
