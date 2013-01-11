@@ -15,7 +15,7 @@ Nur zu dritt, weil der Marc packen muss. Wir werden wieder über John und heulen
 
 ## Toter der Woche
 
-- [GWT](http://www.heise.de/newsticekr/meldung/Googles-Web-Toolkit-GWT-Zukunft-nur-ueber-die-Community-1762451.html )
+- [GWT](http://www.heise.de/newsticker/meldung/Googles-Web-Toolkit-GWT-Zukunft-nur-ueber-die-Community-1762451.html )
 - [SHA-1 als Passwort Hashing Algo](http://arstechnica.com/security/2012/12/oh-great-new-attack-makes-some-password-cracking-faster-easier-than-ever/ )
     - [Superparalleler Hardcore 25 Grafikkartenrechner]( http://securityledger.com/new-25-gpu-monster-devours-passwords-in-seconds/ )
 - [Baby Lobsters]( http://idle.slashdot.org/story/12/12/05/1737214/as-fish-stocks-collapse-overpopulated-lobsters-resort-to-cannibalism )
