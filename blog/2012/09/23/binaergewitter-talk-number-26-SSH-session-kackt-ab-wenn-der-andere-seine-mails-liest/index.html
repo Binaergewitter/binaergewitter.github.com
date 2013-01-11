@@ -1,0 +1,495 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Binärgewitter Talk #26 - SSH-Session kackt ab wenn der andere seine Mails liest - Binärgewitter</title>
+  <meta name="author" content="Binärgewitter Crew">
+
+  
+  <meta name="description" content="Felix ist die einzige Konstante, aber Ingo ist auch wieder aus dem Stress und dem Urlaub zurück. Diesmal weinen wir über First World Problems und ...">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://blog.binaergewitter.de/blog/2012/09/23/binaergewitter-talk-number-26-SSH-session-kackt-ab-wenn-der-andere-seine-mails-liest">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="http://feeds.feedburner.com/binaergewitter-podcast" rel="alternate" title="Binärgewitter" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
+</script>
+
+
+  <meta property="og:url" content="http://blog.binaergewitter.de/blog/2012/09/23/binaergewitter-talk-number-26-SSH-session-kackt-ab-wenn-der-andere-seine-mails-liest" />
+  <meta property="og:title" content="Binärgewitter Talk #26 - SSH-Session kackt ab wenn der andere seine Mails liest - Binärgewitter" />
+  <meta property="og:locale" content="de_DE" />
+  <meta property="og:image" content="http://blog.binaergewitter.de/images/binaergewitter_logo.png" /> 
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Binärgewitter</a></h1>
+  
+    <h2>Web, Technologie und OpenSource Software</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="http://feeds.feedburner.com/binaergewitter-podcast" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:blog.binaergewitter.de" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/live/">Live</a></li>
+  <li><a href="/das-team/">Team</a></li>
+  <li><a href="/ueber-uns/">&#220;ber Bin&#228;rgewitter</a></li>
+  <li><a href="/abonnieren/">Abonnieren</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/impressum/">Impressum</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Binärgewitter Talk #26 - SSH-Session Kackt Ab Wenn Der Andere Seine Mails Liest</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-09-23T12:00:00+02:00" pubdate data-updated="true">23.09.2012</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Felix ist die einzige Konstante, aber Ingo ist auch wieder aus dem Stress und dem Urlaub zurück. Diesmal weinen wir über First World Problems und freuen und über Kleinigkeiten wie Zugverbindungen mit Google Maps.</p>
+
+<h2>Kategorie der Woche</h2>
+
+<h3>Einsichten der Woche</h3>
+
+<ul>
+<li><a href="http://tech.slashdot.org/story/12/09/20/1645202/sophos-anti-virus-update-identifies-sophos-code-as-malware">Sophos davon überzeugt, dass es selbst ein Virus sei</a></li>
+<li>&#8220;Die verklagen sich doch alle gegenseitig&#8221; (ingo)</li>
+<li><a href="http://www.pro-linux.de/news/1/18906/software-patentangriff-auf-git.html">Git wird verklagt</a>
+
+<ul>
+<li><a href="http://arstechnica.com/tech-policy/2012/09/patent-office-tries-stack-overflow-for-patents-to-find-prior-art/">Stack Overflow for Patents</a></li>
+<li><a href="http://www.pro-linux.de/news/1/18883/google-aliyun-os-verletzt-android-kompatibilitaet.html">Aliyun OS</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="">IPv4</a>
+
+<ul>
+<li> <a href="http://www.heise.de/ix/meldung/IPv6-Nachholbedarf-bei-Sicherheitsloesungen-1713030.html">IPv6 Sicherheit</a></li>
+</ul>
+</li>
+<li><a href="http://browserfame.com/807/userscripts-org-chrome-disabled">Userscripts.org</a></li>
+</ul>
+
+
+<h2>Apropos</h2>
+
+<ul>
+<li><a href="https://wiki.archlinux.org/index.php/Archboot">Archboot</a></li>
+<li>Opus Codec</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="https://community.rapid7.com/community/metasploit/blog/2012/09/17/lets-start-the-week-with-a-new-internet-explorer-0-day-in-metasploit">Internet Explorer 0-Day</a>
+
+<ul>
+<li><a href="https://www.bsi.bund.de/ContentBSI/Presse/Pressemitteilungen/Presse2012/Internet%20Explorer%20Warnung%2017092012.html">BSI Pressemitteilung</a></li>
+</ul>
+</li>
+<li><a href="http://www.youtube.com/watch?v=wvsboPUjrGc">Steve Balmer dreht frei</a></li>
+<li><a href="http://news.ycombinator.net/item?id=4517278">Steve Wozniak ueber Samsung Patentstreit</a></li>
+<li><a href="http://www.kickstarter.com/projects/1186217328/the-glitch">The Glitch </a>
+
+<ul>
+<li><a href="http://hakshop.myshopify.com/products/usb-rubber-ducky">USB Rubber Ducky</a></li>
+<li><a href="">Teensy + MicroUSB</a></li>
+</ul>
+</li>
+<li>mal wieder ein <a href="http://www.humblebundle.com/">Humble Bundle</a>
+
+<ul>
+<li><a href="http://indieroyale.com">indieroyale</a></li>
+</ul>
+</li>
+<li><a href="http://www.patentbolt.com/2012/09/microsoft-patent-how-to-silence-your-device-by-whacking-it-off.html">MS Patent: Silence the Phone by whacking it</a></li>
+<li><a href="http://news.ycombinator.com/item?id=4532318">Just Cause 2 Multi Player</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Unmut-und-Erheiterung-ueber-iOS-6-Maps-1714063.html">Lustige Map App</a></li>
+<li><a href="http://iphone.geeks.lt/">IPhone 5 - der naechste logische Schritt</a></li>
+<li><a href="http://lh3.googleusercontent.com/-_nKGZyyI_A4/UFMsGCbHp2I/AAAAAAAADAc/TDi8-qsrMeQ/s389/399025_423307264394003_252774228_n_large.jpg">Lustiges Bild</a></li>
+<li><a href="https://maps.google.de">https://maps.google.de/</a> kann jetzt auch Zug verbindungen in Dtl. (Ingo)</li>
+<li><a href="http://thenextweb.com/google/2012/09/19/security-researchers-hack-android-via-nfc-samsung-galaxy-s-iii/">Android hacked</a></li>
+<li><a href="http://www.zdnet.de/88124335/jailbreak-von-ios-6-schon-erfolgreich/">IOS 6 jailbreak</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Projekterunde</h3>
+
+<ul>
+<li><a href="http://bgtest.marcseeger.webfactional.com">Marcs BinärgewitterTest Website</a></li>
+<li><a href="https://github.com/makefu/newgrounds-fetcher">Felix Fetcher</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.sourcefabric.org/en/community/blog/">Airtime Community Blog</a></li>
+<li><a href="http://www.garage4hackers.com/content/139-google-website-translator-clickjacking-vulnerability.html">Clickjacking am Beispiel Google Translate</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://maxfriedrich.de/post/19892209366/probleme-die-eigentlich-nicht-schlimm-scheinen-aber">First World Problems</a></li>
+<li>UMTS / LTE im Nirgendwo</li>
+<li><a href="http://www.amazon.de/gp/product/B000V9FO2O/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B000V9FO2O&amp;linkCode=as2&amp;tag=tuxradio-21">UMTS Antenne</a></li>
+<li><a href="http://www.lte-anbieter.info/lte-hardware/antenne-bauen/bastelanleitung.php">LTE Antenne selber bauen</a></li>
+<li><a href="http://www.amazon.de/gp/product/B005DQXIIC/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B005DQXIIC&amp;linkCode=as2&amp;tag=trektrip">HUAWEI E353 schneller UMTS Stick, der überall geht, nur nicht an der FritzBox</a></li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.newgrounds.com/portal/view/529003">Mr. Literal</a></li>
+<li><a href="http://www.amazon.de/gp/product/3869090758/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3869090758&amp;linkCode=as2&amp;tag=trektrip">Das Känguru-Manifest</a></li>
+</ul>
+
+</div>
+
+
+
+
+
+
+
+<div class="audio-content">
+   <audio preload='none' controls><source src='http://download.binaergewitter.de/2012-09-20.Binaergewitter.Talk.26.mp3' type='audio/mp3' /><source src='http://download.binaergewitter.de/2012-09-20.Binaergewitter.Talk.26.ogg' type='audio/ogg' /><source src='http://download.binaergewitter.de/2012-09-20.Binaergewitter.Talk.26.m4a' type='audio/x-m4a' /></audio>
+  <p id="download-buttons">
+  
+  <a href="http://download.binaergewitter.de/2012-09-20.Binaergewitter.Talk.26.mp3"><img src="/images/audio_mp3_button.png"
+    title="download mp3" alt="download mp3" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2012-09-20.Binaergewitter.Talk.26.ogg"><img src="/images/audio_ogg_button.png"
+    title="download ogg" alt="download ogg" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2012-09-20.Binaergewitter.Talk.26.m4a"><img src="/images/audio_m4a_button.png"
+    title="download m4a" alt="download m4a" style="border:0; border-radius:0;" /></a>
+  
+  </p>
+</div>
+
+
+
+  <div class="flattr-button">
+  <a class="FlattrButton" style="display:none;"
+    
+    
+    title="Binärgewitter Talk #26 - SSH-Session kackt ab wenn der andere seine Mails liest"
+    data-flattr-uid="binaergewitter"
+    data-flattr-tags="podcast,tech,software"
+    data-flattr-button="compact"
+    data-flattr-category="audio"
+    href="http://blog.binaergewitter.de/blog/2012/09/23/binaergewitter-talk-number-26-SSH-session-kackt-ab-wenn-der-andere-seine-mails-liest/">
+    
+  </a>
+</div>
+
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Binärgewitter Crew</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-09-23T12:00:00+02:00" pubdate data-updated="true">23.09.2012</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/talk/'>talk</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.binaergewitter.de/blog/2012/09/23/binaergewitter-talk-number-26-SSH-session-kackt-ab-wenn-der-andere-seine-mails-liest/" data-via="binaergewitter" data-counturl="http://blog.binaergewitter.de/blog/2012/09/23/binaergewitter-talk-number-26-SSH-session-kackt-ab-wenn-der-andere-seine-mails-liest/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/09/18/binaergewitter-talk-number-25-pigstarter/" title="Previous Post: Binärgewitter Talk #25 - Pigstarter">&laquo; Binärgewitter Talk #25 - Pigstarter</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2012/10/05/binaergewitter-talk-number-27-open-apache-graveyard/" title="next Post: Binärgewitter Talk #27 - Open Apache Graveyard">Binärgewitter Talk #27 - Open Apache Graveyard &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/01/11/binaergewitter-talk-number-37-gnu-hurts/">Binärgewitter Talk #37 - GNU/Hurts</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/12/14/binaergewitter-talk-number-36-der-espresso-abklopfmuelleimer/">Binärgewitter Talk #36 - Der Espresso-Abklopfmülleimer</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/12/07/binaergewitter-talk-number-35-gute-maler/">Binärgewitter Talk #35 - Gute Maler</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/11/30/binaergewitter-talk-number-34-sicherheit-durch-ignoranz/">Binärgewitter Talk #34 - Sicherheit durch Ignoranz</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/11/23/binaergewitter-talk-number-33-das-springer-sparabo/">Binärgewitter Talk #33 - Das Springer Sparabo</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+<div class="flattr-button">
+  <h1>Flattr</h1>
+  <a class="FlattrButton" style="display:none;"
+    title="Binärgewitter"
+    data-flattr-uid="binaergewitter"
+    data-flattr-tags="podcast,tech,software"
+    data-flattr-category="audio"
+    href="http://blog.binaergewitter.de">
+    Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt
+  </a>
+</div>
+</section>
+
+
+<section>
+  <h1>Github Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/binaergewitter">@binaergewitter</a> on Github
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'binaergewitter',
+            count: 2,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("binaergewitter", 5, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/binaergewitter" class="twitter-follow-button" data-show-count="false">Follow @binaergewitter</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Binärgewitter Crew - Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a> -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  <!-- analytics tracking code -->
+
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+(function () { var u=(("https:" == document.location.protocol) ? "https://piwik.roothausen.de/" : "http://piwik.roothausen.de/");
+ _paq.push(['setSiteId', 3]);
+ _paq.push(['setTrackerUrl', u+'piwik.php']);
+ _paq.push(['trackPageView']);
+ _paq.push(['enableLinkTracking']);
+ var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.defer=true; g.async=true; g.src=u+'piwik.js';
+ s.parentNode.insertBefore(g,s); })();
+</script>
+<!-- End Piwik Code -->
+
+
+
+<!-- other JS plugins -->
+
+
+<script type="text/javascript">
+      var disqus_shortname = 'binaergewitterpodcast';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://blog.binaergewitter.de/blog/2012/09/23/binaergewitter-talk-number-26-SSH-session-kackt-ab-wenn-der-andere-seine-mails-liest/';
+        var disqus_url = 'http://blog.binaergewitter.de/blog/2012/09/23/binaergewitter-talk-number-26-SSH-session-kackt-ab-wenn-der-andere-seine-mails-liest/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
