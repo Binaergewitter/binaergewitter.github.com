@@ -46,7 +46,7 @@ Willkommen im neuen Jahr. Bei uns bleibt trotzdem alles gleich. Der Marc ist imm
     * [Remote Code Execution in RoR (massiv-nuklear kritisch)](https://groups.google.com/forum/#!topic/rubyonrails-security/61bkgvnSGTQ/discussion )
         - [SourceFire Nachricht]( http://blog.sourcefire.com/Post/2013/01/09/1357761360-therubyonrailsvulnerabilitiesofwhattheyareandwhatshouldwedo/ )
         - [Vulnerability erklaert](http://blog.codeclimate.com/blog/2013/01/10/rails-remote-code-execution-vulnerability-explained/ )
-        - [Metaploit Modul bald verfügbar]( https://community.rapid7.com/community/metasploit/blog/2013/01/09/serialization-mischief-in-ruby-land-cve-2013-0156?x=1 )
+        - [Metasploit Modul bald verfügbar]( https://community.rapid7.com/community/metasploit/blog/2013/01/09/serialization-mischief-in-ruby-land-cve-2013-0156?x=1 )
         - [Rails ActionPack]( https://github.com/rails/rails/tree/master/actionpack )
 - [Endlich saubere Kern-energie?]( http://www.extremetech.com/extreme/143437-uranium-killed-the-thorium-star-but-now-its-time-for-round-two )
 - [VMWare reisst Vert.x an sich]( https://groups.google.com/forum/#!msg/vertx/gnpGSxX7PzI/uRNaMtJaIJUJ )
