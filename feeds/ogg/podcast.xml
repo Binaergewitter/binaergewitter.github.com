@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Sat, 12 Jan 2013 10:22:55 +0100</lastBuildDate>
-    <atom:updated>2013-01-12T10:22:55+01:00</atom:updated>
+    <lastBuildDate>Sun, 13 Jan 2013 22:11:10 +0100</lastBuildDate>
+    <atom:updated>2013-01-13T22:11:10+01:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -137,7 +137,7 @@
 <ul>
 <li><a href="http://blog.sourcefire.com/Post/2013/01/09/1357761360-therubyonrailsvulnerabilitiesofwhattheyareandwhatshouldwedo/">SourceFire Nachricht</a></li>
 <li><a href="http://blog.codeclimate.com/blog/2013/01/10/rails-remote-code-execution-vulnerability-explained/">Vulnerability erklaert</a></li>
-<li><a href="https://community.rapid7.com/community/metasploit/blog/2013/01/09/serialization-mischief-in-ruby-land-cve-2013-0156?x=1">Metaploit Modul bald verfügbar</a></li>
+<li><a href="https://community.rapid7.com/community/metasploit/blog/2013/01/09/serialization-mischief-in-ruby-land-cve-2013-0156?x=1">Metasploit Modul bald verfügbar</a></li>
 <li><a href="https://github.com/rails/rails/tree/master/actionpack">Rails ActionPack</a></li>
 </ul>
 </li>
@@ -280,7 +280,7 @@ Remote Code Execution in RoR (massiv-nuklear kritisch)
 
 SourceFire Nachricht
 Vulnerability erklaert
-Metaploit Modul bald verfügbar
+Metasploit Modul bald verfügbar
 Rails ActionPack
 
 

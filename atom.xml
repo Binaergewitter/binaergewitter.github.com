@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-01-12T10:22:55+01:00</updated>
+  <updated>2013-01-13T22:11:10+01:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -74,7 +74,7 @@
 <ul>
 <li><a href="http://blog.sourcefire.com/Post/2013/01/09/1357761360-therubyonrailsvulnerabilitiesofwhattheyareandwhatshouldwedo/">SourceFire Nachricht</a></li>
 <li><a href="http://blog.codeclimate.com/blog/2013/01/10/rails-remote-code-execution-vulnerability-explained/">Vulnerability erklaert</a></li>
-<li><a href="https://community.rapid7.com/community/metasploit/blog/2013/01/09/serialization-mischief-in-ruby-land-cve-2013-0156?x=1">Metaploit Modul bald verfügbar</a></li>
+<li><a href="https://community.rapid7.com/community/metasploit/blog/2013/01/09/serialization-mischief-in-ruby-land-cve-2013-0156?x=1">Metasploit Modul bald verfügbar</a></li>
 <li><a href="https://github.com/rails/rails/tree/master/actionpack">Rails ActionPack</a></li>
 </ul>
 </li>
