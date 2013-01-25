@@ -257,6 +257,12 @@
         <lastmod>2013-01-13T22:10:39+01:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://blog.binaergewitter.de/blog/2013/01/25/binaergewitter-talk-number-38-sachen-reinstecken-damit-das-richtige-passiert/
+        </loc>
+        <lastmod>2013-01-25T10:57:12+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://blog.binaergewitter.de/404.html</loc>
         <lastmod>2012-02-16T12:38:25+01:00</lastmod>
     </url>
@@ -270,7 +276,7 @@
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/blog/archives/</loc>
-        <lastmod>2013-01-13T22:10:39+01:00</lastmod>
+        <lastmod>2013-01-25T10:57:12+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/impressum/</loc>
@@ -286,6 +292,6 @@
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/</loc>
-        <lastmod>2013-01-13T22:10:39+01:00</lastmod>
+        <lastmod>2013-01-25T10:57:12+01:00</lastmod>
     </url>
 </urlset>

@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Sun, 13 Jan 2013 22:11:10 +0100</lastBuildDate>
-    <atom:updated>2013-01-13T22:11:10+01:00</atom:updated>
+    <lastBuildDate>Fri, 25 Jan 2013 10:57:21 +0100</lastBuildDate>
+    <atom:updated>2013-01-25T10:57:21+01:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,276 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #38 - Sachen reinstecken, damit das Richtige passiert</title>
+      <link>http://blog.binaergewitter.de/blog/2013/01/25/binaergewitter-talk-number-38-sachen-reinstecken-damit-das-richtige-passiert/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/01/25/binaergewitter-talk-number-38-sachen-reinstecken-damit-das-richtige-passiert/#comments</comments>
+      <pubDate>Fri, 25 Jan 2013 12:00:00 +0100</pubDate>
+      <atom:updated>2013-01-25T12:00:00+01:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F01%2F25%2Fbinaergewitter-talk-number-38-sachen-reinstecken-damit-das-richtige-passiert%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2338%20-%20Sachen%20reinstecken%2C%20damit%20das%20Richtige%20passiert&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/01/25/binaergewitter-talk-number-38-sachen-reinstecken-damit-das-richtige-passiert</guid>
+      
+      <description>
+        <![CDATA[<p>Nur das dynamische Duo ist übrig, dafür gibts die üblich Kategorien und an dem Titel ist diesmal nur der Chat schuld.</p>
+
+<h2>Kim Dotcom und John McAfee der Woche</h2>
+
+<ul>
+<li><a href="http://arstechnica.com/tech-policy/2013/01/nz-media-network-pulls-500-radio-ads-touting-dotcoms-new-mega-service/">500 Radio Anzeigen vom NZ Media Network gestrichen</a></li>
+<li><a href="http://www.theregister.co.uk/2013/01/14/john_mcafee_warner_bros_biopic/">der John McAfee Film kommt</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a>
+
+<ul>
+<li><a href="http://lists.w3.org/Archives/Public/www-tag/2013Jan/0017.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+hacker-news-feed-50+%28Hacker+News+50%29">Aaron is dead. from Tim Berners-Lee on
+2013-01-12</a></li>
+<li><a href="http://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html?_r=0">NY Times Artikel</a></li>
+</ul>
+</li>
+<li><a href="http://www.theverge.com/2013/1/11/3867616/keith-ratliff-youtube-most-famous-gun-advocate-found-dead">Keith Ratliff - Koordinator von FPS Russia</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://bit.ly/WTQET7">Java Exploit</a>
+
+<ul>
+<li><a href="http://www.heise.de/security/meldung/Java-Sandbox-auch-in-aktueller-Version-angreifbar-1697435.html">Java 'Patch' stoppt alle exploits, sandbox aber immer noch angreifbar</a></li>
+</ul>
+</li>
+<li><a href="http://www.itnews.com.au/News/328873,remote-zero-day-hole-found-in-linksys-routers.aspx">Remote Linksys 0day</a></li>
+<li><a href="http://www.golem.de/news/router-cisco-will-angeblich-linksys-verkaufen-1212-96392.html">Linksys soll verkauft werden</a></li>
+<li><a href="http://www.golem.de/news/tippen-auf-dem-arm-google-glass-mit-laserprojektor-fuer-den-unterarm-1301-96997.html">Google Glasses Interface - Welcome to the future</a></li>
+<li><a href="https://petitions.whitehouse.gov/response/isnt-petition-response-youre-looking">Offizielle Stellungnahme zum Todesstern von der Amerikanischen Regierung</a>
+
+<ul>
+<li><a href="http://starwarsblog.starwars.com/index.php/2013/01/15/planet-earth-abandons-death-star-project-in-face-of-superior-galactic-imperial-power/">Antwort vom Imperium</a></li>
+</ul>
+</li>
+<li><a href="https://www.openpetition.de/petition/online/operation-todesstern-eine-raumstation-fuer-deutschland">Todesstern für Dtl.?</a> via @simcup</li>
+<li><a href="http://www.theatlantic.com/technology/archive/2013/01/ibms-watson-memorized-the-entire-urban-dictionary-then-his-overlords-had-to-delete-it/267047/">IBM Watson hat angefangen zu Fluchen</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/01/news-flash-for-the-media-you-cant-sell-photos-grabbed-from-twitter/">Yay für die Rechte an den Bildern die du in die Interwebs hochlädst </a></li>
+<li><a href="http://securityblog.verizonbusiness.com/2013/01/14/case-study-pro-active-log-review-might-be-a-good-idea/">Programmierer outsourced Arbeit nach China</a></li>
+<li><a href="http://www.google.de/campaigns/deinnetz/">Verteidige dein Netz (von Google)</a></li>
+<li><a href="http://www.golem.de/news/linux-distribution-ubuntu-erwaegt-umstieg-auf-rolling-releases-1301-97086.html">Ubuntu als Rolling Release?</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19367/baden-wuerttemberg-gibt-geodaten-frei.html">Freie Geodaten von BaWü</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<ul>
+<li>Ingo sucht ein Tablet(t)
+
+<ul>
+<li><a href="http://www.amazon.de/gp/product/B0095T0RVO/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0095T0RVO&amp;linkCode=as2&amp;tag=trektrip">Nexus7</a></li>
+</ul>
+</li>
+<li>und Powerline vielleicht
+
+<ul>
+<li><a href="http://www.amazon.de/gp/product/B00634R9RE/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00634R9RE&amp;linkCode=as2&amp;tag=trektrip">AVM FRITZ! Powerline</a></li>
+<li><a href="http://bit.ly/W338JS">Powerline und EMV mit primären Funkdiensten kritisch gesehen</a> via semaph0r</li>
+</ul>
+</li>
+<li>Mega
+
+<ul>
+<li>client-side crypto und Flash</li>
+<li>your crypto is weak, young padakim</li>
+<li><a href="http://fail0verflow.com/blog/2013/megafail.html">Megafail </a></li>
+<li><a href="https://spideroak.com/blog/20130123130638-spideroaks-analysis-and-recommendations-for-the-crypto-in-kim-dotcoms-mega-part-one">Spideroak Mega Analyse</a></li>
+<li><a href="https://mega.co.nz/#blog_3">Megas Antwort</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://tldp.org/LDP/abs/html/parameter-substitution.html">Posix Shell Parameter Substitution</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>PulseAudio</li>
+<li>Owncloud / phpfilter
+
+<ul>
+<li>Geschichte vom (Security) Pferd</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.flightradar24.com/">Flightradar24</a></li>
+<li><a href="http://birdandmoon.com/">Bird and Moon Webcomic</a></li>
+<li><a href="http://www.youtube.com/embed/mXYxZ6ed70E">IPhone Quick-Draw</a></li>
+<li><a href="http://5digits.org/nightly/pentadactyl-latest.xpi">Pentadactyl - Firefox Addon</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-01-24.Binaergewitter.Talk.38.mp3"
+        length="78073730"
+        type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2013-01-24.Binaergewitter.Talk.38.mp3"
+        fileSize="78073730"
+        type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #38 - Sachen reinstecken, damit das Richtige passiert</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Nur das dynamische Duo ist übrig, dafür gibts die üblich Kategorien und an dem Titel ist diesmal nur der Chat schuld.
+
+Kim Dotcom und John McAfee der Woche
+
+
+500 Radio Anzeigen vom NZ Media Network gestrichen
+der John McAfee Film kommt
+
+
+
+Toter der Woche
+
+
+Aaron Swartz
+
+
+Aaron is dead. from Tim Berners-Lee on
+2013-01-12
+NY Times Artikel
+
+
+Keith Ratliff - Koordinator von FPS Russia
+
+
+
+News
+
+
+Java Exploit
+
+
+Java 'Patch' stoppt alle exploits, sandbox aber immer noch angreifbar
+
+
+Remote Linksys 0day
+Linksys soll verkauft werden
+Google Glasses Interface - Welcome to the future
+Offizielle Stellungnahme zum Todesstern von der Amerikanischen Regierung
+
+
+Antwort vom Imperium
+
+
+Todesstern für Dtl.? via @simcup
+IBM Watson hat angefangen zu Fluchen
+Yay für die Rechte an den Bildern die du in die Interwebs hochlädst 
+Programmierer outsourced Arbeit nach China
+Verteidige dein Netz (von Google)
+Ubuntu als Rolling Release?
+Freie Geodaten von BaWü
+
+
+
+Themen
+
+
+Ingo sucht ein Tablet(t)
+
+
+Nexus7
+
+
+und Powerline vielleicht
+
+
+AVM FRITZ! Powerline
+Powerline und EMV mit primären Funkdiensten kritisch gesehen via semaph0r
+
+
+Mega
+
+
+client-side crypto und Flash
+your crypto is weak, young padakim
+Megafail 
+Spideroak Mega Analyse
+Megas Antwort
+
+
+
+
+
+Lesefoo
+
+
+Posix Shell Parameter Substitution
+
+
+
+Mimimi der Woche
+
+
+PulseAudio
+Owncloud / phpfilter
+
+
+Geschichte vom (Security) Pferd
+
+
+
+
+
+Picks
+
+
+Flightradar24
+Bird and Moon Webcomic
+IPhone Quick-Draw
+Pentadactyl - Firefox Addon
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
