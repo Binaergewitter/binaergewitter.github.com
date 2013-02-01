@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 01 Feb 2013 12:32:53 +0100</lastBuildDate>
-    <atom:updated>2013-02-01T12:32:53+01:00</atom:updated>
+    <lastBuildDate>Fri, 01 Feb 2013 12:53:14 +0100</lastBuildDate>
+    <atom:updated>2013-02-01T12:53:14+01:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -190,13 +190,10 @@
 <ul>
 <li><a href="http://globalgamejam.org/2013/party-planet-45-heartbeat">48 Stunden Hack-Session</a>
 
-<pre><code>  - [Trailer]( http://www.youtube.com/watch?v=fcQe39m9rAQ&amp;feature=youtu.be )
-  - Löve/Lua
-  - [Das Spiel auf github](https://github.com/PVince81/pp45hb )
-</code></pre>
-
 <ul>
-<li><a href="">ganz viele andere spiele...</a></li>
+<li><a href="http://www.youtube.com/watch?v=fcQe39m9rAQ&amp;feature=youtu.be">Trailer</a></li>
+<li><a href="https://love2d.org/">Löve/Lua</a></li>
+<li><a href="https://github.com/PVince81/pp45hb">Das Spiel auf github</a></li>
 </ul>
 </li>
 </ul>
@@ -396,13 +393,10 @@ Global Game Jam in Stuttgart
 
 48 Stunden Hack-Session
 
-  - [Trailer]( http://www.youtube.com/watch?v=fcQe39m9rAQ&amp;feature=youtu.be )
-  - Löve/Lua
-  - [Das Spiel auf github](https://github.com/PVince81/pp45hb )
 
-
-
-ganz viele andere spiele...
+Trailer
+Löve/Lua
+Das Spiel auf github
 
 
 
