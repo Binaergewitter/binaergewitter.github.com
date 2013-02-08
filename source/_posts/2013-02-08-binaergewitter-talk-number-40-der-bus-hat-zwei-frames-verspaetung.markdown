@@ -28,7 +28,7 @@ it to someone else), so they cannot be used as a medium of exchange."
     - Zusammenfassung: "A ist ohne Dinge"
     - [Raspi Camera]( http://hackaday.com/2013/02/06/raspberry-pi-camera-board-incoming/ )
 - [Evasi0n Jailbreak erklärt]( http://blog.accuvantlabs.com/blog/bthomas/evasi0n-jailbreaks-userland-component )
-* [WebRTC Rulz mit Chrome und Firefox](https://apprtc.appspot.ctom/ )
+* [WebRTC Rulz mit Chrome und Firefox](https://apprtc.appspot.com/ )
 * KDE 4.10 ist da
     - [Archlinux Server brechen zusammen](http://www.damnocrazy.com/22/arc-servers-go-down-kde-410-released )
     - [Chakra Linux](http://www.chakra-project.org/ )
