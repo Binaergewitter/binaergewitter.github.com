@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-02-01T12:53:14+01:00</updated>
+  <updated>2013-02-08T11:03:35+01:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,137 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #40 - der Bus hat zwei Frames Verspätung]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/02/08/binaergewitter-talk-number-40-der-bus-hat-zwei-frames-verspaetung/"/>
+    <updated>2013-02-08T12:00:00+01:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/02/08/binaergewitter-talk-number-40-der-bus-hat-zwei-frames-verspaetung</id>
+    <content type="html"><![CDATA[<p>Die lustige dreier Runde aus Felix, Marc und Ingo erklärt euch diesmal warum ihr unbedingt eure eigene Kirche aufmachen sollte und was man beim Laptopkauf beachten kann.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.theverge.com/2013/2/2/3944720/etch-a-sketch-inventor-andre-cassagnes-dead-at-86">Erfinder von Etch-a-Sketch verstorben</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.frohe-prozession.de/?p=1243"> Keine Rundfunkgebühren für Gott </a></li>
+<li><a href="http://www.theverge.com/2013/1/31/3938182/google-glass-revealed-in-fcc-filing">Google Glass mit Knochen-Lautsprecher</a></li>
+<li><a href="http://www.golem.de/news/coins-amazon-praegt-virtuelle-muenzen-1302-97394.html">Amazon bringt virtuelle Währung</a> <a href="http://news.ycombinator.com/item?id=5170855">HN1</a> <a href="http://news.ycombinator.com/item?id=5174832">HN2</a>
+
+<ul>
+<li>&#8220;Gift cards are not fungible (each gift card has its own unique ID that can be used only once) and cannot be subdivided into smaller units (e.g., one can&#8217;t split a gift card in two and send half of
+it to someone else), so they cannot be used as a medium of exchange.&#8221;</li>
+<li><a href="http://www.amazon.de/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200955220">Amazon Plus</a></li>
+</ul>
+</li>
+<li><a href="http://www.raspberrypi.org/archives/3215">Raspi Model A</a>
+
+<ul>
+<li>Zusammenfassung: &#8220;A ist ohne Dinge&#8221;</li>
+<li><a href="http://hackaday.com/2013/02/06/raspberry-pi-camera-board-incoming/">Raspi Camera</a></li>
+</ul>
+</li>
+<li><a href="http://blog.accuvantlabs.com/blog/bthomas/evasi0n-jailbreaks-userland-component">Evasi0n Jailbreak erklärt</a></li>
+<li><a href="https://apprtc.appspot.ctom/">WebRTC Rulz mit Chrome und Firefox</a></li>
+<li>KDE 4.10 ist da
+
+<ul>
+<li><a href="http://www.damnocrazy.com/22/arc-servers-go-down-kde-410-released">Archlinux Server brechen zusammen</a></li>
+<li><a href="http://www.chakra-project.org/">Chakra Linux</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/open/meldung/Ubuntu-Telefone-fuer-Oktober-angekuendigt-1799524.html">Ubuntuphones kommen vielleicht &#8230;</a></li>
+<li><a href="http://www.heise.de/developer/meldung/JavaScript-wird-De-facto-Sprache-fuer-Gnome-Apps-1797099.html">JS wird default Sprache für Gnome Apps</a> (+1)</li>
+<li><a href="http://www.invincea.com/2013/02/popular-site-speedtest-net-compromised-by-exploitdrive-by-stopped-by-invincea/">Speedtest.net pwned</a></li>
+<li><a href="http://blog.krisk.org/2013/02/packets-of-death.html">Paket des Todes</a>
+
+<ul>
+<li><a href="http://hackaday.com/2013/01/31/turning-the-belkin-wemo-into-a-deathtrap/">Belkin WeMo haxoren</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<ul>
+<li>Laptop &#8220;Kaufempfehlung&#8221;
+
+<ul>
+<li><a href="http://www.dell.de">Dell</a>
+
+<ul>
+<li><a href="http://www.golem.de/news/windows-lizenzen-microsoft-will-milliardenanteil-an-dell-kaufen-1301-97090.html">Apropos Dell</a></li>
+</ul>
+</li>
+<li>Lenovo
+
+<ul>
+<li><a href="http://www.notebooksbilliger.de/lenovo+thinkpad+x230i+nzc6sge+23246sg">X230(i) - Felix</a></li>
+</ul>
+</li>
+<li><a href="http://www.amazon.com/dp/B009LL9VDG/?tag=krebsco-20">Chromebook</a></li>
+<li>Mac Book (Air)</li>
+<li>Acer
+
+<ul>
+<li><a href="http://www.notebookcheck.com/Test-Acer-Aspire-Timeline-1810TZ-Subnotebook.21019.0.html">Aspire Timeline 1810TZ</a></li>
+</ul>
+</li>
+<li>Sony Vaio</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://0pointer.de/blog/projects/the-biggest-myths">Systemd - the biggest myths</a></li>
+<li><a href="http://www.amazon.de/gp/product/3941841793/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3941841793&amp;linkCode=as2&amp;tag=trektrip">WebEdition CMS Buch</a></li>
+<li><a href="http://www.cl.cam.ac.uk/~rja14/book.html">Security Engineering - Free Web Book</a><a href="https://www.amazon.de/dp/0470068523/?tag=krebsco-21">Amazon</a></li>
+<li><a href="http://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses">while(1)</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://stackoverflow.com/questions/7880936/mysql-retuns-all-rows-when-field-0">MySQL stinkt</a>
+
+<ul>
+<li>ß</li>
+</ul>
+</li>
+<li>WOL über VPN</li>
+<li>VDSL Tarife
+
+<ul>
+<li>CDN-DNS</li>
+<li>qipu</li>
+</ul>
+</li>
+<li>pizza.de</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://store.apple.com/de/product/HA779ZM/A/philips-hue-connected-bulb-%E2%80%93-startpaket">Philips Hue</a></li>
+<li><a href="http://wtfevolution.tumblr.com/">WTF Evolution</a></li>
+<li><a href="http://thingsfittingperfectlyintothings.tumblr.com/">Things fitting perfectly into other things</a></li>
+<li><a href="http://museumofusefulthings.tumblr.com/">Museum of useful things</a></li>
+<li><a href="http://kde-apps.org/content/show.php/?content=114270">synaptiks</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #39 - Fies-ability]]></title>
@@ -2843,161 +2974,6 @@ Security Foo.</p>
 <li><a href="http://www.fsarchiver.org">fsarchiver</a></li>
 <li><a href="https://tahoe-lafs.org/trac/tahoe-lafs">tahoe-lafs</a></li>
 <li><a href="http://docs.python.org/library/mailbox.html">Mailbox for Python</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #20 - die Anti-Spaß-Cloud]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/07/06/binaergewitter-talk-number-20-die-anti-spass-cloud/"/>
-    <updated>2012-07-06T12:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/07/06/binaergewitter-talk-number-20-die-anti-spass-cloud</id>
-    <content type="html"><![CDATA[<p>Marc ist aus den USA zurück - mit einer Sekundenverspätung und wir sind nach unser Kurzpause auch alle wieder da und reden über das Gottesteilchen, Schaltsekunden und Clouds und natürlich Katzen.</p>
-
-<h2>Kategorie der Woche</h2>
-
-<h3>Errungenschaften der Woche</h3>
-
-<ul>
-<li><a href="http://www.telegraph.co.uk/science/science-news/9374758/Higgs-boson-scientists-99.999-sure-God-Particle-has-been-found.html">Higgs Boson &#8220;Gott Partikel&#8221; gefunden</a></li>
-<li>ACTA im EU Parlament abgelehnt.
-
-<ul>
-<li><a href="http://twitpic.com/8c9ib4">Der Pole ansich</a></li>
-<li><a href="http://o.twitpic.com/a42397">Die Anderen ansich</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.wwf.de/2012/juni/einsamer-george-gestorben/">Lonesome George ist tot</a> via TvN87</li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.heise.de/developer/meldung/Backend-Code-von-SourceForge-soll-Apache-Projekt-werden-1620991.html">Backend code von Sourceforge soll Apache Projekt werden</a></li>
-<li><a href="https://github.com/blog/1178-collaborating-on-github-with-subversion">SVN lebt auch weiter</a>
-
-<ul>
-<li><a href="https://github.com/blog/644-subversion-write-support">2010. ALT</a></li>
-</ul>
-</li>
-<li><a href="http://science.slashdot.org/story/12/06/28/0016227/scientists-keep-rabbits-alive-with-oxygen-microparticle-injections">Hase lebt ohne Atmung durch Micropartikel Injektionen</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://en.wikipedia.org/wiki/Leap_second">Die Schaltsekunde</a>
-
-<ul>
-<li><a href="http://www.heise.de/newsticker/meldung/Verlaengertes-Wochenende-kann-Linux-einfrieren-1629683.html">Probleme damit</a></li>
-<li><a href="https://lkml.org/lkml/2009/1/2/373">Kernel bug</a></li>
-<li><a href="http://imgur.com/a/ykoup">Mehr Strom</a></li>
-<li><a href="http://www.tnooz.com/2012/07/03/news/amadeus-admits-altea-crash-was-a-result-of-leap-second-bug/">Marc rantet</a></li>
-<li><a href="http://www.radiotux.de/index.php?/archives/7960-RadioTux-Sendung-Juni-2012.html">Interview mit Udo Seidel von Amadeus  über Ceph</a>
-
-<ul>
-<li>Tipp: <a href="http://flightright.de">flightright.de</a></li>
-</ul>
-</li>
-<li><a href="http://googleblog.blogspot.de/2011/09/time-technology-and-leaping-seconds.html">Googles machts besser</a></li>
-</ul>
-</li>
-<li><a href="http://www.extremetech.com/computing/132142-ciscos-cloud-vision-mandatory-monetized-and-killed-at-their-discretion">Die Cisco Zwangs-Cloud</a> (Marc)
-
-<ul>
-<li><a href="http://www.dd-wrt.com/wiki/index.php/Linksys_E4200">Linksys E4200 auf DD-WRT</a></li>
-</ul>
-</li>
-<li><a href="http://www.yadifa.eu/">Neuer Nameserver von .eu</a> (Marc)</li>
-<li><a href="http://m.digitaltrends.com/mobile/study-apples-siri-is-wrong-over-one-third-of-the-time/">Siri Genauigkeit</a></li>
-<li><a href="http://blog.nodejs.org/2012/06/25/node-v0-8-0/">Node.js 0.8 ist erschienen</a>
-
-<ul>
-<li><a href="https://github.com/languages/">Beliebtheit der Programmiersprachen bei Gihub</a></li>
-</ul>
-</li>
-<li><a href="http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/">Prose</a> (Marc)</li>
-<li><a href="http://www.heise.de/newsticker/meldung/Universal-Audiocodec-Opus-auf-dem-Weg-zum-Internet-Standard-1632291.html">Neuer Standard-Audiocodec</a></li>
-<li><a href="http://www.theregister.co.uk/2011/12/15/us_spy_drone_gps_spoofing/">How to grab your own UAV</a></li>
-<li><a href="http://try.github.com/">Try Github</a>
-
-<ul>
-<li><a href="http://octodex.github.com/heisencat/">Heisencat</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<h3>Google IO</h3>
-
-<ul>
-<li><a href="http://www.golem.de/news/compute-engine-google-macht-amazon-ec2-konkurrenz-1206-92842.html">Google will EC2 Konkurenz machen</a></li>
-<li><a href="http://www.golem.de/news/asus-nexus-7-googles-erstes-nexus-tablet-ist-guenstig-und-340-gramm-leicht-1206-92802.html">Nexus 7 Tablet</a></li>
-<li><a href="http://www.google.com/nexus/#/q/specs">Nexus Q</a>
-
-<ul>
-<li>&#8220;Klasse-D-Verstärker sind effizienter als Klasse-AB- und -B-Verstärker. Sie werden daher bei Audioverstärkern großer Leistung sowie zunehmend auch bei kleinen batteriebetriebenen Geräten eingesetzt.&#8221;</li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://ryanflorence.com/2012/client-v-server-templating/">Server vs Client side templating</a></li>
-<li><a href="http://www.igvita.com/2012/06/04/chrome-networking-dns-prefetch-and-tcp-preconnect/">Chrome Networking: DNS Prefetch &amp; TCP Preconnect</a> (pfleidi)</li>
-<li><a href="http://www.ewherry.com/2012/06/the-recruiter-honeypot/">The recruiter honeypot</a> (Marc)</li>
-<li><a href="http://www.theregister.co.uk/2012/06/21/nigerian_scams_msft_research/">Nigerian scams are hyper-efficient idiot finders</a>
-
-<ul>
-<li><a href="http://research.microsoft.com/pubs/167719/WhyFromNigeria.pdf">PDF</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>XBMC hat IMMER 13%+ CPU, die Sau</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://icanhascheezburger.com/2012/06/29/funny-puns-so-much-pun-argument-animals/">So much PUN</a></li>
-<li><a href="http://www.fitbit.com/">Fitbit</a>
-
-<ul>
-<li><a href="https://github.com/qdot/libfitbit/">libfitbit</a></li>
-</ul>
-</li>
-<li><a href="http://snapjudgment.org/">Snap Judgement Podcast</a> (Marc)
-
-<ul>
-<li><a href="feed://www.npr.org/rss/podcast.php?id=510294">RSS</a></li>
-</ul>
-</li>
-<li><a href="http://refiddle.com/">RE-Fiddle</a> (pfleidi)</li>
-<li><a href="http://tunlr.net/">Tunlr</a> (marc)</li>
-<li><a href="http://code.kryo.se/iodine/">iodine</a></li>
-<li><a href="http://www.youtube.com/watch?v=Mn4_40hAAr0">Richard Phillips Feynman - The Last Journey Of A Genius</a> (pfleidi)</li>
-<li><a href="http://getpocket.com">Pocket</a></li>
-<li><a href="http://www.youtube.com/watch?v=VShmtsLhkQg">John Cleese on creativity</a> (pfleidi)</li>
-<li><a href="http://de.wikipedia.org/wiki/Krawattenknoten">Krawattenknoten</a></li>
 </ul>
 
 ]]></content>

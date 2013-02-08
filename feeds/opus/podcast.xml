@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 01 Feb 2013 12:53:14 +0100</lastBuildDate>
-    <atom:updated>2013-02-01T12:53:14+01:00</atom:updated>
+    <lastBuildDate>Fri, 08 Feb 2013 11:03:35 +0100</lastBuildDate>
+    <atom:updated>2013-02-08T11:03:35+01:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,300 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #40 - der Bus hat zwei Frames Verspätung</title>
+      <link>http://blog.binaergewitter.de/blog/2013/02/08/binaergewitter-talk-number-40-der-bus-hat-zwei-frames-verspaetung/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/02/08/binaergewitter-talk-number-40-der-bus-hat-zwei-frames-verspaetung/#comments</comments>
+      <pubDate>Fri, 08 Feb 2013 12:00:00 +0100</pubDate>
+      <atom:updated>2013-02-08T12:00:00+01:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F02%2F08%2Fbinaergewitter-talk-number-40-der-bus-hat-zwei-frames-verspaetung%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2340%20-%20der%20Bus%20hat%20zwei%20Frames%20Versp%C3%A4tung&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/02/08/binaergewitter-talk-number-40-der-bus-hat-zwei-frames-verspaetung</guid>
+      
+      <description>
+        <![CDATA[<p>Die lustige dreier Runde aus Felix, Marc und Ingo erklärt euch diesmal warum ihr unbedingt eure eigene Kirche aufmachen sollte und was man beim Laptopkauf beachten kann.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.theverge.com/2013/2/2/3944720/etch-a-sketch-inventor-andre-cassagnes-dead-at-86">Erfinder von Etch-a-Sketch verstorben</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.frohe-prozession.de/?p=1243"> Keine Rundfunkgebühren für Gott </a></li>
+<li><a href="http://www.theverge.com/2013/1/31/3938182/google-glass-revealed-in-fcc-filing">Google Glass mit Knochen-Lautsprecher</a></li>
+<li><a href="http://www.golem.de/news/coins-amazon-praegt-virtuelle-muenzen-1302-97394.html">Amazon bringt virtuelle Währung</a> <a href="http://news.ycombinator.com/item?id=5170855">HN1</a> <a href="http://news.ycombinator.com/item?id=5174832">HN2</a>
+
+<ul>
+<li>"Gift cards are not fungible (each gift card has its own unique ID that can be used only once) and cannot be subdivided into smaller units (e.g., one can't split a gift card in two and send half of
+it to someone else), so they cannot be used as a medium of exchange."</li>
+<li><a href="http://www.amazon.de/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200955220">Amazon Plus</a></li>
+</ul>
+</li>
+<li><a href="http://www.raspberrypi.org/archives/3215">Raspi Model A</a>
+
+<ul>
+<li>Zusammenfassung: "A ist ohne Dinge"</li>
+<li><a href="http://hackaday.com/2013/02/06/raspberry-pi-camera-board-incoming/">Raspi Camera</a></li>
+</ul>
+</li>
+<li><a href="http://blog.accuvantlabs.com/blog/bthomas/evasi0n-jailbreaks-userland-component">Evasi0n Jailbreak erklärt</a></li>
+<li><a href="https://apprtc.appspot.ctom/">WebRTC Rulz mit Chrome und Firefox</a></li>
+<li>KDE 4.10 ist da
+
+<ul>
+<li><a href="http://www.damnocrazy.com/22/arc-servers-go-down-kde-410-released">Archlinux Server brechen zusammen</a></li>
+<li><a href="http://www.chakra-project.org/">Chakra Linux</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/open/meldung/Ubuntu-Telefone-fuer-Oktober-angekuendigt-1799524.html">Ubuntuphones kommen vielleicht ...</a></li>
+<li><a href="http://www.heise.de/developer/meldung/JavaScript-wird-De-facto-Sprache-fuer-Gnome-Apps-1797099.html">JS wird default Sprache für Gnome Apps</a> (+1)</li>
+<li><a href="http://www.invincea.com/2013/02/popular-site-speedtest-net-compromised-by-exploitdrive-by-stopped-by-invincea/">Speedtest.net pwned</a></li>
+<li><a href="http://blog.krisk.org/2013/02/packets-of-death.html">Paket des Todes</a>
+
+<ul>
+<li><a href="http://hackaday.com/2013/01/31/turning-the-belkin-wemo-into-a-deathtrap/">Belkin WeMo haxoren</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<ul>
+<li>Laptop "Kaufempfehlung"
+
+<ul>
+<li><a href="http://www.dell.de">Dell</a>
+
+<ul>
+<li><a href="http://www.golem.de/news/windows-lizenzen-microsoft-will-milliardenanteil-an-dell-kaufen-1301-97090.html">Apropos Dell</a></li>
+</ul>
+</li>
+<li>Lenovo
+
+<ul>
+<li><a href="http://www.notebooksbilliger.de/lenovo+thinkpad+x230i+nzc6sge+23246sg">X230(i) - Felix</a></li>
+</ul>
+</li>
+<li><a href="http://www.amazon.com/dp/B009LL9VDG/?tag=krebsco-20">Chromebook</a></li>
+<li>Mac Book (Air)</li>
+<li>Acer
+
+<ul>
+<li><a href="http://www.notebookcheck.com/Test-Acer-Aspire-Timeline-1810TZ-Subnotebook.21019.0.html">Aspire Timeline 1810TZ</a></li>
+</ul>
+</li>
+<li>Sony Vaio</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://0pointer.de/blog/projects/the-biggest-myths">Systemd - the biggest myths</a></li>
+<li><a href="http://www.amazon.de/gp/product/3941841793/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3941841793&amp;linkCode=as2&amp;tag=trektrip">WebEdition CMS Buch</a></li>
+<li><a href="http://www.cl.cam.ac.uk/~rja14/book.html">Security Engineering - Free Web Book</a><a href="https://www.amazon.de/dp/0470068523/?tag=krebsco-21">Amazon</a></li>
+<li><a href="http://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses">while(1)</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://stackoverflow.com/questions/7880936/mysql-retuns-all-rows-when-field-0">MySQL stinkt</a>
+
+<ul>
+<li>ß</li>
+</ul>
+</li>
+<li>WOL über VPN</li>
+<li>VDSL Tarife
+
+<ul>
+<li>CDN-DNS</li>
+<li>qipu</li>
+</ul>
+</li>
+<li>pizza.de</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://store.apple.com/de/product/HA779ZM/A/philips-hue-connected-bulb-%E2%80%93-startpaket">Philips Hue</a></li>
+<li><a href="http://wtfevolution.tumblr.com/">WTF Evolution</a></li>
+<li><a href="http://thingsfittingperfectlyintothings.tumblr.com/">Things fitting perfectly into other things</a></li>
+<li><a href="http://museumofusefulthings.tumblr.com/">Museum of useful things</a></li>
+<li><a href="http://kde-apps.org/content/show.php/?content=114270">synaptiks</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-02-07.Binaergewitter.Talk.40.opus"
+        length="49665188"
+        type="application/octet-stream" />
+      <media:content url="http://download.binaergewitter.de/2013-02-07.Binaergewitter.Talk.40.opus"
+        fileSize="49665188"
+        type="application/octet-stream" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #40 - der Bus hat zwei Frames Verspätung</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Die lustige dreier Runde aus Felix, Marc und Ingo erklärt euch diesmal warum ihr unbedingt eure eigene Kirche aufmachen sollte und was man beim Laptopkauf beachten kann.
+
+Toter der Woche
+
+
+Erfinder von Etch-a-Sketch verstorben
+
+
+
+News
+
+
+ Keine Rundfunkgebühren für Gott 
+Google Glass mit Knochen-Lautsprecher
+Amazon bringt virtuelle Währung HN1 HN2
+
+
+"Gift cards are not fungible (each gift card has its own unique ID that can be used only once) and cannot be subdivided into smaller units (e.g., one can't split a gift card in two and send half of
+it to someone else), so they cannot be used as a medium of exchange."
+Amazon Plus
+
+
+Raspi Model A
+
+
+Zusammenfassung: "A ist ohne Dinge"
+Raspi Camera
+
+
+Evasi0n Jailbreak erklärt
+WebRTC Rulz mit Chrome und Firefox
+KDE 4.10 ist da
+
+
+Archlinux Server brechen zusammen
+Chakra Linux
+
+
+Ubuntuphones kommen vielleicht ...
+JS wird default Sprache für Gnome Apps (+1)
+Speedtest.net pwned
+Paket des Todes
+
+
+Belkin WeMo haxoren
+
+
+
+
+
+Themen
+
+
+Laptop "Kaufempfehlung"
+
+
+Dell
+
+
+Apropos Dell
+
+
+Lenovo
+
+
+X230(i) - Felix
+
+
+Chromebook
+Mac Book (Air)
+Acer
+
+
+Aspire Timeline 1810TZ
+
+
+Sony Vaio
+
+
+
+
+
+Lesefoo
+
+
+Systemd - the biggest myths
+WebEdition CMS Buch
+Security Engineering - Free Web BookAmazon
+while(1)
+
+
+
+Mimimi der Woche
+
+
+MySQL stinkt
+
+
+ß
+
+
+WOL über VPN
+VDSL Tarife
+
+
+CDN-DNS
+qipu
+
+
+pizza.de
+
+
+
+Picks
+
+
+Philips Hue
+WTF Evolution
+Things fitting perfectly into other things
+Museum of useful things
+synaptiks
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
