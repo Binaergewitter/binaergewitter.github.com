@@ -20,7 +20,7 @@ aka Tizen aus Stahl. Melden sich dieses mal Marc, Felix und Ingo nach einer Woch
 
 ## Toter der Woche
 - [Google has killed Android]( http://www.fabcapo.com/2013/02/google-has-killed-android-brand.html )
-- [ Posterous ] (http://www.heise.de/newsticker/meldung/Aus-fuer-Blogging-Dienst-Twitter-stellt-Posterous-ein-1805288.html )
+- [Posterous](http://www.heise.de/newsticker/meldung/Aus-fuer-Blogging-Dienst-Twitter-stellt-Posterous-ein-1805288.html )
 
 ## News
 - [Secure Boot Loader von der Linux Foundation]( http://www.computerworld.com/s/article/9236696/Linux_Foundation_releases_secure_boot_loader )
@@ -41,9 +41,9 @@ aka Tizen aus Stahl. Melden sich dieses mal Marc, Felix und Ingo nach einer Woch
 - [Heroku Routing Foo]( http://retrofuturistictech.quora.com/Bouncing-Balls-in-the-Cloud?srid=3UB9&share=1 )
 - [SSHd Exploid](http://www.pro-linux.de/news/1/19483/sshd-spam-exploit-befaellt-webmaster-server.html )
 - [SSH auf hohen ports wird auch angegriffen - kein security through obscurity mehr]( http://bsdly.blogspot.ca/2013/02/theres-no-protection-in-high-ports.html )
-- http://www.pro-linux.de/news/1/19475/dell-xps-13-developer-edition-notebook-aktualisiert.html 
+- [Dell XPS 13 mit Ubuntu kommt nach Europa und wird aktualisiert](http://www.pro-linux.de/news/1/19475/dell-xps-13-developer-edition-notebook-aktualisiert.html )
 - [BKA Stellenanzeige fuer Cybercops]( https://netzpolitik.org/2013/geleakt-stellenanzeige-des-bka-fur-neue-cybercops/ )
-- Atomkraftwerk per Mail (http://m.heise.de/tp/blogs/6/153770?from-classic=1 )
+- [Atomkraftwerk explodieren per Mail](http://m.heise.de/tp/blogs/6/153770?from-classic=1 )
 
 ## Themen
 - Mobile Zeugs
