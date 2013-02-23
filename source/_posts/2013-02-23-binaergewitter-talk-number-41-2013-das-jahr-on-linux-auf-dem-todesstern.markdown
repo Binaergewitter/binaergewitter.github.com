@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Binärgewitter Talk #41 - 2013 das Jahr von Linux auf dem Todesstern"
-date: 2013-02-32 15:00
+date: 2013-02-23 17:00
 comments: true
 categories: talk
 sharing: true
@@ -11,11 +11,11 @@ audioformats:
   m4a: http://download.binaergewitter.de/2013-02-21.Binaergewitter.Talk.41.m4a
   opus: http://download.binaergewitter.de/2013-02-21.Binaergewitter.Talk.41.opus
 ---
-aka Tizen aus Stahl. 
+aka Tizen aus Stahl. Melden sich dieses mal Marc, Felix und Ingo nach einer Woche Pause zurück.  
 
 ## Lol der Woche
 
-http://www.heise.de/newsticker/meldung/Pirate-Bay-will-Musiklobby-wegen-Urheberrechtsverletzung-verklagen-1803873.html
+[PirateBay will Musiklobby verklagen](http://www.heise.de/newsticker/meldung/Pirate-Bay-will-Musiklobby-wegen-Urheberrechtsverletzung-verklagen-1803873.html )
     * [I can sit here and jerk off for 5 years. And I will.]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )
 
 ## Toter der Woche
@@ -47,7 +47,7 @@ http://www.heise.de/newsticker/meldung/Pirate-Bay-will-Musiklobby-wegen-Urheberr
 
 ## Themen
 - Mobile Zeugs
-    - http://www.pro-linux.de/news/1/19468/tizen-20-magnolia-veroeffentlicht.html
+    - [Tizen 2.0](http://www.pro-linux.de/news/1/19468/tizen-20-magnolia-veroeffentlicht.html )
     - [Ubuntu Tablet]( http://www.ubuntu.com/devices/tablet )
     - [Ubuntu Touch dev preview]( https://wiki.ubuntu.com/Touch/Install )
 
@@ -68,4 +68,4 @@ http://www.heise.de/newsticker/meldung/Pirate-Bay-will-Musiklobby-wegen-Urheberr
 - [House of cards]( http://www.slate.com/blogs/moneybox/2013/02/21/house_of_cards_netflix_subscribers_say_the_series_will_make_them_less_likely.html )
 - [tunnlr]( http://tunlr.net )
 - [HackerNews Headline Generator]( http://www.blarworld.net/hackernewsgen.html )
-http://www.kickstarter.com/projects/461687407/kickstarter-open-source-death-star
+- [Open Source Todesstern](http://www.kickstarter.com/projects/461687407/kickstarter-open-source-death-star )
