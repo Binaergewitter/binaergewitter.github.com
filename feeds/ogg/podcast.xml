@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Sun, 10 Feb 2013 09:19:46 +0100</lastBuildDate>
-    <atom:updated>2013-02-10T09:19:46+01:00</atom:updated>
+    <lastBuildDate>Sat, 23 Feb 2013 17:12:06 +0100</lastBuildDate>
+    <atom:updated>2013-02-23T17:12:06+01:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,254 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #41 - 2013 das Jahr von Linux auf dem Todesstern</title>
+      <link>http://blog.binaergewitter.de/blog/2013/02/23/binaergewitter-talk-number-41-2013-das-jahr-on-linux-auf-dem-todesstern/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/02/23/binaergewitter-talk-number-41-2013-das-jahr-on-linux-auf-dem-todesstern/#comments</comments>
+      <pubDate>Sat, 23 Feb 2013 17:00:00 +0100</pubDate>
+      <atom:updated>2013-02-23T17:00:00+01:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F02%2F23%2Fbinaergewitter-talk-number-41-2013-das-jahr-on-linux-auf-dem-todesstern%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2341%20-%202013%20das%20Jahr%20von%20Linux%20auf%20dem%20Todesstern&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/02/23/binaergewitter-talk-number-41-2013-das-jahr-on-linux-auf-dem-todesstern</guid>
+      
+      <description>
+        <![CDATA[<p>aka Tizen aus Stahl. Melden sich dieses mal Marc, Felix und Ingo nach einer Woche Pause zurück.</p>
+
+<h2>Lol der Woche</h2>
+
+<p><a href="http://www.heise.de/newsticker/meldung/Pirate-Bay-will-Musiklobby-wegen-Urheberrechtsverletzung-verklagen-1803873.html">PirateBay will Musiklobby verklagen</a></p>
+
+<pre><code>* [I can sit here and jerk off for 5 years. And I will.]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )
+</code></pre>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.fabcapo.com/2013/02/google-has-killed-android-brand.html">Google has killed Android</a></li>
+<li>[ Posterous ] (http://www.heise.de/newsticker/meldung/Aus-fuer-Blogging-Dienst-Twitter-stellt-Posterous-ein-1805288.html )</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.computerworld.com/s/article/9236696/Linux_Foundation_releases_secure_boot_loader">Secure Boot Loader von der Linux Foundation</a></li>
+<li><a href="http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit">Opera wird Webkit Browser</a></li>
+<li><a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTMwMTU#n">Lua Scripting in NetBSD Kernel</a></li>
+<li><a href="http://techcrunch.com/2013/02/21/google-announces-1299-chromebook-pixel-with-2560x1700-32-12-85-touchscreen-core-i5-cpu-1tb-of-google-drive-storage-optional-lte/">Chromebook pixel</a></li>
+<li><a href="http://bitcoin.org/releases/2013/02/19/v0.8.0.html">Bitcoin 0.8</a>
+
+<ul>
+<li><a href="http://blockchain.info/charts/hash-rate">Holy Balls, ASICs</a></li>
+<li><a href="http://blockchain.info/charts/estimated-transaction-volume-usd?daysAverageString=7">Holy Balls, Moneys</a></li>
+<li><a href="http://blog.reddit.com/2013/02/new-gold-payment-options-bitcoin-and.html">Reddit accepts Bitcoin</a></li>
+</ul>
+</li>
+<li><a href="https://plus.google.com/photos/109878753939833020065/albums/5845727081673854433/5845727082879003858?authkey=CJDNjpqvzpvpMg">Asteroidenabsturz in Russland</a>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Tunguska_event">Tunguska Ereignis</a></li>
+</ul>
+</li>
+<li><a href="http://lcamtuf.blogspot.de/2013/02/firefox-https-and-response-code-407.html">Firefox XSS Fuckup</a></li>
+<li><a href="http://www.kickstarter.com/projects/750308586/stormfly-like-a-pc-on-your-wrist?ref=category">Kickstarter</a> vs <a href="http://www.chinawholesalegift.com/Electric-Gifts/USB-Memory-Stick/Wristband-USB-flash-drive/Multifunction-Silicone-Gel-Wristband-USB-Flash-Drive-153628673.htm">China Kram</a></li>
+<li><a href="http://software.intel.com/en-us/articles/technical-reference-intel-html5-app-porter-tool-beta">HTML5 app porter</a></li>
+<li><a href="http://hadonejob.com/">You had one job</a></li>
+<li><a href="http://www.forbes.com/sites/andygreenberg/2013/02/14/frost-attack-unlocks-android-phones-data-by-chilling-its-memory-in-a-freezer/">"Frost" angriff auf Android Telefone</a></li>
+<li><a href="http://retrofuturistictech.quora.com/Bouncing-Balls-in-the-Cloud?srid=3UB9&amp;share=1">Heroku Routing Foo</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19483/sshd-spam-exploit-befaellt-webmaster-server.html">SSHd Exploid</a></li>
+<li><a href="http://bsdly.blogspot.ca/2013/02/theres-no-protection-in-high-ports.html">SSH auf hohen ports wird auch angegriffen - kein security through obscurity mehr</a></li>
+<li>http://www.pro-linux.de/news/1/19475/dell-xps-13-developer-edition-notebook-aktualisiert.html</li>
+<li><a href="https://netzpolitik.org/2013/geleakt-stellenanzeige-des-bka-fur-neue-cybercops/">BKA Stellenanzeige fuer Cybercops</a></li>
+<li>Atomkraftwerk per Mail (http://m.heise.de/tp/blogs/6/153770?from-classic=1 )</li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<ul>
+<li>Mobile Zeugs
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/19468/tizen-20-magnolia-veroeffentlicht.html">Tizen 2.0</a></li>
+<li><a href="http://www.ubuntu.com/devices/tablet">Ubuntu Tablet</a></li>
+<li><a href="https://wiki.ubuntu.com/Touch/Install">Ubuntu Touch dev preview</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://robots.thoughtbot.com/post/42849340481/our-tools-of-the-trade">our tools of the trade</a></li>
+<li><a href="https://speakerdeck.com/slivu/ruby-handling-1-million-concurrent-connections">1 million connections with ruby</a></li>
+<li><a href="http://stackoverflow.com/questions/2684364/why-arent-programs-written-in-assembly-more-often/2685541#2685541">Hello, I'm a compiler</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="https://twitter.com/rb2k/status/304334997756706816/photo/1">American Express webzeug</a></li>
+<li><a href="https://github.com/client9/ipcat/issues?state=open">ipcat</a></li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.localphone.com/">Localphone</a></li>
+<li><a href="">vagrant</a>
+
+<ul>
+<li><a href="http://www.hashicorp.com/blog/preview-vagrant-aws.html">vagrant-aws</a></li>
+<li><a href="https://github.com/jedi4ever/sahara">sahara</a></li>
+</ul>
+</li>
+<li><a href="http://www.slate.com/blogs/moneybox/2013/02/21/house_of_cards_netflix_subscribers_say_the_series_will_make_them_less_likely.html">House of cards</a></li>
+<li><a href="http://tunlr.net">tunnlr</a></li>
+<li><a href="http://www.blarworld.net/hackernewsgen.html">HackerNews Headline Generator</a></li>
+<li><a href="http://www.kickstarter.com/projects/461687407/kickstarter-open-source-death-star">Open Source Todesstern</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-02-21.Binaergewitter.Talk.41.ogg"
+        length="65912696"
+        type="audio/ogg" />
+      <media:content url="http://download.binaergewitter.de/2013-02-21.Binaergewitter.Talk.41.ogg"
+        fileSize="65912696"
+        type="audio/ogg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #41 - 2013 das Jahr von Linux auf dem Todesstern</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[aka Tizen aus Stahl. Melden sich dieses mal Marc, Felix und Ingo nach einer Woche Pause zurück.
+
+Lol der Woche
+
+PirateBay will Musiklobby verklagen
+
+* [I can sit here and jerk off for 5 years. And I will.]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )
+
+
+Toter der Woche
+
+
+Google has killed Android
+[ Posterous ] (http://www.heise.de/newsticker/meldung/Aus-fuer-Blogging-Dienst-Twitter-stellt-Posterous-ein-1805288.html )
+
+
+
+News
+
+
+Secure Boot Loader von der Linux Foundation
+Opera wird Webkit Browser
+Lua Scripting in NetBSD Kernel
+Chromebook pixel
+Bitcoin 0.8
+
+
+Holy Balls, ASICs
+Holy Balls, Moneys
+Reddit accepts Bitcoin
+
+
+Asteroidenabsturz in Russland
+
+
+Tunguska Ereignis
+
+
+Firefox XSS Fuckup
+Kickstarter vs China Kram
+HTML5 app porter
+You had one job
+"Frost" angriff auf Android Telefone
+Heroku Routing Foo
+SSHd Exploid
+SSH auf hohen ports wird auch angegriffen - kein security through obscurity mehr
+http://www.pro-linux.de/news/1/19475/dell-xps-13-developer-edition-notebook-aktualisiert.html
+BKA Stellenanzeige fuer Cybercops
+Atomkraftwerk per Mail (http://m.heise.de/tp/blogs/6/153770?from-classic=1 )
+
+
+
+Themen
+
+
+Mobile Zeugs
+
+
+Tizen 2.0
+Ubuntu Tablet
+Ubuntu Touch dev preview
+
+
+
+
+
+Lesefoo
+
+
+our tools of the trade
+1 million connections with ruby
+Hello, I'm a compiler
+
+
+
+Mimimi der Woche
+
+
+American Express webzeug
+ipcat
+
+
+
+Picks
+
+
+Localphone
+vagrant
+
+
+vagrant-aws
+sahara
+
+
+House of cards
+tunnlr
+HackerNews Headline Generator
+Open Source Todesstern
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
