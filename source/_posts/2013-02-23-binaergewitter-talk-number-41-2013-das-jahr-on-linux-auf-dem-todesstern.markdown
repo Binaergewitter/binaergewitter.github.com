@@ -16,7 +16,7 @@ aka Tizen aus Stahl. Melden sich dieses mal Marc, Felix und Ingo nach einer Woch
 ## Lol der Woche
 
 [PirateBay will Musiklobby verklagen](http://www.heise.de/newsticker/meldung/Pirate-Bay-will-Musiklobby-wegen-Urheberrechtsverletzung-verklagen-1803873.html )
-    * [I can sit here and jerk off for 5 years. And I will.]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )
+    *[I can sit here and jerk off for 5 years. And I will.*]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )*
 
 ## Toter der Woche
 - [Google has killed Android]( http://www.fabcapo.com/2013/02/google-has-killed-android-brand.html )
