@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Sat, 23 Feb 2013 17:20:39 +0100</lastBuildDate>
-    <atom:updated>2013-02-23T17:20:39+01:00</atom:updated>
+    <lastBuildDate>Fri, 01 Mar 2013 11:17:10 +0100</lastBuildDate>
+    <atom:updated>2013-03-01T11:17:10+01:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,268 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #42 - Drehstromziege</title>
+      <link>http://blog.binaergewitter.de/blog/2013/03/01/binaergewitter-talk-number-42-drehstromziege/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/03/01/binaergewitter-talk-number-42-drehstromziege/#comments</comments>
+      <pubDate>Fri, 01 Mar 2013 12:00:00 +0100</pubDate>
+      <atom:updated>2013-03-01T12:00:00+01:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F03%2F01%2Fbinaergewitter-talk-number-42-drehstromziege%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2342%20-%20Drehstromziege&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/03/01/binaergewitter-talk-number-42-drehstromziege</guid>
+      
+      <description>
+        <![CDATA[<p>Ok vielleicht sind wir zuviel auf der Ziege rumgeritten, aber wir sind eben der dumme, unlustige und geschmacklose Podcast und darum hört ihr uns doch ;) Neben der Ziege geht es auch um Mobile Zeugs,
+Browserspiele und auch Linus Torvalds, McAffee und Stallmann fehlen (wie immer) nicht :)</p>
+
+<h2>Apropos letzte Woche</h2>
+
+<ul>
+<li><a href="http://arstechnica.com/security/2013/02/server-hack-prompts-call-for-cpanel-customers-to-take-immediate-action/">cPanel Hacks (letzte woche: SSH Rootkit)</a>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Comparison_of_web_hosting_control_panels">Vergleich der Hosting Control Panels</a></li>
+</ul>
+</li>
+<li><a href="https://isc.sans.edu/diary.html?storyid=15229">ISC ueber SSHD rootkit</a></li>
+<li>Andreas Labres is cool</li>
+</ul>
+
+
+<h2>Linus Torwalds der Woche</h2>
+
+<p>"Guys, this is not a dick-sucking contest.
+If you want to parse PE binaries, go right ahead.
+If Red Hat wants to deep-throat Microsoft, that's <em>your</em> issue."
+- <a href="http://thread.gmane.org/gmane.linux.kernel/1445369/focus=1445405">Original Mail</a></p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.guardian.co.uk/tv-and-radio/2013/feb/24/dalek-designer-dies">Dalek Designer verstorben</a>
+
+<ul>
+<li>EXTERMINATE(D)</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.itworld.com/mobile-wireless/345576/wtf-patent-troll-goes-after-popular-podcasters">Podcast Troll</a></li>
+<li><a href="http://books.google.de/books?id=VZjBk366-BAC&amp;pg=PA56&amp;lpg=PA56&amp;dq=%22The+great+breast+of+knowledge%22&amp;source=bl&amp;ots=arBMobl_1o&amp;sig=xFgcQ85fAHSK5Tuy7dd-HHTarFg&amp;hl=de&amp;sa=X&amp;ei=nq0vUZuMGsiK4gSj2IGABw&amp;ved=0CEMQ6AEwAQ#v=onepage&amp;q=%22The%20great%20breast%20of%20knowledge%22&amp;f=false">The great breast of knowedge</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19499/lg-kauft-webos-von-hewlett-packard.html">LG kauft WebOS</a></li>
+<li><a href="http://www.t-online.de/handy/smartphone/id_62350150/padfone-und-fonepad-asus-zeigt-neuheiten-auf-dem-mwc-2013.html?news">Padfone und Fonepad</a></li>
+<li><a href="https://blog.duosecurity.com/2013/02/bypassing-googles-two-factor-authentication/">Bypassing Google's Two-Factor Authentication... mit Application Specific Passwords</a></li>
+<li><a href="http://googleplusplatform.blogspot.de/2013/02/google-plus-sign-in.html">Google+ Sign-In: Ohne Social Spam</a></li>
+<li><a href="https://www.varnish-cache.org/docs/trunk/phk/ssl.html">Why varnish doesn't do SSL</a></li>
+<li><a href="http://thenextweb.com/google/2013/02/25/google-chrome-may-soon-get-audio-indicators-to-show-you-noisy-tabs-keep-them-open-when-memory-runs-out/">Chrome soll 'noisy' Tabs signalisieren</a></li>
+<li><a href="https://plus.google.com/photos/107558775673569042478/albums/5847845659356001153/5847845657179925346?authkey=CIeX4qWT0pj5JA">IGlass protoyp geleaked</a></li>
+<li><a href="https://github.com/Binaergewitter/binaergewitter.github.com/tree/source/source/_posts">Unser Markdown auf Github</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/02/why-a-one-room-west-virginia-library-runs-a-20000-cisco-router/">20000 Cisco Euro Krepel Krepel</a></li>
+<li><a href="http://punkspider.hyperiongray.com/">Punkspider - Vuln-Ass Web Apps with this Web App + It scales!</a>
+
+<ul>
+<li><a href="http://www.theregister.co.uk/2013/02/21/punkspider/">The Register ueber PunkSPIDER</a></li>
+<li><a href="http://www.shodanhq.com/">The Shodan</a></li>
+</ul>
+</li>
+<li><a href="http://www.theregister.co.uk/2013/02/19/apple_hacked/">Irgendwelche Hacker werden immer irgend etwas hacken koennen</a></li>
+<li><a href="http://theon1on.com/">Sadly, this is not The Onion - theon1on.com</a>
+
+<ul>
+<li><a href="reddit.com/r/nottheonion">/r/nottheonion</a></li>
+</ul>
+</li>
+<li><a href="http://feross.org/fill-disk/">Speicher unendlich viele Daten in LocalStorage (leider nicht mit Firefox)</a></li>
+<li><a href="http://www.independent.co.uk/news/science/palaeolithic-park-harvard-professor-seeks-adventurous-woman-to-give-birth-to-baby-neanderthal-8460273.html">What could Possibly go Wrong? Heute Ein Neanderthaler baby bekommen</a></li>
+<li><a href="http://www.latimes.com/news/nation/nationnow/la-pn-bradley-manning-pleads-guilty-20130228,0,5930297.story">Bradley Manning bekennt sich schuldig</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.npr.org/blogs/money/2013/02/10/171653721/ask-a-banker-stock-tips">Ask a banker</a></li>
+<li><a href="http://blog.reprap.org/2013/02/vapor-treating-abs-rp-parts.html">3D-Drucke glaetten</a></li>
+<li><a href="http://www.slideshare.net/adrianco/arch-tutoriallo2of3">Adrian Cockcroft: Cloud Architecture Antipatterns</a></li>
+<li><a href="http://blog.prettylittlestatemachine.com/blog/2013/02/20/what-your-culture-really-says/">What your culture really says</a></li>
+<li><a href="http://www.thelocal.de/national/20130224-48161.html#.US-nUuuG1gs">US firms often fail to understand Germany</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Herd anschließen</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://anti-korrektur.tumblr.com/">Anti Korrektur</a></li>
+<li><a href="http://www.wnyc.org/shows/heresthething/">WNYC Here's the thing</a></li>
+<li><a href="http://mitallast.github.com/diablo-js/">Diablo im Browser</a></li>
+<li><a href="http://www.xiph.org/video/vid2.shtml">Digital Show and Tell</a></li>
+<li><a href="http://bombermine.com/#/">MMO Bomberman</a></li>
+<li><a href="https://github.com/PoseBiz/stretcher">Stretcher</a></li>
+<li><a href="http://www.youtube.com/watch?v=p0NvlH0FfmA">The Creator of Arnold Schwarzenegger</a>
+
+<ul>
+<li><a href="http://youtu.be/pDxn0Xfqkgw">160 greatest Arnold Schwarzenegger Quotes</a></li>
+</ul>
+</li>
+<li><a href="http://song-of-github.herokuapp.com/?username=rb2k">Song of github</a></li>
+<li><a href="https://plus.google.com/photos/105796021448398557678/albums/5849513673206535601/5849513675541649570?authkey=CJHa-fHgpIr9_gE">Spocks</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-02-28.Binaergewitter.Talk.42.mp3"
+        length="81604466"
+        type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2013-02-28.Binaergewitter.Talk.42.mp3"
+        fileSize="81604466"
+        type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #42 - Drehstromziege</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Ok vielleicht sind wir zuviel auf der Ziege rumgeritten, aber wir sind eben der dumme, unlustige und geschmacklose Podcast und darum hört ihr uns doch ;) Neben der Ziege geht es auch um Mobile Zeugs,
+Browserspiele und auch Linus Torvalds, McAffee und Stallmann fehlen (wie immer) nicht :)
+
+Apropos letzte Woche
+
+
+cPanel Hacks (letzte woche: SSH Rootkit)
+
+
+Vergleich der Hosting Control Panels
+
+
+ISC ueber SSHD rootkit
+Andreas Labres is cool
+
+
+
+Linus Torwalds der Woche
+
+"Guys, this is not a dick-sucking contest.
+If you want to parse PE binaries, go right ahead.
+If Red Hat wants to deep-throat Microsoft, that's your issue."
+- Original Mail
+
+Toter der Woche
+
+
+Dalek Designer verstorben
+
+
+EXTERMINATE(D)
+
+
+
+
+
+News
+
+
+Podcast Troll
+The great breast of knowedge
+LG kauft WebOS
+Padfone und Fonepad
+Bypassing Google's Two-Factor Authentication... mit Application Specific Passwords
+Google+ Sign-In: Ohne Social Spam
+Why varnish doesn't do SSL
+Chrome soll 'noisy' Tabs signalisieren
+IGlass protoyp geleaked
+Unser Markdown auf Github
+20000 Cisco Euro Krepel Krepel
+Punkspider - Vuln-Ass Web Apps with this Web App + It scales!
+
+
+The Register ueber PunkSPIDER
+The Shodan
+
+
+Irgendwelche Hacker werden immer irgend etwas hacken koennen
+Sadly, this is not The Onion - theon1on.com
+
+
+/r/nottheonion
+
+
+Speicher unendlich viele Daten in LocalStorage (leider nicht mit Firefox)
+What could Possibly go Wrong? Heute Ein Neanderthaler baby bekommen
+Bradley Manning bekennt sich schuldig
+
+
+
+Lesefoo
+
+
+Ask a banker
+3D-Drucke glaetten
+Adrian Cockcroft: Cloud Architecture Antipatterns
+What your culture really says
+US firms often fail to understand Germany
+
+
+
+Mimimi der Woche
+
+
+Herd anschließen
+
+
+
+Picks
+
+
+Anti Korrektur
+WNYC Here's the thing
+Diablo im Browser
+Digital Show and Tell
+MMO Bomberman
+Stretcher
+The Creator of Arnold Schwarzenegger
+
+
+160 greatest Arnold Schwarzenegger Quotes
+
+
+Song of github
+Spocks
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
@@ -87,7 +349,7 @@
 
 <p><a href="http://www.heise.de/newsticker/meldung/Pirate-Bay-will-Musiklobby-wegen-Urheberrechtsverletzung-verklagen-1803873.html">PirateBay will Musiklobby verklagen</a></p>
 
-<pre><code>* [I can sit here and jerk off for 5 years. And I will.]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )
+<pre><code>*[I can sit here and jerk off for 5 years. And I will.*]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )*
 </code></pre>
 
 <h2>Toter der Woche</h2>
@@ -201,7 +463,7 @@ Lol der Woche
 
 PirateBay will Musiklobby verklagen
 
-* [I can sit here and jerk off for 5 years. And I will.]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )
+*[I can sit here and jerk off for 5 years. And I will.*]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )*
 
 
 Toter der Woche
