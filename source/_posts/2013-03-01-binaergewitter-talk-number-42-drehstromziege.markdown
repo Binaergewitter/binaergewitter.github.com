@@ -20,7 +20,7 @@ Browserspiele und auch Linus Torvalds, McAffee und Stallmann fehlen (wie immer) 
 - [ISC ueber SSHD rootkit]( https://isc.sans.edu/diary.html?storyid=15229 )
 - Andreas Labres is cool
 
-## Linus Torwalds der Woche
+## Linus Torvalds der Woche
 "Guys, this is not a dick-sucking contest.
 If you want to parse PE binaries, go right ahead.
 If Red Hat wants to deep-throat Microsoft, that's *your* issue."
