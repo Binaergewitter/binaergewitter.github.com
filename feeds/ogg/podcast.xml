@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 01 Mar 2013 11:21:01 +0100</lastBuildDate>
-    <atom:updated>2013-03-01T11:21:01+01:00</atom:updated>
+    <lastBuildDate>Fri, 08 Mar 2013 10:53:21 +0100</lastBuildDate>
+    <atom:updated>2013-03-08T10:53:21+01:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,262 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #43 - Elstergate</title>
+      <link>http://blog.binaergewitter.de/blog/2013/03/08/binaergewitter-talk-number-43-elstergate/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/03/08/binaergewitter-talk-number-43-elstergate/#comments</comments>
+      <pubDate>Fri, 08 Mar 2013 11:00:00 +0100</pubDate>
+      <atom:updated>2013-03-08T11:00:00+01:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F03%2F08%2Fbinaergewitter-talk-number-43-elstergate%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2343%20-%20Elstergate&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/03/08/binaergewitter-talk-number-43-elstergate</guid>
+      
+      <description>
+        <![CDATA[<p>Wieder nur das dynamische Duo (toller Seitenhiep auf die Batman-Story ;)) bestehend aus Felix und Ingo. Dafür diese Woche mehr Linux, mehr Atombomben und weniger Web oder so...</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://t.co/MuJyk9Er4U">Twitter stellt Tweetdeck ein</a> via @schmittlauch
+
+<ul>
+<li><a href="https://dev.twitter.com/blog/planning-for-api-v1-retirement">410 Gone fuer die Alte Twitter API</a></li>
+<li><a href="https://alpha.app.net/ingoebel">Ingo auf App.net</a></li>
+<li><a href="https://twitter.com/makefoo">Felix auf Twitter</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Fortschritte-bei-De-Mail-1816549.html">De Mail</a></li>
+</ul>
+
+
+<h2>Kim dotcom der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Kim-Dotcom-Berufungsgericht-erlaubt-Klage-gegen-Geheimdienst-1818089.html">Er darf klagen</a></li>
+</ul>
+
+
+<h2>Man kann alles kaputtmachen der Woche</h2>
+
+<ul>
+<li><a href="http://thedroidguy.com/2013/03/security-flaw-found-in-samsung-galaxy-note-2/">Security Flaw in Samsungs Android</a></li>
+<li><a href="http://blog.evernote.com/blog/2013/03/02/security-notice-service-wide-password-reset/">Evernote gehackt</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.bbc.co.uk/news/uk-england-leeds-21654930">Real Life Batman</a>
+
+<ul>
+<li><a href="http://designtaxi.com/news/353090/Infographic-How-Much-Would-It-Cost-To-Be-Batman/">Was wuerde es kosten BATMAN zu sein</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/gadgets/2013/03/who-needs-thumbs-samsung-galaxy-s-iv-will-scroll-using-eye-tracking/">Samsung bring eye tracking - scrollen mit den augen!?</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Counter-Strike-Condition-Zero-fuer-Linux-1818248.html">Valve rockt</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Formatkrieg-beim-Videochat-WebRTC-gegen-CU-RTC-1805581.html">Immer noch blöder Browserkrieg</a></li>
+<li><a href="http://apple.slashdot.org/comments.pl?sid=3518883&amp;cid=43088105">Miguel de Icaza wechselt zu Apple</a></li>
+<li><a href="http://www.gizmodo.com.au/2013/03/pentagon-lets-threaten-nuke-strike-against-hackers/">Pentagon goes 'nuclear' on hax0rs ... what could possibly go Wrong</a></li>
+<li><a href="http://www.golem.de/news/sicherheitstacho-telekom-zeigt-netzwerkangriffe-in-echtzeit-1303-98016.html">Telekom in Echtzeit</a>
+
+<ul>
+<li><a href="http://map.honeynet.org/">honeynet.org</a></li>
+</ul>
+</li>
+<li><a href="http://science.slashdot.org/story/13/03/07/0418233/using-google-to-help-predict-side-effects-of-mixing-drugs">Google Hilft dir beim Finden von passenden Kombinationen von Drogen</a></li>
+<li><a href="http://hardware.slashdot.org/story/13/03/04/2314215/japan-plans-to-restart-most-of-their-nuclear-reactors">Japan will seine Nuklearreaktoren wieder starten</a></li>
+<li><a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTMxNzI">Ubuntu wechselt mal wieder den Window Server</a><a href="http://news.ycombinator.com/item?id=5319434">HackerNews</a>
+
+<ul>
+<li><a href="http://news.ycombinator.com/item?id=5319434">MirSpec</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/apple/2013/03/apples-lightning-to-hdmi-cant-actually-output-at-1080p/">Apple's Lightning-to-HDMI Adapter mit ARM und 256ram schafft keinen 1080p output</a></li>
+<li><a href="https://rdns.im/the-pirate-bay-north-korean-hosting-no-its-fake">Priaten Bucht in Nordkorea bzw. nicht</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19536/elster-formular-fuer-linux-anscheinend-zurueckgehalten.html">No Elster for Linux</a></li>
+<li><a href="https://www.humblebundle.com/">Humble Android Bundle</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<ul>
+<li>app.net / Twitter API Wechsel</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>o2 DSL Kündigung (Ingo)</li>
+<li>Server Migration (aka. wupps, hostingvertrag abgelaufen) (Felix)
+
+<ul>
+<li><a href="http://duplicity.nongnu.org/">duplicity</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="i.imgur.com/q8PLerd.jpg">SSDs machen sexy</a></li>
+<li><a href="http://www.amazon.de/gp/product/B00BLU0UKS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00BLU0UKS&amp;linkCode=as2&amp;tag=trektrip">Mark Brandis Folge 23</a></li>
+<li><a href="http://backreference.org/2013/03/01/ipv6-address-normalization/">IPv6 address normalisierung</a></li>
+<li><a href="http://mywiki.wooledge.org/Bashism">Bashism</a></li>
+<li><a href="http://www.amazon.de/gp/product/B00791CRMW/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00791CRMW&amp;linkCode=as2&amp;tag=trektrip">FritzFon M2</a></li>
+<li><a href="http://runningahackerspace.tumblr.com/">Running A Hackerspace</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-03-07.Binaergewitter.Talk.43.ogg"
+        length="72192529"
+        type="audio/ogg" />
+      <media:content url="http://download.binaergewitter.de/2013-03-07.Binaergewitter.Talk.43.ogg"
+        fileSize="72192529"
+        type="audio/ogg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #43 - Elstergate</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Wieder nur das dynamische Duo (toller Seitenhiep auf die Batman-Story ;)) bestehend aus Felix und Ingo. Dafür diese Woche mehr Linux, mehr Atombomben und weniger Web oder so...
+
+Toter der Woche
+
+
+Twitter stellt Tweetdeck ein via @schmittlauch
+
+
+410 Gone fuer die Alte Twitter API
+Ingo auf App.net
+Felix auf Twitter
+
+
+
+
+
+Untoter der Woche
+
+
+De Mail
+
+
+
+Kim dotcom der Woche
+
+
+Er darf klagen
+
+
+
+Man kann alles kaputtmachen der Woche
+
+
+Security Flaw in Samsungs Android
+Evernote gehackt
+
+
+
+News
+
+
+Real Life Batman
+
+
+Was wuerde es kosten BATMAN zu sein
+
+
+Samsung bring eye tracking - scrollen mit den augen!?
+Valve rockt
+Immer noch blöder Browserkrieg
+Miguel de Icaza wechselt zu Apple
+Pentagon goes 'nuclear' on hax0rs ... what could possibly go Wrong
+Telekom in Echtzeit
+
+
+honeynet.org
+
+
+Google Hilft dir beim Finden von passenden Kombinationen von Drogen
+Japan will seine Nuklearreaktoren wieder starten
+Ubuntu wechselt mal wieder den Window ServerHackerNews
+
+
+MirSpec
+
+
+Apple's Lightning-to-HDMI Adapter mit ARM und 256ram schafft keinen 1080p output
+Priaten Bucht in Nordkorea bzw. nicht
+No Elster for Linux
+Humble Android Bundle
+
+
+
+Themen
+
+
+app.net / Twitter API Wechsel
+
+
+
+Mimimi der Woche
+
+
+o2 DSL Kündigung (Ingo)
+Server Migration (aka. wupps, hostingvertrag abgelaufen) (Felix)
+
+
+duplicity
+
+
+
+
+
+Picks
+
+
+SSDs machen sexy
+Mark Brandis Folge 23
+IPv6 address normalisierung
+Bashism
+FritzFon M2
+Running A Hackerspace
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
@@ -349,7 +605,7 @@ Spocks
 
 <p><a href="http://www.heise.de/newsticker/meldung/Pirate-Bay-will-Musiklobby-wegen-Urheberrechtsverletzung-verklagen-1803873.html">PirateBay will Musiklobby verklagen</a></p>
 
-<pre><code>*[I can sit here and jerk off for 5 years. And I will.*]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )*
+<pre><code>*[I can sit here and jerk off for 5 years. And I will.]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )*
 </code></pre>
 
 <h2>Toter der Woche</h2>
@@ -463,7 +719,7 @@ Lol der Woche
 
 PirateBay will Musiklobby verklagen
 
-*[I can sit here and jerk off for 5 years. And I will.*]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )*
+*[I can sit here and jerk off for 5 years. And I will.]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )*
 
 
 Toter der Woche

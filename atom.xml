@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-03-01T11:21:01+01:00</updated>
+  <updated>2013-03-08T10:53:21+01:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,118 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #43 - Elstergate]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/03/08/binaergewitter-talk-number-43-elstergate/"/>
+    <updated>2013-03-08T11:00:00+01:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/03/08/binaergewitter-talk-number-43-elstergate</id>
+    <content type="html"><![CDATA[<p>Wieder nur das dynamische Duo (toller Seitenhiep auf die Batman-Story ;)) bestehend aus Felix und Ingo. Dafür diese Woche mehr Linux, mehr Atombomben und weniger Web oder so&#8230;</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://t.co/MuJyk9Er4U">Twitter stellt Tweetdeck ein</a> via @schmittlauch
+
+<ul>
+<li><a href="https://dev.twitter.com/blog/planning-for-api-v1-retirement">410 Gone fuer die Alte Twitter API</a></li>
+<li><a href="https://alpha.app.net/ingoebel">Ingo auf App.net</a></li>
+<li><a href="https://twitter.com/makefoo">Felix auf Twitter</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Fortschritte-bei-De-Mail-1816549.html">De Mail</a></li>
+</ul>
+
+
+<h2>Kim dotcom der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Kim-Dotcom-Berufungsgericht-erlaubt-Klage-gegen-Geheimdienst-1818089.html">Er darf klagen</a></li>
+</ul>
+
+
+<h2>Man kann alles kaputtmachen der Woche</h2>
+
+<ul>
+<li><a href="http://thedroidguy.com/2013/03/security-flaw-found-in-samsung-galaxy-note-2/">Security Flaw in Samsungs Android</a></li>
+<li><a href="http://blog.evernote.com/blog/2013/03/02/security-notice-service-wide-password-reset/">Evernote gehackt</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.bbc.co.uk/news/uk-england-leeds-21654930">Real Life Batman</a>
+
+<ul>
+<li><a href="http://designtaxi.com/news/353090/Infographic-How-Much-Would-It-Cost-To-Be-Batman/">Was wuerde es kosten BATMAN zu sein</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/gadgets/2013/03/who-needs-thumbs-samsung-galaxy-s-iv-will-scroll-using-eye-tracking/">Samsung bring eye tracking - scrollen mit den augen!?</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Counter-Strike-Condition-Zero-fuer-Linux-1818248.html">Valve rockt</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Formatkrieg-beim-Videochat-WebRTC-gegen-CU-RTC-1805581.html">Immer noch blöder Browserkrieg</a></li>
+<li><a href="http://apple.slashdot.org/comments.pl?sid=3518883&amp;cid=43088105">Miguel de Icaza wechselt zu Apple</a></li>
+<li><a href="http://www.gizmodo.com.au/2013/03/pentagon-lets-threaten-nuke-strike-against-hackers/">Pentagon goes &#8216;nuclear&#8217; on hax0rs &#8230; what could possibly go Wrong</a></li>
+<li><a href="http://www.golem.de/news/sicherheitstacho-telekom-zeigt-netzwerkangriffe-in-echtzeit-1303-98016.html">Telekom in Echtzeit</a>
+
+<ul>
+<li><a href="http://map.honeynet.org/">honeynet.org</a></li>
+</ul>
+</li>
+<li><a href="http://science.slashdot.org/story/13/03/07/0418233/using-google-to-help-predict-side-effects-of-mixing-drugs">Google Hilft dir beim Finden von passenden Kombinationen von Drogen</a></li>
+<li><a href="http://hardware.slashdot.org/story/13/03/04/2314215/japan-plans-to-restart-most-of-their-nuclear-reactors">Japan will seine Nuklearreaktoren wieder starten</a></li>
+<li><a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTMxNzI">Ubuntu wechselt mal wieder den Window Server</a><a href="http://news.ycombinator.com/item?id=5319434">HackerNews</a>
+
+<ul>
+<li><a href="http://news.ycombinator.com/item?id=5319434">MirSpec</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/apple/2013/03/apples-lightning-to-hdmi-cant-actually-output-at-1080p/">Apple&#8217;s Lightning-to-HDMI Adapter mit ARM und 256ram schafft keinen 1080p output</a></li>
+<li><a href="https://rdns.im/the-pirate-bay-north-korean-hosting-no-its-fake">Priaten Bucht in Nordkorea bzw. nicht</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19536/elster-formular-fuer-linux-anscheinend-zurueckgehalten.html">No Elster for Linux</a></li>
+<li><a href="https://www.humblebundle.com/">Humble Android Bundle</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<ul>
+<li>app.net / Twitter API Wechsel</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>o2 DSL Kündigung (Ingo)</li>
+<li>Server Migration (aka. wupps, hostingvertrag abgelaufen) (Felix)
+
+<ul>
+<li><a href="http://duplicity.nongnu.org/">duplicity</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="i.imgur.com/q8PLerd.jpg">SSDs machen sexy</a></li>
+<li><a href="http://www.amazon.de/gp/product/B00BLU0UKS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00BLU0UKS&amp;linkCode=as2&amp;tag=trektrip">Mark Brandis Folge 23</a></li>
+<li><a href="http://backreference.org/2013/03/01/ipv6-address-normalization/">IPv6 address normalisierung</a></li>
+<li><a href="http://mywiki.wooledge.org/Bashism">Bashism</a></li>
+<li><a href="http://www.amazon.de/gp/product/B00791CRMW/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00791CRMW&amp;linkCode=as2&amp;tag=trektrip">FritzFon M2</a></li>
+<li><a href="http://runningahackerspace.tumblr.com/">Running A Hackerspace</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #42 - Drehstromziege]]></title>
@@ -139,7 +251,7 @@ If Red Hat wants to deep-throat Microsoft, that&#8217;s <em>your</em> issue.&#82
 
 <p><a href="http://www.heise.de/newsticker/meldung/Pirate-Bay-will-Musiklobby-wegen-Urheberrechtsverletzung-verklagen-1803873.html">PirateBay will Musiklobby verklagen</a></p>
 
-<pre><code>*[I can sit here and jerk off for 5 years. And I will.*]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )*
+<pre><code>*[I can sit here and jerk off for 5 years. And I will.]( http://arstechnica.com/tech-policy/2013/02/pirate-bay-co-founder-i-can-sit-here-and-jerk-off-for-5-years-and-i-will/ )*
 </code></pre>
 
 <h2>Toter der Woche</h2>
@@ -2764,163 +2876,6 @@ dust</a> (marc)</li>
 </li>
 <li><a href="https://github.com/apenwarr/sshuttle/">sshuttle</a></li>
 <li><a href="http://www.jbkaffee.de/">JBKaffee</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #23 - Pulseaudio-Hirn-Sync]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulseaudio-hirn-sync/"/>
-    <updated>2012-07-27T18:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulseaudio-hirn-sync</id>
-    <content type="html"><![CDATA[<p>Wieder mal in Vollbesetzung düsen wir durch die News, die Felix ausgesucht hat. Nur mit dem Toten der Woche hat er es diesmal irgendwie nicht hinbekommen, dafür reden wir über (gesprochene) Sprachen und
-Security Foo.</p>
-
-<h2>Kategorie der Woche</h2>
-
-<h3>Schwabe der Woche</h3>
-
-<ul>
-<li><a href="http://nocamels.com/2012/07/recycled-cardboard-bicycles-for-9/">Fahrrad aus Pappe, damit es nicht so weh tut, wenn es geklaut wird</a></li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.golem.de/news/mobile-betriebssysteme-nokia-soll-meltemi-eingestampft-haben-1207-93465.html">Meltimmeeeeeee</a></li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.zdf.de/ZDF/zdfportal/web/heute-Nachrichten/4672/23607064/6d99bd/Das-Linux-der-Sprachen.html">125 Jahre Esperanto</a>
-
-<ul>
-<li><a href="http://www.pimpo.de/pimpo.htm">Pimperanto</a></li>
-<li><a href="http://klingon.wikia.com/">Klingonische Wikipedia</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://fiber.google.com/plans/residential/">Google fiber</a></li>
-<li><a href="http://www.techweekeurope.co.uk/news/usb-3-0-power-delivery-charging-86983">Den Laptop mit neuem USB 3.0 laden - 100W Power</a>
-
-<ul>
-<li><a href="http://www.usb.org/press/USB_Power_Delivery_Spec_Completion_FINAL.pdf">USB 3.0 Power Delivery Specification</a> von Intel, HP, Microsoft, ST-Erricson</li>
-<li><a href="http://semiaccurate.com/2012/07/23/100w-over-usb-is-here-with-the-new-power-delivery-spec/">6 Unterstuetzte Powerprofile von 5,12,20 Volt</a> - Nie wieder proprietaere Ladegerate!</li>
-<li><a href="http://assets.cantbeunseen.com/hashed_silo_content/silo_content/22917/resized/duck.jpg">Duck</a></li>
-</ul>
-</li>
-<li><a href="http://onlinelibrary.wiley.com/doi/10.1002/ejsp.1890/abstract">Seeing women as objects</a></li>
-<li><a href="http://www.forbes.com/sites/andygreenberg/2012/07/23/hacker-will-expose-potential-security-flaw-in-more-than-four-million-hotel-room-keycard-locks/">Sicherheitsluecke in Millionen Hotel-Tueren</a></li>
-<li><a href="http://go.bloomberg.com/tech-blog/2012-07-24-apple-warms-up-to-hackers-plans-presentation-at-black-hat/">Apple bei Blackhat</a></li>
-<li><a href="http://antirez.com/post/redis-sentinel-beta-released.html">Redis Sentinal beta</a> (Marc)</li>
-<li><a href="http://www.pro-linux.de/news/1/18665/valve-chef-gabe-newell-will-alle-spiele-auf-linux-bringen.html">fuck yeah mehr spiele</a>
-
-<ul>
-<li><a href="http://linux.slashdot.org/story/12/07/26/1249246/why-valve-wants-to-port-games-to-linux-because-windows-8-is-a-catastrophe">Warum Steam auf die Linux Pattform will - Weil Windows 8 (Market Place) suckt</a></li>
-<li><a href="http://news.ycombinator.net/item?id=4293046">HN Thread - &#8220;CEO&#8217;s zweifeln oeffentlich an der Zukunft der Windows Plattform&#8221;</a></li>
-</ul>
-</li>
-<li><a href="http://webdiary.com/tag/members-btmm-icloud-com/">IPv6 Apple magic</a></li>
-<li><a href="http://techreport.com/articles.x/23291">Korean 27 inch TFTs</a> + <a href="http://news.ycombinator.com/item?id=4292450">HN</a></li>
-<li><a href="http://tech.slashdot.org/story/12/07/26/0412214/the-rise-of-the-junkweb-and-why-its-so-awesome">The Rise of The Junk Web</a></li>
-<li><a href="http://allthingsd.com/20120720/google-claims-popularity-has-made-some-apple-patents-de-facto-essentials/">Google meint, dass Apples erfindungen so cool sind, dass sie geteilt werden sollten</a></li>
-<li><a href="http://www.dailytech.com/Lenovo+CEO+Gives+Part+of+His+3+Million+USD+Bonus+to+10000+Employees/article25227.htm">Lenovo CEO gibt sein $3mio Bonus an seine Mitarbeiter</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Google-kauft-App-Entwickler-Sparrow-1649196.html">Google kauft Sparrow</a>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=GI6CfKcMhjY">CAPTAIN JACK SPARROW</a></li>
-</ul>
-</li>
-<li><a href="http://www.forbes.com/sites/andygreenberg/2012/07/25/next-gen-air-traffic-control-vulnerable-to-hackers-spoofing-planes-out-of-thin-air/">Flugzeugstandorte vortäuschen um Flugkontrolle zu verwirren</a>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=uF39MjuY6ug">Überlebens-RADAR</a></li>
-</ul>
-</li>
-<li><a href="http://news.ycombinator.net/item?id=4286696">Iranisches Atomprogramm spielt AC/DC</a></li>
-<li><a href="http://hackaday.com/2012/07/20/robot-trash-can-catches-anything-you-throw-near-it/">Robot Trash Can</a>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=8_JIKqSMIRQ">Panda can</a></li>
-</ul>
-</li>
-<li><a href="http://www.networkworld.com/news/2012/072512-blackhat-ylonen-261134.html">Vater von SSH meint, dass Security nur schlimmer wird</a></li>
-<li><a href="http://www.gizmodo.de/2012/07/19/sterben-fur-die-unsterblichkeit-wissenschaftler-plant-selbstmord-zur-wiederauferstehung.html">Sterben fuer die Unsterblichkeit</a></li>
-<li><a href="http://boingboing.net/2012/07/20/hdtv-killed-the-twitch-gaming.html">HDTV hat Reaktionsspiele getoetet</a>
-
-<ul>
-<li><a href="http://superuser.com/questions/419070/transatlantic-ping-faster-than-sending-a-pixel-to-the-screen">John Carmac - Listen to the daaaaawg</a></li>
-<li><a href="http://5by5.tv/hypercritical/68">Hypercritical #68</a></li>
-</ul>
-</li>
-<li><a href="http://www.mediumdifficulty.com/2012/07/11/0-xp-the-zynga-counterrevolution/">The Zynga Counterrevolution</a></li>
-<li><a href="lol://drogen">research chemicals</a></li>
-<li><a href="http://gizmodo.com/5927379">Gizmodo hat herausgefunden wofuer Bitcoins gut sind - Waffen und Pr0n</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/apple/2012/07/os-x-10-8/">Ars Technical Mountain Lion Review</a> (Marc)
-
-<ul>
-<li><a href="http://www.stickycomics.com/computer-update/">Computer Updates</a></li>
-</ul>
-</li>
-<li><a href="http://www.youtube.com/watch?v=NG8goJpbKk0">Message in a Bottle</a></li>
-<li><a href="http://www.igvita.com/2012/07/19/latency-the-new-web-performance-bottleneck/">Latency: The new web performance bottleneck</a></li>
-<li><a href="http://www.aelag.com/147952673">Machine Learning for the impatient</a></li>
-<li><a href="http://hackaday.com/2012/07/24/hows-the-60hz-coming-from-your-wall/">Warum haben Fernseher 60/50hz</a> (felix)</li>
-<li><a href="https://auphonic.com/blog/2012/01/07/podcast-comparison-part-1-file-formats-and-bitrates/">Auphonic Blog Podcast Formate</a> (ingo)</li>
-<li><a href="http://cryptome.org/2012/07/gent-forum-spies.htm">The Gentleperson&#8217;s Guide to Forum Spies</a></li>
-<li><a href="http://www.drdobbs.com/architecture-and-design/the-design-of-llvm/240001128">The design of LLVM</a> (pfleidi)</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Mastercard SecureCode (Marc)</li>
-<li>Arch Linux upgrade mal wieder (pfleidi)</li>
-<li>Spotify Client (pfleidi)</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.unblocker.yt/">Youtube unblocker</a>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=CqGK1mpFvgQ">gesperrtes beispiel Video</a></li>
-</ul>
-</li>
-<li><a href="http://www.youtube.com/watch?v=xdZMXWmlp9g">Richard Feynman on quantum mechanics</a></li>
-<li><a href="http://www.imdb.com/title/tt1345836/">Dark knight rises</a></li>
-<li><a href="http://url2png.com">url2png</a></li>
-<li><a href="http://de.wikipedia.org/wiki/Printer_Job_Language">PJL</a>
-
-<ul>
-<li><a href="http://h20000.www2.hp.com/bizsupport/TechSupport/Document.jsp?objectID=c02004333">HP PJL Directory Traversal</a>
-
-<ul>
-<li>Fix: Turn off the Service</li>
-</ul>
-</li>
-<li><a href="http://techref.massmind.org/techref/printer/hp/pmlfaq.htm">PJL DMINFO ASCIIHEX</a></li>
-<li><a href="http://hackonadime.blogspot.de/2011/12/hacking-printers-pjl-basics.html">Hacking Printer Basics</a></li>
-</ul>
-</li>
 </ul>
 
 ]]></content>

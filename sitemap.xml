@@ -278,13 +278,19 @@
         <loc>
             http://blog.binaergewitter.de/blog/2013/02/23/binaergewitter-talk-number-41-2013-das-jahr-on-linux-auf-dem-todesstern/
         </loc>
-        <lastmod>2013-03-01T10:52:52+01:00</lastmod>
+        <lastmod>2013-03-08T10:41:20+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://blog.binaergewitter.de/blog/2013/03/01/binaergewitter-talk-number-42-drehstromziege/
         </loc>
         <lastmod>2013-03-01T11:20:40+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://blog.binaergewitter.de/blog/2013/03/08/binaergewitter-talk-number-43-elstergate/
+        </loc>
+        <lastmod>2013-03-08T10:53:14+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/404.html</loc>
@@ -300,7 +306,7 @@
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/blog/archives/</loc>
-        <lastmod>2013-03-01T11:20:40+01:00</lastmod>
+        <lastmod>2013-03-08T10:53:14+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/impressum/</loc>
@@ -316,6 +322,6 @@
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/</loc>
-        <lastmod>2013-03-01T11:20:40+01:00</lastmod>
+        <lastmod>2013-03-08T10:53:14+01:00</lastmod>
     </url>
 </urlset>
