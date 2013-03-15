@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 08 Mar 2013 10:53:21 +0100</lastBuildDate>
-    <atom:updated>2013-03-08T10:53:21+01:00</atom:updated>
+    <lastBuildDate>Fri, 15 Mar 2013 11:36:05 +0100</lastBuildDate>
+    <atom:updated>2013-03-15T11:36:05+01:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,314 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #44 -  In 54 lines of shell</title>
+      <link>http://blog.binaergewitter.de/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell/#comments</comments>
+      <pubDate>Fri, 15 Mar 2013 12:00:00 +0100</pubDate>
+      <atom:updated>2013-03-15T12:00:00+01:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F03%2F15%2Fbinaergewitter-talk-number-44-in-54-lines-of-shell%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2344%20-%20%20In%2054%20lines%20of%20shell&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell</guid>
+      
+      <description>
+        <![CDATA[<p>Auch der Gast Jan konnt diese Sendung nicht retten und so fällt diese Sendung eindeutig wieder unter unseren Untertitel "dumm, geschmacklos und unlustig". Dabei hatte es so gut angefangen. Nur kurz den
+Papst erwähnt und Stallmann und GNU und Google Reader, aber irgendwie gings dann doch wieder abwärts mit der Sendung. Wir geloben Besserung und versuchen weniger Blödsinn zu reden und vor allem nicht mehr
+soviel durcheinander - bestimmt..</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://googleblog.blogspot.de/2013/03/a-second-spring-of-cleaning.html">Google reader stirbt</a>
+
+<ul>
+<li>Welcher Reader nun fuer RSS?
+
+<ul>
+<li><a href="http://www.quora.com/Google-Reader-Shut-Down-March-2013/Why-is-Google-killing-Google-Reader">Waruuuuuum</a></li>
+<li><a href="http://tt-rss.org/">tt-rss</a></li>
+<li>Was nun? <a href="http://newsblur.com">Newsblur</a>, <a href="http://owncloud.org">ownCloud</a> News app, <a href="http://theoldreader.com">the old reader</a>, <a href="http://feedly.com">feedly</a>, <a href="http://blog.superfeedr.com/state-of-readers/">The State of RSS Readers</a></li>
+<li><a href="http://arstechnica.com/business/2013/03/poll-technica-where-should-we-go-when-google-reader-is-put-out-to-pasture/">Ars Technica</a></li>
+<li><a href="http://blog.digg.com/post/45355701332/were-building-a-reader">Digg</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><a href="http://blog.cryptographyengineering.com/2013/03/attack-of-week-rc4-is-kind-of-broken-in.html">RC4 in TLS is gebrochen, das internet geht unter</a></p>
+
+<ul>
+<li><a href="http://www.imperialviolet.org/2012/01/15/beastfollowup.html">Beast Followup</a></li>
+<li><a href="http://arstechnica.com/security/2013/02/lucky-thirteen-attack-snarfs-cookies-protected-by-ssl-encryption/">Lucky 13</a></li>
+<li><a href="http://www.kali.org/">Kali Linux</a></li>
+</ul>
+</li>
+<li><p><a href="http://www.spiegel.de/panorama/gesellschaft/liveticker-zur-papst-wahl-in-rom-a-888576.html">WTF der Woche: Liveticker zur Papst-Wahl</a></p></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.orf.at/stories/2171333/">Wieder mal der Einsame George als Mumie</a> via hailo-one
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Dorodango">Dorodango</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="https://bitcointalk.org/index.php?topic=152348.80">Bitcoin Double spent</a></li>
+<li><a href="https://www.namecheap.com/support/payment-options/bitcoin.aspx">Namecheap akzeptiert Bitcoin</a></li>
+<li><a href="https://github.com/mitchellh/vagrant/blob/master/CHANGELOG.md">Vagrant 1.1</a></li>
+<li><a href="https://www.panic.com/blog/2013/03/the-lightning-digital-av-adapter-surprise/#comment-16841">Lightning AV Adapter surprise</a></li>
+<li><a href="http://www.vice.com/en_uk/read/rob-rhinehart-no-longer-requires-food">»Soylent« macht Essen unnötig</a>, 24-jähriger Softwareentwickler glaubt den Wundernahrungsdrink entwickelt zu haben
+
+<ul>
+<li><a href="http://www.urbandictionary.com/define.php?term=poopsocking">Poopsocking</a></li>
+<li><a href="https://simple.wikipedia.org/wiki/File:Bee_Squirt.gif">Bee defecatiing</a></li>
+</ul>
+</li>
+<li><a href="http://owncloud.org">ownCloud 5 released</a>, am Freitag <a href="https://owncloud.com/events/event">Party in Stuttgart &amp; Berlin</a></li>
+<li><a href="http://www.amazon.de/gp/product/B007HNZ62A/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007HNZ62A&amp;linkCode=as2&amp;tag=trektrip">Sim City 5</a>
+
+<ul>
+<li><a href="http://news.ycombinator.com/item?id=5339852">Amazon Stoppt verkauf von Sim City 5</a></li>
+<li><a href="http://arstechnica.com/gaming/2013/03/fans-press-uncover-massive-holes-in-simcitys-ai-server-connection/">Internetverbindung ist nur fuer die Durchsetzung des DRM notwendig!</a></li>
+<li><a href="http://arstechnica.com/gaming/2013/03/hackers-open-up-offline-play-modding-tools-for-simcity/">Hacker ermöglichen Offline-Spiel und mehr</a></li>
+</ul>
+</li>
+<li><a href="http://justingregg.com/killer-ukrainian-dolphins-on-the-loose/">Versteckt eure Kinder, die Killerdelfine sind los!</a></li>
+<li><a href="http://www.merlyn.demon.co.uk/critdate.htm">Critical and Significant Dates</a></li>
+<li>kann was über <a href="http://hackerbeach.org">Hacker Beach</a> erzählen
+
+<ul>
+<li>"Phu Quoc Island"</li>
+<li>jeden Winter, an einem anderen Paradiesstrand</li>
+</ul>
+</li>
+<li><a href="http://techreport.com/review/24461/a-first-look-at-cherry-mx-green-key-switches">Cherry MX Green - anschlag aehnlich dem IBM Model M</a></li>
+<li><a href="http://arstechnica.com/information-technology/2013/03/google-mpeg-la-agree-to-royalty-free-terms-for-vp8-video-codec/">VP8 ist fuer immer Royalty-free</a></li>
+<li><a href="http://www.technologyreview.com/view/512381/astrobiologists-find-ancient-fossils-in-fireball-fragments/">Fossilien in Feuerballfragmenten - ALIENS!!!</a></li>
+<li><a href="http://arstechnica.com/science/2013/03/mars-rock-contains-elements-essential-to-life/">Science! Mars Steine enthalten alles was man zum leben braucht</a></li>
+<li><a href="https://github.com/nojhan/liquidprompt">Liquidprompt - oder 'wie ich ALLE informationen in den prompt kodieren kann'</a></li>
+<li><a href="http://hardware.slashdot.org/story/13/03/12/1831210/japan-extracts-natural-gas-from-frozen-methane-hydrate">Japan extrahiert Natuerliches gas von gefrorenem Methanhydrat ... awesome?!</a></li>
+<li><a href="http://it.slashdot.org/story/13/03/13/2225237/blog-reveals-a-chinese-military-hackers-life-is-one-of-boredom-and-bitterness">Surprise ... Ein 'internetspion' sein ist die meiste zeit ziemlich langweilig</a></li>
+<li><a href="http://news.slashdot.org/story/13/03/13/2052226/why-freeloaders-are-essential-to-foss-project-success">Why Freeloaders are Essential to FOSS</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=mD4L7xDNCmA">The future of Bitcoin: new applications and rebuilding the banking system</a></li>
+<li><a href="http://postgres-bits.herokuapp.com/#1">Postgres- The bits you haven't found</a></li>
+<li><a href="https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/preview?usp=sharing&amp;sle=true#slide=id.p">Some Dark Corners of C</a></li>
+<li><a href="http://tomayko.com/writings/rest-to-my-wife">How I Explained REST to My Wife</a></li>
+<li><a href="http://nostarch.com/xboxfree">Reverse Engineering the XBox als kostenfreies E-Book</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://www.telefon.de/manuals/SplMoVer.html">DSL Kabel verlängern</a></li>
+<li>Easybell</li>
+<li><a href="http://www.cisco.com/en/US/docs/wireless/access_point/1200/vxworks/configuration/guide/bkscgaxa.html#wp1013513">WIFI Power</a></li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.rubymotion.com/">Ruby Motion</a>
+
+<ul>
+<li><a href="https://github.com/rubymotion/BubbleWrap">Bubblewrap</a></li>
+</ul>
+</li>
+<li><a href="http://www.kickstarter.com/projects/559914737/the-veronica-mars-movie-project">Veronica Mars Film Kickstarter</a></li>
+<li><a href="https://developers.google.com/events/io/experiment-cat">Google I/O Starter Page</a></li>
+<li><a href="http://bitcoinity.org/markets">Bitcoinity Graphen</a></li>
+<li><a href="http://www.amazon.de/gp/product/B0058SH1TM/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0058SH1TM&amp;linkCode=as2&amp;tag=trektrip">StarCraft II - Heart of the Swarm</a>
+
+<ul>
+<li><a href="http://www.amazon.de/gp/product/383322441X/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=383322441X&amp;linkCode=as2&amp;tag=trektrip">StarCraft II - Flashpoint - Der Roman, der die Ereignis zwischen Starcarft II Wings of Liberty und Heart of the Swarm erklärt</a></li>
+</ul>
+</li>
+<li><a href="http://www.youtube.com/watch?v=i5v-RR8bX7o&amp;feature=youtu.be">Friseuse Claudia</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-03-14.Binaergewitter.Talk.44.mp3"
+        length="100477219"
+        type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2013-03-14.Binaergewitter.Talk.44.mp3"
+        fileSize="100477219"
+        type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #44 -  In 54 lines of shell</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Auch der Gast Jan konnt diese Sendung nicht retten und so fällt diese Sendung eindeutig wieder unter unseren Untertitel "dumm, geschmacklos und unlustig". Dabei hatte es so gut angefangen. Nur kurz den
+Papst erwähnt und Stallmann und GNU und Google Reader, aber irgendwie gings dann doch wieder abwärts mit der Sendung. Wir geloben Besserung und versuchen weniger Blödsinn zu reden und vor allem nicht mehr
+soviel durcheinander - bestimmt..
+
+Toter der Woche
+
+
+Google reader stirbt
+
+
+Welcher Reader nun fuer RSS?
+
+
+Waruuuuuum
+tt-rss
+Was nun? Newsblur, ownCloud News app, the old reader, feedly, The State of RSS Readers
+Ars Technica
+Digg
+
+
+
+
+RC4 in TLS is gebrochen, das internet geht unter
+
+
+Beast Followup
+Lucky 13
+Kali Linux
+
+
+WTF der Woche: Liveticker zur Papst-Wahl
+
+
+
+Untoter der Woche
+
+
+Wieder mal der Einsame George als Mumie via hailo-one
+
+
+Dorodango
+
+
+
+
+
+News
+
+
+Bitcoin Double spent
+Namecheap akzeptiert Bitcoin
+Vagrant 1.1
+Lightning AV Adapter surprise
+»Soylent« macht Essen unnötig, 24-jähriger Softwareentwickler glaubt den Wundernahrungsdrink entwickelt zu haben
+
+
+Poopsocking
+Bee defecatiing
+
+
+ownCloud 5 released, am Freitag Party in Stuttgart &amp; Berlin
+Sim City 5
+
+
+Amazon Stoppt verkauf von Sim City 5
+Internetverbindung ist nur fuer die Durchsetzung des DRM notwendig!
+Hacker ermöglichen Offline-Spiel und mehr
+
+
+Versteckt eure Kinder, die Killerdelfine sind los!
+Critical and Significant Dates
+kann was über Hacker Beach erzählen
+
+
+"Phu Quoc Island"
+jeden Winter, an einem anderen Paradiesstrand
+
+
+Cherry MX Green - anschlag aehnlich dem IBM Model M
+VP8 ist fuer immer Royalty-free
+Fossilien in Feuerballfragmenten - ALIENS!!!
+Science! Mars Steine enthalten alles was man zum leben braucht
+Liquidprompt - oder 'wie ich ALLE informationen in den prompt kodieren kann'
+Japan extrahiert Natuerliches gas von gefrorenem Methanhydrat ... awesome?!
+Surprise ... Ein 'internetspion' sein ist die meiste zeit ziemlich langweilig
+Why Freeloaders are Essential to FOSS
+
+
+
+Lesefoo
+
+
+The future of Bitcoin: new applications and rebuilding the banking system
+Postgres- The bits you haven't found
+Some Dark Corners of C
+How I Explained REST to My Wife
+Reverse Engineering the XBox als kostenfreies E-Book
+
+
+
+Mimimi der Woche
+
+
+DSL Kabel verlängern
+Easybell
+WIFI Power
+
+
+
+Picks
+
+
+Ruby Motion
+
+
+Bubblewrap
+
+
+Veronica Mars Film Kickstarter
+Google I/O Starter Page
+Bitcoinity Graphen
+StarCraft II - Heart of the Swarm
+
+
+StarCraft II - Flashpoint - Der Roman, der die Ereignis zwischen Starcarft II Wings of Liberty und Heart of the Swarm erklärt
+
+
+Friseuse Claudia
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>

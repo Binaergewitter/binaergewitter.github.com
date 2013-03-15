@@ -9,7 +9,7 @@
   <meta name="author" content="Binärgewitter Crew">
 
   
-  <meta name="description" content="Wieder mal sehr albern sprechen pfleidi, felix, ingo und jan über die News der letzten Woche, über neue Rubriken, ob RMS tot ist oder nicht und ...">
+  <meta name="description" content="BOINC gibt es zwar schon lange und es wird immer noch viel benutzt. Felix und Ingo sprechen mit Torbjörn und Andreas über den Rechenkraft.net e.V., ...">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -87,6 +87,246 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/">Binärgewitter Spezial #4 - Distributed Computing</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-05-17T15:30:00+02:00" pubdate data-updated="true">17.05.2012</time>
+        
+         | <a href="/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>BOINC gibt es zwar schon lange und es wird immer noch viel benutzt. Felix und Ingo sprechen mit Torbjörn und Andreas über den Rechenkraft.net e.V., Distributed Computing, BOINC, Einsatzszenarien und
+Alternativen zu BOINC.</p>
+
+<ul>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Verteiltes_Rechnen">verteiltes Rechnen</a></li>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Bitcoin">Bitcoin</a></li>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Cloud_Computing">Cloud</a></li>
+<li><a href="http://www.boinctreffen.de">BOINC Treffen</a> / 17-20.5.2012</li>
+<li>Kategorien:
+
+<ul>
+<li>Distributed Computing - SETI@Home</li>
+<li>Distributed Thinking - <a href="http://www.openstreetmap.org/">openstreetmap</a></li>
+<li> die <a href="http://www.zooniverse.org/">Zooniverse</a>-Projekte</li>
+<li>  <a href="http://www.pgdp.net/c/">Distributed Proofreaders</a> / <a href="http://www.gutenberg.org/">Project Gutenberg</a></li>
+<li>  <a href="http://www.scistarter.com/">SciStarter</a>: Datenbank zahlreicher &#8220;Handarbeits&#8221;-Citizen-Science-Projekte</li>
+<li>Citizen Science - <a href="http://www.solarstormwatch.com/">Solar Stormwatch</a>
+
+<h2>BOINC</h2></li>
+</ul>
+</li>
+<li><a href="http://boinc.berkeley.edu/">Berkeley Open Infrastructure for Network Computing</a></li>
+<li>entwicklet von <em>Dr. David Anderson</em> am <a href="http://ssl.berkeley.edu/">Space Science Laboratory</a> der <em>University of California, Berkeley</em></li>
+<li>plattformunabhängiges Server-Client-Framework</li>
+<li>Server
+
+<ul>
+<li>hauptsächlich in C geschrieben</li>
+<li>Webfrontent in PHP</li>
+<li>MySQL als Datenbank</li>
+<li>Konfiguration über ein XML-File</li>
+<li>LGPL</li>
+</ul>
+</li>
+<li>Client
+
+<ul>
+<li>in C geschrieben</li>
+<li>bestehend aus
+
+<ul>
+<li>dem Kommandozeilen-Clienten (boinc) selbst (kann auch als Daemon laufen)</li>
+<li>dem Kommandozeilen-Commander (boinccmd), um per Kommandozeile einen laufenden Clienten zu administrieren</li>
+<li>dem grafischen BOINC-Manager (boincmgr), um grafisch einen laufenden Clienten zu managen</li>
+<li>Commander und Manager können auch zu entfernten Clienten verbinden (z.B. mehrere Maschinen im LAN, aber nur ein Managing-Node)</li>
+</ul>
+</li>
+<li>Konfiguration ebenfalls über ein XML-File</li>
+</ul>
+</li>
+<li>Anwendungen für die eigentlichen Berechnungen werden von einzelnen Projekten bereitgestellt
+
+<ul>
+<li>drei Typen von Apps: klassische CPU, low CPU und <a href="https://boinc.berkeley.edu/wiki/GPU_computing">GPU</a>
+
+<ul>
+<li>GPU -> <a href="https://en.wikipedia.org/wiki/CUDA">CUDA(Nvidia)</a> und Stream(ATI), sowie <a href="https://en.wikipedia.org/wiki/OpenCL">OpenCL</a></li>
+</ul>
+</li>
+<li>CPU-Anwendungen können (rein theorerisch) auch <a href="http://en.wikipedia.org/wiki/Symmetric_multiprocessing">SMP</a> sein, in der Praxis haben sich jedoch einige Probleme seitens BOINC damit gezeigt</li>
+</ul>
+</li>
+<li>Nachteile von BOINC
+
+<ul>
+<li>Sicherheit</li>
+<li><a href="http://de.wikipedia.org/wiki/WebGL">3D im Browser</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h3>BOINC-Alternativen</h3>
+
+<ul>
+<li>einzig uns bekannte: <a href="http://www.uni-marburg.de/fb12/verteilte_systeme/forschung/grid_tools">MAGE - Marburg Ad-hoc Grid Environment</a></li>
+<li>entwickelt von Arbeitsgruppe um <em>Prof. Dr. Bernd Freisleben</em> an der Universität Marburg, Fachbereich Mathematik und Informatik</li>
+<li>einige (wenige) Projekte nutzen ein individuell entwickletes Server-Client-Framework
+(z.B. <a href="http://folding.stanford.edu/">Folding@Home</a>, <a href="http://www.distributed.net/Main_Page">Distributed.net</a>,
+<a href="http://www.stephenbrooks.org/muon1/">Muon</a>)</li>
+</ul>
+
+
+<h3>Anwendungen</h3>
+
+<ul>
+<li>Jedes computational Problem, das sich in viele voneinander unabhängiger Pakete unterteilen lässt und die
+Datenmenge pro Paket nicht zu groß ist, ist für BOINC prädestiniert
+
+<ul>
+<li>Positivbeispiel: Primfaktorzerlegung, Signalanalyse, Rendern</li>
+<li>Negativbeispiel: Crashtest-Simulation (zu enge Abhängigkeit der Daten), Particle-Tracking (zu große Datenmenge)</li>
+<li>Stichwort <a href="http://en.wikipedia.org/wiki/Embarrassingly_parallel">Embarrassingly Parrallel</a></li>
+</ul>
+</li>
+<li>bestehende Programme können in BOINC eingehangen werden (<a href="http://boinc.berkeley.edu/trac/wiki/WrapperApp">BOINCWrapper</a>)
+
+<ul>
+<li>z.B. <a href="http://en.wikipedia.org/wiki/AutoDock">Autodock - Molecular Modeling</a></li>
+</ul>
+</li>
+<li><a href="https://www.rechenkraft.net/wiki/index.php?title=Projekt%C3%BCbersicht">eine relativ vollständige List aller DC-Projekte im Rechenkraft.net-Wiki</a></li>
+</ul>
+
+
+<h3>BOINC-Projekte</h3>
+
+<ul>
+<li>die Urgesteine
+
+<ul>
+<li><a href="http://setiathome.berkeley.edu/">SETI@Home</a>: Radiosignale nach Außerirdischen durchsuchen</li>
+<li><a href="http://www.distributed.net/Main_Page">Distributed.net</a>: Encryption knacken, Optimalen
+Gulomb-Maßstab berechnen</li>
+<li><a href="http://folding.stanford.edu">Folding@Home</a>: Proteine falten (auch mit PS3 und GPUs)</li>
+</ul>
+</li>
+<li>deutsche Aushängeschilder
+
+<ul>
+<li><a href="http://einstein.phys.uwm.edu/">Einstein@Home</a>: Gravitationswellen suchen, Radiopulsare finden</li>
+<li><a href="http://boinc.fzk.de/poem/">POEM@Home</a>: Proteine falten</li>
+<li><a href="http://www.rnaworld.de/rnaworld/">RNA World</a>: RNAs finden und klassifizieren</li>
+</ul>
+</li>
+<li>Sensorprojekte
+
+<ul>
+<li><a href="http://qcn.stanford.edu/">Quake Catcher Network</a>: Erdbeben erkennen und melden</li>
+<li><a href="http://www.kickstarter.com/projects/edborden/air-quality-egg">AirQualityEgg</a></li>
+<li><a href="http://radioactiveathome.org/boinc/">Radioactive@Home</a>: Radioaktive Strahlung messen und melden</li>
+<li><a href="http://www.freerainbowtables.com/">Distributed Rainbow Tables</a>: Rechnen an Rainbow Tables for the greater good</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Rechenkraft.net e.V.</h2>
+
+<ul>
+<li><a href="http://rechenkraft.net">Rechenkraft.net</a>
+
+<ul>
+<li><a href="http://www.rechenkraft.net/yoyo/">Yoyo@Home</a>: Umbrella-/Wrapper-Projekt
+
+<ul>
+<li><a href="http://www.evolutionary-research.net/">Evolution@Home: Simulation von Evolution</a></li>
+<li><a href="http://www.stephenbrooks.org/muon1/">Muon: Simulationen zur Planung einer Neutrino-Fabrik</a></li>
+<li><a href="http://euler.free.fr/details.htm">EulerNet</a> (beendet)</li>
+<li>ECM: Finden von großen Primfaktoren (>40 Stellen)</li>
+</ul>
+</li>
+<li><a href="http://www.rnaworld.de/rnaworld">RNA World</a>: wissenschaftliches Forschungsprojekt zur Untersuchung von RNAs</li>
+</ul>
+</li>
+<li><a href="http://aerospaceresearch.net/constellation/">Constellation</a></li>
+<li>Citizen Science
+
+<ul>
+<li><a href="http://www.ibats.org.uk">iBats</a>: mit dem iPhone Fledermäuse tracken</li>
+<li><a href="http://www.dontflush.me">DontFlushMe</a>: für weniger Sch**** im Hudson River (New York)</li>
+</ul>
+</li>
+<li><a href="http://boincoid.sourceforge.net/">Boincoid</a>: BOINC-Clienten übers Smartphone managen</li>
+<li><a href="http://krzyszp.info/index.php?option=com_content&amp;view=article&amp;id=29:nativeboinc-for-android&amp;catid=7:linux&amp;Itemid=6">NativeBOINC</a>: derzeit wohl beste Android-Client mit Unterstützung für Milkyway@Home, PrimeGrid, Enigma@Home und Radioactive@Home</li>
+</ul>
+
+</div>
+  
+  
+
+
+
+
+
+
+
+<div class="audio-content">
+   <audio preload='none' controls><source src='http://download.binaergewitter.de/2012-05-17.Binaergewitter.Spezial.4.mp3' type='audio/mp3' /><source src='http://download.binaergewitter.de/2012-05-17.Binaergewitter.Spezial.4.ogg' type='audio/ogg' /></audio>
+  <p id="download-buttons">
+  
+  <a href="http://download.binaergewitter.de/2012-05-17.Binaergewitter.Spezial.4.mp3"><img src="/images/audio_mp3_button.png"
+    title="download mp3" alt="download mp3" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2012-05-17.Binaergewitter.Spezial.4.ogg"><img src="/images/audio_ogg_button.png"
+    title="download ogg" alt="download ogg" style="border:0; border-radius:0;" /></a>
+  
+  </p>
+</div>
+
+
+
+  <div class="flattr-button">
+  <a class="FlattrButton" style="display:none;"
+    
+    
+    title="Binärgewitter Spezial #4 - Distributed Computing"
+    data-flattr-uid="binaergewitter"
+    data-flattr-tags="podcast,tech,software"
+    data-flattr-button="compact"
+    data-flattr-category="audio"
+    href="http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing//blog/page/4/index.html">
+    Binärgewitter Spezial #4 - Distributed Computing
+  </a>
+</div>
+
+
+
+    </article>
   
   
     <article>
@@ -2278,222 +2518,6 @@ Kilimanjaro</a></li>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/03/08/binaergewitter-talk-number-5-geckphone/">Binärgewitter Talk #5 - Geckphone!</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-03-08T11:07:00+01:00" pubdate data-updated="true">08.03.2012</time>
-        
-         | <a href="/blog/2012/03/08/binaergewitter-talk-number-5-geckphone/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Wegen Head-Crash ohne die Computergenerierte Stimme Ingo. Aber mit <a href="http://twitter.com/pfleidi">pfleidi</a>, der die Moderation übernommen hat und sowie <a href="http://twitter.com/rb2k">Marc</a> und <a href="http://twitter.com/makefoo">felix</a>.</p>
-
-<h2>In eigener Sache</h2>
-
-<ul>
-<li>Octopod kann nun Flattr im Feed
-
-<ul>
-<li><a href="http://developers.flattr.net/feed/">Flattr Payment Link Spezifikation</a></li>
-</ul>
-</li>
-<li><a href="https://flattr.com/thing/493049/Binargewitter">Flattr Button mit richtiger URL (neu flattrn)</a></li>
-<li>Downloadbuttons fuer einzelne Audioformate</li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://games.slashdot.org/story/12/02/25/0011254/inventor-of-the-modern-pinball-machine-dies-at-100">Erfinder der modernen Pinballmaschine mit 100 gestorben</a></li>
-<li><a href="http://www.welt.de/vermischtes/weltgeschehen/article13901207/Giraffe-mit-20-Kilogramm-Plastik-gefuettert-tot.html">Giraffe mit 20kg Plastik im Bauch gestorben</a></li>
-<li><a href="http://www.geekosystem.com/rip-ralph-mcquarrie/">Ralph McQuarrie</a></li>
-</ul>
-
-
-<h2>Nachbesprechung der letzten Sendung</h2>
-
-<ul>
-<li>Viele Leute verwenden noch altes Windows XP und haben darum Sicherheitprobleme</li>
-<li><a href="http://blog.marc-seeger.de/2012/02/26/socks-and-proxychains-as-a-vpn-alternative/">Socks und Proxychains als VPN Alternative</a> (Marc)
-
-<ul>
-<li><a href="http://blog.binaergewitter.de/blog/2012/02/23/binaergewitter-talk-number-4-ich-filter-blumen/#comment-451082177">IPTables version</a></li>
-<li><a href="http://www.checkmytorrentip.com/">Check my torrent IP</a></li>
-</ul>
-</li>
-<li><a href="http://forum.nginx.org/read.php?29,207540,207585#msg-207585">NginX ist wohl doch kein Apache Fork</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://tsaoutofourpants.wordpress.com/2012/03/06/1b-of-nude-body-scanners-made-worthless-by-blog-how-anyone-can-get-anything-past-the-tsas-nude-body-scanners/">Body Scanner fail fuer immer</a></li>
-<li><a href="http://aws.typepad.com/aws/2012/03/dropping-prices-again-ec2-rds-emr-and-elasticache.html">Amazon EC2 wird billiger</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Asus-Padfone-kommt-im-April-1443432.html">Padphone</a>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=Z2ANnpHnUrc">ASUS CEO stellt Padfone vor</a></li>
-</ul>
-</li>
-<li><a href="http://www.raspberrypi.org/archives/716">RaspberryPi bald zu kaufen</a></li>
-<li><a href="http://www.extremetech.com/extreme/120803-vortex-radio-waves-could-boost-wireless-capacity-infinitely">Vortex Radio Waves fuer unendlich lange WiFI Strecken</a></li>
-<li><a href="https://play.google.com/store">Google Play</a></li>
-<li><a href="http://scenerules.irc.gs/t.html?id=2012_SDTVx264r.nfo">x264 sdtv releases</a></li>
-<li><a href="http://www.golem.de/news/hp-webos-open-source-macht-arbeitslos-1202-90149.html">HP entlässt WebOS Entwickler</a></li>
-<li><a href="http://www.openwebdevice.com/">Mozilla Boot2Gecko / OpenWebDevice</a>
-
-<ul>
-<li><a href="http://www.golem.de/news/boot-to-web-telef-nica-will-mozilla-smartphones-verkaufen-1202-90049.html">Golem Artikel</a></li>
-<li><a href="http://www.infoq.com/news/2012/02/Status-Boot2Gecko-B2G">The current state of boot2gecko</a></li>
-<li><a href="http://blog.mozilla.com/blog/2012/02/27/mozilla-in-mobile-the-web-is-the-platform/">Mozilla Blogpost</a></li>
-<li><a href="https://wiki.mozilla.org/B2G">Boot2Gecko Wiki</a></li>
-<li><a href="https://github.com/andreasgal/B2G">B2G Github Repository</a></li>
-</ul>
-</li>
-<li><a href="http://www.sencha.com/blog/announcing-sencha-touch-2">Sencha Touch 2.0 wurde veröffentlicht</a></li>
-<li><a href="http://about.travis-ci.org/blog/announcing_python_and_perl_support_on_travis_ci/">Travis-CI unterstützt nun Python und Perl</a></li>
-<li><a href="https://github.com/blog/1068-public-key-security-vulnerability-and-mitigation">Rails Lücke wurde auf Github ausgenutzt</a>
-
-<ul>
-<li><a href="http://blog.mhartl.com/2008/09/21/mass-assignment-in-rails-applications/">Rails mass assignment problem</a></li>
-<li><a href="https://github.com/rails/rails/issues/5228">Bug report im Rails issue tracker</a></li>
-<li><a href="http://homakov.blogspot.com/2012/03/egor-stop-hacking-gh.html">Blogpost des Angreifers</a></li>
-<li><a href="http://homakov.blogspot.com/2012/03/how-to.html">Erklärung des Angreifers</a></li>
-<li><a href="https://github.com/blog/1069-responsible-disclosure-policy">Reaktion von Github</a></li>
-<li><a href="https://github.com/settings/ssh/audit">SSH-Audit Seite bei Github</a></li>
-</ul>
-</li>
-<li><a href="http://tv.adobe.com/watch/adobe-technology-sneaks-2012/adobe-shadow/">Adobe Shadow</a> existiert</li>
-<li><a href="http://www.golem.de/news/gsma-joyn-statt-sms-1202-90081.html">Joyn statt SMS?</a></li>
-<li><a href="http://www.reddit.com/r/compsci/comments/q4e57/help_save_the_worlds_first_webserver_we_need_to/">Code vom ersten HTTP Server wurde verloren und wieder gefunden</a>
-
-<ul>
-<li><a href="https://github.com/NotTheRealTimBL/WWWDaemon/tree/master/old">Github Repo</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://umumble.com/blogs/Programming/321/">The new Programming Slang</a> (Felix)
-
-<ul>
-<li><a href="http://thc.org/root/phun/unmaintain.html">Siehe HowTo write unmaintainable Code</a></li>
-</ul>
-</li>
-<li><a href="http://www.kegel.com/c10k.html">The C10K problem</a> (pfleidi)</li>
-<li><a href="http://www.igvita.com/2012/01/18/building-a-modern-web-stack-for-the-realtime-web/">Building a modern web stack for the realtime web</a> (pfleidi)</li>
-<li><a href="http://www.newscientist.com/article/mg21328501.600-zap-your-brain-into-the-zone-fast-track-to-pure-focus.html">Zap your brain into the zone</a> (pfleidi)</li>
-<li><a href="http://samsaffron.com/archive/2012/03/01/why-upgrading-your-linux-kernel-will-make-your-customers-much-happier">Why upgrading your Linux Kernel will make your customers much happier </a> (Marc)</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>(Mobile Podcatcher Rant) (pfleidi) (marc)</li>
-<li><a href="https://www.ausweisapp.bund.de">Ausweis app auf OSX</a>:
-
-<ul>
-<li><a href="https://skitch.com/marc.seeger/8g5cj/aktualisierung-nicht-moglich">Fail 1</a></li>
-<li><a href="https://skitch.com/marc.seeger/8g5pc/ausweisapp-protokolldatei-versenden">Fail 2</a></li>
-<li><a href="https://skitch.com/marc.seeger/8g5c7/problem-report-for-ausweisapp">Fail 3</a></li>
-</ul>
-</li>
-<li>Windows 7 Taskbar Freeze und Foren User (pfleidi)</li>
-<li>UMTS Karten + T400</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=3LyqETmzkj8">Dell XPS M1530 | Mouse Button Replacement</a> (marc)</li>
-<li>git svn clone -r HEAD $REPO (pfleidi)</li>
-<li><a href="https://chrome.google.com/webstore/detail/bbmelbhnoccdkjiblgchdaofjdbombmh">ChromeToPaper</a> (pfleidi)</li>
-<li><a href="http://www.asofterworld.com">A Softer World</a> (felix)
-
-<ul>
-<li><a href="http://www.amazon.com/gp/product/1550228587?tag=krebsco-21"> Overqualified</a></li>
-</ul>
-</li>
-<li><a href="http://itunes.apple.com/us/app/zombies-run!/id503519713?mt=8">Zombies run</a></li>
-<li><a href="http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html">Jill Bolte Taylor&#8217;s stroke of insight</a> (pfleidi)</li>
-<li><a href="https://www.eff.org/https-everywhere">HTTPS Everywhere für firefox und chrome</a> (Pick von Ingo)</li>
-<li><a href="http://www.anjakempe.com/">Anja Kempe</a> (marc)</li>
-<li><a href="http://euer.krebsco.de/blog/2012/03/06/ftp-share-with-python-on-windows/">FTP Anon Share unter Windows mit Python</a> (felix)</li>
-<li><a href="https://github.com/jkbr/httpie">HTTPie</a> (pfleidi)</li>
-</ul>
-
-</div>
-  
-  
-
-
-
-
-
-
-
-<div class="audio-content">
-   <audio preload='none' controls><source src='http://download.binaergewitter.de/2012-03-07.Binaergewitter.Talk.5.mp3' type='audio/mp3' /><source src='http://download.binaergewitter.de/2012-03-07.Binaergewitter.Talk.5.ogg' type='audio/ogg' /></audio>
-  <p id="download-buttons">
-  
-  <a href="http://download.binaergewitter.de/2012-03-07.Binaergewitter.Talk.5.mp3"><img src="/images/audio_mp3_button.png"
-    title="download mp3" alt="download mp3" style="border:0; border-radius:0;" /></a>
-  
-  <a href="http://download.binaergewitter.de/2012-03-07.Binaergewitter.Talk.5.ogg"><img src="/images/audio_ogg_button.png"
-    title="download ogg" alt="download ogg" style="border:0; border-radius:0;" /></a>
-  
-  </p>
-</div>
-
-
-
-  <div class="flattr-button">
-  <a class="FlattrButton" style="display:none;"
-    
-    
-    title="Binärgewitter Talk #5 - Geckphone!"
-    data-flattr-uid="binaergewitter"
-    data-flattr-tags="podcast,tech,software"
-    data-flattr-button="compact"
-    data-flattr-category="audio"
-    href="http://blog.binaergewitter.de/blog/2012/03/08/binaergewitter-talk-number-5-geckphone//blog/page/4/index.html">
-    Binärgewitter Talk #5 - Geckphone!
-  </a>
-</div>
-
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/5/">&larr; Older</a>
@@ -2511,6 +2535,10 @@ Kilimanjaro</a></li>
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell/">Binärgewitter Talk #44 -  In 54 lines of shell</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2013/03/08/binaergewitter-talk-number-43-elstergate/">Binärgewitter Talk #43 - Elstergate</a>
       </li>
     
@@ -2524,10 +2552,6 @@ Kilimanjaro</a></li>
     
       <li class="post">
         <a href="/blog/2013/02/08/binaergewitter-talk-number-40-der-bus-hat-zwei-frames-verspaetung/">Binärgewitter Talk #40 - der Bus hat zwei Frames Verspätung</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/02/01/binaergewitter-talk-number-39-fies-ability/">Binärgewitter Talk #39 - Fies-ability</a>
       </li>
     
   </ul>

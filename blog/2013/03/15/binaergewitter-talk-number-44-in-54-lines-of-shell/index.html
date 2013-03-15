@@ -1,0 +1,515 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Binärgewitter Talk #44 -  In 54 lines of shell - Binärgewitter</title>
+  <meta name="author" content="Binärgewitter Crew">
+
+  
+  <meta name="description" content="Auch der Gast Jan konnt diese Sendung nicht retten und so fällt diese Sendung eindeutig wieder unter unseren Untertitel &#8220;dumm, geschmacklos und ...">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://blog.binaergewitter.de/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="http://feeds.feedburner.com/binaergewitter-podcast" rel="alternate" title="Binärgewitter" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
+</script>
+
+
+  <meta property="og:url" content="http://blog.binaergewitter.de/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell" />
+  <meta property="og:title" content="Binärgewitter Talk #44 -  In 54 lines of shell - Binärgewitter" />
+  <meta property="og:locale" content="de_DE" />
+  <meta property="og:image" content="http://blog.binaergewitter.de/images/binaergewitter_logo.png" /> 
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Binärgewitter</a></h1>
+  
+    <h2>Web, Technologie und OpenSource Software</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="http://feeds.feedburner.com/binaergewitter-podcast" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:blog.binaergewitter.de" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/live/">Live</a></li>
+  <li><a href="/das-team/">Team</a></li>
+  <li><a href="/ueber-uns/">&#220;ber Bin&#228;rgewitter</a></li>
+  <li><a href="/abonnieren/">Abonnieren</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/impressum/">Impressum</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Binärgewitter Talk #44 - in 54 Lines of Shell</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-03-15T12:00:00+01:00" pubdate data-updated="true">15.03.2013</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Auch der Gast Jan konnt diese Sendung nicht retten und so fällt diese Sendung eindeutig wieder unter unseren Untertitel &#8220;dumm, geschmacklos und unlustig&#8221;. Dabei hatte es so gut angefangen. Nur kurz den
+Papst erwähnt und Stallmann und GNU und Google Reader, aber irgendwie gings dann doch wieder abwärts mit der Sendung. Wir geloben Besserung und versuchen weniger Blödsinn zu reden und vor allem nicht mehr
+soviel durcheinander - bestimmt..</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://googleblog.blogspot.de/2013/03/a-second-spring-of-cleaning.html">Google reader stirbt</a>
+
+<ul>
+<li>Welcher Reader nun fuer RSS?
+
+<ul>
+<li><a href="http://www.quora.com/Google-Reader-Shut-Down-March-2013/Why-is-Google-killing-Google-Reader">Waruuuuuum</a></li>
+<li><a href="http://tt-rss.org/">tt-rss</a></li>
+<li>Was nun? <a href="http://newsblur.com">Newsblur</a>, <a href="http://owncloud.org">ownCloud</a> News app, <a href="http://theoldreader.com">the old reader</a>, <a href="http://feedly.com">feedly</a>, <a href="http://blog.superfeedr.com/state-of-readers/">The State of RSS Readers</a></li>
+<li><a href="http://arstechnica.com/business/2013/03/poll-technica-where-should-we-go-when-google-reader-is-put-out-to-pasture/">Ars Technica</a></li>
+<li><a href="http://blog.digg.com/post/45355701332/were-building-a-reader">Digg</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><a href="http://blog.cryptographyengineering.com/2013/03/attack-of-week-rc4-is-kind-of-broken-in.html">RC4 in TLS is gebrochen, das internet geht unter</a></p>
+
+<ul>
+<li><a href="http://www.imperialviolet.org/2012/01/15/beastfollowup.html">Beast Followup</a></li>
+<li><a href="http://arstechnica.com/security/2013/02/lucky-thirteen-attack-snarfs-cookies-protected-by-ssl-encryption/">Lucky 13</a></li>
+<li><a href="http://www.kali.org/">Kali Linux</a></li>
+</ul>
+</li>
+<li><p><a href="http://www.spiegel.de/panorama/gesellschaft/liveticker-zur-papst-wahl-in-rom-a-888576.html">WTF der Woche: Liveticker zur Papst-Wahl</a></p></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.orf.at/stories/2171333/">Wieder mal der Einsame George als Mumie</a> via hailo-one
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Dorodango">Dorodango</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="https://bitcointalk.org/index.php?topic=152348.80">Bitcoin Double spent</a></li>
+<li><a href="https://www.namecheap.com/support/payment-options/bitcoin.aspx">Namecheap akzeptiert Bitcoin</a></li>
+<li><a href="https://github.com/mitchellh/vagrant/blob/master/CHANGELOG.md">Vagrant 1.1</a></li>
+<li><a href="https://www.panic.com/blog/2013/03/the-lightning-digital-av-adapter-surprise/#comment-16841">Lightning AV Adapter surprise</a></li>
+<li><a href="http://www.vice.com/en_uk/read/rob-rhinehart-no-longer-requires-food">»Soylent« macht Essen unnötig</a>, 24-jähriger Softwareentwickler glaubt den Wundernahrungsdrink entwickelt zu haben
+
+<ul>
+<li><a href="http://www.urbandictionary.com/define.php?term=poopsocking">Poopsocking</a></li>
+<li><a href="https://simple.wikipedia.org/wiki/File:Bee_Squirt.gif">Bee defecatiing</a></li>
+</ul>
+</li>
+<li><a href="http://owncloud.org">ownCloud 5 released</a>, am Freitag <a href="https://owncloud.com/events/event">Party in Stuttgart &amp; Berlin</a></li>
+<li><a href="http://www.amazon.de/gp/product/B007HNZ62A/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007HNZ62A&amp;linkCode=as2&amp;tag=trektrip">Sim City 5</a>
+
+<ul>
+<li><a href="http://news.ycombinator.com/item?id=5339852">Amazon Stoppt verkauf von Sim City 5</a></li>
+<li><a href="http://arstechnica.com/gaming/2013/03/fans-press-uncover-massive-holes-in-simcitys-ai-server-connection/">Internetverbindung ist nur fuer die Durchsetzung des DRM notwendig!</a></li>
+<li><a href="http://arstechnica.com/gaming/2013/03/hackers-open-up-offline-play-modding-tools-for-simcity/">Hacker ermöglichen Offline-Spiel und mehr</a></li>
+</ul>
+</li>
+<li><a href="http://justingregg.com/killer-ukrainian-dolphins-on-the-loose/">Versteckt eure Kinder, die Killerdelfine sind los!</a></li>
+<li><a href="http://www.merlyn.demon.co.uk/critdate.htm">Critical and Significant Dates</a></li>
+<li>kann was über <a href="http://hackerbeach.org">Hacker Beach</a> erzählen
+
+<ul>
+<li>&#8220;Phu Quoc Island&#8221;</li>
+<li>jeden Winter, an einem anderen Paradiesstrand</li>
+</ul>
+</li>
+<li><a href="http://techreport.com/review/24461/a-first-look-at-cherry-mx-green-key-switches">Cherry MX Green - anschlag aehnlich dem IBM Model M</a></li>
+<li><a href="http://arstechnica.com/information-technology/2013/03/google-mpeg-la-agree-to-royalty-free-terms-for-vp8-video-codec/">VP8 ist fuer immer Royalty-free</a></li>
+<li><a href="http://www.technologyreview.com/view/512381/astrobiologists-find-ancient-fossils-in-fireball-fragments/">Fossilien in Feuerballfragmenten - ALIENS!!!</a></li>
+<li><a href="http://arstechnica.com/science/2013/03/mars-rock-contains-elements-essential-to-life/">Science! Mars Steine enthalten alles was man zum leben braucht</a></li>
+<li><a href="https://github.com/nojhan/liquidprompt">Liquidprompt - oder &#8216;wie ich ALLE informationen in den prompt kodieren kann&#8217;</a></li>
+<li><a href="http://hardware.slashdot.org/story/13/03/12/1831210/japan-extracts-natural-gas-from-frozen-methane-hydrate">Japan extrahiert Natuerliches gas von gefrorenem Methanhydrat &#8230; awesome?!</a></li>
+<li><a href="http://it.slashdot.org/story/13/03/13/2225237/blog-reveals-a-chinese-military-hackers-life-is-one-of-boredom-and-bitterness">Surprise &#8230; Ein &#8216;internetspion&#8217; sein ist die meiste zeit ziemlich langweilig</a></li>
+<li><a href="http://news.slashdot.org/story/13/03/13/2052226/why-freeloaders-are-essential-to-foss-project-success">Why Freeloaders are Essential to FOSS</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=mD4L7xDNCmA">The future of Bitcoin: new applications and rebuilding the banking system</a></li>
+<li><a href="http://postgres-bits.herokuapp.com/#1">Postgres- The bits you haven&#8217;t found</a></li>
+<li><a href="https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/preview?usp=sharing&amp;sle=true#slide=id.p">Some Dark Corners of C</a></li>
+<li><a href="http://tomayko.com/writings/rest-to-my-wife">How I Explained REST to My Wife</a></li>
+<li><a href="http://nostarch.com/xboxfree">Reverse Engineering the XBox als kostenfreies E-Book</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://www.telefon.de/manuals/SplMoVer.html">DSL Kabel verlängern</a></li>
+<li>Easybell</li>
+<li><a href="http://www.cisco.com/en/US/docs/wireless/access_point/1200/vxworks/configuration/guide/bkscgaxa.html#wp1013513">WIFI Power</a></li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.rubymotion.com/">Ruby Motion</a>
+
+<ul>
+<li><a href="https://github.com/rubymotion/BubbleWrap">Bubblewrap</a></li>
+</ul>
+</li>
+<li><a href="http://www.kickstarter.com/projects/559914737/the-veronica-mars-movie-project">Veronica Mars Film Kickstarter</a></li>
+<li><a href="https://developers.google.com/events/io/experiment-cat">Google I/O Starter Page</a></li>
+<li><a href="http://bitcoinity.org/markets">Bitcoinity Graphen</a></li>
+<li><a href="http://www.amazon.de/gp/product/B0058SH1TM/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0058SH1TM&amp;linkCode=as2&amp;tag=trektrip">StarCraft II - Heart of the Swarm</a>
+
+<ul>
+<li><a href="http://www.amazon.de/gp/product/383322441X/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=383322441X&amp;linkCode=as2&amp;tag=trektrip">StarCraft II - Flashpoint - Der Roman, der die Ereignis zwischen Starcarft II Wings of Liberty und Heart of the Swarm erklärt</a></li>
+</ul>
+</li>
+<li><a href="http://www.youtube.com/watch?v=i5v-RR8bX7o&amp;feature=youtu.be">Friseuse Claudia</a></li>
+</ul>
+
+</div>
+
+
+
+
+
+
+
+<div class="audio-content">
+   <audio preload='none' controls><source src='http://download.binaergewitter.de/2013-03-14.Binaergewitter.Talk.44.mp3' type='audio/mp3' /><source src='http://download.binaergewitter.de/2013-03-14.Binaergewitter.Talk.44.ogg' type='audio/ogg' /><source src='http://download.binaergewitter.de/2013-03-14.Binaergewitter.Talk.44.m4a' type='audio/x-m4a' /><source src='http://download.binaergewitter.de/2013-03-14.Binaergewitter.Talk.44.opus' type='' /></audio>
+  <p id="download-buttons">
+  
+  <a href="http://download.binaergewitter.de/2013-03-14.Binaergewitter.Talk.44.mp3"><img src="/images/audio_mp3_button.png"
+    title="download mp3" alt="download mp3" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2013-03-14.Binaergewitter.Talk.44.ogg"><img src="/images/audio_ogg_button.png"
+    title="download ogg" alt="download ogg" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2013-03-14.Binaergewitter.Talk.44.m4a"><img src="/images/audio_m4a_button.png"
+    title="download m4a" alt="download m4a" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2013-03-14.Binaergewitter.Talk.44.opus"><img src="/images/audio_opus_button.png"
+    title="download opus" alt="download opus" style="border:0; border-radius:0;" /></a>
+  
+  </p>
+</div>
+
+
+
+  <div class="flattr-button">
+  <a class="FlattrButton" style="display:none;"
+    
+    
+    title="Binärgewitter Talk #44 -  In 54 lines of shell"
+    data-flattr-uid="binaergewitter"
+    data-flattr-tags="podcast,tech,software"
+    data-flattr-button="compact"
+    data-flattr-category="audio"
+    href="http://blog.binaergewitter.de/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell/">
+    
+  </a>
+</div>
+
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Binärgewitter Crew</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-03-15T12:00:00+01:00" pubdate data-updated="true">15.03.2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/talk/'>talk</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.binaergewitter.de/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell/" data-via="binaergewitter" data-counturl="http://blog.binaergewitter.de/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2013/03/08/binaergewitter-talk-number-43-elstergate/" title="Previous Post: Binärgewitter Talk #43 - Elstergate">&laquo; Binärgewitter Talk #43 - Elstergate</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell/">Binärgewitter Talk #44 -  In 54 lines of shell</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/03/08/binaergewitter-talk-number-43-elstergate/">Binärgewitter Talk #43 - Elstergate</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/03/01/binaergewitter-talk-number-42-drehstromziege/">Binärgewitter Talk #42 - Drehstromziege</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/02/23/binaergewitter-talk-number-41-2013-das-jahr-on-linux-auf-dem-todesstern/">Binärgewitter Talk #41 - 2013 das Jahr von Linux auf dem Todesstern</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/02/08/binaergewitter-talk-number-40-der-bus-hat-zwei-frames-verspaetung/">Binärgewitter Talk #40 - der Bus hat zwei Frames Verspätung</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+<div class="flattr-button">
+  <h1>Flattr</h1>
+  <a class="FlattrButton" style="display:none;"
+    title="Binärgewitter"
+    data-flattr-uid="binaergewitter"
+    data-flattr-tags="podcast,tech,software"
+    data-flattr-category="audio"
+    href="http://blog.binaergewitter.de">
+    Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt
+  </a>
+</div>
+</section>
+
+
+<section>
+  <h1>Github Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/binaergewitter">@binaergewitter</a> on Github
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'binaergewitter',
+            count: 2,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("binaergewitter", 5, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/binaergewitter" class="twitter-follow-button" data-show-count="false">Follow @binaergewitter</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Binärgewitter Crew - Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a> -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  <!-- analytics tracking code -->
+
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+(function () { var u=(("https:" == document.location.protocol) ? "https://piwik.roothausen.de/" : "http://piwik.roothausen.de/");
+ _paq.push(['setSiteId', 3]);
+ _paq.push(['setTrackerUrl', u+'piwik.php']);
+ _paq.push(['trackPageView']);
+ _paq.push(['enableLinkTracking']);
+ var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.defer=true; g.async=true; g.src=u+'piwik.js';
+ s.parentNode.insertBefore(g,s); })();
+</script>
+<!-- End Piwik Code -->
+
+
+
+<!-- other JS plugins -->
+
+
+<script type="text/javascript">
+      var disqus_shortname = 'binaergewitterpodcast';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://blog.binaergewitter.de/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell/';
+        var disqus_url = 'http://blog.binaergewitter.de/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
