@@ -57,7 +57,7 @@ Wieder nur das dynamische Duo (toller Seitenhiep auf die Batman-Story ;)) besteh
     * [duplicity](http://duplicity.nongnu.org/ )
 
 ## Picks
-- [SSDs machen sexy]( i.imgur.com/q8PLerd.jpg )
+- [SSDs machen sexy]( http://i.imgur.com/q8PLerd.jpg )
 - [Mark Brandis Folge 23]( http://www.amazon.de/gp/product/B00BLU0UKS/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00BLU0UKS&linkCode=as2&tag=trektrip )
 - [IPv6 address normalisierung]( http://backreference.org/2013/03/01/ipv6-address-normalization/ )
 - [Bashism]( http://mywiki.wooledge.org/Bashism )
