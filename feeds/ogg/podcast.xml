@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 22 Mar 2013 12:51:36 +0100</lastBuildDate>
-    <atom:updated>2013-03-22T12:51:36+01:00</atom:updated>
+    <lastBuildDate>Fri, 29 Mar 2013 20:11:08 +0100</lastBuildDate>
+    <atom:updated>2013-03-29T20:11:08+01:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,360 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #46 - Kim Jong Ilmages</title>
+      <link>http://blog.binaergewitter.de/blog/2013/03/29/binaergewitter-talk-number-46-kim-jong-ilmages/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/03/29/binaergewitter-talk-number-46-kim-jong-ilmages/#comments</comments>
+      <pubDate>Fri, 29 Mar 2013 20:20:00 +0100</pubDate>
+      <atom:updated>2013-03-29T20:20:00+01:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F03%2F29%2Fbinaergewitter-talk-number-46-kim-jong-ilmages%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2346%20-%20Kim%20Jong%20Ilmages&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/03/29/binaergewitter-talk-number-46-kim-jong-ilmages</guid>
+      
+      <description>
+        <![CDATA[<p>Heute mal ohne Ingo aber mit Pfleidi, Felix und Jan und einer langen Sendung, die leider zwischen drin Technikprobleme hatte. Wir wünschen euch trotzdem ein tolles Osterfest. Baut Schneehasen und feiert
+ein bisschen oder esst euch an Hasen satt.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://ycorpblog.com/2013/03/25/yahoo-to-acquire-summly/">Yahoo kauft Summly für 30 Millionen $</a>, iOS app gibts nicht mehr. Artikel und Diskussionen dazu <a href="https://news.ycombinator.com/item?id=5442290">auf Hacker News</a>, und <a href="https://news.ycombinator.com/item?id=5445159">noch eine</a>
+
+<ul>
+<li>apropos...IRC Digest Bot</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.cispaisback.org/">CISPA ist wieder da</a> – alle eure Mailadressen in die Petition eintragen!</li>
+<li><a href="http://www.osnews.com/story/26865/Samsung_s_future_is_Tizen_not_Android">Samsung setzt auf Tizen</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://fanboys.fm/drossel/">Pläne zur DSL Drosselung bei der Telekom</a></li>
+<li><a href="http://forecast.io/">Forecast.io</a></li>
+<li><a href="https://www.gnome.org/news/2013/03/gnome-3-8-released/">GNOME 3.8 released</a></li>
+<li><a href="http://www.golem.de/news/html5-unreal-engine-laeuft-nativ-im-browser-1303-98432.html">Unreal Engine läuft im Browser</a>, <a href="https://blog.mozilla.org/blog/2013/03/27/mozilla-is-unlocking-the-power-of-the-web-as-a-platform-for-gaming/">Mozilla Blog dazu</a></li>
+<li><a href="http://mrdoob.github.com/three.js/editor/">Three.js Editor</a></li>
+<li><a href="https://lwn.net/SubscriberLink/544347/d9c904117b4824d1/">Status.net Transition zu pump.io</a>, PHP -> node.js, mehr Infrastruktur
+
+<ul>
+<li><a href="https://openfarmgame.com/">Open Farm Game</a></li>
+</ul>
+</li>
+<li><a href="https://www.noisebridge.net/pipermail/noisebridge-discuss/2013-March/035494.html">Noisebridge darf nicht sterben</a></li>
+<li><a href="https://www.archlinux.org/news/mariadb-replaces-mysql-in-repositories/">Archlinux ersetzt MySQL mit MariaDB</a></li>
+</ul>
+
+
+<h3>Security Dinge</h3>
+
+<ul>
+<li><a href="http://venturebeat.com/2013/03/22/apple-password-flaw/">Apple Passwort Fail</a></li>
+<li><a href="http://hackaday.com/2013/03/23/html-link-tag-hack-sends-you-to-the-wrong-place/">HTML link tag hack</a></li>
+<li><a href="http://www.net-security.org/secworld.php?id=14651">Digitalkamera mit Wifi gehackt</a></li>
+<li><a href="http://www.gulli.com/news/21132-massive-ddos-angriffe-gegen-spamhaus-2013-03-27">Bislang groesster DDoS gegen Spamhaus</a></li>
+<li><a href="http://www.theregister.co.uk/2013/03/26/netbsd_crypto_bug/">Schwache NetBSD Keys</a></li>
+<li><a href="http://www.v3.co.uk/v3-uk/news/2258192/leaky-amazon-s3-buckets-put-thousands-of-company-secrets-at-risk">Leaky Amazon S3 buckets</a></li>
+<li><a href="http://9to5google.com/2013/03/25/faa-expected-to-allow-tablet-and-laptop-use-during-take-off-landing-this-year/">Endlich Laptops und Tablets beim Starten und Landen an lassen</a></li>
+<li><a href="http://www.shiotsu-used-car.com/blog/hitachi-selfdrivingroboticcar-ropits.htm">Self-driving Robotic Car ROPITS</a></li>
+<li><a href="http://www.neowin.net/news/ie11-to-appear-as-firefox-to-avoid-legacy-ie-css">IE11 gibt sich als Firefox aus</a></li>
+<li><a href="http://www.google.com/transparencyreport/removals/">Google Transparenzbericht</a></li>
+<li><a href="http://www.heise.de/open/meldung/Microsoft-wegen-Secure-Boot-verklagt-1830704.html">Microsoft wegen Secure Boot verklagt</a></li>
+<li><a href="http://slashdot.org/topic/cloud/massachusetts-considering-a-tax-on-the-cloud/">Massachusetts - We've gotta Tax .... THE CLOUD</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Tools zur Verwaltung von Notizen</h3>
+
+<ul>
+<li><a href="http://www.cnn.com/2013/03/04/tech/web/evernote-hacked">Evernote hacked</a></li>
+<li><a href="http://www.dropbox.com/">Dropbox</a>
+
+<ul>
+<li>Drobox rendert Markdown beim verlinken von Dateien</li>
+</ul>
+</li>
+<li><a href="http://brettterpstra.com/projects/nvalt/">NvAlt</a>
+
+<ul>
+<li><a href="http://bettermess.com/nvalt-and-byword/">NvAlt + Byword</a></li>
+</ul>
+</li>
+<li><a href="http://taskwarrior.org/projects/show/taskwarrior">Taskwarrior Task</a></li>
+<li><a href="http://daringfireball.net/projects/markdown/">Markdown</a></li>
+<li><a href="http://markedapp.com/">Marked.app</a></li>
+<li><a href="http://markable.in/">Markable</a></li>
+<li><a href="http://notesy-app.com/">Notesy</a></li>
+<li><a href="https://github.com/itspriddle/vim-marked">Vim-marked</a></li>
+<li><a href="http://www.iawriter.com/mac/">iA Writer</a></li>
+<li><a href="http://markable.in/">Markable</a></li>
+<li><a href="http://brettterpstra.com/ios-text-editors/">iOS Text Editor Comparison</a></li>
+<li><a href="http://litewrite.net">Litewrite</a> ist ein simples web-app welches offline funktioniert (localStorage &amp; AppCache) und <a href="http://remotestorage.io">remoteStorage</a> für sync nutzt. Auch im <a href="https://chrome.google.com/webstore/detail/litewrite/cbdonnipllnmnkbmeopncohocjggmdkk">Chrome Web
+Store</a> (jan)</li>
+<li><a href="http://owncloud.org">ownCloud</a> hat auch ein Notes app in Entwicklung. Nutzt einfach Textdateien in einem »Notes«-Ordner, daher leicht über WebDAV synchronisierbar. (jan)</li>
+<li>zu Markdown: es gibt noch kein gescheites App mit gutem Inline-Markdown (Zeichen werden angezeigt, und Formatierung auch). Ist entweder nur sehr simples Syntaxhighlighting oder geteilt in edit / preview
+mode, wie z.B. bei <a href="http://epiceditor.com">Epic Editor</a>. Planen für Litewrite den <a href="http://codemirror.net/mode/markdown/index.html">CodeMirror Markdown mode</a> zu verbessern (jan)</li>
+<li><a href="https://write-box.appspot.com/">Writebox</a> Web-App für Notes, synct mit Google Drive oder Dropbox</li>
+<li><a href="https://drive.google.com/keep/">Google Keep</a>, haha ja ist klar Google</li>
+</ul>
+
+
+<h3>Design in open source (jan)</h3>
+
+<ul>
+<li><a href="https://blog.mozilla.org/ux/">Mozilla UX blog</a></li>
+<li><a href="http://design.canonical.com/">Ubuntu design blog</a></li>
+<li><a href="https://planet.gnome.org/ux/">GNOME UX planet</a></li>
+<li><a href="https://make.wordpress.org/ui/">Wordpress UI group</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Design">Wikimedia design page</a></li>
+<li><a href="http://www.acquia.com/blog/design">Acquia design blog</a></li>
+<li><a href="https://owncloud.com/blog/category/community">ownCloud blog</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.paperplanes.de//2013/1/16/coffee-and-the-art-of-customer-happiness.html">Coffee and the art of customer happiness</a> (pfleidi)</li>
+<li><a href="https://joepie91.wordpress.com/2013/03/21/licensing-for-beginners/">Licensing for Beginners</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>SMS und Multisim (pfleidi)
+
+<ul>
+<li><a href="https://twitter.com/dhlpaket">@DHLPaket Support</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.apple.com/iphone/icloud/#find">Find my iPhone</a> (pfleidi)</li>
+<li><a href="http://conversat.io/binaergewitter">conversat.io: Hangout mit WebRTC</a> (jan)</li>
+<li><a href="http://labs.echonest.com/Uploader/index.html">Infinite Jukebox</a></li>
+<li><a href="http://monosnap.com/">Monosnap</a> (pfleidi)</li>
+<li><a href="https://getmyo.com/">Myo: Gesture Control Armband</a> aus YCombinator Winter batch</li>
+<li><a href="http://www.gar1t.com/blog/2013/03/21/erlang-the-movie-ii-the-sequel/">Erlang the movie II the sequel</a></li>
+<li><a href="http://www.elezea.com/">Elezea</a> und <a href="http://ignorethecode.net/blog/">Ignore the Code</a> (jan)</li>
+<li><a href="http://forkmydongle.com/">Fork my Dongle</a></li>
+<li><a href="http://github.com/jancborchardt/hackercouch">Hacker Couch</a> – forkt es und packt eure Couch rein! (jan)</li>
+<li><a href="https://github.com/garbas/vim-snipmate">snipmate-vim</a>
+
+<ul>
+<li><a href="https://github.com/honza/snipmate-snippets">Snippets Repo</a></li>
+<li>Markdown snippets etc.</li>
+</ul>
+</li>
+<li><a href="http://www.reddit.com/r/tldr">reddit TL;DR</a> (jan)</li>
+<li><a href="http://hackershelf.com/browse/">The Hacker Shelf</a> (jan)</li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.ogg"
+        length="104226400"
+        type="audio/ogg" />
+      <media:content url="http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.ogg"
+        fileSize="104226400"
+        type="audio/ogg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #46 - Kim Jong Ilmages</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Heute mal ohne Ingo aber mit Pfleidi, Felix und Jan und einer langen Sendung, die leider zwischen drin Technikprobleme hatte. Wir wünschen euch trotzdem ein tolles Osterfest. Baut Schneehasen und feiert
+ein bisschen oder esst euch an Hasen satt.
+
+Toter der Woche
+
+
+Yahoo kauft Summly für 30 Millionen $, iOS app gibts nicht mehr. Artikel und Diskussionen dazu auf Hacker News, und noch eine
+
+
+apropos...IRC Digest Bot
+
+
+
+
+
+Untoter der Woche
+
+
+CISPA ist wieder da – alle eure Mailadressen in die Petition eintragen!
+Samsung setzt auf Tizen
+
+
+
+News
+
+
+Pläne zur DSL Drosselung bei der Telekom
+Forecast.io
+GNOME 3.8 released
+Unreal Engine läuft im Browser, Mozilla Blog dazu
+Three.js Editor
+Status.net Transition zu pump.io, PHP -> node.js, mehr Infrastruktur
+
+
+Open Farm Game
+
+
+Noisebridge darf nicht sterben
+Archlinux ersetzt MySQL mit MariaDB
+
+
+
+Security Dinge
+
+
+Apple Passwort Fail
+HTML link tag hack
+Digitalkamera mit Wifi gehackt
+Bislang groesster DDoS gegen Spamhaus
+Schwache NetBSD Keys
+Leaky Amazon S3 buckets
+Endlich Laptops und Tablets beim Starten und Landen an lassen
+Self-driving Robotic Car ROPITS
+IE11 gibt sich als Firefox aus
+Google Transparenzbericht
+Microsoft wegen Secure Boot verklagt
+Massachusetts - We've gotta Tax .... THE CLOUD
+
+
+
+Themen
+
+Tools zur Verwaltung von Notizen
+
+
+Evernote hacked
+Dropbox
+
+
+Drobox rendert Markdown beim verlinken von Dateien
+
+
+NvAlt
+
+
+NvAlt + Byword
+
+
+Taskwarrior Task
+Markdown
+Marked.app
+Markable
+Notesy
+Vim-marked
+iA Writer
+Markable
+iOS Text Editor Comparison
+Litewrite ist ein simples web-app welches offline funktioniert (localStorage &amp; AppCache) und remoteStorage für sync nutzt. Auch im Chrome Web
+Store (jan)
+ownCloud hat auch ein Notes app in Entwicklung. Nutzt einfach Textdateien in einem »Notes«-Ordner, daher leicht über WebDAV synchronisierbar. (jan)
+zu Markdown: es gibt noch kein gescheites App mit gutem Inline-Markdown (Zeichen werden angezeigt, und Formatierung auch). Ist entweder nur sehr simples Syntaxhighlighting oder geteilt in edit / preview
+mode, wie z.B. bei Epic Editor. Planen für Litewrite den CodeMirror Markdown mode zu verbessern (jan)
+Writebox Web-App für Notes, synct mit Google Drive oder Dropbox
+Google Keep, haha ja ist klar Google
+
+
+
+Design in open source (jan)
+
+
+Mozilla UX blog
+Ubuntu design blog
+GNOME UX planet
+Wordpress UI group
+Wikimedia design page
+Acquia design blog
+ownCloud blog
+
+
+
+Lesefoo
+
+
+Coffee and the art of customer happiness (pfleidi)
+Licensing for Beginners
+
+
+
+Mimimi der Woche
+
+
+SMS und Multisim (pfleidi)
+
+
+@DHLPaket Support
+
+
+
+
+
+Picks
+
+
+Find my iPhone (pfleidi)
+conversat.io: Hangout mit WebRTC (jan)
+Infinite Jukebox
+Monosnap (pfleidi)
+Myo: Gesture Control Armband aus YCombinator Winter batch
+Erlang the movie II the sequel
+Elezea und Ignore the Code (jan)
+Fork my Dongle
+Hacker Couch – forkt es und packt eure Couch rein! (jan)
+snipmate-vim
+
+
+Snippets Repo
+Markdown snippets etc.
+
+
+reddit TL;DR (jan)
+The Hacker Shelf (jan)
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
@@ -493,15 +847,15 @@ soviel durcheinander - bestimmt..</p>
 </ul>
 </li>
 <li><a href="http://justingregg.com/killer-ukrainian-dolphins-on-the-loose/">Versteckt eure Kinder, die Killerdelfine sind los!</a></li>
-<li><a href="http://www.merlyn.demon.co.uk/critdate.htm">Critical and Significant Dates</a></li>
-<li>kann was über <a href="http://hackerbeach.org">Hacker Beach</a> erzählen
+<li><a href="http://www.merlyn.demon.co.uk/critdate.zip">Critical and Significant Dates</a></li>
+<li><a href="http://hackerbeach.org">Hacker Beach</a>
 
 <ul>
 <li>"Phu Quoc Island"</li>
 <li>jeden Winter, an einem anderen Paradiesstrand</li>
 </ul>
 </li>
-<li><a href="http://techreport.com/review/24461/a-first-look-at-cherry-mx-green-key-switches">Cherry MX Green - anschlag aehnlich dem IBM Model M</a></li>
+<li><a href="http://techreport.com/review/24461/a-first-look-at-cherry-mx-green-key-switches">Cherry MX Green - Anschlag aehnlich dem IBM Model M</a></li>
 <li><a href="http://arstechnica.com/information-technology/2013/03/google-mpeg-la-agree-to-royalty-free-terms-for-vp8-video-codec/">VP8 ist fuer immer Royalty-free</a></li>
 <li><a href="http://www.technologyreview.com/view/512381/astrobiologists-find-ancient-fossils-in-fireball-fragments/">Fossilien in Feuerballfragmenten - ALIENS!!!</a></li>
 <li><a href="http://arstechnica.com/science/2013/03/mars-rock-contains-elements-essential-to-life/">Science! Mars Steine enthalten alles was man zum leben braucht</a></li>
@@ -527,7 +881,7 @@ soviel durcheinander - bestimmt..</p>
 
 <ul>
 <li><a href="http://www.telefon.de/manuals/SplMoVer.html">DSL Kabel verlängern</a></li>
-<li>Easybell</li>
+<li><a href="http://easybell.de/">Easybell</a></li>
 <li><a href="http://www.cisco.com/en/US/docs/wireless/access_point/1200/vxworks/configuration/guide/bkscgaxa.html#wp1013513">WIFI Power</a></li>
 </ul>
 
@@ -638,14 +992,14 @@ Hacker ermöglichen Offline-Spiel und mehr
 
 Versteckt eure Kinder, die Killerdelfine sind los!
 Critical and Significant Dates
-kann was über Hacker Beach erzählen
+Hacker Beach
 
 
 "Phu Quoc Island"
 jeden Winter, an einem anderen Paradiesstrand
 
 
-Cherry MX Green - anschlag aehnlich dem IBM Model M
+Cherry MX Green - Anschlag aehnlich dem IBM Model M
 VP8 ist fuer immer Royalty-free
 Fossilien in Feuerballfragmenten - ALIENS!!!
 Science! Mars Steine enthalten alles was man zum leben braucht
@@ -827,7 +1181,7 @@ Friseuse Claudia
 <h2>Picks</h2>
 
 <ul>
-<li><a href="i.imgur.com/q8PLerd.jpg">SSDs machen sexy</a></li>
+<li><a href="http://i.imgur.com/q8PLerd.jpg">SSDs machen sexy</a></li>
 <li><a href="http://www.amazon.de/gp/product/B00BLU0UKS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00BLU0UKS&amp;linkCode=as2&amp;tag=trektrip">Mark Brandis Folge 23</a></li>
 <li><a href="http://backreference.org/2013/03/01/ipv6-address-normalization/">IPv6 address normalisierung</a></li>
 <li><a href="http://mywiki.wooledge.org/Bashism">Bashism</a></li>
