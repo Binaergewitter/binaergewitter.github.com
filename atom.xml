@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-03-29T20:13:59+01:00</updated>
+  <updated>2013-04-03T16:35:56+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -309,7 +309,7 @@ mode, wie z.B. bei <a href="http://epiceditor.com">Epic Editor</a>. Planen für 
 <ul>
 <li><a href="http://www.one-tab.com/">OneTab</a></li>
 <li><a href="http://www.haystacksoftware.com/arq/">Arq</a></li>
-<li>Dublicity</li>
+<li>[Duplicity] ( http://duplicity.nongnu.org/ )</li>
 <li><a href="http://chocolatey.org/">Chocolatery - Windows Paket Manager</a></li>
 <li><a href="http://www.noodlesoft.com/hazel.php">Hazel</a></li>
 <li><a href="http://giphy.com/">Giphy</a></li>

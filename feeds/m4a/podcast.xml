@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 29 Mar 2013 20:13:59 +0100</lastBuildDate>
-    <atom:updated>2013-03-29T20:13:59+01:00</atom:updated>
+    <lastBuildDate>Wed, 03 Apr 2013 16:35:56 +0200</lastBuildDate>
+    <atom:updated>2013-04-03T16:35:56+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -239,11 +239,11 @@ mode, wie z.B. bei <a href="http://epiceditor.com">Epic Editor</a>. Planen für 
       
       
       
-      <enclosure url="http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.mp3"
-        length="134501145"
+      <enclosure url="http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.m4a"
+        length="92798924"
         type="audio/mpeg" />
-      <media:content url="http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.mp3"
-        fileSize="134501145"
+      <media:content url="http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.m4a"
+        fileSize="92798924"
         type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #46 - Kim Jong Ilmages</itunes:subtitle>
@@ -565,7 +565,7 @@ The Hacker Shelf (jan)
 <ul>
 <li><a href="http://www.one-tab.com/">OneTab</a></li>
 <li><a href="http://www.haystacksoftware.com/arq/">Arq</a></li>
-<li>Dublicity</li>
+<li>[Duplicity] ( http://duplicity.nongnu.org/ )</li>
 <li><a href="http://chocolatey.org/">Chocolatery - Windows Paket Manager</a></li>
 <li><a href="http://www.noodlesoft.com/hazel.php">Hazel</a></li>
 <li><a href="http://giphy.com/">Giphy</a></li>
@@ -726,7 +726,7 @@ Picks
 
 OneTab
 Arq
-Dublicity
+[Duplicity] ( http://duplicity.nongnu.org/ )
 Chocolatery - Windows Paket Manager
 Hazel
 Giphy
