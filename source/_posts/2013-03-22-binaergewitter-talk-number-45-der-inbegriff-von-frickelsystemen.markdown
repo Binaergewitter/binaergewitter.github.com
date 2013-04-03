@@ -96,7 +96,7 @@ Pfleidi is back. Also ist endlich alles wie immer. Oder? Zumindest gehen wir dur
 
 - [OneTab]( http://www.one-tab.com/ )
 - [Arq]( http://www.haystacksoftware.com/arq/ )
-- Dublicity
+- [Duplicity] ( http://duplicity.nongnu.org/ )
 - [Chocolatery - Windows Paket Manager]( http://chocolatey.org/ )
 - [Hazel]( http://www.noodlesoft.com/hazel.php )
 - [Giphy]( http://giphy.com/ )
