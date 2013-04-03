@@ -8,8 +8,8 @@ sharing: true
 audioformats:
   mp3: http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.mp3
   ogg: http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.ogg
-  m4a: http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.mp3
-  opus: http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.mp3
+  m4a: http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.m4a
+  opus: http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.opus
 ---
 Heute mal ohne Ingo aber mit Pfleidi, Felix und Jan und einer langen Sendung, die leider zwischen drin Technikprobleme hatte. Wir wünschen euch trotzdem ein tolles Osterfest. Baut Schneehasen und feiert 
 ein bisschen oder esst euch an Hasen satt.
