@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Wed, 03 Apr 2013 16:35:56 +0200</lastBuildDate>
-    <atom:updated>2013-04-03T16:35:56+02:00</atom:updated>
+    <lastBuildDate>Fri, 05 Apr 2013 17:23:59 +0200</lastBuildDate>
+    <atom:updated>2013-04-05T17:23:59+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,462 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #46 - Kim Jong Ilmages</title>
+      <link>http://blog.binaergewitter.de/blog/2013/04/05/binaergewitter-talk-number-47-von-null-auf-systemd/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/04/05/binaergewitter-talk-number-47-von-null-auf-systemd/#comments</comments>
+      <pubDate>Fri, 05 Apr 2013 18:00:00 +0200</pubDate>
+      <atom:updated>2013-04-05T18:00:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F04%2F05%2Fbinaergewitter-talk-number-47-von-null-auf-systemd%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2346%20-%20Kim%20Jong%20Ilmages&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/04/05/binaergewitter-talk-number-47-von-null-auf-systemd</guid>
+      
+      <description>
+        <![CDATA[<p>Ostern ist vorbei. Binärgewitter ist wieder da und das in vollzähliger Stammbesetzung. Heiß her gehts diesmal über den Sinn von Atomkraftwerken und über das vermessene Selbst....</p>
+
+<h2>1. April der Woche</h2>
+
+<ul>
+<li><a href="http://vividtimes.com/round-up-all-best-april-fools-day-prank-around-the-world/">Lustige 1. April dinge</a>
+
+<ul>
+<li><a href="http://lists.freedesktop.org/archives/systemd-devel/2013-March/010062.html">systemd bekommt libc modul</a>
+
+<ul>
+<li><a href="http://www.golem.de/news/zerg-demo-erlang-on-xen-startet-ohne-os-in-rund-100-millisekunden-1302-97673.html">Erlang Party</a></li>
+</ul>
+</li>
+<li><a href="http://www.capcom-unity.com/combofiend/blog/2013/04/01/introducing-super-duper-street-fighter-4">Super Duper Street Fighter 4</a></li>
+<li><a href="http://www.googlewatchblog.de/2013/03/haeuser-google-street-view/">Haeuser mit Google Street view renovieren</a></li>
+<li><a href="http://www.youtube.com/watch?v=B7a58JxWCUA&amp;feature=youtu.be">Abfuehrmittel bei Moewen</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.gulli.com/news/21186-lucasarts-schliessung-nach-uebernahme-durch-disney-2013-04-04">LucasArts</a>
+
+<ul>
+<li><a href="http://www.gulli.com/news/21186-lucasarts-schliessung-nach-uebernahme-durch-disney-2013-04-04">Jedi Knight Source Code freigegeben</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/information-technology/2013/03/worlds-fastest-supercomputer-from-09-is-now-obsolete-will-be-dismantled">IBM Roadrunner</a></li>
+</ul>
+
+
+<h2>Apache Graveyard der Woche</h2>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/19629/apache-bloodhound-wird-offizielles-apache-projekt.html">Apache Bloodhound</a></li>
+</ul>
+
+
+<h2>Sicherheit durch Ignoranz der Woche</h2>
+
+<ul>
+<li>Owncloud</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://techcrunch.com/2013/04/04/live-blog-live-from-the-facebook-phone-event/">Facebook Home</a></li>
+<li><a href="http://news.cnet.com/8301-1023_3-57577587-93/chinese-search-engine-develops-google-glass-rival-says-report/">Baidu (<code>Not</code> Google) entwickelt <code>Not</code> Google Glasses</a></li>
+<li><a href="http://news.cnet.com/8301-13578_3-57577887-38/apples-imessage-encryption-trips-up-feds-surveillance/">iMessage encryption</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19632/alles-gute-15-jahre-mozilla.html">15 Jahre Mozilla</a></li>
+<li><a href="http://arstechnica.com/information-technology/2013/04/firefox-turns-20version-20-that-is/">Firefox wird 20</a></li>
+<li><a href="https://blog.mozilla.org/blog/2013/04/03/mozilla-and-samsung-collaborate-on-next-generation-web-browser-engine/">Mozilla und Samsung arbeiten zusammen an Browser Engine</a></li>
+<li><a href="https://github.com/mozilla/rust/blob/release-0.6/RELEASES.txt">Rust 0.6 wurde veröffentlicht</a>
+
+<ul>
+<li><a href="http://ejohn.org/blog/asmjs-javascript-compile-target/">Blogpost zu ASM.js</a></li>
+</ul>
+</li>
+<li><a href="http://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html">Blink: Neue Rendering Engine für Chrome</a>
+
+<ul>
+<li><a href="http://prng.net/blink-faq.html">No Bullshit translation</a></li>
+<li><a href="http://www.chromium.org/blink#new-features">Features</a></li>
+<li><a href="http://www.brucelawson.co.uk/2013/hello-blink/">Opera ist auch mit von der Partie</a></li>
+<li><a href="http://robertnyman.com/2013/04/04/thoughts-on-blink-googles-new-rendering-engine/">Kommentarpost #1</a></li>
+<li><a href="http://infrequently.org/2013/04/probably-wrong/">Kommentarpost #2</a></li>
+</ul>
+</li>
+<li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=U8HVQXkeU8U">BF4 gameplay video</a></li>
+<li><a href="http://cen.acs.org/articles/91/web/2013/04/Nuclear-Power-Prevents-Deaths-Causes.html">Nuklearkraft verhindert mehr Tote als es verursacht</a>
+
+<ul>
+<li>Felix und Marc stimmen zu und haben eine völlig falsche Risikoabschätzung</li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/developer/meldung/Adobe-stellt-Blank-Font-unter-Open-Source-Lizenz-1833872.html">Adobe macht Blank font Open-Source</a></li>
+<li><a href="http://jefferai.org/2013/03/24/too-perfect-a-mirror/">Too perfect a mirror</a> (deleted the post... not cool - google cache for the rescue)
+[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )</li>
+<li><a href="https://blog.bit9.com/2013/04/02/the-realities-of-cyberwar-fear-uncertainty-and-doubt/">The Realities of Cyberwar</a></li>
+<li><a href="http://arstechnica.com/security/2013/04/wtf-ats-profane-password-ban-lets-some-swears-through/">ATT bannt anstoessige Passwoerter</a></li>
+<li><a href="http://blog.dotcloud.com/new-sandbox">Dotcloud gibt Stack als OSS frei</a></li>
+<li><a href="http://www.golem.de/news/cloud-drive-amazon-konkurriert-mit-dropbox-1304-98459.html">Amazon bringt Dateisynchronisation</a></li>
+<li><a href="http://www.golem.de/news/webmailer-yahoo-integriert-dropbox-1304-98481.html">Yahoo integriert Dropbox</a></li>
+<li><a href="http://www.golem.de/news/aerofs-das-bessere-dropbox-1304-98485.html">AeroFS nun offen für alle</a>
+
+<ul>
+<li><a href="http://blog.aerofs.com/70/aerofss3-private-syncing-to-amazons-cloud-made-easy">pseudo S3 Support</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/developer/meldung/Dateisystem-ZFS-on-Linux-bereit-fuer-Alltagseinsatz-1833105.html">ZFS auf Linux bereit für den Praxiseinsatz</a> (wo bleibt cheeseFS )</li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Quantified Self</h3>
+
+<ul>
+<li>Devices
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B009OC8W96?tag=pfleidi-21">Fitbit One</a>
+
+<ul>
+<li><a href="http://blog.marc-seeger.de/2012/09/16/backing-up-fitbit-data-using-their-api/">Daten Backup</a></li>
+<li><a href="https://github.com/openyou/libfitbit">Libfitbit</a></li>
+</ul>
+</li>
+<li><a href="http://www.amazon.de/dp/B0077L8YOO?tag=pfleidi-21">Fitbit Aria</a></li>
+<li><a href="http://www.amazon.de/dp/B002JE2PSA?tag=pfleidi-21">Withings Wifi Scale</a>
+
+<pre><code>- [Neue Version]( http://www.amazon.de/dp/B00BKRQ4E8?tag=pfleidi-21 )
+</code></pre></li>
+<li><a href="http://www.tictrac.com/">Tictrac</a></li>
+<li><a href="http://www.amazon.de/dp/B007S088F4?tag=pfleidi-21">POLAR Brustgurt H7 WearLink</a></li>
+<li><a href="http://amzn.to/XT0Mjy">Wahoo Fitness Bluetooth Herzfrequenzgurt Blue HR Smart</a>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Anaerobe_Schwelle">Anaerobe Schwelle</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Running Apps
+
+<ul>
+<li><a href="http://www.runtastic.com/">Runtastic</a></li>
+<li><a href="http://www.endomondo.com/">Endomondo</a></li>
+<li><a href="http://blog.marc-seeger.de/2011/10/21/running-apps-on-the-iphone/">Runmeter</a></li>
+<li>Runkeeper</li>
+</ul>
+</li>
+<li><a href="https://itunes.apple.com/de/app/sleep-cycle-alarm-clock/id320606217?l=en&amp;mt=8">Sleep Cycle</a></li>
+<li><a href="https://itunes.apple.com/de/app/everyday/id398081659?l=en&amp;mt=8">Everyday</a></li>
+<li><a href="https://github.com/mroth/lolcommits">lolcommits</a></li>
+</ul>
+
+
+<h2>Homeautomation</h2>
+
+<ul>
+<li><a href="http://fhem.de/fhem.html">FHEM</a></li>
+<li><a href="http://www.amazon.de/gp/product/B00AQ9E77M/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00AQ9E77M&amp;linkCode=as2&amp;tag=trektrip">intelligente Steckdose Fritz Dect 200</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li>S/Key <a href="http://www.fatsquirrel.org/veghead/wot/skey.php">1</a> <a href="http://www.ece.northwestern.edu/CSEL/skey/skey_eecs.html">2</a></li>
+<li><a href="http://blog.bufferapp.com/how-much-sleep-do-we-really-need-to-work-productively">How much sleep do we really need to work productively?</a></li>
+<li><a href="http://engineering.getglue.com/post/46520116130/fast-range-queries-with-redis">Fast Range queries with redis</a></li>
+<li><a href="http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding">What every web developer must know about url encoding</a></li>
+<li><a href="http://www.avc.com/a_vc/2012/03/the-startup-curve.html">Bitcoin: The Startup Curve</a></li>
+<li><a href="http://www.c0t0d0s0.org/archives/6071-No,-ZFS-really-doesnt-need-a-fsck.html">ZFS really doesn't need a FSCK</a></li>
+<li><a href="http://isotope11.com/blog/getting-a-ruby-backtrace-from-gnu-debugger">Ruby Backtrace aus GDB</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>EDGE Land (Ingo)</li>
+<li>PHP STDLIB (Marc)</li>
+<li>pacman update (Felix)
+
+<pre><code>  pacman -Syy
+  pacman-key --refresh-keys
+  pacman -Rdd gcc-multilib gcc-libs-multilib
+  pacman -Rcs armory-git electrum libndef retroshare
+  pacman -Syu
+</code></pre></li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://whenyouliveinstuttgart.tumblr.com/">When you live in Stuttgart</a>
+
+<ul>
+<li><a href="http://whenyoureallyliveinfellbach.tumblr.com/">You really live in Fellbach when</a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=xOLqGxuvf08&amp;feature=player_embedded">Alle 6 Star Wars Filme gleichzeitig schauen (IN HD!)</a></li>
+<li><a href="https://code.google.com/p/iterm2/wiki/TmuxIntegration">iTerm + tmux 1.8</a> (pfleidi)
+
+<ul>
+<li><a href="http://sourceforge.net/p/tmux/tmux-code/ci/master/tree/CHANGES">tmux Changelog</a></li>
+</ul>
+</li>
+<li><a href="http://www.imdb.com/title/tt1610527/">Workaholics</a></li>
+<li><a href="http://www.wolframalpha.com/extensions/chrome-extension.html">Wolframaplha Chrome Plugin</a> (Ingo)</li>
+<li><a href="http://www.kedisoft.com/totals/">Totals.app</a></li>
+<li><a href="http://divshot.github.com/geo-bootstrap/">Geo Skin fuer Bootstrap</a></li>
+<li><a href="http://www.distancetomars.com/">Distance to Mars</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-04-04.Binaergewitter.Talk.47.m4a"
+        length="75802650"
+        type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2013-04-04.Binaergewitter.Talk.47.m4a"
+        fileSize="75802650"
+        type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #46 - Kim Jong Ilmages</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Ostern ist vorbei. Binärgewitter ist wieder da und das in vollzähliger Stammbesetzung. Heiß her gehts diesmal über den Sinn von Atomkraftwerken und über das vermessene Selbst....
+
+1. April der Woche
+
+
+Lustige 1. April dinge
+
+
+systemd bekommt libc modul
+
+
+Erlang Party
+
+
+Super Duper Street Fighter 4
+Haeuser mit Google Street view renovieren
+Abfuehrmittel bei Moewen
+
+
+
+
+
+Toter der Woche
+
+
+LucasArts
+
+
+Jedi Knight Source Code freigegeben
+
+
+IBM Roadrunner
+
+
+
+Apache Graveyard der Woche
+
+
+Apache Bloodhound
+
+
+
+Sicherheit durch Ignoranz der Woche
+
+
+Owncloud
+
+
+
+News
+
+
+Facebook Home
+Baidu (Not Google) entwickelt Not Google Glasses
+iMessage encryption
+15 Jahre Mozilla
+Firefox wird 20
+Mozilla und Samsung arbeiten zusammen an Browser Engine
+Rust 0.6 wurde veröffentlicht
+
+
+Blogpost zu ASM.js
+
+
+Blink: Neue Rendering Engine für Chrome
+
+
+No Bullshit translation
+Features
+Opera ist auch mit von der Partie
+Kommentarpost #1
+Kommentarpost #2
+
+
+BF4 gameplay video
+Nuklearkraft verhindert mehr Tote als es verursacht
+
+
+Felix und Marc stimmen zu und haben eine völlig falsche Risikoabschätzung
+
+
+Adobe macht Blank font Open-Source
+Too perfect a mirror (deleted the post... not cool - google cache for the rescue)
+[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )
+The Realities of Cyberwar
+ATT bannt anstoessige Passwoerter
+Dotcloud gibt Stack als OSS frei
+Amazon bringt Dateisynchronisation
+Yahoo integriert Dropbox
+AeroFS nun offen für alle
+
+
+pseudo S3 Support
+
+
+ZFS auf Linux bereit für den Praxiseinsatz (wo bleibt cheeseFS )
+
+
+
+Themen
+
+Quantified Self
+
+
+Devices
+
+
+Fitbit One
+
+
+Daten Backup
+Libfitbit
+
+
+Fitbit Aria
+Withings Wifi Scale
+
+- [Neue Version]( http://www.amazon.de/dp/B00BKRQ4E8?tag=pfleidi-21 )
+
+Tictrac
+POLAR Brustgurt H7 WearLink
+Wahoo Fitness Bluetooth Herzfrequenzgurt Blue HR Smart
+
+
+Anaerobe Schwelle
+
+
+
+
+Running Apps
+
+
+Runtastic
+Endomondo
+Runmeter
+Runkeeper
+
+
+Sleep Cycle
+Everyday
+lolcommits
+
+
+
+Homeautomation
+
+
+FHEM
+intelligente Steckdose Fritz Dect 200
+
+
+
+Lesefoo
+
+
+S/Key 1 2
+How much sleep do we really need to work productively?
+Fast Range queries with redis
+What every web developer must know about url encoding
+Bitcoin: The Startup Curve
+ZFS really doesn't need a FSCK
+Ruby Backtrace aus GDB
+
+
+
+Mimimi der Woche
+
+
+EDGE Land (Ingo)
+PHP STDLIB (Marc)
+pacman update (Felix)
+
+  pacman -Syy
+  pacman-key --refresh-keys
+  pacman -Rdd gcc-multilib gcc-libs-multilib
+  pacman -Rcs armory-git electrum libndef retroshare
+  pacman -Syu
+
+
+
+
+Picks
+
+
+When you live in Stuttgart
+
+
+You really live in Fellbach when
+
+
+Alle 6 Star Wars Filme gleichzeitig schauen (IN HD!)
+iTerm + tmux 1.8 (pfleidi)
+
+
+tmux Changelog
+
+
+Workaholics
+Wolframaplha Chrome Plugin (Ingo)
+Totals.app
+Geo Skin fuer Bootstrap
+Distance to Mars
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
