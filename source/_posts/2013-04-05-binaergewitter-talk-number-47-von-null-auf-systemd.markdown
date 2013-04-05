@@ -57,7 +57,7 @@ Ostern ist vorbei. Binärgewitter ist wieder da und das in vollzähliger Stammbe
     * Felix und Marc stimmen zu und haben eine völlig falsche Risikoabschätzung
 - [Adobe macht Blank font Open-Source]( http://www.heise.de/developer/meldung/Adobe-stellt-Blank-Font-unter-Open-Source-Lizenz-1833872.html )
 - [Too perfect a mirror](http://jefferai.org/2013/03/24/too-perfect-a-mirror/) 
-	*(deleted the post... not cool - google cache for the rescue)[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )
+    * (deleted the post... not cool - google cache for the rescue)[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )
 - [The Realities of Cyberwar]( https://blog.bit9.com/2013/04/02/the-realities-of-cyberwar-fear-uncertainty-and-doubt/ )
 - [ATT bannt anstoessige Passwoerter]( http://arstechnica.com/security/2013/04/wtf-ats-profane-password-ban-lets-some-swears-through/ )
 - [Dotcloud gibt Stack als OSS frei]( http://blog.dotcloud.com/new-sandbox )
