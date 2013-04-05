@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Binärgewitter Talk #46 - Kim Jong Ilmages"
+title: "Binärgewitter Talk #47 - von Null auf Systemd"
 date: 2013-04-05 18:00
 comments: true
 categories: talk
@@ -56,8 +56,8 @@ Ostern ist vorbei. Binärgewitter ist wieder da und das in vollzähliger Stammbe
 - [Nuklearkraft verhindert mehr Tote als es verursacht]( http://cen.acs.org/articles/91/web/2013/04/Nuclear-Power-Prevents-Deaths-Causes.html )
     * Felix und Marc stimmen zu und haben eine völlig falsche Risikoabschätzung
 - [Adobe macht Blank font Open-Source]( http://www.heise.de/developer/meldung/Adobe-stellt-Blank-Font-unter-Open-Source-Lizenz-1833872.html )
-- [Too perfect a mirror](http://jefferai.org/2013/03/24/too-perfect-a-mirror/) (deleted the post... not cool - google cache for the rescue)
-[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )
+- [Too perfect a mirror](http://jefferai.org/2013/03/24/too-perfect-a-mirror/) 
+	*(deleted the post... not cool - google cache for the rescue)[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )
 - [The Realities of Cyberwar]( https://blog.bit9.com/2013/04/02/the-realities-of-cyberwar-fear-uncertainty-and-doubt/ )
 - [ATT bannt anstoessige Passwoerter]( http://arstechnica.com/security/2013/04/wtf-ats-profane-password-ban-lets-some-swears-through/ )
 - [Dotcloud gibt Stack als OSS frei]( http://blog.dotcloud.com/new-sandbox )
@@ -77,7 +77,7 @@ Ostern ist vorbei. Binärgewitter ist wieder da und das in vollzähliger Stammbe
       * [Libfitbit]( https://github.com/openyou/libfitbit )
   * [Fitbit Aria]( http://www.amazon.de/dp/B0077L8YOO?tag=pfleidi-21 )
   * [Withings Wifi Scale]( http://www.amazon.de/dp/B002JE2PSA?tag=pfleidi-21 )
-        - [Neue Version]( http://www.amazon.de/dp/B00BKRQ4E8?tag=pfleidi-21 )
+      - [Neue Version]( http://www.amazon.de/dp/B00BKRQ4E8?tag=pfleidi-21 )
   * [Tictrac]( http://www.tictrac.com/ )
   * [POLAR Brustgurt H7 WearLink]( http://www.amazon.de/dp/B007S088F4?tag=pfleidi-21 )
   * [Wahoo Fitness Bluetooth Herzfrequenzgurt Blue HR Smart]( http://amzn.to/XT0Mjy )
@@ -86,7 +86,7 @@ Ostern ist vorbei. Binärgewitter ist wieder da und das in vollzähliger Stammbe
   * [Runtastic]( http://www.runtastic.com/ )
   * [Endomondo]( http://www.endomondo.com/ )
   * [Runmeter]( http://blog.marc-seeger.de/2011/10/21/running-apps-on-the-iphone/ )
-  * Runkeeper
+  * [Runkeeper]( http://www.runkeeper.com )
 - [Sleep Cycle]( https://itunes.apple.com/de/app/sleep-cycle-alarm-clock/id320606217?l=en&mt=8 )
 - [Everyday]( https://itunes.apple.com/de/app/everyday/id398081659?l=en&mt=8 )
 - [lolcommits]( https://github.com/mroth/lolcommits )
@@ -95,6 +95,7 @@ Ostern ist vorbei. Binärgewitter ist wieder da und das in vollzähliger Stammbe
 
   * [FHEM]( http://fhem.de/fhem.html )
   * [intelligente Steckdose Fritz Dect 200](http://www.amazon.de/gp/product/B00AQ9E77M/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00AQ9E77M&linkCode=as2&tag=trektrip )
+  * [Volkszähler](http://volkszaehler.org )
 
 ## Lesefoo
 
