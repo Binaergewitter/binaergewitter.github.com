@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 05 Apr 2013 17:28:53 +0200</lastBuildDate>
-    <atom:updated>2013-04-05T17:28:53+02:00</atom:updated>
+    <lastBuildDate>Fri, 05 Apr 2013 17:30:54 +0200</lastBuildDate>
+    <atom:updated>2013-04-05T17:30:54+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -164,7 +164,11 @@
 </li>
 <li><a href="http://www.heise.de/developer/meldung/Adobe-stellt-Blank-Font-unter-Open-Source-Lizenz-1833872.html">Adobe macht Blank font Open-Source</a></li>
 <li><a href="http://jefferai.org/2013/03/24/too-perfect-a-mirror/">Too perfect a mirror</a>
-  *(deleted the post... not cool - google cache for the rescue)[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )</li>
+
+<ul>
+<li>(deleted the post... not cool - google cache for the rescue)[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )</li>
+</ul>
+</li>
 <li><a href="https://blog.bit9.com/2013/04/02/the-realities-of-cyberwar-fear-uncertainty-and-doubt/">The Realities of Cyberwar</a></li>
 <li><a href="http://arstechnica.com/security/2013/04/wtf-ats-profane-password-ban-lets-some-swears-through/">ATT bannt anstoessige Passwoerter</a></li>
 <li><a href="http://blog.dotcloud.com/new-sandbox">Dotcloud gibt Stack als OSS frei</a></li>
@@ -385,7 +389,11 @@ Felix und Marc stimmen zu und haben eine völlig falsche Risikoabschätzung
 
 Adobe macht Blank font Open-Source
 Too perfect a mirror
-  *(deleted the post... not cool - google cache for the rescue)[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )
+
+
+(deleted the post... not cool - google cache for the rescue)[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )
+
+
 The Realities of Cyberwar
 ATT bannt anstoessige Passwoerter
 Dotcloud gibt Stack als OSS frei
