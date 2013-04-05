@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 05 Apr 2013 17:25:43 +0200</lastBuildDate>
-    <atom:updated>2013-04-05T17:25:43+02:00</atom:updated>
+    <lastBuildDate>Fri, 05 Apr 2013 17:28:53 +0200</lastBuildDate>
+    <atom:updated>2013-04-05T17:28:53+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -163,8 +163,8 @@
 </ul>
 </li>
 <li><a href="http://www.heise.de/developer/meldung/Adobe-stellt-Blank-Font-unter-Open-Source-Lizenz-1833872.html">Adobe macht Blank font Open-Source</a></li>
-<li><a href="http://jefferai.org/2013/03/24/too-perfect-a-mirror/">Too perfect a mirror</a> (deleted the post... not cool - google cache for the rescue)
-[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )</li>
+<li><a href="http://jefferai.org/2013/03/24/too-perfect-a-mirror/">Too perfect a mirror</a>
+  *(deleted the post... not cool - google cache for the rescue)[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )</li>
 <li><a href="https://blog.bit9.com/2013/04/02/the-realities-of-cyberwar-fear-uncertainty-and-doubt/">The Realities of Cyberwar</a></li>
 <li><a href="http://arstechnica.com/security/2013/04/wtf-ats-profane-password-ban-lets-some-swears-through/">ATT bannt anstoessige Passwoerter</a></li>
 <li><a href="http://blog.dotcloud.com/new-sandbox">Dotcloud gibt Stack als OSS frei</a></li>
@@ -198,8 +198,10 @@
 <li><a href="http://www.amazon.de/dp/B0077L8YOO?tag=pfleidi-21">Fitbit Aria</a></li>
 <li><a href="http://www.amazon.de/dp/B002JE2PSA?tag=pfleidi-21">Withings Wifi Scale</a>
 
-<pre><code>- [Neue Version]( http://www.amazon.de/dp/B00BKRQ4E8?tag=pfleidi-21 )
-</code></pre></li>
+<ul>
+<li><a href="http://www.amazon.de/dp/B00BKRQ4E8?tag=pfleidi-21">Neue Version</a></li>
+</ul>
+</li>
 <li><a href="http://www.tictrac.com/">Tictrac</a></li>
 <li><a href="http://www.amazon.de/dp/B007S088F4?tag=pfleidi-21">POLAR Brustgurt H7 WearLink</a></li>
 <li><a href="http://amzn.to/XT0Mjy">Wahoo Fitness Bluetooth Herzfrequenzgurt Blue HR Smart</a>
@@ -216,7 +218,7 @@
 <li><a href="http://www.runtastic.com/">Runtastic</a></li>
 <li><a href="http://www.endomondo.com/">Endomondo</a></li>
 <li><a href="http://blog.marc-seeger.de/2011/10/21/running-apps-on-the-iphone/">Runmeter</a></li>
-<li>Runkeeper</li>
+<li><a href="http://www.runkeeper.com">Runkeeper</a></li>
 </ul>
 </li>
 <li><a href="https://itunes.apple.com/de/app/sleep-cycle-alarm-clock/id320606217?l=en&amp;mt=8">Sleep Cycle</a></li>
@@ -230,6 +232,7 @@
 <ul>
 <li><a href="http://fhem.de/fhem.html">FHEM</a></li>
 <li><a href="http://www.amazon.de/gp/product/B00AQ9E77M/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00AQ9E77M&amp;linkCode=as2&amp;tag=trektrip">intelligente Steckdose Fritz Dect 200</a></li>
+<li><a href="http://volkszaehler.org">Volkszähler</a></li>
 </ul>
 
 
@@ -381,8 +384,8 @@ Felix und Marc stimmen zu und haben eine völlig falsche Risikoabschätzung
 
 
 Adobe macht Blank font Open-Source
-Too perfect a mirror (deleted the post... not cool - google cache for the rescue)
-[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )
+Too perfect a mirror
+  *(deleted the post... not cool - google cache for the rescue)[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )
 The Realities of Cyberwar
 ATT bannt anstoessige Passwoerter
 Dotcloud gibt Stack als OSS frei
@@ -416,7 +419,9 @@ Libfitbit
 Fitbit Aria
 Withings Wifi Scale
 
-- [Neue Version]( http://www.amazon.de/dp/B00BKRQ4E8?tag=pfleidi-21 )
+
+Neue Version
+
 
 Tictrac
 POLAR Brustgurt H7 WearLink
@@ -448,6 +453,7 @@ Homeautomation
 
 FHEM
 intelligente Steckdose Fritz Dect 200
+Volkszähler
 
 
 
