@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Sat, 06 Apr 2013 21:56:14 +0200</lastBuildDate>
-    <atom:updated>2013-04-06T21:56:14+02:00</atom:updated>
+    <lastBuildDate>Sat, 06 Apr 2013 21:59:35 +0200</lastBuildDate>
+    <atom:updated>2013-04-06T21:59:35+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -78,7 +78,7 @@
       <media:credit role="author">Binärgewitter Crew</media:credit>
       <media:rating>nonadult</media:rating>
       
-      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/04/05/binaergewitter-talk-number-47-von-null-auf-systemd</guid>
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/04/05/binaergewitter-talk-number-47-von-null-auf-systemd-2</guid>
       
       <description>
         <![CDATA[<p>Ostern ist vorbei. Binärgewitter ist wieder da und das in vollzähliger Stammbesetzung. Heiß her gehts diesmal über den Sinn von Atomkraftwerken und über das vermessene Selbst....</p>
@@ -1035,7 +1035,7 @@ The Hacker Shelf (jan)
 <ul>
 <li><a href="http://www.one-tab.com/">OneTab</a></li>
 <li><a href="http://www.haystacksoftware.com/arq/">Arq</a></li>
-<li>[Duplicity] ( http://duplicity.nongnu.org/ )</li>
+<li><a href="http://duplicity.nongnu.org/">Duplicity</a></li>
 <li><a href="http://chocolatey.org/">Chocolatery - Windows Paket Manager</a></li>
 <li><a href="http://www.noodlesoft.com/hazel.php">Hazel</a></li>
 <li><a href="http://giphy.com/">Giphy</a></li>
@@ -1196,7 +1196,7 @@ Picks
 
 OneTab
 Arq
-[Duplicity] ( http://duplicity.nongnu.org/ )
+Duplicity
 Chocolatery - Windows Paket Manager
 Hazel
 Giphy
