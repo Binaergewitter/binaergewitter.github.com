@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-04-12T13:04:47+02:00</updated>
+  <updated>2013-04-12T18:52:59+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -60,8 +60,10 @@
 <li><a href="https://github.com/blog/1470-five-years">Github wird 5</a></li>
 <li><a href="https://github.com/blog/1452-new-github-pages-domain-github-io">Github Pages bekommt eigene Domain</a>
 
-<pre><code>  * [Egor macht mal wider Dinge kaputt]( https://github.com/blog/1466-yummy-cookies-across-domains )
-</code></pre></li>
+<ul>
+<li> <a href="https://github.com/blog/1466-yummy-cookies-across-domains">Egor macht mal wider Dinge kaputt</a></li>
+</ul>
+</li>
 <li><a href="https://github.com/timahoney/decaf">Decaf: Ruby im Browser</a></li>
 <li><a href="https://developer.mozilla.org/en-US/docs/Site_Compatibility_for_Firefox_23#Non-SSL_contents_on_SSL_pages_are_blocked_by_default">Firefox 23 wird non-secure content auf HTTPS seiten blocken</a></li>
 <li><a href="http://www.heise.de/newsticker/meldung/Firefox-bleibt-bei-Cookie-Blockade-hart-1839688.html">Cookies in FF</a></li>
@@ -75,7 +77,7 @@
 </ul>
 </li>
 <li><a href="http://www.theregister.co.uk/2013/04/05/laser_3d_distance_imaging/">Super hardcore laser die dinge aus einem Kilometer 3d-ifizieren koennen</a></li>
-<li><a href="">Computer bewertet dein Essay</a></li>
+<li>Computer bewertet dein Essay</li>
 <li><a href="http://www.golem.de/news/linux-kernel-lizenzprobleme-beim-arm-code-1304-98666.html">Lizenzprobleme bei Linux?!</a></li>
 </ul>
 
@@ -115,8 +117,8 @@
 <li><a href="http://www.openwlanmap.org/?lang=en">Open WLAN Map</a> (makefu)</li>
 <li><a href="http://www.amazon.de/dp/B000M51T12?tag=pfleidi-21">Tune Belt</a> (pfleidi)</li>
 <li><a href="http://pltts.me/">Pllts</a> und <a href="http://www.colourlovers.com/">Colour Lovers</a> (pfleidi)</li>
-<li>Xenim App</li>
-<li>antennapod</li>
+<li><a href="https://itunes.apple.com/de/app/xenim-streams/id478586970?mt=8">Xenim App für iOS</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=de.danoeh.antennapod&amp;hl=de">antennapod für Android</a></li>
 </ul>
 
 ]]></content>
