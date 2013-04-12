@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Sat, 06 Apr 2013 21:59:35 +0200</lastBuildDate>
-    <atom:updated>2013-04-06T21:59:35+02:00</atom:updated>
+    <lastBuildDate>Fri, 12 Apr 2013 13:04:47 +0200</lastBuildDate>
+    <atom:updated>2013-04-12T13:04:47+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,256 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #48 - Live aus Wolgograd</title>
+      <link>http://blog.binaergewitter.de/blog/2013/04/12/binaergewitter-talk-number-48-live-aus-wolgograd/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/04/12/binaergewitter-talk-number-48-live-aus-wolgograd/#comments</comments>
+      <pubDate>Fri, 12 Apr 2013 13:00:00 +0200</pubDate>
+      <atom:updated>2013-04-12T13:00:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F04%2F12%2Fbinaergewitter-talk-number-48-live-aus-wolgograd%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2348%20-%20Live%20aus%20Wolgograd&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/04/12/binaergewitter-talk-number-48-live-aus-wolgograd</guid>
+      
+      <description>
+        <![CDATA[<p>Nur zu Dritt und ohne extra Thema, aber mit Spaß an News präsentieren euch in gewohnt guter Laune pfleidi, Felix und Ingo folgende Themen:</p>
+
+<h1>Stallmann der Woche</h1>
+
+<ul>
+<li><a href="http://amerika21.de/2013/04/81994/stallman-bolivien">Stallmann berät Bolivien</a>
+
+<ul>
+<li><a href="https://secure.mysociety.org/admin/lists/pipermail/developers-public/2011-October/007647.html">Stallman Rider</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.golem.de/news/soziales-netzwerk-schuelervz-wird-ende-april-2013-abgeschaltet-1304-98593.html">SchülerVZ wird zu gemacht</a></li>
+<li><a href="http://windows.microsoft.com/en-us/messenger/messenger-to-skype">msn messenger</a> via @daniel_bohrer</li>
+<li>Roger Ebert</li>
+<li><a href="http://www.der-postillon.com/2013/04/margaret-thatcher-privatisiert-holle.html">Margaret Thatcher privatisiert die Hölle</a></li>
+</ul>
+
+
+<h2>OpenApache Graveyard der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/open/meldung/End-of-Life-fuer-Apache-Struts-1-1836800.html">Strus 1 ist EoL</a></li>
+<li><a href="http://www.heise.de/open/meldung/Medizin-Software-Apache-cTAKES-wird-Top-Level-Project-1837967.html">cTAKES</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19648/openmeetings-21-erschienen.html">Openmeetings</a> via Eric</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://arstechnica.com/tech-policy/2013/04/how-a-banner-ad-for-hs-ok/">Provider injiziert Werbung in Webseiten</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Vectoring-Regulierer-genehmigt-VDSL-Turbo-1837933.html">Vectoring kommt</a></li>
+<li><a href="http://linux.slashdot.org/story/13/04/08/198254/qt-51-adds-android-and-ios-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">Qt 5.1 mit Android und iOS Support</a></li>
+<li><a href="https://github.com/blog/1470-five-years">Github wird 5</a></li>
+<li><a href="https://github.com/blog/1452-new-github-pages-domain-github-io">Github Pages bekommt eigene Domain</a>
+
+<pre><code>  * [Egor macht mal wider Dinge kaputt]( https://github.com/blog/1466-yummy-cookies-across-domains )
+</code></pre></li>
+<li><a href="https://github.com/timahoney/decaf">Decaf: Ruby im Browser</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Site_Compatibility_for_Firefox_23#Non-SSL_contents_on_SSL_pages_are_blocked_by_default">Firefox 23 wird non-secure content auf HTTPS seiten blocken</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Firefox-bleibt-bei-Cookie-Blockade-hart-1839688.html">Cookies in FF</a></li>
+<li><a href="http://paritynews.com/web-news/item/931-mozilla-introduces-experimental-open-payment-system-for-firefox-os">Firefox OS bekommt bezahlsystem</a></li>
+<li><a href="http://www.golem.de/news/malware-der-rechner-als-bitcoin-generator-1304-98580.html">Malware zum Bitcoin minen</a></li>
+<li><a href="http://thejh.net/misc/website-terminal-copy-paste">Copy-paste aus dem Internet, aufpassen!</a></li>
+<li><a href="http://www.gulli.com/news/21205-facebook-home-der-neue-homescreen-fuer-android-2013-04-05">Facebook Home suckt</a>
+
+<ul>
+<li><a href="http://www.networkworld.com/community/node/82816">Microsoft sagt, dass ihre Ideen zuerst gesuckt haben</a></li>
+</ul>
+</li>
+<li><a href="http://www.theregister.co.uk/2013/04/05/laser_3d_distance_imaging/">Super hardcore laser die dinge aus einem Kilometer 3d-ifizieren koennen</a></li>
+<li><a href="">Computer bewertet dein Essay</a></li>
+<li><a href="http://www.golem.de/news/linux-kernel-lizenzprobleme-beim-arm-code-1304-98666.html">Lizenzprobleme bei Linux?!</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://stevelosh.com/blog/2013/04/git-koans/">Git Koans</a> (pfleidi)(makefu)</li>
+<li><a href="http://www.amazon.de/dp/1592535631?tag=pfleidi-21">The art and craft of coffee</a> (pfleidi)</li>
+<li><a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=xOCurBYI_gY">Computer program that learns to play NES games</a>(makefu)</li>
+<li><a href="https://github.com/bigcompany/know-your-http">Know your HTTP</a> (pfleidi)</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Teamviewer 8 (Ingo)</li>
+<li>t.co (Twitters URL shortener)</li>
+<li>ADN
+
+<ul>
+<li><a href="https://alpha.app.net/pfleidi">pfleidi</a></li>
+<li><a href="https://alpha.app.net/ingoebel">ingo</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/rest-console/cokgbflfommojglbmbpenpphppikmonn/related?hl=en">Chrome REST Console</a> (pfleidi)</li>
+<li><a href="http://i.imgur.com/Q3cUg29.gif">CSS erklaert</a></li>
+<li><a href="http://reasonsmysoniscrying.tumblr.com/">Reasons my son is crying</a> (makefu)</li>
+<li><a href="https://chrome.google.com/webstore/detail/create-amazon-affiliate-l/opiggebokahabecjobgjoaiinjeeejib">Create Amazon affiliate link</a> (pfleidi)</li>
+<li><a href="http://www.openwlanmap.org/?lang=en">Open WLAN Map</a> (makefu)</li>
+<li><a href="http://www.amazon.de/dp/B000M51T12?tag=pfleidi-21">Tune Belt</a> (pfleidi)</li>
+<li><a href="http://pltts.me/">Pllts</a> und <a href="http://www.colourlovers.com/">Colour Lovers</a> (pfleidi)</li>
+<li>Xenim App</li>
+<li>antennapod</li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-04-11.Binaergewitter.Talk.48.ogg"
+        length="95175150"
+        type="audio/ogg" />
+      <media:content url="http://download.binaergewitter.de/2013-04-11.Binaergewitter.Talk.48.ogg"
+        fileSize="95175150"
+        type="audio/ogg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #48 - Live aus Wolgograd</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Nur zu Dritt und ohne extra Thema, aber mit Spaß an News präsentieren euch in gewohnt guter Laune pfleidi, Felix und Ingo folgende Themen:
+
+Stallmann der Woche
+
+
+Stallmann berät Bolivien
+
+
+Stallman Rider
+
+
+
+
+
+Toter der Woche
+
+
+SchülerVZ wird zu gemacht
+msn messenger via @daniel_bohrer
+Roger Ebert
+Margaret Thatcher privatisiert die Hölle
+
+
+
+OpenApache Graveyard der Woche
+
+
+Strus 1 ist EoL
+cTAKES
+Openmeetings via Eric
+
+
+
+News
+
+
+Provider injiziert Werbung in Webseiten
+Vectoring kommt
+Qt 5.1 mit Android und iOS Support
+Github wird 5
+Github Pages bekommt eigene Domain
+
+  * [Egor macht mal wider Dinge kaputt]( https://github.com/blog/1466-yummy-cookies-across-domains )
+
+Decaf: Ruby im Browser
+Firefox 23 wird non-secure content auf HTTPS seiten blocken
+Cookies in FF
+Firefox OS bekommt bezahlsystem
+Malware zum Bitcoin minen
+Copy-paste aus dem Internet, aufpassen!
+Facebook Home suckt
+
+
+Microsoft sagt, dass ihre Ideen zuerst gesuckt haben
+
+
+Super hardcore laser die dinge aus einem Kilometer 3d-ifizieren koennen
+Computer bewertet dein Essay
+Lizenzprobleme bei Linux?!
+
+
+
+Lesefoo
+
+
+Git Koans (pfleidi)(makefu)
+The art and craft of coffee (pfleidi)
+Computer program that learns to play NES games(makefu)
+Know your HTTP (pfleidi)
+
+
+
+Mimimi der Woche
+
+
+Teamviewer 8 (Ingo)
+t.co (Twitters URL shortener)
+ADN
+
+
+pfleidi
+ingo
+
+
+
+
+
+Picks
+
+
+Chrome REST Console (pfleidi)
+CSS erklaert
+Reasons my son is crying (makefu)
+Create Amazon affiliate link (pfleidi)
+Open WLAN Map (makefu)
+Tune Belt (pfleidi)
+Pllts und Colour Lovers (pfleidi)
+Xenim App
+antennapod
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
