@@ -38,7 +38,7 @@ Nur zu Dritt und ohne extra Thema, aber mit Spaß an News präsentieren euch in 
 - [Qt 5.1 mit Android und iOS Support]( http://linux.slashdot.org/story/13/04/08/198254/qt-51-adds-android-and-ios-support?utm_source=rss1.0mainlinkanon&utm_medium=feed )
 - [Github wird 5]( https://github.com/blog/1470-five-years )
 - [Github Pages bekommt eigene Domain]( https://github.com/blog/1452-new-github-pages-domain-github-io )
-        * [Egor macht mal wider Dinge kaputt]( https://github.com/blog/1466-yummy-cookies-across-domains )
+     * [Egor macht mal wider Dinge kaputt]( https://github.com/blog/1466-yummy-cookies-across-domains )
 - [Decaf: Ruby im Browser]( https://github.com/timahoney/decaf )
 - [Firefox 23 wird non-secure content auf HTTPS seiten blocken]( https://developer.mozilla.org/en-US/docs/Site_Compatibility_for_Firefox_23#Non-SSL_contents_on_SSL_pages_are_blocked_by_default )
 - [Cookies in FF](http://www.heise.de/newsticker/meldung/Firefox-bleibt-bei-Cookie-Blockade-hart-1839688.html )
@@ -48,7 +48,7 @@ Nur zu Dritt und ohne extra Thema, aber mit Spaß an News präsentieren euch in 
 - [Facebook Home suckt]( http://www.gulli.com/news/21205-facebook-home-der-neue-homescreen-fuer-android-2013-04-05 )
     - [Microsoft sagt, dass ihre Ideen zuerst gesuckt haben]( http://www.networkworld.com/community/node/82816 )
 - [Super hardcore laser die dinge aus einem Kilometer 3d-ifizieren koennen]( http://www.theregister.co.uk/2013/04/05/laser_3d_distance_imaging/ )
-- [Computer bewertet dein Essay](  )
+- Computer bewertet dein Essay
 - [Lizenzprobleme bei Linux?!]( http://www.golem.de/news/linux-kernel-lizenzprobleme-beim-arm-code-1304-98666.html )
 
 ## Lesefoo
@@ -75,6 +75,5 @@ Nur zu Dritt und ohne extra Thema, aber mit Spaß an News präsentieren euch in 
 - [Open WLAN Map]( http://www.openwlanmap.org/?lang=en ) (makefu)
 - [Tune Belt]( http://www.amazon.de/dp/B000M51T12?tag=pfleidi-21 ) (pfleidi)
 - [Pllts]( http://pltts.me/ ) und [Colour Lovers]( http://www.colourlovers.com/ ) (pfleidi)
-- Xenim App
-- antennapod
-
+- [Xenim App für iOS](https://itunes.apple.com/de/app/xenim-streams/id478586970?mt=8 )
+- [antennapod für Android](https://play.google.com/store/apps/details?id=de.danoeh.antennapod&hl=de )
