@@ -63,7 +63,7 @@ http://www.dailymail.co.uk/news/article-2304985/Romanian-lawyer-sues-bishop-prie
 - [Amazons anonymous mobile payments](http://www.heise.de/newsticker/meldung/Amazon-patentiert-anonymes-Bezahlverfahren-1844154.html )
     * [Cryptcard]( https://cryptcard.org/ )
     * [Paysafecard]( wtf:://bbq )
-- [Postgres bekommt mehr JSON Funktionen] (http://www.heise.de/developer/meldung/PostgreSQL-bekommt-mehr-JSON-Funktionen-1839686.html )
+- [Postgres bekommt mehr JSON Funktionen](http://www.heise.de/developer/meldung/PostgreSQL-bekommt-mehr-JSON-Funktionen-1839686.html )
     * [Solr vs Elasticsearch]( http://solr-vs-elasticsearch.com/ )
 - [Immer weniger Leute benutzen die GPL]( http://www.golem.de/news/lizenzen-der-rueckgang-der-gpl-1304-98809.html )
     * [Netzpolitik Artikel]( https://netzpolitik.org/2013/open-source-software-exponentielles-wachstum-weniger-copyleft/ )
