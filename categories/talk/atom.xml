@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-04-12T18:52:59+02:00</updated>
+  <updated>2013-04-19T18:36:37+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,197 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #49 - Einmal mit PrOOofis arbeiten]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/04/12/binaergewitter-talk-number-49-einmal-mit-prOOofis-arbeiten/"/>
+    <updated>2013-04-12T19:00:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/04/12/binaergewitter-talk-number-49-einmal-mit-prOOofis-arbeiten</id>
+    <content type="html"><![CDATA[<p>Alle wieder beisammen tiegern wir durch die News der letzten Woche. Marc berichtet wieder über Bitcoins und wir streiten uns über den (Un)Sinn Autos mit Versicherungen zu verbinden....</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.golem.de/news/inactive-account-manager-google-nutzer-koennen-digitales-vermaechtnis-regeln-1304-98685.html">Google User können Vermächtnis regeln</a></li>
+<li><a href="http://www.theverge.com/2013/4/12/4216034/nintendo-removing-wii-channels-in-june">News und Wetter App von der Wii</a></li>
+<li><a href="http://punchfork.com/">PunchFork</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/19691/prooo-box-meldet-sich-zurueck.html">PrOOOBox</a></li>
+</ul>
+
+
+<h2>WTF der Woche</h2>
+
+<ul>
+<li><a href="http://www.dailymail.co.uk/news/article-2304985/Romanian-lawyer-sues-bishop-priests-claiming-failed-properly-exorcise-flatulent-demons-house.html">Rumaenischer Anwalt verklagt Bischof wegen fehlgeschlagenem Exorzismus bei Flatuleszenz Daemon</a>
+
+<ul>
+<li><a href="http://www.hoaxilla.com/hoaxilla-106-exorzismus/">Hoaxilla Sendung Exorzismus</a></li>
+</ul>
+</li>
+<li><a href="http://www.huffingtonpost.com/2013/04/15/condom-challenge-snorting-condoms-videos_n_3085258.html">Kondome schnupfen</a></li>
+</ul>
+
+
+<h2>Krautfunding</h2>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/19689/erstes-sailfishos-smartphone-per-crowdfunding-ab-mai-vorbestellbar.html">Sailfish Smartphones ab Mai?</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://www.iab.net/mozilla_petition/">Petition von Werbefirma wegen Mozillas Cookie Richtlinien</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<h3>Twitter</h3>
+
+<ul>
+<li><a href="http://sefsar.com/twitter-music-leak">Twitter Music?</a></li>
+<li><a href="http://blog.flattr.net/2013/04/twitter-is-forcing-us-to-drop-users-ability-to-flattr-creators-by-favoriting-their-tweets/">Twitter schließt Flattr aus</a></li>
+<li><a href="http://rnikitin.github.io/bootstrap">"Not Twitter" Bootstrap v3 Preview</a></li>
+<li><a href="http://techcrunch.com/2013/04/16/whatsapp-bigger-than-twitter-with-over-200m-monthly-active-users-8b-inbound-and-12b-outbound-messages-daily/">WhatsApp hat mehr aktive User als Twitter</a></li>
+</ul>
+
+
+<h3>Der Rest</h3>
+
+<ul>
+<li><a href="http://www.newyorker.com/online/blogs/borowitzreport/2013/04/north-korean-missile-test-delayed-by-windows-8.html">Raketentest in Nord Korea von Windows 8 verzögert</a></li>
+<li><a href="http://thenextweb.com/dd/2013/04/14/mozilla-towtruck-is-an-experimental-project-that-adds-google-drive-like-collaboration-to-any-site/">Mozilla TowTruck</a></li>
+<li><a href="http://www.techdrivein.com/2013/03/google-drive-for-linux-confirmed-yet.html">Google Drive kommt auch fuer linux -- bald</a></li>
+<li><a href="http://www.golem.de/news/google-chrome-bekommt-unterstuetzung-fuer-veraltete-browser-1304-98764.html">Google Chrome for business</a></li>
+<li><a href="http://www.tus.io/protocols/resumable-upload.html">Resumable HTTP Uploads</a></li>
+<li><a href="http://ireport.cnn.com/docs/DOC-957375">Zimbabwe Bitcoin ireport lamerei</a></li>
+<li><a href="http://bitcoinity.org/markets">Bitcoin Crash</a>
+
+<ul>
+<li>MTGox DDOS</li>
+<li>MTGox nutzt noch PHP</li>
+<li><a href="https://bitcoin-24.com/">Bitcoin24 geschlossen</a></li>
+<li><a href="https://bitfloor.com/">Bitfloor zu</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Amazon-patentiert-anonymes-Bezahlverfahren-1844154.html">Amazons anonymous mobile payments</a>
+
+<ul>
+<li><a href="https://cryptcard.org/">Cryptcard</a></li>
+<li><a href="wtf:://bbq">Paysafecard</a></li>
+</ul>
+</li>
+<li>[Postgres bekommt mehr JSON Funktionen] (http://www.heise.de/developer/meldung/PostgreSQL-bekommt-mehr-JSON-Funktionen-1839686.html )
+
+<ul>
+<li><a href="http://solr-vs-elasticsearch.com/">Solr vs Elasticsearch</a></li>
+</ul>
+</li>
+<li><a href="http://www.golem.de/news/lizenzen-der-rueckgang-der-gpl-1304-98809.html">Immer weniger Leute benutzen die GPL</a>
+
+<ul>
+<li><a href="https://netzpolitik.org/2013/open-source-software-exponentielles-wachstum-weniger-copyleft/">Netzpolitik Artikel</a></li>
+<li><a href="http://www.synflood.at/blog/index.php?/archives/794-Eine-Replik-auf-Fefes-Lizenz-Bashing.html">Blogpost zum Thema</a></li>
+<li><a href="http://www.tldrlegal.com/browse">TLDRLegal</a></li>
+<li><a href="http://faif.us/cast/2013/apr/03/0x3A/">mehr Podcast zum Thema Lizenz</a> via daswort</li>
+</ul>
+</li>
+<li><a href="https://code.google.com/p/android/issues/detail?id=41626#c20">SIP + Nexus 4</a></li>
+<li><a href="http://www.extremetech.com/computing/153614-new-lithium-ion-battery-design-thats-2000-times-more-powerful-recharges-1000-times-faster">Neue Lithium-Ionen Akkus</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Virtualisierungs-Software-Xen-wird-Projekt-der-Linux-Foundation-1842613.html">Xen wird Projekt der Linux Foundation</a></li>
+<li><a href="http://www.spiegel.de/kultur/kino/disney-kuendigt-ab-2015-drei-neue-star-wars-episoden-an-a-895070.html">Disney will alle 2 Jahr ab 2015 neue Star Wars Filme in die Kinos  bringen - Dazwischen Spinoffs zu einzelnen Characteren: "Oppan Gungan
+Style"</a>
+
+<ul>
+<li><a href="http://www.serienjunkies.de/news/zombieland-amazon-veroeffentlicht-trailer-48725.html">Zombieland</a></li>
+</ul>
+</li>
+<li><a href="http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/54333">tmm1 hat commit access</a></li>
+<li><a href="http://www.kickstarter.com/projects/clintgc/space-monkey-taking-the-cloud-out-of-the-datacente">Spacemonkey - verteiltes Backupt</a>
+
+<ul>
+<li>Remember <a href="http://wua.la">Wuala</a></li>
+</ul>
+</li>
+<li><a href="http://www.blackannex.net/">Holy Balls: Black Annex</a></li>
+<li><a href="http://www.diginfo.tv/v/12-0180-r-en.php">Der Logische naechste Schritt nach Google Glass - Cyborgs</a></li>
+<li><a href="http://www.heise.de/mobil/meldung/Telefonica-vernetzt-das-Auto-mit-der-Versicherung-1842870.html">Telefonica O2 vernetzt das Auto mit der Versicherung</a>
+
+<ul>
+<li><a href="http://www.heise.de/mobil/newsticker/foren/S-Jahr-2050/forum-253736/msg-23403265/read/">... Jahr 2050 [Kommentar]</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Chaos-Computer-Club-warnt-weiter-vor-De-Mail-1842243.html">CCC warnt vor DE-Mail</a></li>
+<li><a href="http://physicsbuzz.physicscentral.com/2010/10/2010-physics-nobel-prize-for-invisible.html">Nobelpreis fuer Unsichtbare Katzenhaengematte</a></li>
+<li><a href="http://www.slate.com/blogs/future_tense/2013/04/12/why_pc_sales_are_declining_old_pcs_still_work_just_fine.html">Warum PC-verkaeufe runtergehen - Alte Computer funktionieren einfach noch zu gut</a></li>
+<li><a href="http://www.youtube.com/playlist?list=PLD5T6GqaHrY0gXHkiddMhRzYjrcxrqB_1">Ze Frank: True facts about...</a></li>
+<li><a href="http://www.youtube.com/results?search_query=adventure+time">Advanture Time</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://knowyourmeme.com/memes/ed-balls">Ed Balls</a> <a href="https://twitter.com/rb2k/status/324476306530123776">bsp</a></li>
+<li><a href="http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim">What is your most productive shortcut in vim?</a></li>
+<li><a href="https://speakerdeck.com/alex/why-python-ruby-and-javascript-are-slow">Why python, ruby and js are slow</a>
+
+<ul>
+<li><a href="http://www.ruby-doc.org/stdlib-2.0/libdoc/thread/rdoc/SizedQueue.html">Sized Queue</a></li>
+</ul>
+</li>
+<li><a href="http://bricks.stackexchange.com/questions/1754/how-much-usage-can-a-lego-piece-take-before-it-loses-its-clutch-power/1953#1953">How much usage can a lego piece take before it looses its clutch power?</a></li>
+<li><a href="http://www.image-net.org/challenges/LSVRC/2012/supervision.pdf">ImageNet Classification with Deep Convolutional Neural Networks</a></li>
+<li><a href="http://www.mkyong.com/mysql/how-to-calculate-the-mysql-database-size/">How to calculate the mysql database size</a></li>
+<li><a href="http://www.zedshaw.com/essays/programmer_stats.html">Programmers need to learn Statistics (zed shaw)</a>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Disauerstoffdifluorid">Disauerstoffdiflourid</a></li>
+</ul>
+</li>
+<li><a href="http://pipeline.corante.com/archives/2010/02/23/things_i_wont_work_with_dioxygen_difluoride.php">Things I won't work with: Dioxygen Diflouride</a></li>
+<li><a href="http://www.maximumawesome.com/reference/g-safire.htm">Self-contradicting Rules for Writing</a></li>
+</ul>
+
+
+<h2>Mimimi</h2>
+
+<ul>
+<li>Windows 7 Installer</li>
+<li>Fitbit Gürtelclip</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://lab.hakim.se/reveal-js/">Reveal JS</a>
+
+<ul>
+<li><a href="http://imakewebthings.com/deck.js/">Deck.js</a></li>
+</ul>
+</li>
+<li><a href="http://crapcha.com/">Crapchas</a> (pfleidi)</li>
+<li><a href="http://www.techpowerup.com/articles/overclocking/vidcard/159">ATI Radeon 6950 Bios Hacks</a></li>
+<li>Lynis (Ingo)</li>
+<li><a href="http://sportballsreplacedwithcats.tumblr.com/">Sport Balls replaced with cats</a> (pfleidi)</li>
+<li><a href="http://www.moves-app.com/">Moves app</a></li>
+<li><a href="https://itunes.apple.com/de/app/the-perfect-egg-timer/id331004675?l=en&amp;mt=8">The perfect egg timer</a> (pfleidi)</li>
+<li><a href="http://www.coffeecircle.com/clever-coffee-dripper/">Clever coffee dripper</a> (pfleidi)</li>
+<li><a href="http://hyperlapse.tllabs.io/">Google Streetview Tourraffer</a></li>
+<li><a href="http://starlogs.net/">Starlogs</a> (pfleidi)</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #48 - Live aus Wolgograd]]></title>
@@ -654,144 +845,6 @@ mode, wie z.B. bei <a href="http://epiceditor.com">Epic Editor</a>. Planen für 
 </ul>
 </li>
 <li><a href="http://www.buergerhaushalt-stuttgart.de/">Stuttgarter Bürgerhaushalt</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #44 -  In 54 lines of shell]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell/"/>
-    <updated>2013-03-15T12:00:00+01:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2013/03/15/binaergewitter-talk-number-44-in-54-lines-of-shell</id>
-    <content type="html"><![CDATA[<p>Auch der Gast Jan konnt diese Sendung nicht retten und so fällt diese Sendung eindeutig wieder unter unseren Untertitel "dumm, geschmacklos und unlustig". Dabei hatte es so gut angefangen. Nur kurz den
-Papst erwähnt und Stallmann und GNU und Google Reader, aber irgendwie gings dann doch wieder abwärts mit der Sendung. Wir geloben Besserung und versuchen weniger Blödsinn zu reden und vor allem nicht mehr
-soviel durcheinander - bestimmt..</p>
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://googleblog.blogspot.de/2013/03/a-second-spring-of-cleaning.html">Google reader stirbt</a>
-
-<ul>
-<li>Welcher Reader nun fuer RSS?
-
-<ul>
-<li><a href="http://www.quora.com/Google-Reader-Shut-Down-March-2013/Why-is-Google-killing-Google-Reader">Waruuuuuum</a></li>
-<li><a href="http://tt-rss.org/">tt-rss</a></li>
-<li>Was nun? <a href="http://newsblur.com">Newsblur</a>, <a href="http://owncloud.org">ownCloud</a> News app, <a href="http://theoldreader.com">the old reader</a>, <a href="http://feedly.com">feedly</a>, <a href="http://blog.superfeedr.com/state-of-readers/">The State of RSS Readers</a></li>
-<li><a href="http://arstechnica.com/business/2013/03/poll-technica-where-should-we-go-when-google-reader-is-put-out-to-pasture/">Ars Technica</a></li>
-<li><a href="http://blog.digg.com/post/45355701332/were-building-a-reader">Digg</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p><a href="http://blog.cryptographyengineering.com/2013/03/attack-of-week-rc4-is-kind-of-broken-in.html">RC4 in TLS is gebrochen, das internet geht unter</a></p>
-
-<ul>
-<li><a href="http://www.imperialviolet.org/2012/01/15/beastfollowup.html">Beast Followup</a></li>
-<li><a href="http://arstechnica.com/security/2013/02/lucky-thirteen-attack-snarfs-cookies-protected-by-ssl-encryption/">Lucky 13</a></li>
-<li><a href="http://www.kali.org/">Kali Linux</a></li>
-</ul>
-</li>
-<li><p><a href="http://www.spiegel.de/panorama/gesellschaft/liveticker-zur-papst-wahl-in-rom-a-888576.html">WTF der Woche: Liveticker zur Papst-Wahl</a></p></li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.orf.at/stories/2171333/">Wieder mal der Einsame George als Mumie</a> via hailo-one
-
-<ul>
-<li><a href="http://en.wikipedia.org/wiki/Dorodango">Dorodango</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="https://bitcointalk.org/index.php?topic=152348.80">Bitcoin Double spent</a></li>
-<li><a href="https://www.namecheap.com/support/payment-options/bitcoin.aspx">Namecheap akzeptiert Bitcoin</a></li>
-<li><a href="https://github.com/mitchellh/vagrant/blob/master/CHANGELOG.md">Vagrant 1.1</a></li>
-<li><a href="https://www.panic.com/blog/2013/03/the-lightning-digital-av-adapter-surprise/#comment-16841">Lightning AV Adapter surprise</a></li>
-<li><a href="http://www.vice.com/en_uk/read/rob-rhinehart-no-longer-requires-food">»Soylent« macht Essen unnötig</a>, 24-jähriger Softwareentwickler glaubt den Wundernahrungsdrink entwickelt zu haben
-
-<ul>
-<li><a href="http://www.urbandictionary.com/define.php?term=poopsocking">Poopsocking</a></li>
-<li><a href="https://simple.wikipedia.org/wiki/File:Bee_Squirt.gif">Bee defecatiing</a></li>
-</ul>
-</li>
-<li><a href="http://owncloud.org">ownCloud 5 released</a>, am Freitag <a href="https://owncloud.com/events/event">Party in Stuttgart &amp; Berlin</a></li>
-<li><a href="http://www.amazon.de/gp/product/B007HNZ62A/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007HNZ62A&amp;linkCode=as2&amp;tag=trektrip">Sim City 5</a>
-
-<ul>
-<li><a href="http://news.ycombinator.com/item?id=5339852">Amazon Stoppt verkauf von Sim City 5</a></li>
-<li><a href="http://arstechnica.com/gaming/2013/03/fans-press-uncover-massive-holes-in-simcitys-ai-server-connection/">Internetverbindung ist nur fuer die Durchsetzung des DRM notwendig!</a></li>
-<li><a href="http://arstechnica.com/gaming/2013/03/hackers-open-up-offline-play-modding-tools-for-simcity/">Hacker ermöglichen Offline-Spiel und mehr</a></li>
-</ul>
-</li>
-<li><a href="http://justingregg.com/killer-ukrainian-dolphins-on-the-loose/">Versteckt eure Kinder, die Killerdelfine sind los!</a></li>
-<li><a href="http://www.merlyn.demon.co.uk/critdate.zip">Critical and Significant Dates</a></li>
-<li><a href="http://hackerbeach.org">Hacker Beach</a>
-
-<ul>
-<li>"Phu Quoc Island"</li>
-<li>jeden Winter, an einem anderen Paradiesstrand</li>
-</ul>
-</li>
-<li><a href="http://techreport.com/review/24461/a-first-look-at-cherry-mx-green-key-switches">Cherry MX Green - Anschlag aehnlich dem IBM Model M</a></li>
-<li><a href="http://arstechnica.com/information-technology/2013/03/google-mpeg-la-agree-to-royalty-free-terms-for-vp8-video-codec/">VP8 ist fuer immer Royalty-free</a></li>
-<li><a href="http://www.technologyreview.com/view/512381/astrobiologists-find-ancient-fossils-in-fireball-fragments/">Fossilien in Feuerballfragmenten - ALIENS!!!</a></li>
-<li><a href="http://arstechnica.com/science/2013/03/mars-rock-contains-elements-essential-to-life/">Science! Mars Steine enthalten alles was man zum leben braucht</a></li>
-<li><a href="https://github.com/nojhan/liquidprompt">Liquidprompt - oder 'wie ich ALLE informationen in den prompt kodieren kann'</a></li>
-<li><a href="http://hardware.slashdot.org/story/13/03/12/1831210/japan-extracts-natural-gas-from-frozen-methane-hydrate">Japan extrahiert Natuerliches gas von gefrorenem Methanhydrat ... awesome?!</a></li>
-<li><a href="http://it.slashdot.org/story/13/03/13/2225237/blog-reveals-a-chinese-military-hackers-life-is-one-of-boredom-and-bitterness">Surprise ... Ein 'internetspion' sein ist die meiste zeit ziemlich langweilig</a></li>
-<li><a href="http://news.slashdot.org/story/13/03/13/2052226/why-freeloaders-are-essential-to-foss-project-success">Why Freeloaders are Essential to FOSS</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=mD4L7xDNCmA">The future of Bitcoin: new applications and rebuilding the banking system</a></li>
-<li><a href="http://postgres-bits.herokuapp.com/#1">Postgres- The bits you haven't found</a></li>
-<li><a href="https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/preview?usp=sharing&amp;sle=true#slide=id.p">Some Dark Corners of C</a></li>
-<li><a href="http://tomayko.com/writings/rest-to-my-wife">How I Explained REST to My Wife</a></li>
-<li><a href="http://nostarch.com/xboxfree">Reverse Engineering the XBox als kostenfreies E-Book</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li><a href="http://www.telefon.de/manuals/SplMoVer.html">DSL Kabel verlängern</a></li>
-<li><a href="http://easybell.de/">Easybell</a></li>
-<li><a href="http://www.cisco.com/en/US/docs/wireless/access_point/1200/vxworks/configuration/guide/bkscgaxa.html#wp1013513">WIFI Power</a></li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.rubymotion.com/">Ruby Motion</a>
-
-<ul>
-<li><a href="https://github.com/rubymotion/BubbleWrap">Bubblewrap</a></li>
-</ul>
-</li>
-<li><a href="http://www.kickstarter.com/projects/559914737/the-veronica-mars-movie-project">Veronica Mars Film Kickstarter</a></li>
-<li><a href="https://developers.google.com/events/io/experiment-cat">Google I/O Starter Page</a></li>
-<li><a href="http://bitcoinity.org/markets">Bitcoinity Graphen</a></li>
-<li><a href="http://www.amazon.de/gp/product/B0058SH1TM/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0058SH1TM&amp;linkCode=as2&amp;tag=trektrip">StarCraft II - Heart of the Swarm</a>
-
-<ul>
-<li><a href="http://www.amazon.de/gp/product/383322441X/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=383322441X&amp;linkCode=as2&amp;tag=trektrip">StarCraft II - Flashpoint - Der Roman, der die Ereignis zwischen Starcarft II Wings of Liberty und Heart of the Swarm erklärt</a></li>
-</ul>
-</li>
-<li><a href="http://www.youtube.com/watch?v=i5v-RR8bX7o&amp;feature=youtu.be">Friseuse Claudia</a></li>
 </ul>
 
 ]]></content>
