@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Binärgewitter Talk #49 - Einmal mit PrOOofis arbeiten"
-date: 2013-04-12 19:00
+date: 2013-04-20 13:00
 comments: true
 categories: talk
 sharing: true

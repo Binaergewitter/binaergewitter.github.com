@@ -56,7 +56,7 @@ layout: nil
     <media:rating>nonadult</media:rating>
     <media:description type="plain">{{ site.description }}</media:description>
 
-    {% for post in site.audioformats[page.audioformat] limit: 100 %}
+    {% for post in site.audioformats[page.audioformat] limit: 30 %}
     {% capture post_url %}{{ site.url }}{{ post.url }}{% endcapture %}
     <item>
       <title>{{ post.title }}</title>
