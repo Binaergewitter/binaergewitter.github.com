@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Sat, 20 Apr 2013 14:04:04 +0200</lastBuildDate>
-    <atom:updated>2013-04-20T14:04:04+02:00</atom:updated>
+    <lastBuildDate>Sat, 20 Apr 2013 14:06:00 +0200</lastBuildDate>
+    <atom:updated>2013-04-20T14:06:00+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -57,15 +57,15 @@
     
     <item>
       <title>Binärgewitter Talk #49 - Einmal mit PrOOofis arbeiten</title>
-      <link>http://blog.binaergewitter.de/blog/2013/04/12/binaergewitter-talk-number-49-einmal-mit-prOOofis-arbeiten/</link>
-      <comments>http://blog.binaergewitter.de/blog/2013/04/12/binaergewitter-talk-number-49-einmal-mit-prOOofis-arbeiten/#comments</comments>
-      <pubDate>Fri, 12 Apr 2013 19:00:00 +0200</pubDate>
-      <atom:updated>2013-04-12T19:00:00+02:00</atom:updated>
+      <link>http://blog.binaergewitter.de/blog/2013/04/20/binaergewitter-talk-number-49-einmal-mit-prOOofis-arbeiten/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/04/20/binaergewitter-talk-number-49-einmal-mit-prOOofis-arbeiten/#comments</comments>
+      <pubDate>Sat, 20 Apr 2013 13:00:00 +0200</pubDate>
+      <atom:updated>2013-04-20T13:00:00+02:00</atom:updated>
 
       
       
       <atom:link rel="payment"
-        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F04%2F12%2Fbinaergewitter-talk-number-49-einmal-mit-prOOofis-arbeiten%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2349%20-%20Einmal%20mit%20PrOOofis%20arbeiten&amp;category=audio&amp;tags=podcast,tech,software"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F04%2F20%2Fbinaergewitter-talk-number-49-einmal-mit-prOOofis-arbeiten%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2349%20-%20Einmal%20mit%20PrOOofis%20arbeiten&amp;category=audio&amp;tags=podcast,tech,software"
         type="text/html"
       />
 
@@ -78,7 +78,7 @@
       <media:credit role="author">Binärgewitter Crew</media:credit>
       <media:rating>nonadult</media:rating>
       
-      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/04/12/binaergewitter-talk-number-49-einmal-mit-prOOofis-arbeiten</guid>
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/04/20/binaergewitter-talk-number-49-einmal-mit-prOOofis-arbeiten</guid>
       
       <description>
         <![CDATA[<p>Alle wieder beisammen tiegern wir durch die News der letzten Woche. Marc berichtet wieder über Bitcoins und wir streiten uns über den (Un)Sinn Autos mit Versicherungen zu verbinden....</p>
@@ -268,13 +268,13 @@ Style"</a>
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-04-18.Binaergewitter.Talk.49.mp3"
-        length=""
-        type="" />
+        length="109547985"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-04-18.Binaergewitter.Talk.49.mp3"
-        fileSize=""
-        type="" />
+        fileSize="109547985"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #49 - Einmal mit PrOOofis arbeiten</itunes:subtitle>
       <itunes:summary>
@@ -602,13 +602,13 @@ Starlogs (pfleidi)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-04-11.Binaergewitter.Talk.48.mp3"
-        length=""
-        type="" />
+        length="100477693"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-04-11.Binaergewitter.Talk.48.mp3"
-        fileSize=""
-        type="" />
+        fileSize="100477693"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #48 - Live aus Wolgograd</itunes:subtitle>
       <itunes:summary>
@@ -964,13 +964,13 @@ antennapod für Android
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-04-04.Binaergewitter.Talk.47.mp3"
-        length=""
-        type="" />
+        length="109862897"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-04-04.Binaergewitter.Talk.47.mp3"
-        fileSize=""
-        type="" />
+        fileSize="109862897"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #47 - von Null auf Systemd</itunes:subtitle>
       <itunes:summary>
@@ -1376,13 +1376,13 @@ mode, wie z.B. bei <a href="http://epiceditor.com">Epic Editor</a>. Planen für 
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.mp3"
-        length=""
-        type="" />
+        length="134501145"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-03-28.Binaergewitter.Talk.46.mp3"
-        fileSize=""
-        type="" />
+        fileSize="134501145"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #46 - Kim Jong Ilmages</itunes:subtitle>
       <itunes:summary>
@@ -1724,13 +1724,13 @@ The Hacker Shelf (jan)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-03-21.Binaergewitter.Talk.45.mp3"
-        length=""
-        type="" />
+        length="117446179"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-03-21.Binaergewitter.Talk.45.mp3"
-        fileSize=""
-        type="" />
+        fileSize="117446179"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #45 - Der Inbegriff von Frickelsystemen</itunes:subtitle>
       <itunes:summary>
@@ -2049,13 +2049,13 @@ soviel durcheinander - bestimmt..</p>
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-03-14.Binaergewitter.Talk.44.mp3"
-        length=""
-        type="" />
+        length="100477219"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-03-14.Binaergewitter.Talk.44.mp3"
-        fileSize=""
-        type="" />
+        fileSize="100477219"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #44 -  In 54 lines of shell</itunes:subtitle>
       <itunes:summary>
@@ -2331,13 +2331,13 @@ Friseuse Claudia
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-03-07.Binaergewitter.Talk.43.mp3"
-        length=""
-        type="" />
+        length="80101075"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-03-07.Binaergewitter.Talk.43.mp3"
-        fileSize=""
-        type="" />
+        fileSize="80101075"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #43 - Elstergate</itunes:subtitle>
       <itunes:summary>
@@ -2590,13 +2590,13 @@ If Red Hat wants to deep-throat Microsoft, that's <em>your</em> issue."
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-02-28.Binaergewitter.Talk.42.mp3"
-        length=""
-        type="" />
+        length="81604466"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-02-28.Binaergewitter.Talk.42.mp3"
-        fileSize=""
-        type="" />
+        fileSize="81604466"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #42 - Drehstromziege</itunes:subtitle>
       <itunes:summary>
@@ -2845,13 +2845,13 @@ Spocks
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-02-21.Binaergewitter.Talk.41.mp3"
-        length=""
-        type="" />
+        length="82064978"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-02-21.Binaergewitter.Talk.41.mp3"
-        fileSize=""
-        type="" />
+        fileSize="82064978"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #41 - 2013 das Jahr von Linux auf dem Todesstern</itunes:subtitle>
       <itunes:summary>
@@ -3117,13 +3117,13 @@ it to someone else), so they cannot be used as a medium of exchange."</li>
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-02-07.Binaergewitter.Talk.40.mp3"
-        length=""
-        type="" />
+        length="98765666"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-02-07.Binaergewitter.Talk.40.mp3"
-        fileSize=""
-        type="" />
+        fileSize="98765666"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #40 - der Bus hat zwei Frames Verspätung</itunes:subtitle>
       <itunes:summary>
@@ -3478,13 +3478,13 @@ synaptiks
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-01-31.Binaergewitter.Talk.39.mp3"
-        length=""
-        type="" />
+        length="108991970"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-01-31.Binaergewitter.Talk.39.mp3"
-        fileSize=""
-        type="" />
+        fileSize="108991970"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #39 - Fies-ability</itunes:subtitle>
       <itunes:summary>
@@ -3826,13 +3826,13 @@ pwdx
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-01-24.Binaergewitter.Talk.38.mp3"
-        length=""
-        type="" />
+        length="78073730"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-01-24.Binaergewitter.Talk.38.mp3"
-        fileSize=""
-        type="" />
+        fileSize="78073730"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #38 - Sachen reinstecken, damit das Richtige passiert</itunes:subtitle>
       <itunes:summary>
@@ -4114,13 +4114,13 @@ Pentadactyl - Firefox Addon
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2013-01-10.Binaergewitter.Talk.37.mp3"
-        length=""
-        type="" />
+        length="102953024"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2013-01-10.Binaergewitter.Talk.37.mp3"
-        fileSize=""
-        type="" />
+        fileSize="102953024"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #37 - GNU/Hurts</itunes:subtitle>
       <itunes:summary>
@@ -4537,13 +4537,13 @@ Mr Spock erklaert The Hobbit
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-12-13.Binaergewitter.Talk.36.mp3"
-        length=""
-        type="" />
+        length="137448674"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-12-13.Binaergewitter.Talk.36.mp3"
-        fileSize=""
-        type="" />
+        fileSize="137448674"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #36 - Der Espresso-Abklopfmülleimer</itunes:subtitle>
       <itunes:summary>
@@ -4934,13 +4934,13 @@ You should give pry a try
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-12-06.Binaergewitter.Talk.35.mp3"
-        length=""
-        type="" />
+        length="87845570"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-12-06.Binaergewitter.Talk.35.mp3"
-        fileSize=""
-        type="" />
+        fileSize="87845570"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #35 - Gute Maler</itunes:subtitle>
       <itunes:summary>
@@ -5249,13 +5249,13 @@ Google Apps fuer Mail Server
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-11-29.Binaergewitter.Talk.34.mp3"
-        length=""
-        type="" />
+        length="120282722"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-11-29.Binaergewitter.Talk.34.mp3"
-        fileSize=""
-        type="" />
+        fileSize="120282722"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #34 - Sicherheit durch Ignoranz</itunes:subtitle>
       <itunes:summary>
@@ -5581,13 +5581,13 @@ dust</a> (marc)</li>
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-11-22.Binaergewitter.Talk.33.mp3"
-        length=""
-        type="" />
+        length="101455298"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-11-22.Binaergewitter.Talk.33.mp3"
-        fileSize=""
-        type="" />
+        fileSize="101455298"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #33 - Das Springer Sparabo</itunes:subtitle>
       <itunes:summary>
@@ -5857,13 +5857,13 @@ weechat
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-11-15.Binaergewitter.Talk.32.mp3"
-        length=""
-        type="" />
+        length="83827970"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-11-15.Binaergewitter.Talk.32.mp3"
-        fileSize=""
-        type="" />
+        fileSize="83827970"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #32 - Jimmy Wales Starrzeit</itunes:subtitle>
       <itunes:summary>
@@ -6142,13 +6142,13 @@ Bus Werbung (DasWort)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-11-08.Binaergewitter.Talk.31.mp3"
-        length=""
-        type="" />
+        length="91483874"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-11-08.Binaergewitter.Talk.31.mp3"
-        fileSize=""
-        type="" />
+        fileSize="91483874"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #31 - Pfleidi hol die Pilze</itunes:subtitle>
       <itunes:summary>
@@ -6434,13 +6434,13 @@ Castle
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-10-25.Binaergewitter.Talk.30.mp3"
-        length=""
-        type="" />
+        length="82590290"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-10-25.Binaergewitter.Talk.30.mp3"
-        fileSize=""
-        type="" />
+        fileSize="82590290"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #30 - Yodafone</itunes:subtitle>
       <itunes:summary>
@@ -6714,13 +6714,13 @@ Movies as Code via daswort
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-10-18.Binaergewitter.Talk.29.mp3"
-        length=""
-        type="" />
+        length="79366274"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-10-18.Binaergewitter.Talk.29.mp3"
-        fileSize=""
-        type="" />
+        fileSize="79366274"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #29 - Alarm für CORBA 11</itunes:subtitle>
       <itunes:summary>
@@ -6995,13 +6995,13 @@ Ubucon (ingo)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-10-11.Binaergewitter.Talk.28.mp3"
-        length=""
-        type="" />
+        length="59318060"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-10-11.Binaergewitter.Talk.28.mp3"
-        fileSize=""
-        type="" />
+        fileSize="59318060"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #28 - Kindle Whitepaper</itunes:subtitle>
       <itunes:summary>
@@ -7322,13 +7322,13 @@ viddl-rb
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-10-04.Binaergewitter.Talk.27.mp3"
-        length=""
-        type="" />
+        length="130066531"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-10-04.Binaergewitter.Talk.27.mp3"
-        fileSize=""
-        type="" />
+        fileSize="130066531"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #27 - Open Apache Graveyard</itunes:subtitle>
       <itunes:summary>
@@ -7644,13 +7644,13 @@ Google Plus Events und Bilder und so
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-09-20.Binaergewitter.Talk.26.mp3"
-        length=""
-        type="" />
+        length="89577260"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-09-20.Binaergewitter.Talk.26.mp3"
-        fileSize=""
-        type="" />
+        fileSize="89577260"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #26 - SSH-Session kackt ab wenn der andere seine Mails liest</itunes:subtitle>
       <itunes:summary>
@@ -7977,13 +7977,13 @@ Das Känguru-Manifest
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-09-13.Binaergewitter.Talk.25.mp3"
-        length=""
-        type="" />
+        length="78999506"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-09-13.Binaergewitter.Talk.25.mp3"
-        fileSize=""
-        type="" />
+        fileSize="78999506"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #25 - Pigstarter</itunes:subtitle>
       <itunes:summary>
@@ -8377,13 +8377,13 @@ Evolution Documentary (pfleidi)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-08-22.Binaergewitter.Talk.24.mp3"
-        length=""
-        type="" />
+        length="127603604"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-08-22.Binaergewitter.Talk.24.mp3"
-        fileSize=""
-        type="" />
+        fileSize="127603604"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #24 - Google Balls</itunes:subtitle>
       <itunes:summary>
@@ -8752,13 +8752,13 @@ Security Foo.</p>
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-07-26.Binaergewitter.Talk.23.mp3"
-        length=""
-        type="" />
+        length="100236159"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-07-26.Binaergewitter.Talk.23.mp3"
-        fileSize=""
-        type="" />
+        fileSize="100236159"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #23 - Pulseaudio-Hirn-Sync</itunes:subtitle>
       <itunes:summary>
@@ -9080,13 +9080,13 @@ Hacking Printer Basics
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-07-20.Binaergewitter.Talk.22.mp3"
-        length=""
-        type="" />
+        length="92925026"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-07-20.Binaergewitter.Talk.22.mp3"
-        fileSize=""
-        type="" />
+        fileSize="92925026"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #22 - teilweise sehe ich Dinge</itunes:subtitle>
       <itunes:summary>
@@ -9389,13 +9389,13 @@ What if
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-07-12.Binaergewitter.Talk.21.mp3"
-        length=""
-        type="" />
+        length="91050146"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-07-12.Binaergewitter.Talk.21.mp3"
-        fileSize=""
-        type="" />
+        fileSize="91050146"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #21 - (╯°□°）╯︵ ┻━┻</itunes:subtitle>
       <itunes:summary>
@@ -9714,13 +9714,13 @@ Mailbox for Python
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-07-05.Binaergewitter.Talk.20.mp3"
-        length=""
-        type="" />
+        length="85324850"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-07-05.Binaergewitter.Talk.20.mp3"
-        fileSize=""
-        type="" />
+        fileSize="85324850"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #20 - die Anti-Spaß-Cloud</itunes:subtitle>
       <itunes:summary>
@@ -10033,13 +10033,13 @@ Krawattenknoten
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-06-21.Binaergewitter.Talk.19.mp3"
-        length=""
-        type="" />
+        length="108668834"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-06-21.Binaergewitter.Talk.19.mp3"
-        fileSize=""
-        type="" />
+        fileSize="108668834"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #19 - Leute anpöbeln, damit sie dir was in den Hut werfen</itunes:subtitle>
       <itunes:summary>
@@ -10409,13 +10409,13 @@ OpenGraph (Ingo)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-06-14.Binaergewitter.Talk.18.mp3"
-        length=""
-        type="" />
+        length="140807906"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-06-14.Binaergewitter.Talk.18.mp3"
-        fileSize=""
-        type="" />
+        fileSize="140807906"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #18 - Chuck Testa Airlines</itunes:subtitle>
       <itunes:summary>
@@ -10766,13 +10766,13 @@ Dice+
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-06-07.Binaergewitter.Talk.17.mp3"
-        length=""
-        type="" />
+        length="90416864"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-06-07.Binaergewitter.Talk.17.mp3"
-        fileSize=""
-        type="" />
+        fileSize="90416864"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #17 - SysV Combat Scripts</itunes:subtitle>
       <itunes:summary>
@@ -11053,13 +11053,13 @@ Gource (ingo)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-05-31.Binaergewitter.Talk.16.mp3"
-        length=""
-        type="" />
+        length="108287408"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-05-31.Binaergewitter.Talk.16.mp3"
-        fileSize=""
-        type="" />
+        fileSize="108287408"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #16 - OpenSource Messias</itunes:subtitle>
       <itunes:summary>
@@ -11430,13 +11430,13 @@ zurueck...</a></li>
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-05-24.Binaergewitter.Talk.15.mp3"
-        length=""
-        type="" />
+        length="103601504"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-05-24.Binaergewitter.Talk.15.mp3"
-        fileSize=""
-        type="" />
+        fileSize="103601504"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #15 - Cockford maximal strukturiert wegflickschustern</itunes:subtitle>
       <itunes:summary>
@@ -11840,13 +11840,13 @@ Gulomb-Maßstab berechnen</li>
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-05-17.Binaergewitter.Spezial.4.mp3"
-        length=""
-        type="" />
+        length="109542359"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-05-17.Binaergewitter.Spezial.4.mp3"
-        fileSize=""
-        type="" />
+        fileSize="109542359"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Spezial #4 - Distributed Computing</itunes:subtitle>
       <itunes:summary>
@@ -12235,13 +12235,13 @@ NativeBOINC: derzeit wohl beste Android-Client mit Unterstützung für Milkyway@
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-05-10.Binaergewitter.Talk.14.mp3"
-        length=""
-        type="" />
+        length="147338039"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-05-10.Binaergewitter.Talk.14.mp3"
-        fileSize=""
-        type="" />
+        fileSize="147338039"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #14 - Samsung ist scharf auf Tizen Piratephone</itunes:subtitle>
       <itunes:summary>
@@ -12612,13 +12612,13 @@ Kilimanjaro</a></li>
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-05-03.Binaergewitter.Talk.13.mp3"
-        length=""
-        type="" />
+        length="120071923"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-05-03.Binaergewitter.Talk.13.mp3"
-        fileSize=""
-        type="" />
+        fileSize="120071923"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #13 - Yodling Yeti Bazen in the Distributed Redundant Secure RAID Backup Storage Cloud</itunes:subtitle>
       <itunes:summary>
@@ -12941,13 +12941,13 @@ Marvell vs. Capcom 2
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-04-27.Binaergewitter.Talk.12.mp3"
-        length=""
-        type="" />
+        length="94402053"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-04-27.Binaergewitter.Talk.12.mp3"
-        fileSize=""
-        type="" />
+        fileSize="94402053"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #12 - masturbating interfacenazi</itunes:subtitle>
       <itunes:summary>
@@ -13257,13 +13257,13 @@ FIrefox 3D Inspector (pfleidi)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-04-19.Binaergewitter.Talk.11.mp3"
-        length=""
-        type="" />
+        length="119065797"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-04-19.Binaergewitter.Talk.11.mp3"
-        fileSize=""
-        type="" />
+        fileSize="119065797"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #11 - btrfs -> cheeseFS</itunes:subtitle>
       <itunes:summary>
@@ -13639,13 +13639,13 @@ Codetube federated git hosting (Jan), auf Gitorious
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-04-11.Binaergewitter.Talk.10.mp3"
-        length=""
-        type="" />
+        length="127903619"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-04-11.Binaergewitter.Talk.10.mp3"
-        fileSize=""
-        type="" />
+        fileSize="127903619"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #010 - Sterben an SCSI Eye-Moscht</itunes:subtitle>
       <itunes:summary>
@@ -14104,13 +14104,13 @@ ZOMG TITANIC
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-04-04.Binaergewitter.Talk.9.mp3"
-        length=""
-        type="" />
+        length="123206590"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-04-04.Binaergewitter.Talk.9.mp3"
-        fileSize=""
-        type="" />
+        fileSize="123206590"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #9 - Hypertext-Marx-Up Bonusfeatures</itunes:subtitle>
       <itunes:summary>
@@ -14551,13 +14551,13 @@ ufw (pfleidi)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-03-28.Binaergewitter.Talk.8.mp3"
-        length=""
-        type="" />
+        length="115901823"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-03-28.Binaergewitter.Talk.8.mp3"
-        fileSize=""
-        type="" />
+        fileSize="115901823"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #8 - EDGE rauscht im Schritt</itunes:subtitle>
       <itunes:summary>
@@ -14980,13 +14980,13 @@ Website
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-03-21.Binaergewitter.Talk.7.mp3"
-        length=""
-        type="" />
+        length="141758581"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-03-21.Binaergewitter.Talk.7.mp3"
-        fileSize=""
-        type="" />
+        fileSize="141758581"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #7 - Asscrypt!</itunes:subtitle>
       <itunes:summary>
@@ -15367,13 +15367,13 @@ jQuery scrollpath Demo (pfleidi)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-03-14.Binaergewitter.Talk.6.mp3"
-        length=""
-        type="" />
+        length="107351018"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-03-14.Binaergewitter.Talk.6.mp3"
-        fileSize=""
-        type="" />
+        fileSize="107351018"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #6 - Bouillon</itunes:subtitle>
       <itunes:summary>
@@ -15696,13 +15696,13 @@ Bat Phone (makefu)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-03-07.Binaergewitter.Talk.5.mp3"
-        length=""
-        type="" />
+        length="103184512"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-03-07.Binaergewitter.Talk.5.mp3"
-        fileSize=""
-        type="" />
+        fileSize="103184512"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #5 - Geckphone!</itunes:subtitle>
       <itunes:summary>
@@ -16043,13 +16043,13 @@ HTTPie (pfleidi)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-02-22.Binaergewitter.Talk.4.mp3"
-        length=""
-        type="" />
+        length="120086656"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-02-22.Binaergewitter.Talk.4.mp3"
-        fileSize=""
-        type="" />
+        fileSize="120086656"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #4 - Ich filter Blumen</itunes:subtitle>
       <itunes:summary>
@@ -16364,13 +16364,13 @@ beginners.</a> (marc)</li>
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-02-15.Binaergewitter.Talk.3.mp3"
-        length=""
-        type="" />
+        length="126785664"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-02-15.Binaergewitter.Talk.3.mp3"
-        fileSize=""
-        type="" />
+        fileSize="126785664"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #3 - Retrospektive Kohärenz kann durch Indirektion gelöst werden</itunes:subtitle>
       <itunes:summary>
@@ -16751,13 +16751,13 @@ cloudflare
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-02-08.Binaergewitter.Talk.2.mp3"
-        length=""
-        type="" />
+        length="141810912"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-02-08.Binaergewitter.Talk.2.mp3"
-        fileSize=""
-        type="" />
+        fileSize="141810912"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #2 - Syncender Podwal</itunes:subtitle>
       <itunes:summary>
@@ -17192,13 +17192,13 @@ Steve Jobs stellt android tablet vor
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-02-01.Binaergewitter.Talk.1.mp3"
-        length=""
-        type="" />
+        length="115017856"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-02-01.Binaergewitter.Talk.1.mp3"
-        fileSize=""
-        type="" />
+        fileSize="115017856"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #1 - Klettphone</itunes:subtitle>
       <itunes:summary>
@@ -17580,13 +17580,13 @@ Alien Brain Cocktail
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2012-01-25.Binaergewitter.Talk.0.mp3"
-        length=""
-        type="" />
+        length="113277056"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2012-01-25.Binaergewitter.Talk.0.mp3"
-        fileSize=""
-        type="" />
+        fileSize="113277056"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #0 - schlechter Kaffee oder sexuelle Belästigung</itunes:subtitle>
       <itunes:summary>
@@ -17927,13 +17927,13 @@ Python for Humans
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://archiv.radiotux.de/sendungen/binaergewitter/2011-08-18.RadioTux.Binaergewitter.3.mp3"
-        length=""
-        type="" />
+        length="85420625"
+        type="audio/mpeg" />
       <media:content url="http://archiv.radiotux.de/sendungen/binaergewitter/2011-08-18.RadioTux.Binaergewitter.3.mp3"
-        fileSize=""
-        type="" />
+        fileSize="85420625"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter #3: Arbeiten und Lernen im Hackerspace</itunes:subtitle>
       <itunes:summary>
@@ -18229,13 +18229,13 @@ http://chaosradio.ccc.de/cre134.html
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2011-04-13.RadioTux.Binaergewitter.2.mp3"
-        length=""
-        type="" />
+        length="121261142"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2011-04-13.RadioTux.Binaergewitter.2.mp3"
-        fileSize=""
-        type="" />
+        fileSize="121261142"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter #2: Sichere Systeme</itunes:subtitle>
       <itunes:summary>
@@ -18496,13 +18496,13 @@ Privacy / Privatsphäre (vs. Security?)
       </description>
       
       
-      Liquid error: getaddrinfo: Name or service not known
+      
       <enclosure url="http://download.binaergewitter.de/2011-01-08.RadioTux.Binaergewitter.NoSQL.mp3"
-        length=""
-        type="" />
+        length="155536183"
+        type="audio/mpeg" />
       <media:content url="http://download.binaergewitter.de/2011-01-08.RadioTux.Binaergewitter.NoSQL.mp3"
-        fileSize=""
-        type="" />
+        fileSize="155536183"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binaergewitter #1 - NoSQL</itunes:subtitle>
       <itunes:summary>
