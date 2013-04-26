@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-04-20T14:40:57+02:00</updated>
+  <updated>2013-04-26T11:39:05+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,201 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #50 - Fetznetzflat]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/04/26/binaergewitter-talk-number-50-fetznetzflat/"/>
+    <updated>2013-04-26T12:00:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/04/26/binaergewitter-talk-number-50-fetznetzflat</id>
+    <content type="html"><![CDATA[<p>Auch wir 4 reden natürlich über das was die Telekom da veranstaltet, aber auch über TOR, 64bit und andere Web und Open Source Themen. Hört rein :)</p>
+
+<h2>In eigener Sache</h2>
+
+<ul>
+<li><a href="https://alpha.app.net/binaergewitter">Wir sind nun auf App.net</a>
+
+<ul>
+<li><a href="https://alpha.app.net/retinacast">Retinacast auch</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h1>Apropos</h1>
+
+<ul>
+<li>Google Talk nimmt keine XMPP requests an
+
+<ul>
+<li>sieht so aus als waer es als ANTI-Spam measure gedacht worden</li>
+<li><a href="http://www.fsf.org/blogs/sysadmin/google-reinstates-federated-instant-messaging">Google setzt nun &#8216;richtigen&#8217; filter ein</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Das-Ende-von-Delphi-fuer-NET-1846091.html">Delphi .net</a></li>
+<li><a href="http://waxy.org/2013/04/the_death_of_upcomingorg/">Upcoming.org</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="https://isc.sans.edu/diary/A+Chargen-based+DDoS%3F+Chargen+is+still+a+thing%3F/15647">Chargen als DDos</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://blog.jquery.com/2013/04/18/jquery-2-0-released/">jQuery 2.0</a></li>
+<li>Ubuntu 13.04 ist da - wir warten auf yodeling yeti</li>
+<li><a href="http://www.pro-linux.de/news/1/19718/nginx-140-mit-websockets-und-spdy.html">NginX 1.4 ist da mit Websockets und SPDY</a></li>
+<li><a href="http://tengine.taobao.org/">Tengine</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19716/wikimedia-foundation-wechselt-zu-mariadb.html">Wikipedia jetzt mit MariaDB</a>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/19713/monty-program-ab-und-skysql-planen-fusion.html">neue größere Firma hinter MariaDB</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Zehn-Jahre-64-Bit-Technik-von-AMD-1847040.html">10 Jahre 64bit</a>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Atari_Jaguar">Atari Jaguar 1994</a></li>
+</ul>
+</li>
+<li><a href="http://labs.bittorrent.com/experiments/sync.html">Bittorrent Sync ist taus der Beta raus</a></li>
+<li><a href="http://about.travis-ci.org/blog/upcoming-infrastructure-change-for-travis-pro/">TravisCI Infrastruktur update</a>
+
+<ul>
+<li><a href="https://bluebox.net/landing/travis-ci">Blue Box</a></li>
+</ul>
+</li>
+<li><a href="https://mtgox.com/pdf/20130424_ddos_statement_and_faq.pdf">Litecoin bei MtGox</a></li>
+<li><a href="http://www.skulpt.org/#">Python im Browser als javascript-Ersatz</a></li>
+<li><a href="http://www.kickstarter.com/projects/1869987317/wish-i-was-here-1">Zach Braff Kickstarter</a></li>
+<li><a href="http://perlbuzz.com/2013/04/ack-20-has-been-released.html">ACK 2.0 wurde freigegeben</a>
+
+<ul>
+<li><a href="https://github.com/ggreer/the_silver_searcher">Silver Searcher</a></li>
+</ul>
+</li>
+<li><a href="http://conversations.nokia.com/2013/04/24/the-keys-to-getting-social-nokia-asha-210/">Nokia bringt Handy mit dediziertem WhatsApp Knopf</a></li>
+<li><a href="http://www.gulli.com/news/21312-samsung-engagierte-studenten-fuer-htc-bashing-2013-04-19">Samsung kauft Studenten um HTC schlecht zu rezensieren</a></li>
+<li><a href="http://betabeat.com/2012/04/bottoms-up-the-ballmer-peak-is-real-study-says/">Es gibt den Ballmer Peak wirklich?</a></li>
+<li><a href="http://techblog.netflix.com/2013/04/html5-video-at-netflix.html">Netflix will auf HTML5 umsteigen</a>
+
+<ul>
+<li><a href="https://twitter.com/billwscott/status/326957759121739776">Netflix mobile, PS3, HDTV Apps sind schon seit 2010 HTML5</a></li>
+<li><a href="https://plus.google.com/107429617152575897589/posts/iPmatxBYuj2">The Purpose of DRM</a></li>
+</ul>
+</li>
+<li><a href="http://www.wired.com/threatlevel/2013/04/no-knives-on-planes/">TSA will taschenmesser wieder erlauben</a></li>
+<li><a href="http://www.golem.de/news/kreditkartendaten-online-reisebuchungen-in-deutschland-gehackt-1304-98846.html">Wupps - Online-Reisebuchungen in Deutschland &#8216;verloren&#8217; gegangen</a></li>
+</ul>
+
+
+<h3>Drosselkom / Netzneutralitätt</h3>
+
+<ul>
+<li><a href="https://netzpolitik.org/2013/telekom-macht-ernst-tarifwechsel-fuhrt-zur-ende-der-flatrates-und-verletzung-der-netzneutralitat/">Telekom macht Ernst</a>
+
+<ul>
+<li><a href="http://www.golem.de/1110/87311.html">Haben sie schon immer gesagt</a></li>
+<li><a href="http://www.golem.de/news/routeranbieter-viprinet-telekom-luegt-bei-begruendung-fuer-flatrate-abschaffung-1304-98939.html">&#8220;Telekom lügt&#8221;</a></li>
+<li><a href="http://vimeo.com/64641982">Telekom Seite mit 384Kbit/s</a></li>
+<li><a href="http://www.golem.de/news/unitymedia-kabelbw-wir-werden-400-mbit-s-ohne-drosselung-anbieten-1304-98873.html">KabelBW will nicht drosseln</a></li>
+<li><a href="http://www.zeit.de/digital/internet/2013-04/telekom-netzneutralitaet-drossel">Problem mit Netzneutralität</a></li>
+<li><a href="http://drossl.de/">Drossl</a></li>
+<li><a href="http://werdrosselt.de/">Wer Drosselt?</a></li>
+<li><a href="http://www.golem.de/news/malte-goetz-petition-bei-change-org-gegen-telekom-drosselung-1304-98916.html">Petition gegen Drosselung</a></li>
+<li><a href="http://www.heise.de/tp/blogs/8/154164">VDS durch die Hintertür</a></li>
+<li><a href="http://de.wikipedia.org/wiki/TR-069">TR-069</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Bundesregierung-warnt-vor-Flatrate-Drossel-der-Telekom-1849083.html">der Wirtschaftsminister von der FTP findet das nicht gut was die Telekom machen will</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Japan-Provider-sollen-Anonymisierungnetzwerk-blockieren-1846843.html">In Japan sollen Provider Tor blockieren</a></li>
+<li><a href="http://www.neowin.net/news/say-goodbye-to-power-cords-with-usb-30-update">Power uebers USB kommt hart</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<ul>
+<li><a href="http://www.npr.org/blogs/money/2013/04/19/177999020/episode-357-how-much-should-we-trust-economics">How much should we trust economics</a></li>
+<li><a href="http://blog.justetf.com/etfs/geldmarkt-etfs/">EONIA ETF</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="https://queue.acm.org/detail.cfm?id=1814327">You&#8217;re doing it wrong</a></li>
+<li><a href="http://www.theatlantic.com/health/archive/2013/04/whats-tylenol-doing-to-our-minds/275101/">What&#8217;s Tylenol Doing to Our Minds?</a>(Paracetamol)</li>
+<li><a href="http://amzn.to/10D4PD8">Thinking, Fast and Slow</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Feedburner (Ingo)</li>
+<li>Amazon.de und Adblock Plus (pfleidi)</li>
+<li>KabelBW Anschluss Upgrade (pfleidi)
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=LdQyQLs2THM">Köfferschen</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://pdfcrack.sourceforge.net/">pdfcrack</a>
+
+<ul>
+<li><a href="http://andi.flowrider.ch/research/pdfcrack.html">pdfcrack threaded</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/OpenEmu/OpenEmu">OpenEmu</a></li>
+<li><a href="http://duff.sourceforge.net/">Duff</a></li>
+<li><a href="https://www.simquadrat.de/">Simquadrat</a></li>
+<li>App.net Clients
+
+<ul>
+<li><a href="http://kiwi-app.net/">Kiwi</a></li>
+<li><a href="http://tapbots.com/software/netbot/">Netbot</a></li>
+<li><a href="http://patter-app.net/">Patter</a></li>
+</ul>
+</li>
+<li><a href="https://www.torproject.org/">Tor Project</a></li>
+<li><a href="http://proxychains.sf.net">proxychains</a>
+
+<ul>
+<li><a href="http://blog.marc-seeger.de/2012/02/26/socks-and-proxychains-as-a-vpn-alternative/">Socks and Proxychains as a VPN Alternative</a></li>
+</ul>
+</li>
+<li><a href="https://play.google.com/store/apps/details?id=io.imake.xenim">Xenim Android App</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=de.danoeh.antennapod&amp;hl=de">AntennaPod</a></li>
+<li><a href="http://mitmproxy.org/">MITMProxy</a></li>
+<li><a href="http://stackoverflow.com/questions/9458294/open-url-under-cursor-in-vim-with-browser">vim shortcut: gx</a></li>
+<li><a href="https://itunes.apple.com/de/app/yahoo!-weather/id628677149?l=en&amp;mt=8">Yahoo Weather App</a></li>
+<li><a href="http://www.tokutek.com/2013/04/announcing-tokudb-v7-open-source-and-more/">Toku DB Open Source</a>
+
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=5589308">HN</a></li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #49 - Einmal mit PrOOofis arbeiten]]></title>
@@ -2157,117 +2352,6 @@ it to someone else), so they cannot be used as a medium of exchange.&#8221;</li>
 <li><a href="http://collectiveidea.com/blog/archives/2012/01/16/give-pry-a-try/">You should give pry a try</a></li>
 </ul>
 </li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #35 - Gute Maler]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/12/07/binaergewitter-talk-number-35-gute-maler/"/>
-    <updated>2012-12-07T18:00:00+01:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/12/07/binaergewitter-talk-number-35-gute-maler</id>
-    <content type="html"><![CDATA[<p>Nur zu dritt, weil der Marc packen muss. Wir werden wieder über John und heulen über GWT und Oracle.</p>
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.heise.de/newsticker/meldung/Googles-Web-Toolkit-GWT-Zukunft-nur-ueber-die-Community-1762451.html">GWT</a></li>
-<li><a href="http://arstechnica.com/security/2012/12/oh-great-new-attack-makes-some-password-cracking-faster-easier-than-ever/">SHA-1 als Passwort Hashing Algo</a>
-
-<ul>
-<li><a href="http://securityledger.com/new-25-gpu-monster-devours-passwords-in-seconds/">Superparalleler Hardcore 25 Grafikkartenrechner</a></li>
-</ul>
-</li>
-<li><a href="http://idle.slashdot.org/story/12/12/05/1737214/as-fish-stocks-collapse-overpopulated-lobsters-resort-to-cannibalism">Baby Lobsters</a></li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.golem.de/news/6wunderkinder-wunderlist-2-wartet-auf-apples-freigabe-1212-96189.html">Wunderlist2</a>
-
-<ul>
-<li><a href="https://github.com/appcelerator">Titanium Appcelerator</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://tomatos.have.no.32leav.es/">Lustiges Tomatenprojekt</a></li>
-<li><a href="http://arstechnica.com/tech-policy/2012/11/how-four-microsoft-engineers-proved-copy-protection-would-fail/">4 Microsoft Entwickler haben vorrausgesehen, dass DRM failt und Darknets gewinnen</a>
-
-<ul>
-<li><a href="http://crypto.stanford.edu/DRM2002/darknet5.doc">Das Paper</a></li>
-</ul>
-</li>
-<li><a href="http://www.golem.de/news/geruecht-facebook-will-angeblich-whatsapp-kaufen-1212-96082.html">Facebook will anscheinend WhatsApp kaufen</a>
-
-<ul>
-<li><a href="http://www.golem.de/news/messenger-facebook-macht-whatsapp-konkurrenz-1212-96136.html">Facebook bindet Messenger nicht mehr an Facebook Account</a></li>
-</ul>
-</li>
-<li><a href="http://www.heise.de/newsticker/meldung/John-McAfee-will-Asyl-in-Guatemala-1762227.html">McAfee :)))))</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Stiftung-fuer-MariaDB-startet-mit-1-Million-Euro-1762241.html">MariaDB</a></li>
-<li><a href="http://apple.slashdot.org/story/12/12/05/1949204/richard-stallman-apple-has-tightest-digital-handcuffs-in-history">Richard Stallman: Apple ist boes, mkay?</a></li>
-<li><a href="http://www.nature.com/news/data-teleportation-the-quantum-space-race-1.11958">Das Quantum-Internet : Super Secure und unendlich schnell</a></li>
-<li><a href="http://mjg59.dreamwidth.org/20303.html">Secure Boot Loader fuer Distros</a></li>
-<li><a href="http://arstechnica.com/security/2012/12/how-a-computer-worm-slithered-across-a-huge-number-of-tumblr-accounts/">Tumblr Wurm</a></li>
-<li><a href="http://isc.sans.edu/diary.html?storyid=14611">MySQL 0days</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Blogger-demonstrieren-gewieften-Passwortklau-1761237.html">Strg+F und Passwort ist geklaut</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/DDOS-Attacken-auf-Pizzadienste-100-000-Euro-Belohnung-1762860.html">DoS Attachen auf Pizza Lieferdienste</a>
-
-<ul>
-<li><a href="http://www.flickr.com/photos/trickartt/4772197624/">Fax Maschinen DoS-en</a></li>
-</ul>
-</li>
-<li><a href="http://www.golem.de/news/softwarelizenz-viele-projekte-auf-github-proprietaer-1212-96130.html">Viel Code auf Github &#8220;proprietär&#8221;</a> (via @schmittlauch)</li>
-<li><a href="http://security.blogs.cnn.com/2012/11/28/u-s-had-plans-to-nuke-the-moon/?hpt=hp_c2">U.S. wollte den Mond nuken</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Creative-Commons-feiert-10-Geburtstag-1763457.html">10 Jahre CC</a></li>
-<li>Samba 4 - 11.12</li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://www.gnucitizen.org/blog/you-and-your-research/">You and your Research</a></li>
-<li><a href="http://duartes.org/gustavo/blog/post/page-cache-the-affair-between-memory-and-files">Page cache, the affair between memory and files</a> (pfleidi)</li>
-<li><a href="http://itblog.eckenfels.net/archives/494-HTTP-Header-und-Browser-Sicherheit.html">HTTP Header und Browser Sicherheit</a> (pfleidi)</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Oracle Database</li>
-<li><a href="http://bjango.com/mac/istatmenus/">iStat Menus 4 ist hässlich</a> (pfleidi)</li>
-<li><a href="http://blog.hep-cat.de/pics/29C3-logo.png">Das 29c3 Logo</a></li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://keygen-fm.ru">keygen-fm</a>
-
-<ul>
-<li><a href="http://keygen-fm.ru/images/server.jpg">Server System</a>(via freak_out)</li>
-</ul>
-</li>
-<li><a href="https://aur.archlinux.org/packages/tinc-pre2/">tinc-pre: tinc pre release</a></li>
-<li><a href="https://itunes.apple.com/de/app/jasmine-youtube-client/id554937050?mt=8">Jasmine Youtube Client</a></li>
-<li><a href="http://www.offensive-security.com/metasploit-unleashed/WMAP_Web_Scanner">wmap web scanner</a></li>
-<li><a href="https://wiki.archlinux.org/index.php/Systemd_FAQ#Q:_My_computer_shuts_down.2C_but_the_power_stays_on">systemctl poweroff</a> (pfleidi)</li>
-<li><a href="">XenimApp</a></li>
-<li><a href="http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html">SuperDuper</a> (pfleidi)</li>
-<li><a href="http://reliveradio.de/">relive radio</a> (ingo)</li>
-<li><a href="http://humdi.net/vnstat/">vnstat</a> (pfleidi)</li>
-<li><a href="">Google Apps fuer Mail Server</a></li>
 </ul>
 
 ]]></content>

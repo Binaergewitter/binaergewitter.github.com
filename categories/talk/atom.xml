@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-04-20T14:40:57+02:00</updated>
+  <updated>2013-04-26T11:39:05+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,201 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #50 - Fetznetzflat]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/04/26/binaergewitter-talk-number-50-fetznetzflat/"/>
+    <updated>2013-04-26T12:00:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/04/26/binaergewitter-talk-number-50-fetznetzflat</id>
+    <content type="html"><![CDATA[<p>Auch wir 4 reden natürlich über das was die Telekom da veranstaltet, aber auch über TOR, 64bit und andere Web und Open Source Themen. Hört rein :)</p>
+
+<h2>In eigener Sache</h2>
+
+<ul>
+<li><a href="https://alpha.app.net/binaergewitter">Wir sind nun auf App.net</a>
+
+<ul>
+<li><a href="https://alpha.app.net/retinacast">Retinacast auch</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h1>Apropos</h1>
+
+<ul>
+<li>Google Talk nimmt keine XMPP requests an
+
+<ul>
+<li>sieht so aus als waer es als ANTI-Spam measure gedacht worden</li>
+<li><a href="http://www.fsf.org/blogs/sysadmin/google-reinstates-federated-instant-messaging">Google setzt nun 'richtigen' filter ein</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Das-Ende-von-Delphi-fuer-NET-1846091.html">Delphi .net</a></li>
+<li><a href="http://waxy.org/2013/04/the_death_of_upcomingorg/">Upcoming.org</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="https://isc.sans.edu/diary/A+Chargen-based+DDoS%3F+Chargen+is+still+a+thing%3F/15647">Chargen als DDos</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://blog.jquery.com/2013/04/18/jquery-2-0-released/">jQuery 2.0</a></li>
+<li>Ubuntu 13.04 ist da - wir warten auf yodeling yeti</li>
+<li><a href="http://www.pro-linux.de/news/1/19718/nginx-140-mit-websockets-und-spdy.html">NginX 1.4 ist da mit Websockets und SPDY</a></li>
+<li><a href="http://tengine.taobao.org/">Tengine</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19716/wikimedia-foundation-wechselt-zu-mariadb.html">Wikipedia jetzt mit MariaDB</a>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/19713/monty-program-ab-und-skysql-planen-fusion.html">neue größere Firma hinter MariaDB</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Zehn-Jahre-64-Bit-Technik-von-AMD-1847040.html">10 Jahre 64bit</a>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Atari_Jaguar">Atari Jaguar 1994</a></li>
+</ul>
+</li>
+<li><a href="http://labs.bittorrent.com/experiments/sync.html">Bittorrent Sync ist taus der Beta raus</a></li>
+<li><a href="http://about.travis-ci.org/blog/upcoming-infrastructure-change-for-travis-pro/">TravisCI Infrastruktur update</a>
+
+<ul>
+<li><a href="https://bluebox.net/landing/travis-ci">Blue Box</a></li>
+</ul>
+</li>
+<li><a href="https://mtgox.com/pdf/20130424_ddos_statement_and_faq.pdf">Litecoin bei MtGox</a></li>
+<li><a href="http://www.skulpt.org/#">Python im Browser als javascript-Ersatz</a></li>
+<li><a href="http://www.kickstarter.com/projects/1869987317/wish-i-was-here-1">Zach Braff Kickstarter</a></li>
+<li><a href="http://perlbuzz.com/2013/04/ack-20-has-been-released.html">ACK 2.0 wurde freigegeben</a>
+
+<ul>
+<li><a href="https://github.com/ggreer/the_silver_searcher">Silver Searcher</a></li>
+</ul>
+</li>
+<li><a href="http://conversations.nokia.com/2013/04/24/the-keys-to-getting-social-nokia-asha-210/">Nokia bringt Handy mit dediziertem WhatsApp Knopf</a></li>
+<li><a href="http://www.gulli.com/news/21312-samsung-engagierte-studenten-fuer-htc-bashing-2013-04-19">Samsung kauft Studenten um HTC schlecht zu rezensieren</a></li>
+<li><a href="http://betabeat.com/2012/04/bottoms-up-the-ballmer-peak-is-real-study-says/">Es gibt den Ballmer Peak wirklich?</a></li>
+<li><a href="http://techblog.netflix.com/2013/04/html5-video-at-netflix.html">Netflix will auf HTML5 umsteigen</a>
+
+<ul>
+<li><a href="https://twitter.com/billwscott/status/326957759121739776">Netflix mobile, PS3, HDTV Apps sind schon seit 2010 HTML5</a></li>
+<li><a href="https://plus.google.com/107429617152575897589/posts/iPmatxBYuj2">The Purpose of DRM</a></li>
+</ul>
+</li>
+<li><a href="http://www.wired.com/threatlevel/2013/04/no-knives-on-planes/">TSA will taschenmesser wieder erlauben</a></li>
+<li><a href="http://www.golem.de/news/kreditkartendaten-online-reisebuchungen-in-deutschland-gehackt-1304-98846.html">Wupps - Online-Reisebuchungen in Deutschland 'verloren' gegangen</a></li>
+</ul>
+
+
+<h3>Drosselkom / Netzneutralitätt</h3>
+
+<ul>
+<li><a href="https://netzpolitik.org/2013/telekom-macht-ernst-tarifwechsel-fuhrt-zur-ende-der-flatrates-und-verletzung-der-netzneutralitat/">Telekom macht Ernst</a>
+
+<ul>
+<li><a href="http://www.golem.de/1110/87311.html">Haben sie schon immer gesagt</a></li>
+<li><a href="http://www.golem.de/news/routeranbieter-viprinet-telekom-luegt-bei-begruendung-fuer-flatrate-abschaffung-1304-98939.html">"Telekom lügt"</a></li>
+<li><a href="http://vimeo.com/64641982">Telekom Seite mit 384Kbit/s</a></li>
+<li><a href="http://www.golem.de/news/unitymedia-kabelbw-wir-werden-400-mbit-s-ohne-drosselung-anbieten-1304-98873.html">KabelBW will nicht drosseln</a></li>
+<li><a href="http://www.zeit.de/digital/internet/2013-04/telekom-netzneutralitaet-drossel">Problem mit Netzneutralität</a></li>
+<li><a href="http://drossl.de/">Drossl</a></li>
+<li><a href="http://werdrosselt.de/">Wer Drosselt?</a></li>
+<li><a href="http://www.golem.de/news/malte-goetz-petition-bei-change-org-gegen-telekom-drosselung-1304-98916.html">Petition gegen Drosselung</a></li>
+<li><a href="http://www.heise.de/tp/blogs/8/154164">VDS durch die Hintertür</a></li>
+<li><a href="http://de.wikipedia.org/wiki/TR-069">TR-069</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Bundesregierung-warnt-vor-Flatrate-Drossel-der-Telekom-1849083.html">der Wirtschaftsminister von der FTP findet das nicht gut was die Telekom machen will</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Japan-Provider-sollen-Anonymisierungnetzwerk-blockieren-1846843.html">In Japan sollen Provider Tor blockieren</a></li>
+<li><a href="http://www.neowin.net/news/say-goodbye-to-power-cords-with-usb-30-update">Power uebers USB kommt hart</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<ul>
+<li><a href="http://www.npr.org/blogs/money/2013/04/19/177999020/episode-357-how-much-should-we-trust-economics">How much should we trust economics</a></li>
+<li><a href="http://blog.justetf.com/etfs/geldmarkt-etfs/">EONIA ETF</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="https://queue.acm.org/detail.cfm?id=1814327">You're doing it wrong</a></li>
+<li><a href="http://www.theatlantic.com/health/archive/2013/04/whats-tylenol-doing-to-our-minds/275101/">What's Tylenol Doing to Our Minds?</a>(Paracetamol)</li>
+<li><a href="http://amzn.to/10D4PD8">Thinking, Fast and Slow</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Feedburner (Ingo)</li>
+<li>Amazon.de und Adblock Plus (pfleidi)</li>
+<li>KabelBW Anschluss Upgrade (pfleidi)
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=LdQyQLs2THM">Köfferschen</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://pdfcrack.sourceforge.net/">pdfcrack</a>
+
+<ul>
+<li><a href="http://andi.flowrider.ch/research/pdfcrack.html">pdfcrack threaded</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/OpenEmu/OpenEmu">OpenEmu</a></li>
+<li><a href="http://duff.sourceforge.net/">Duff</a></li>
+<li><a href="https://www.simquadrat.de/">Simquadrat</a></li>
+<li>App.net Clients
+
+<ul>
+<li><a href="http://kiwi-app.net/">Kiwi</a></li>
+<li><a href="http://tapbots.com/software/netbot/">Netbot</a></li>
+<li><a href="http://patter-app.net/">Patter</a></li>
+</ul>
+</li>
+<li><a href="https://www.torproject.org/">Tor Project</a></li>
+<li><a href="http://proxychains.sf.net">proxychains</a>
+
+<ul>
+<li><a href="http://blog.marc-seeger.de/2012/02/26/socks-and-proxychains-as-a-vpn-alternative/">Socks and Proxychains as a VPN Alternative</a></li>
+</ul>
+</li>
+<li><a href="https://play.google.com/store/apps/details?id=io.imake.xenim">Xenim Android App</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=de.danoeh.antennapod&amp;hl=de">AntennaPod</a></li>
+<li><a href="http://mitmproxy.org/">MITMProxy</a></li>
+<li><a href="http://stackoverflow.com/questions/9458294/open-url-under-cursor-in-vim-with-browser">vim shortcut: gx</a></li>
+<li><a href="https://itunes.apple.com/de/app/yahoo!-weather/id628677149?l=en&amp;mt=8">Yahoo Weather App</a></li>
+<li><a href="http://www.tokutek.com/2013/04/announcing-tokudb-v7-open-source-and-more/">Toku DB Open Source</a>
+
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=5589308">HN</a></li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #49 - Einmal mit PrOOofis arbeiten]]></title>
@@ -690,161 +885,6 @@ mode, wie z.B. bei <a href="http://epiceditor.com">Epic Editor</a>. Planen für 
 </li>
 <li><a href="http://www.reddit.com/r/tldr">reddit TL;DR</a> (jan)</li>
 <li><a href="http://hackershelf.com/browse/">The Hacker Shelf</a> (jan)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #45 - Der Inbegriff von Frickelsystemen]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2013/03/22/binaergewitter-talk-number-45-der-inbegriff-von-frickelsystemen/"/>
-    <updated>2013-03-22T13:00:00+01:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2013/03/22/binaergewitter-talk-number-45-der-inbegriff-von-frickelsystemen</id>
-    <content type="html"><![CDATA[<p>Pfleidi is back. Also ist endlich alles wie immer. Oder? Zumindest gehen wir durch die News der letzten Wochen und quatschen über Kollaborative Editoren.</p>
-
-<h2>Apropos</h2>
-
-<ul>
-<li><a href="http://pyfound.blogspot.co.uk/2013/03/python-software-foundation-reaches.html">Apropos: Python Trademark ist gerettet</a></li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.heise.de/newsticker/meldung/Google-entfernt-RSS-Extension-aus-Chrome-Web-Store-1824218.html">Google entfernt RSS extension aus chrome web store</a></li>
-<li><a href="http://news.techeye.net/business/how-apple-and-intel-killed-thunderbolt">Wie Apple und Intel Thunderbolt getoetet haben</a></li>
-<li>Herr Copenrath (Kuchen)</li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.gizmodo.de/2013/03/19/krebskranker-total-war-fan-wird-in-rome-2-unsterblich.html">Krebskranker Total War Fan fuer immer als Flaggentraeger verewigt</a></li>
-<li><a href="http://www.golem.de/news/vodafone-joyn-app-fuer-iphone-ist-da-1303-98287.html">Joyn App fürs iPhone</a>
-
-<ul>
-<li><a href="http://blog.binaergewitter.de/blog/2013/02/01/binaergewitter-talk-number-39-fies-ability/">BGT 39 zum Thema mobile messaging</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Fail der Woche</h2>
-
-<ul>
-<li><a href="http://www.spiegel.de/wirtschaft/unternehmen/vielfahrer-bahn-will-reisedaten-ihrer-kunden-vermarkten-a-889286.html">Bahn will Daten von Reisenden vermarkten</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://www.chartjs.org/">Chart.js wieder online</a></li>
-<li><a href="http://arstechnica.com/gaming/2013/03/55-hours-81m-points-and-the-fall-of-missile-commands-30-year-old-record/">Nach 56 Stunden 81 MILLIONEN punkte bei Missile Commander</a></li>
-<li><a href="http://hackaday.com/2013/03/18/robotic-rat-torments-and-depresses-real-rats/">Robo Ratten nerven normale Ratten - FOR SCIENCE</a></li>
-<li><a href="http://news.sciencemag.org/sciencenow/2013/03/evolution-via-roadkill.html?ref=hp">Evolution via Roadkill</a></li>
-<li><a href="http://basho.com/riak-cs-is-now-open-source/">Riak CS wird open source</a></li>
-<li><a href="http://chrome.com/maze/">Chrome Maze</a></li>
-<li><a href="http://shop.theoatmeal.com/collections/frontpage/products/sriracha-boxer-briefs">Oatmeal Buchse</a></li>
-<li><a href="http://arstechnica.com/business/2013/03/google-keep-is-live-and-ready-to-take-your-notes/">Google Keep</a></li>
-<li><a href="http://dev.hubspot.com/blog/bulletproof-demos">Bulletproof Demos</a></li>
-<li><a href="http://www.nytimes.com/2013/03/20/world/asia/blackout-halts-cooling-system-at-fukushima-plant.html?_r=0">Wupps ... Kuehlung der Reaktoren in Fukushima ausgefallen</a></li>
-<li><a href="http://bitcoinity.org/markets">Bitcoin bei 70$</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Lizenz-zur-Waffenproduktion-mit-3D-Druckern-erteilt-1824420.html">3D Drucker bekommt Lizenz zur Waffenproduktion</a></li>
-<li><a href="http://publicintelligence.net/nctc-urban-exploration/">Urban Exploration ist jetzt 'Urban Hacking' ... a PSA</a></li>
-<li><a href="http://www.theverge.com/2013/3/21/4130740/tallin-manual-on-the-international-law-applicable-to-cyber-warfare">In 'cyber warfare' ist das toeten von 'hackern' ok</a></li>
-<li><a href="http://www.darknet.org.uk/2013/03/andrew-auernheimer-aka-weev-gets-41-months-jail-time-for-get-requests/">41 Monate Gefaengnis fuer HTTP GET Requests</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Dropbox-kauft-Mailbox-1824164.html">Dropbox kauft Mailbox</a></li>
-<li><a href="http://www.humblebundle.com/weekly">Humble Weekly sale...?</a></li>
-<li><a href="http://www.nytimes.com/2013/03/13/business/retirementspecial/hey-at-least-you-can-be-virtually-immortal.html?_r=0">Hey, at Least You Can Be Virtually Immortal</a></li>
-<li><a href="http://googleonlinesecurity.blogspot.de/2013/03/google-public-dns-now-supports-dnssec.html">Google unterstuetzt DNSSEC</a></li>
-<li><a href="http://arstechnica.com/business/2013/03/babble-google-may-be-priming-unified-chat-service-for-google-io/">Google Babble</a></li>
-<li><a href="http://arstechnica.com/apple/2013/03/eu-still-unhappy-with-apple-over-silence-on-two-year-warranty/">Apple schweigt sich ueber Gewaehrleistung von 2 Jahren aus - EU is not amused</a></li>
-<li><a href="http://arstechnica.com/apple/2013/03/apples-hire-of-anti-apple-adobe-cto-raises-eyebrows/">Apple kauft sich Adobe CTO ein</a></li>
-<li><a href="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-21842269">In Schottland duerfen jetzt auch endlich Jedi in der Kirche Heiraten - mit allem was dazu gehoert</a></li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<ul>
-<li>Collaborative editing? nach etherpad-lite fail0r
-
-<ul>
-<li><a href="http://gobby.0x539.de/">Gobby</a></li>
-<li><a href="http://www.radiotux.de/index.php?/archives/2102-RadioTuxHoRadS-81.html">Gobby Interview</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/alabid/flylatex">Flylatex</a></li>
-<li><a href="http://www.heise.de/developer/artikel/Synchronisationsalgorithmen-verstehen-1562877.html">Sync Algorithmen</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://www.igvita.com/2009/10/08/advanced-messaging-routing-with-amqp/">Advanced message routing with AMQP</a></li>
-<li><a href="http://www.wildbunny.co.uk/blog/2013/03/15/algorithmic-trading-for-dummies/?v=1">Algorithmic trading for dummies</a></li>
-<li><a href="http://www.acm.uiuc.edu/workshops/zsh/history/hist_expn.html">ZSH History Expansion</a></li>
-<li><a href="http://mhalligan.com/benefits-matter-or-why-i-wont-work-for-your-y">Benefits matter</a></li>
-<li><a href="https://plus.google.com/107429617152575897589/posts/iPmatxBYuj2">The Purpose of DRM</a></li>
-<li><a href="http://theweek.com/article/index/238751/14-wonderful-words-with-no-english-equivalent">14 wonderful words with no English equivalent</a></li>
-<li><a href="http://www.pixelbeat.org/programming/shell_script_mistakes.html">Common shell script mistakes</a></li>
-<li><a href="https://www.pushlayer.com/blog/2013/03/11/how-we-use-sidekiq-and-redis-for-massively-concurrent-workers">How we use sidekiq and redis for massively concurrent workers</a></li>
-<li><a href="http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/">Notes on distributed computing for young bloods</a></li>
-<li><a href="https://twitter.com/_FloridaMan">Florida Man</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Fuck Windows weil Dateinamen verstecken (Ingo)</li>
-<li>zsh completion scripts: _arguments &amp;&amp; return 0
-
-<ul>
-<li>Sources:
-
-<ul>
-<li><a href="http://www.linux-mag.com/id/1106/">LinuxMag</a></li>
-<li><a href="http://zsh.sourceforge.net/Guide/zshguide06.html#l189">Offizieller ZSH Guide</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="https://github.com/sstephenson/ruby-build/issues/186">ruby-build ree compile</a></li>
-<li><a href="https://github.com/makefu/array">Posix und Arrays</a>
-
-<ul>
-<li><a href="https://wiki.ubuntu.com/DashAsBinSh/">DashAsBinSh</a></li>
-</ul>
-</li>
-<li>OpenWRT ist alt (wenn man keine snapshots verwendet)</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.one-tab.com/">OneTab</a></li>
-<li><a href="http://www.haystacksoftware.com/arq/">Arq</a></li>
-<li><a href="http://duplicity.nongnu.org/">Duplicity</a></li>
-<li><a href="http://chocolatey.org/">Chocolatery - Windows Paket Manager</a></li>
-<li><a href="http://www.noodlesoft.com/hazel.php">Hazel</a></li>
-<li><a href="http://giphy.com/">Giphy</a></li>
-<li><a href="http://labs.bittorrent.com/experiments/sync.html">Bittorrent Sync</a></li>
-<li><a href="https://www.amazon.de/dp/B005UH9J4Q/ref=as_li_ss_til?tag=pfleidi-21">TP-Link TD-W8961NB</a></li>
-<li><a href="https://github.com/airblade/vim-gitgutter">vim-gitgutter</a></li>
-<li>Itunes match smart playlists</li>
-<li><a href="http://fuckyeahmarkdown.com/">Fuck yeah markdown</a>
-
-<ul>
-<li><a href="http://5by5.tv/systematic">Terrrrrrrrrppppppppssssss</a></li>
-</ul>
-</li>
-<li><a href="http://www.buergerhaushalt-stuttgart.de/">Stuttgarter Bürgerhaushalt</a></li>
 </ul>
 
 ]]></content>

@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Sat, 20 Apr 2013 14:40:57 +0200</lastBuildDate>
-    <atom:updated>2013-04-20T14:40:57+02:00</atom:updated>
+    <lastBuildDate>Fri, 26 Apr 2013 11:39:05 +0200</lastBuildDate>
+    <atom:updated>2013-04-26T11:39:05+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,428 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #50 - Fetznetzflat</title>
+      <link>http://blog.binaergewitter.de/blog/2013/04/26/binaergewitter-talk-number-50-fetznetzflat/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/04/26/binaergewitter-talk-number-50-fetznetzflat/#comments</comments>
+      <pubDate>Fri, 26 Apr 2013 12:00:00 +0200</pubDate>
+      <atom:updated>2013-04-26T12:00:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F04%2F26%2Fbinaergewitter-talk-number-50-fetznetzflat%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2350%20-%20Fetznetzflat&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/04/26/binaergewitter-talk-number-50-fetznetzflat</guid>
+      
+      <description>
+        <![CDATA[<p>Auch wir 4 reden natürlich über das was die Telekom da veranstaltet, aber auch über TOR, 64bit und andere Web und Open Source Themen. Hört rein :)</p>
+
+<h2>In eigener Sache</h2>
+
+<ul>
+<li><a href="https://alpha.app.net/binaergewitter">Wir sind nun auf App.net</a>
+
+<ul>
+<li><a href="https://alpha.app.net/retinacast">Retinacast auch</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h1>Apropos</h1>
+
+<ul>
+<li>Google Talk nimmt keine XMPP requests an
+
+<ul>
+<li>sieht so aus als waer es als ANTI-Spam measure gedacht worden</li>
+<li><a href="http://www.fsf.org/blogs/sysadmin/google-reinstates-federated-instant-messaging">Google setzt nun 'richtigen' filter ein</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Das-Ende-von-Delphi-fuer-NET-1846091.html">Delphi .net</a></li>
+<li><a href="http://waxy.org/2013/04/the_death_of_upcomingorg/">Upcoming.org</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="https://isc.sans.edu/diary/A+Chargen-based+DDoS%3F+Chargen+is+still+a+thing%3F/15647">Chargen als DDos</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://blog.jquery.com/2013/04/18/jquery-2-0-released/">jQuery 2.0</a></li>
+<li>Ubuntu 13.04 ist da - wir warten auf yodeling yeti</li>
+<li><a href="http://www.pro-linux.de/news/1/19718/nginx-140-mit-websockets-und-spdy.html">NginX 1.4 ist da mit Websockets und SPDY</a></li>
+<li><a href="http://tengine.taobao.org/">Tengine</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19716/wikimedia-foundation-wechselt-zu-mariadb.html">Wikipedia jetzt mit MariaDB</a>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/19713/monty-program-ab-und-skysql-planen-fusion.html">neue größere Firma hinter MariaDB</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Zehn-Jahre-64-Bit-Technik-von-AMD-1847040.html">10 Jahre 64bit</a>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Atari_Jaguar">Atari Jaguar 1994</a></li>
+</ul>
+</li>
+<li><a href="http://labs.bittorrent.com/experiments/sync.html">Bittorrent Sync ist taus der Beta raus</a></li>
+<li><a href="http://about.travis-ci.org/blog/upcoming-infrastructure-change-for-travis-pro/">TravisCI Infrastruktur update</a>
+
+<ul>
+<li><a href="https://bluebox.net/landing/travis-ci">Blue Box</a></li>
+</ul>
+</li>
+<li><a href="https://mtgox.com/pdf/20130424_ddos_statement_and_faq.pdf">Litecoin bei MtGox</a></li>
+<li><a href="http://www.skulpt.org/#">Python im Browser als javascript-Ersatz</a></li>
+<li><a href="http://www.kickstarter.com/projects/1869987317/wish-i-was-here-1">Zach Braff Kickstarter</a></li>
+<li><a href="http://perlbuzz.com/2013/04/ack-20-has-been-released.html">ACK 2.0 wurde freigegeben</a>
+
+<ul>
+<li><a href="https://github.com/ggreer/the_silver_searcher">Silver Searcher</a></li>
+</ul>
+</li>
+<li><a href="http://conversations.nokia.com/2013/04/24/the-keys-to-getting-social-nokia-asha-210/">Nokia bringt Handy mit dediziertem WhatsApp Knopf</a></li>
+<li><a href="http://www.gulli.com/news/21312-samsung-engagierte-studenten-fuer-htc-bashing-2013-04-19">Samsung kauft Studenten um HTC schlecht zu rezensieren</a></li>
+<li><a href="http://betabeat.com/2012/04/bottoms-up-the-ballmer-peak-is-real-study-says/">Es gibt den Ballmer Peak wirklich?</a></li>
+<li><a href="http://techblog.netflix.com/2013/04/html5-video-at-netflix.html">Netflix will auf HTML5 umsteigen</a>
+
+<ul>
+<li><a href="https://twitter.com/billwscott/status/326957759121739776">Netflix mobile, PS3, HDTV Apps sind schon seit 2010 HTML5</a></li>
+<li><a href="https://plus.google.com/107429617152575897589/posts/iPmatxBYuj2">The Purpose of DRM</a></li>
+</ul>
+</li>
+<li><a href="http://www.wired.com/threatlevel/2013/04/no-knives-on-planes/">TSA will taschenmesser wieder erlauben</a></li>
+<li><a href="http://www.golem.de/news/kreditkartendaten-online-reisebuchungen-in-deutschland-gehackt-1304-98846.html">Wupps - Online-Reisebuchungen in Deutschland 'verloren' gegangen</a></li>
+</ul>
+
+
+<h3>Drosselkom / Netzneutralitätt</h3>
+
+<ul>
+<li><a href="https://netzpolitik.org/2013/telekom-macht-ernst-tarifwechsel-fuhrt-zur-ende-der-flatrates-und-verletzung-der-netzneutralitat/">Telekom macht Ernst</a>
+
+<ul>
+<li><a href="http://www.golem.de/1110/87311.html">Haben sie schon immer gesagt</a></li>
+<li><a href="http://www.golem.de/news/routeranbieter-viprinet-telekom-luegt-bei-begruendung-fuer-flatrate-abschaffung-1304-98939.html">"Telekom lügt"</a></li>
+<li><a href="http://vimeo.com/64641982">Telekom Seite mit 384Kbit/s</a></li>
+<li><a href="http://www.golem.de/news/unitymedia-kabelbw-wir-werden-400-mbit-s-ohne-drosselung-anbieten-1304-98873.html">KabelBW will nicht drosseln</a></li>
+<li><a href="http://www.zeit.de/digital/internet/2013-04/telekom-netzneutralitaet-drossel">Problem mit Netzneutralität</a></li>
+<li><a href="http://drossl.de/">Drossl</a></li>
+<li><a href="http://werdrosselt.de/">Wer Drosselt?</a></li>
+<li><a href="http://www.golem.de/news/malte-goetz-petition-bei-change-org-gegen-telekom-drosselung-1304-98916.html">Petition gegen Drosselung</a></li>
+<li><a href="http://www.heise.de/tp/blogs/8/154164">VDS durch die Hintertür</a></li>
+<li><a href="http://de.wikipedia.org/wiki/TR-069">TR-069</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Bundesregierung-warnt-vor-Flatrate-Drossel-der-Telekom-1849083.html">der Wirtschaftsminister von der FTP findet das nicht gut was die Telekom machen will</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Japan-Provider-sollen-Anonymisierungnetzwerk-blockieren-1846843.html">In Japan sollen Provider Tor blockieren</a></li>
+<li><a href="http://www.neowin.net/news/say-goodbye-to-power-cords-with-usb-30-update">Power uebers USB kommt hart</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<ul>
+<li><a href="http://www.npr.org/blogs/money/2013/04/19/177999020/episode-357-how-much-should-we-trust-economics">How much should we trust economics</a></li>
+<li><a href="http://blog.justetf.com/etfs/geldmarkt-etfs/">EONIA ETF</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="https://queue.acm.org/detail.cfm?id=1814327">You're doing it wrong</a></li>
+<li><a href="http://www.theatlantic.com/health/archive/2013/04/whats-tylenol-doing-to-our-minds/275101/">What's Tylenol Doing to Our Minds?</a>(Paracetamol)</li>
+<li><a href="http://amzn.to/10D4PD8">Thinking, Fast and Slow</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Feedburner (Ingo)</li>
+<li>Amazon.de und Adblock Plus (pfleidi)</li>
+<li>KabelBW Anschluss Upgrade (pfleidi)
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=LdQyQLs2THM">Köfferschen</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://pdfcrack.sourceforge.net/">pdfcrack</a>
+
+<ul>
+<li><a href="http://andi.flowrider.ch/research/pdfcrack.html">pdfcrack threaded</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/OpenEmu/OpenEmu">OpenEmu</a></li>
+<li><a href="http://duff.sourceforge.net/">Duff</a></li>
+<li><a href="https://www.simquadrat.de/">Simquadrat</a></li>
+<li>App.net Clients
+
+<ul>
+<li><a href="http://kiwi-app.net/">Kiwi</a></li>
+<li><a href="http://tapbots.com/software/netbot/">Netbot</a></li>
+<li><a href="http://patter-app.net/">Patter</a></li>
+</ul>
+</li>
+<li><a href="https://www.torproject.org/">Tor Project</a></li>
+<li><a href="http://proxychains.sf.net">proxychains</a>
+
+<ul>
+<li><a href="http://blog.marc-seeger.de/2012/02/26/socks-and-proxychains-as-a-vpn-alternative/">Socks and Proxychains as a VPN Alternative</a></li>
+</ul>
+</li>
+<li><a href="https://play.google.com/store/apps/details?id=io.imake.xenim">Xenim Android App</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=de.danoeh.antennapod&amp;hl=de">AntennaPod</a></li>
+<li><a href="http://mitmproxy.org/">MITMProxy</a></li>
+<li><a href="http://stackoverflow.com/questions/9458294/open-url-under-cursor-in-vim-with-browser">vim shortcut: gx</a></li>
+<li><a href="https://itunes.apple.com/de/app/yahoo!-weather/id628677149?l=en&amp;mt=8">Yahoo Weather App</a></li>
+<li><a href="http://www.tokutek.com/2013/04/announcing-tokudb-v7-open-source-and-more/">Toku DB Open Source</a>
+
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=5589308">HN</a></li>
+</ul>
+</li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-04-25.Binaergewitter.Talk.50.opus"
+        length="61559983"
+        type="application/octet-stream" />
+      <media:content url="http://download.binaergewitter.de/2013-04-25.Binaergewitter.Talk.50.opus"
+        fileSize="61559983"
+        type="application/octet-stream" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #50 - Fetznetzflat</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Auch wir 4 reden natürlich über das was die Telekom da veranstaltet, aber auch über TOR, 64bit und andere Web und Open Source Themen. Hört rein :)
+
+In eigener Sache
+
+
+Wir sind nun auf App.net
+
+
+Retinacast auch
+
+
+
+
+
+Apropos
+
+
+Google Talk nimmt keine XMPP requests an
+
+
+sieht so aus als waer es als ANTI-Spam measure gedacht worden
+Google setzt nun 'richtigen' filter ein
+
+
+
+
+
+Toter der Woche
+
+
+Delphi .net
+Upcoming.org
+
+
+
+Untoter der Woche
+
+
+Chargen als DDos
+
+
+
+News
+
+
+jQuery 2.0
+Ubuntu 13.04 ist da - wir warten auf yodeling yeti
+NginX 1.4 ist da mit Websockets und SPDY
+Tengine
+Wikipedia jetzt mit MariaDB
+
+
+neue größere Firma hinter MariaDB
+
+
+10 Jahre 64bit
+
+
+Atari Jaguar 1994
+
+
+Bittorrent Sync ist taus der Beta raus
+TravisCI Infrastruktur update
+
+
+Blue Box
+
+
+Litecoin bei MtGox
+Python im Browser als javascript-Ersatz
+Zach Braff Kickstarter
+ACK 2.0 wurde freigegeben
+
+
+Silver Searcher
+
+
+Nokia bringt Handy mit dediziertem WhatsApp Knopf
+Samsung kauft Studenten um HTC schlecht zu rezensieren
+Es gibt den Ballmer Peak wirklich?
+Netflix will auf HTML5 umsteigen
+
+
+Netflix mobile, PS3, HDTV Apps sind schon seit 2010 HTML5
+The Purpose of DRM
+
+
+TSA will taschenmesser wieder erlauben
+Wupps - Online-Reisebuchungen in Deutschland 'verloren' gegangen
+
+
+
+Drosselkom / Netzneutralitätt
+
+
+Telekom macht Ernst
+
+
+Haben sie schon immer gesagt
+"Telekom lügt"
+Telekom Seite mit 384Kbit/s
+KabelBW will nicht drosseln
+Problem mit Netzneutralität
+Drossl
+Wer Drosselt?
+Petition gegen Drosselung
+VDS durch die Hintertür
+TR-069
+der Wirtschaftsminister von der FTP findet das nicht gut was die Telekom machen will
+
+
+In Japan sollen Provider Tor blockieren
+Power uebers USB kommt hart
+
+
+
+Themen
+
+
+How much should we trust economics
+EONIA ETF
+
+
+
+Lesefoo
+
+
+You're doing it wrong
+What's Tylenol Doing to Our Minds?(Paracetamol)
+Thinking, Fast and Slow
+
+
+
+Mimimi der Woche
+
+
+Feedburner (Ingo)
+Amazon.de und Adblock Plus (pfleidi)
+KabelBW Anschluss Upgrade (pfleidi)
+
+
+Köfferschen
+
+
+
+
+
+Picks
+
+
+pdfcrack
+
+
+pdfcrack threaded
+
+
+OpenEmu
+Duff
+Simquadrat
+App.net Clients
+
+
+Kiwi
+Netbot
+Patter
+
+
+Tor Project
+proxychains
+
+
+Socks and Proxychains as a VPN Alternative
+
+
+Xenim Android App
+AntennaPod
+MITMProxy
+vim shortcut: gx
+Yahoo Weather App
+Toku DB Open Source
+
+
+HN
+
+
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
