@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-04-26T11:39:05+02:00</updated>
+  <updated>2013-05-10T10:47:09+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,198 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #51 - FreierFox]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/05/10/binaergewitter-talk-number-51-freierfox/"/>
+    <updated>2013-05-10T11:00:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/05/10/binaergewitter-talk-number-51-freierfox</id>
+    <content type="html"><![CDATA[<p>Am Herrentag/Männertag/Vatertag oder auch Himmelfahrt haben wir uns natürlich mit Alkohol und Bollerwagen im Studio eingefunden. Daher ist die Sendung mal wieder an ein paar Stellen gemacklos und manchmal
+kommen Wörter zustande die es gar nicht gibt. Aber es hätte auch viel schlimmer kommen können.....</p>
+
+<h2>Blast from the past</h2>
+
+<ul>
+<li><a href="http://www.radiotux.de/index.php?/archives/3353-RadioTuxHoRadS-102-mehr-Ruhm-fuer-alle!.html">RadioTuxTalk 102</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://webcache.googleusercontent.com/search?q=cache:minimaxir.com%2F2013%2F05%2Fstones-of-jordan%2F">Diablo 3 Economy</a></li>
+<li><a href="http://www.csmonitor.com/World/Europe/2013/0429/Japan-and-Russia-want-to-finally-end-World-War-II-agree-it-is-abnormal-not-to">2. Weltkrieg</a></li>
+<li><a href="http://tech.slashdot.org/story/13/05/07/2129245/adobes-creative-cloud-illustrates-how-the-cloud-costs-you-more">Adobe Creative Suite</a>
+
+<ul>
+<li><a href="http://www.getpaint.net/">Paint.net</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.bleedingcool.com/2013/05/06/the-it-crowd-to-return-for-one-more-episode">IT Crowd</a></li>
+<li><a href="http://www.infoworld.com/d/open-source-software/the-linux-desktop-already-the-new-normal-217818">Der Linux Desktop ist bereits unter uns</a></li>
+</ul>
+
+
+<h2>Tumblr der Woche</h2>
+
+<ul>
+<li><a href="http://dogshitselfie.tumblr.com/">Dog Shit Selfies</a></li>
+<li><a href="http://cosmarxpolitan.tumblr.com/">Cosmarxpolitan</a></li>
+<li><a href="http://dbareactions.tumblr.com/">DBA Reactions</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://allthingsd.com/20130426/livingsocial-hacked-more-than-50-million-customer-names-emails-birthdates-and-encrypted-passwords-accessed/">LivingSocial hat 50mio dinge verloren</a>
+
+<ul>
+<li><a href="https://bugs.php.net/bug.php?id=55439">Go home PHP, you're drunk</a></li>
+<li><a href="https://www.ausweisapp.bund.de/pweb/index.do]">Ausweisapp</a></li>
+</ul>
+</li>
+<li><a href="http://tech.slashdot.org/story/13/05/04/2020235/orbxjs-1080p-drm-free-video-and-cloud-gaming-enirely-in-javascript">ORBX.js</a>
+
+<ul>
+<li><a href="http://brendaneich.com/2013/05/today-i-saw-the-future/">Post von Brendan Eich</a></li>
+<li><a href="https://news.ycombinator.com/item?id=5653531">HN Diskussion</a></li>
+<li><a href="http://instacam.tk">instacam.tk - projekt makefu</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19764/google-bereitet-freie-patentlizenz-fuer-vp8-vor.html">VP8 Lizenz</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Stallmann der Woche</h2>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/19769/stallman-kein-drm-in-webstandards.html">RMS gegen DRM in HTML5</a></li>
+</ul>
+
+
+<h2>mehr News</h2>
+
+<ul>
+<li><a href="https://bugs.ruby-lang.org/issues/8339">Ruby 2.1 mit generational GC?</a></li>
+<li><a href="http://www.heise.de/security/meldung/Webserver-Rootkit-befaellt-auch-lighttpd-und-nginx-1859414.html">Webserver rootkit</a>
+
+<ul>
+<li><a href="http://www.heise.de/open/meldung/Webserver-Nginx-ueberholt-IIS-1403664.html">Nginx vor ISS</a></li>
+<li><a href="http://mailman.nginx.org/pipermail/nginx-announce/2013/000112.html">Nginx Security Advisory</a></li>
+</ul>
+</li>
+<li><a href="http://archiveroom.net/">ArchiveRoom - dein Github in 3D</a></li>
+<li><a href="http://www.golem.de/news/dsl-drosselung-telekom-bietet-weiter-flatrates-an-aber-teurer-1305-99155.html">Telekom will doch richtige Flatrates anbieten</a></li>
+<li><a href="http://theonion.github.io/fartscroll.js/">The Onion releases fartscroll.js</a></li>
+<li><a href="http://www.neoseeker.com/news/22846-wii-u-hack-unlocks-console-completely-claims-group-behind-popular-wii-modchip/">Wii U gehacked</a>
+
+<ul>
+<li><a href="http://hackaday.com/2013/05/08/hdmi-color-processing-board-used-as-an-fpga-dev-board-to-mine-bitcoins/">FPGA in hdmi controller</a></li>
+</ul>
+</li>
+<li><a href="https://news.ycombinator.com/item?id=5633005">OVH Hack</a>
+
+<ul>
+<li><a href="https://bitcointalk.org/index.php?topic=186902.msg1936161#msg1936161">Slush Pool auch</a></li>
+</ul>
+</li>
+<li><a href="http://graduateschool.vt.edu/slashdot.html?page=StoringDataInVideo">Daten in Video abspeichern (mit QR)</a></li>
+<li><a href="http://hashcat.net/forum/thread-2269.html">Schnelleres Cuda auf Nvidia</a></li>
+<li><a href="http://arstechnica.com/gadgets/2013/05/weve-got-a-butterfly-labs-bitcoin-miner-and-its-pretty-darn-fast/">Butterflylabs liefert tatsaechlich</a></li>
+<li><a href="https://bitcointalk.org/index.php?board=67.0">Super unterhaltsame neue coin scams</a>
+
+<ul>
+<li><a href="http://www.coinchoose.com/">CoinChoose</a></li>
+</ul>
+</li>
+<li><a href="http://www.gulli.com/news/21446-bitcoin-von-laien-kuenstlich-am-leben-erhalten-2013-05-04">Bitcoin: Von Laien kuenstlich am Leben erhalten(gulli.com)</a>
+
+<ul>
+<li><a href="http://mises.org/daily/6401/">auch hier</a></li>
+</ul>
+</li>
+<li><a href="http://tech.slashdot.org/story/13/05/03/1322242/is-google-glass-too-nerdy-for-the-mainstream">Google Glass too nerdy?</a>
+
+<ul>
+<li><a href="http://whitemenwearinggoogleglass.tumblr.com/">White men wearing google glass</a></li>
+</ul>
+</li>
+<li><a href="http://www.ps3hax.net/2013/04/illumiroom-a-new-gaming-experience/">IllumiRoom</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://dailyjs.com/2013/04/19/leveldb-and-node-1/">Quick Intro to LevelDB</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Black_start">Black Start</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Restore mit Rsync und Dropbox</li>
+<li>Fitbit iOS App</li>
+<li>Moves</li>
+<li>Google Now</li>
+</ul>
+
+
+<h2>Apropos</h2>
+
+<ul>
+<li><a href="http://futurezone.at/digitallife/15783-nasa-stellt-iss-von-windows-auf-linux-um.php#__sid=0">Linux im Weltall</a> via <a href="http://twitter.com/verfassungsklage">@verfassungsklage</a></li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="https://www.dropbox.com/s/4fphtrgrnksfuf6/dialup-final.png">The Dialup Sound explained</a></li>
+<li><a href="http://www.youtube.com/user/PronunciationManual?feature=watch">Pronounciation Manual</a></li>
+<li><a href="http://www.reactiongifs.com/">Reaction GIFs</a></li>
+<li><a href="http://us.tunigo.com/">Tunigo</a></li>
+<li><a href="http://ramp.ie/index.php/columns/top-tens/top-ten-horrible-book-covers/">Top Ten Horrible Book Covers</a>
+
+<ul>
+<li><a href="http://www.amazon.de/Avoid-Huge-Ships-John-Trimmer/dp/0870334336/?tag=krebsco-21">How to avoid Huge Ships</a></li>
+<li><a href="http://www.amazon.com/Avoid-Huge-Ships-John-Trimmer/product-reviews/0870334336/ref=dp_top_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1&amp;tag-krebsco-21">US: 465 Customer Reviews</a></li>
+</ul>
+</li>
+<li><a href="http://openbuildservice.org/">OpenBuildService</a></li>
+<li><a href="https://itunes.apple.com/de/app/eufloria/id549881316?l=en&amp;mt=8">Eufloria</a>
+
+<ul>
+<li><a href="https://itunes.apple.com/de/app/galcon-fusion/id364902651?mt=8">Galcon Fusion?</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/dergachev/vagrant-vbox-snapshot">Vagrant 1.1+ snapshot plugin</a></li>
+<li><a href="http://bluezbox.com/audiobookbinder.html">Audiobook Binder</a></li>
+<li><a href="http://www.mokita.de/blog/2012/05/10/incommunicado-das-horbuch-teil-1/">#Incommunicado, das Hörbuch</a></li>
+<li><a href="http://www.youtube.com/watch?v=Ark90G_aWLM">How to fold clothes army style</a></li>
+<li><a href="https://itunes.apple.com/de/app/departure-dein-fahrplan-auf/id608956345?l=en&amp;mt=8">Departure.app</a></li>
+<li><a href="http://www.pixelmator.com/blog/2013/05/08/pixelmator-2-2-is-available-today-from-the-mac-app-store/">Pixelmator 2.2</a></li>
+<li><a href="http://www.filebot.net/cli.html">Filebot</a></li>
+<li>Serien
+
+<ul>
+<li>Defiance</li>
+<li>Hannibal und Rectify via h43z</li>
+<li>mehr siehe <a href="http://retinacast.de/">Retinacast</a></li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #50 - Fetznetzflat]]></title>
@@ -724,167 +916,6 @@ Style"</a>
 <li><a href="http://www.kedisoft.com/totals/">Totals.app</a></li>
 <li><a href="http://divshot.github.com/geo-bootstrap/">Geo Skin fuer Bootstrap</a></li>
 <li><a href="http://www.distancetomars.com/">Distance to Mars</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #46 - Kim Jong Ilmages]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2013/03/29/binaergewitter-talk-number-46-kim-jong-ilmages/"/>
-    <updated>2013-03-29T20:20:00+01:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2013/03/29/binaergewitter-talk-number-46-kim-jong-ilmages</id>
-    <content type="html"><![CDATA[<p>Heute mal ohne Ingo aber mit Pfleidi, Felix und Jan und einer langen Sendung, die leider zwischen drin Technikprobleme hatte. Wir wünschen euch trotzdem ein tolles Osterfest. Baut Schneehasen und feiert
-ein bisschen oder esst euch an Hasen satt.</p>
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://ycorpblog.com/2013/03/25/yahoo-to-acquire-summly/">Yahoo kauft Summly für 30 Millionen $</a>, iOS app gibts nicht mehr. Artikel und Diskussionen dazu <a href="https://news.ycombinator.com/item?id=5442290">auf Hacker News</a>, und <a href="https://news.ycombinator.com/item?id=5445159">noch eine</a>
-
-<ul>
-<li>apropos...IRC Digest Bot</li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.cispaisback.org/">CISPA ist wieder da</a> – alle eure Mailadressen in die Petition eintragen!</li>
-<li><a href="http://www.osnews.com/story/26865/Samsung_s_future_is_Tizen_not_Android">Samsung setzt auf Tizen</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://fanboys.fm/drossel/">Pläne zur DSL Drosselung bei der Telekom</a></li>
-<li><a href="http://forecast.io/">Forecast.io</a></li>
-<li><a href="https://www.gnome.org/news/2013/03/gnome-3-8-released/">GNOME 3.8 released</a></li>
-<li><a href="http://www.golem.de/news/html5-unreal-engine-laeuft-nativ-im-browser-1303-98432.html">Unreal Engine läuft im Browser</a>, <a href="https://blog.mozilla.org/blog/2013/03/27/mozilla-is-unlocking-the-power-of-the-web-as-a-platform-for-gaming/">Mozilla Blog dazu</a></li>
-<li><a href="http://mrdoob.github.com/three.js/editor/">Three.js Editor</a></li>
-<li><a href="https://lwn.net/SubscriberLink/544347/d9c904117b4824d1/">Status.net Transition zu pump.io</a>, PHP -> node.js, mehr Infrastruktur
-
-<ul>
-<li><a href="https://openfarmgame.com/">Open Farm Game</a></li>
-</ul>
-</li>
-<li><a href="https://www.noisebridge.net/pipermail/noisebridge-discuss/2013-March/035494.html">Noisebridge darf nicht sterben</a></li>
-<li><a href="https://www.archlinux.org/news/mariadb-replaces-mysql-in-repositories/">Archlinux ersetzt MySQL mit MariaDB</a></li>
-</ul>
-
-
-<h3>Security Dinge</h3>
-
-<ul>
-<li><a href="http://venturebeat.com/2013/03/22/apple-password-flaw/">Apple Passwort Fail</a></li>
-<li><a href="http://hackaday.com/2013/03/23/html-link-tag-hack-sends-you-to-the-wrong-place/">HTML link tag hack</a></li>
-<li><a href="http://www.net-security.org/secworld.php?id=14651">Digitalkamera mit Wifi gehackt</a></li>
-<li><a href="http://www.gulli.com/news/21132-massive-ddos-angriffe-gegen-spamhaus-2013-03-27">Bislang groesster DDoS gegen Spamhaus</a></li>
-<li><a href="http://www.theregister.co.uk/2013/03/26/netbsd_crypto_bug/">Schwache NetBSD Keys</a></li>
-<li><a href="http://www.v3.co.uk/v3-uk/news/2258192/leaky-amazon-s3-buckets-put-thousands-of-company-secrets-at-risk">Leaky Amazon S3 buckets</a></li>
-<li><a href="http://9to5google.com/2013/03/25/faa-expected-to-allow-tablet-and-laptop-use-during-take-off-landing-this-year/">Endlich Laptops und Tablets beim Starten und Landen an lassen</a></li>
-<li><a href="http://www.shiotsu-used-car.com/blog/hitachi-selfdrivingroboticcar-ropits.htm">Self-driving Robotic Car ROPITS</a></li>
-<li><a href="http://www.neowin.net/news/ie11-to-appear-as-firefox-to-avoid-legacy-ie-css">IE11 gibt sich als Firefox aus</a></li>
-<li><a href="http://www.google.com/transparencyreport/removals/">Google Transparenzbericht</a></li>
-<li><a href="http://www.heise.de/open/meldung/Microsoft-wegen-Secure-Boot-verklagt-1830704.html">Microsoft wegen Secure Boot verklagt</a></li>
-<li><a href="http://slashdot.org/topic/cloud/massachusetts-considering-a-tax-on-the-cloud/">Massachusetts - We've gotta Tax .... THE CLOUD</a></li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<h3>Tools zur Verwaltung von Notizen</h3>
-
-<ul>
-<li><a href="http://www.cnn.com/2013/03/04/tech/web/evernote-hacked">Evernote hacked</a></li>
-<li><a href="http://www.dropbox.com/">Dropbox</a>
-
-<ul>
-<li>Drobox rendert Markdown beim verlinken von Dateien</li>
-</ul>
-</li>
-<li><a href="http://brettterpstra.com/projects/nvalt/">NvAlt</a>
-
-<ul>
-<li><a href="http://bettermess.com/nvalt-and-byword/">NvAlt + Byword</a></li>
-</ul>
-</li>
-<li><a href="http://taskwarrior.org/projects/show/taskwarrior">Taskwarrior Task</a></li>
-<li><a href="http://daringfireball.net/projects/markdown/">Markdown</a></li>
-<li><a href="http://markedapp.com/">Marked.app</a></li>
-<li><a href="http://markable.in/">Markable</a></li>
-<li><a href="http://notesy-app.com/">Notesy</a></li>
-<li><a href="https://github.com/itspriddle/vim-marked">Vim-marked</a></li>
-<li><a href="http://www.iawriter.com/mac/">iA Writer</a></li>
-<li><a href="http://markable.in/">Markable</a></li>
-<li><a href="http://brettterpstra.com/ios-text-editors/">iOS Text Editor Comparison</a></li>
-<li><a href="http://litewrite.net">Litewrite</a> ist ein simples web-app welches offline funktioniert (localStorage &amp; AppCache) und <a href="http://remotestorage.io">remoteStorage</a> für sync nutzt. Auch im <a href="https://chrome.google.com/webstore/detail/litewrite/cbdonnipllnmnkbmeopncohocjggmdkk">Chrome Web
-Store</a> (jan)</li>
-<li><a href="http://owncloud.org">ownCloud</a> hat auch ein Notes app in Entwicklung. Nutzt einfach Textdateien in einem »Notes«-Ordner, daher leicht über WebDAV synchronisierbar. (jan)</li>
-<li>zu Markdown: es gibt noch kein gescheites App mit gutem Inline-Markdown (Zeichen werden angezeigt, und Formatierung auch). Ist entweder nur sehr simples Syntaxhighlighting oder geteilt in edit / preview
-mode, wie z.B. bei <a href="http://epiceditor.com">Epic Editor</a>. Planen für Litewrite den <a href="http://codemirror.net/mode/markdown/index.html">CodeMirror Markdown mode</a> zu verbessern (jan)</li>
-<li><a href="https://write-box.appspot.com/">Writebox</a> Web-App für Notes, synct mit Google Drive oder Dropbox</li>
-<li><a href="https://drive.google.com/keep/">Google Keep</a>, haha ja ist klar Google</li>
-</ul>
-
-
-<h3>Design in open source (jan)</h3>
-
-<ul>
-<li><a href="https://blog.mozilla.org/ux/">Mozilla UX blog</a></li>
-<li><a href="http://design.canonical.com/">Ubuntu design blog</a></li>
-<li><a href="https://planet.gnome.org/ux/">GNOME UX planet</a></li>
-<li><a href="https://make.wordpress.org/ui/">Wordpress UI group</a></li>
-<li><a href="https://www.mediawiki.org/wiki/Design">Wikimedia design page</a></li>
-<li><a href="http://www.acquia.com/blog/design">Acquia design blog</a></li>
-<li><a href="https://owncloud.com/blog/category/community">ownCloud blog</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://www.paperplanes.de//2013/1/16/coffee-and-the-art-of-customer-happiness.html">Coffee and the art of customer happiness</a> (pfleidi)</li>
-<li><a href="https://joepie91.wordpress.com/2013/03/21/licensing-for-beginners/">Licensing for Beginners</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>SMS und Multisim (pfleidi)
-
-<ul>
-<li><a href="https://twitter.com/dhlpaket">@DHLPaket Support</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.apple.com/iphone/icloud/#find">Find my iPhone</a> (pfleidi)</li>
-<li><a href="http://conversat.io/binaergewitter">conversat.io: Hangout mit WebRTC</a> (jan)</li>
-<li><a href="http://labs.echonest.com/Uploader/index.html">Infinite Jukebox</a></li>
-<li><a href="http://monosnap.com/">Monosnap</a> (pfleidi)</li>
-<li><a href="https://getmyo.com/">Myo: Gesture Control Armband</a> aus YCombinator Winter batch</li>
-<li><a href="http://www.gar1t.com/blog/2013/03/21/erlang-the-movie-ii-the-sequel/">Erlang the movie II the sequel</a></li>
-<li><a href="http://www.elezea.com/">Elezea</a> und <a href="http://ignorethecode.net/blog/">Ignore the Code</a> (jan)</li>
-<li><a href="http://forkmydongle.com/">Fork my Dongle</a></li>
-<li><a href="http://github.com/jancborchardt/hackercouch">Hacker Couch</a> – forkt es und packt eure Couch rein! (jan)</li>
-<li><a href="https://github.com/garbas/vim-snipmate">snipmate-vim</a>
-
-<ul>
-<li><a href="https://github.com/honza/snipmate-snippets">Snippets Repo</a></li>
-<li>Markdown snippets etc.</li>
-</ul>
-</li>
-<li><a href="http://www.reddit.com/r/tldr">reddit TL;DR</a> (jan)</li>
-<li><a href="http://hackershelf.com/browse/">The Hacker Shelf</a> (jan)</li>
 </ul>
 
 ]]></content>
