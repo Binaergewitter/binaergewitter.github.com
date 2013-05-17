@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-05-10T10:47:09+02:00</updated>
+  <updated>2013-05-17T11:21:16+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -200,6 +200,140 @@ kommen Wörter zustande die es gar nicht gibt. Aber es hätte auch viel schlimme
 <li>mehr siehe <a href="http://retinacast.de/">Retinacast</a></li>
 </ul>
 </li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #52 - Android Makeup Studio]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/05/10/binaergewitter-talk-number-51-android-makeup-studio/"/>
+    <updated>2013-05-10T11:00:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/05/10/binaergewitter-talk-number-51-android-makeup-studio</id>
+    <content type="html"><![CDATA[<p>Ohne Marc aber mit viel IO, mit viel + und Hochwissenschaftlichen Themen.</p>
+
+<h2>Tumblr der Woche</h2>
+
+<ul>
+<li><a href="http://idontwantyourfuckingapp.tumblr.com/">I don&#8217;t want your fucking App</a></li>
+</ul>
+
+
+<h2>Github Repo der Woche</h2>
+
+<ul>
+<li><a href="https://github.com/noidontdig/gitdown">Git plugin welches einchecken verhindert, wenn man betrunken ist</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.nasa.gov/mission_pages/kepler/news/keplerm-20130515.html">Kepler</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Dyn-schraenkt-kostenlose-DynDNS-Accounts-weiter-ein-1863537.html">DynDNS</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.reddit.com/r/Python/comments/1dq7sh/python_repl_finally_gets_tab_completion_by_default/">Von letzter Woche: tab-completion im repl per default</a>
+
+<ul>
+<li><a href="http://ipython.org/">ipython</a></li>
+</ul>
+</li>
+<li><a href="http://www.basicthinking.de/blog/2013/05/15/ein-satz-mit-x-anti-adblockplus-kampagne-ging-nach-hinten-los/">Anti Adblock Kampange</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Vorsicht-beim-Skypen-Microsoft-liest-mit-1857620.html">Skype liest URLs mit</a></li>
+<li><a href="https://www.sipgateblog.de/sipgate-one-wir-geben-auf/">Sipgate stellt One ein</a></li>
+<li><a href="http://play.freeciv.org/">FreeCIV läuft auf HTML5</a></li>
+<li><a href="http://www.theverge.com/2013/5/10/4318770/canada-draganflyer-drone-claims-first-life-saved-search-rescue">Mounties meinen, dass eine Drohne das erste Leben gerettet hat</a></li>
+<li><a href="http://www.techwench.com/scientists-invent-oxygen-particle-that-if-injected-allows-you-to-live-without-breathing/">endlich ohne Atmen leben</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19797/linux-sicherheitsluecke-erlaubt-root-zugriff.html">Linux Kernel Sicherheitlücke</a>
+
+<ul>
+<li><a href="http://packetstormsecurity.com/files/121616/Linux-PERF_EVENTS-Local-Root.html">PERF_EVENTS Exploit</a></li>
+</ul>
+</li>
+<li><a href="http://www.npr.org/blogs/health/2013/05/15/183916891/scientists-clone-human-embryos-to-make-stem-cells">Wissenschaftler klonen Embyos um Stammzellen zu farmen</a></li>
+</ul>
+
+
+<h3>Google IO</h3>
+
+<p>&#8220;Wie die South Park Folge wo die Leute an ihren eigenen Fuerze riechen&#8221;
+- <a href="http://www.google.com/+/learnmore/hangouts/">Google Hangouts</a></p>
+
+<pre><code>* [Kein XMPP]( http://windowspbx.blogspot.de/2013/05/hangouts-wont-hangout-with-other.html )
+</code></pre>
+
+<ul>
+<li>Neues Google+ Layout und Co</li>
+<li><a href="http://google-latlong.blogspot.de/2013/05/meet-new-google-maps-map-for-every.html">Neue Google Maps</a>
+
+<ul>
+<li><a href="https://maps.google.com/help/maps/helloworld/desktop/preview/?resubmit=true">Einführung</a></li>
+<li><a href="https://maps.google.com/help/maps/helloworld/desktop/preview/">Anmelden fürs neue Maps</a></li>
+</ul>
+</li>
+<li><a href="http://googlecloudplatform.blogspot.com/2013/05/ushering-in-next-generation-of.html">Compute Engine jetzt offen für alle</a></li>
+<li><a href="http://developer.android.com/sdk/installing/studio.html">Android Studio</a>
+
+<ul>
+<li><a href="http://www.jetbrains.com/idea/">Basiert auf Intellij IDEA</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Einfachere-Android-Programmierung-per-Android-Studio-2-Update-1863848.html">Heise Artikel</a></li>
+<li><a href="http://yaxim.org/">Yaxim</a></li>
+</ul>
+</li>
+<li><a href="http://blog.golang.org/2013/05/go-11-is-released.html">Go 1.1 wird schneller</a></li>
+<li>[Google steigt auf Debian um]http://www.zdnet.com/debian-linux-now-google-compute-engines-default-os-7000015297/ )</li>
+<li><a href="http://www.google.com/wallet/send-money/">Geld per GMail verschicken</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Drive-Gmail-Google-Photos-Google-legt-Speicherplatz-zusammen-1862122.html">Google legt Speicher zusammen</a></li>
+<li><a href="https://plus.google.com/111395306401981598462/posts/KLkxZvPhdWw">Galaxy S4 kommt mit purem Android</a></li>
+<li><a href="http://arstechnica.com/gadgets/2013/05/how-googles-game-services-api-will-convince-devs-to-make-better-games/">Google Game Services+ API</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.wikihow.com/Record-Skype-Into-Garageband-With-SoundFlower-and-LineIn">Record Skype into Garageband with Soundflower and Linein</a></li>
+<li><a href="http://robots.thoughtbot.com/post/48275867281/vim-splits-move-faster-and-more-naturally">VIM splits</a></li>
+<li><a href="http://blog.scrapinghub.com/2013/05/13/mongo-bad-for-scraped-data/">Why MongoDB is a bad choice for storing scaped data</a></li>
+<li><a href="http://corte.si/posts/code/mitmproxy/howitworks/index.html">How MITMProxy works</a></li>
+<li><a href="http://james-iry.blogspot.de/2009/05/brief-incomplete-and-mostly-wrong.html">A Brief, Incomplete, and Mostly Wrong History of Programming Languages</a> (+1 pfleidi)</li>
+<li><a href="https://yourlogicalfallacyis.com/">You logical fallacy is</a> (pfleidi)</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Fitbit One Clip (pfleidi)</li>
+<li>speedport v9 irgendwas</li>
+<li>KabelBW Upgrade die 2</li>
+<li>Google Nexus 4 Rooting</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.softwarebakery.drivedroid&amp;rdid=com.softwarebakery.drivedroid&amp;rdot=1&amp;feature=md">DriveDroid</a></li>
+<li><a href="http://serverbear.com/">Serverbear</a></li>
+<li><a href="http://www.amazon.de/dp/B008C0UQMC?tag=pfleidi-21">Phillips LED Birnen</a></li>
+<li><a href="http://www.cs.unm.edu/~dlchao/flake/doom/">Doom fuer Systemadministration</a></li>
+<li><a href="http://textfac.es/">Textfaces</a></li>
+<li><a href="https://www.google.com/search?site&amp;tbm=isch&amp;source=hp&amp;biw=1280&amp;bih=738&amp;q=atari+breakout&amp;oq=atari+breakout&amp;gs_l=img.3..0l2j0i24l6.1647.4545.0.4727.16.9.1.6.7.0.64.423.9.9.0...0.0...1ac.1.12.img.LrxnajOCjzE">Atari Breakout in Google
+Images</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.urbandroid.lux&amp;hl=de">Twilight - Redshift fuer Android</a></li>
+<li><a href="https://itunes.apple.com/de/app/runtastic-push-ups-pro/id570180361?l=en&amp;mt=8">Runtastic Pushups</a>
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B003ZYDTVA?tag=pfleidi-21">Pushup Bars</a></li>
+</ul>
+</li>
+<li><a href="http://the-skylab.de/episodes/">Episodes</a></li>
 </ul>
 
 ]]></content>
@@ -2153,143 +2287,6 @@ it to someone else), so they cannot be used as a medium of exchange.&#8221;</li>
 <li><a href="http://birdandmoon.com/">Bird and Moon Webcomic</a></li>
 <li><a href="http://www.youtube.com/embed/mXYxZ6ed70E">IPhone Quick-Draw</a></li>
 <li><a href="http://5digits.org/nightly/pentadactyl-latest.xpi">Pentadactyl - Firefox Addon</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #37 - GNU/Hurts]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2013/01/11/binaergewitter-talk-number-37-gnu-hurts/"/>
-    <updated>2013-01-11T20:00:00+01:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2013/01/11/binaergewitter-talk-number-37-gnu-hurts</id>
-    <content type="html"><![CDATA[<p>Willkommen im neuen Jahr. Bei uns bleibt trotzdem alles gleich. Der Marc ist immer noch in den USA und wir vertingeln und wieder mal mit Witzen über Titzen ;)</p>
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.pcworld.com/article/2023649/samsung-tizen-linux-phones-will-arrive-in-2013.html?utm_medium=referral&amp;utm_source=t.co">Bald kommen Tizen Phones</a></li>
-</ul>
-
-
-<h2>Kategorie der Woche</h2>
-
-<h3>JS Port der Woche</h3>
-
-<ul>
-<li><a href="http://qiezi.me/projects/mruby-web-irb/mruby.html">MRuby wurde nach JS kompiliert und läuft nun im Browser</a></li>
-</ul>
-
-
-<h3>McAfee und dotcom der Woche</h3>
-
-<ul>
-<li><a href="http://arstechnica.com/tech-policy/2013/01/the-bizarre-tale-of-john-mcafee-spymaster/">Spymaster Tale</a> via schmittlauch</li>
-<li><a href="http://www.golem.de/news/kim-dotcom-wie-illegales-filesharing-beendet-werden-kann-1301-96779.html">Troll dot com</a>
-
-<ul>
-<li><a href="http://www.engadget.com/2013/01/10/amazon-autorip-free-digital-versions/">Amazon AutoRip</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://www.zeit.de/digital/datenschutz/2013-01/schule-rfid-chip-ueberwachung">RFID: Wie sich eine Schülerin gegen Überwachung wehren wollte</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Tick-Trick-und-Tracking-in-Disney-World-1778463.html">Tracking in Wonderland</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Ubuntu-soll-aufs-Smartphone-1776086.html">Canonical kündigt Ubuntu Mobile an</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Webfonts-WOFF-endlich-verabschiedet-1769371.html">Webfonts Standard wurde verabschiedet</a></li>
-<li><a href="http://www.w3.org/2012/12/html5-cr">HTML5 ist fertig</a></li>
-<li><a href="http://www.golem.de/news/fernsteuerung-die-bluetooth-batterie-macher-zeigen-tethercell-1301-96826.html">Batterien mit Bluetooth 4.0 support</a></li>
-<li><a href="http://singularityhub.com/2013/01/07/german-military-laser-destroys-targets-over-1km-away/">Welcome to Star Wars - Der deutsche Superlaser</a></li>
-<li><a href="http://tech.slashdot.org/story/12/12/18/1334204/instagram-wants-to-sell-users-photos-without-notice">Instagram will all deine Bilder verkaufen</a>
-
-<ul>
-<li><a href="INSERT_LINK_HERE">.. und rudert etwas zurueck nach backfire</a></li>
-</ul>
-</li>
-<li><a href="">Ruby on Rails verschiedene(!) Sicherheitsprobleme</a>
-
-<ul>
-<li><a href="http://blog.phusion.nl/2013/01/03/rails-sql-injection-vulnerability-hold-your-horses-here-are-the-facts/">SQL-Injection mit bekanntem Secret Token</a></li>
-<li><a href="https://groups.google.com/forum/#!topic/rubyonrails-security/61bkgvnSGTQ/discussion">Remote Code Execution in RoR (massiv-nuklear kritisch)</a>
-
-<ul>
-<li><a href="http://blog.sourcefire.com/Post/2013/01/09/1357761360-therubyonrailsvulnerabilitiesofwhattheyareandwhatshouldwedo/">SourceFire Nachricht</a></li>
-<li><a href="http://blog.codeclimate.com/blog/2013/01/10/rails-remote-code-execution-vulnerability-explained/">Vulnerability erklaert</a></li>
-<li><a href="https://community.rapid7.com/community/metasploit/blog/2013/01/09/serialization-mischief-in-ruby-land-cve-2013-0156?x=1">Metasploit Modul bald verfügbar</a></li>
-<li><a href="https://github.com/rails/rails/tree/master/actionpack">Rails ActionPack</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="http://www.extremetech.com/extreme/143437-uranium-killed-the-thorium-star-but-now-its-time-for-round-two">Endlich saubere Kern-energie?</a></li>
-<li><a href="https://groups.google.com/forum/#!msg/vertx/gnpGSxX7PzI/uRNaMtJaIJUJ">VMWare reisst Vert.x an sich</a></li>
-<li><a href="http://www.amazon.de/gp/product/B0083QKJPE/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0083QKJPE&amp;linkCode=as2&amp;tag=trektrip">Star Trek TNG auf BluRay</a></li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<ul>
-<li>29C3</li>
-<li>SteamForLinux
-
-<ul>
-<li><a href="https://wiki.archlinux.org/index.php/Steam">Arch Wiki Steam</a></li>
-<li><a href="http://www.pro-linux.de/news/1/19315/steam-box-der-verwirrung-ein-ende.html">SteamBox</a></li>
-</ul>
-</li>
-<li><a href="http://www.heise.de/newsticker/meldung/ARD-streamt-komplettes-Programm-von-Das-Erste-1776536.html">ARD</a>
-
-<ul>
-<li><a href="https://netzpolitik.org/2013/beliebte-mediathek-app-ist-eingestellt/">Mediathek App wurde eingestellt</a></li>
-</ul>
-</li>
-<li>Nexus4 Telefon (makefu)</li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://www.rubyinside.com/a-minitestspec-tutorial-elegant-spec-style-testing-that-comes-with-ruby-5354.html">Minitest Spec Tutorial</a>
-
-<ul>
-<li><a href="https://github.com/seattlerb/minitest">MiniTest</a></li>
-</ul>
-</li>
-<li><a href="http://www.alanmacdougall.com/blog/2012/06/08/interactive-debugging-with-pry/">Interactive debugging with pry</a></li>
-<li><a href="http://www.amazon.de/dp/0575094141?tag=pfleidi-21">The forever war</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Autostart von <audio> und <video> tags</li>
-<li>iMessage (pfleidi)</li>
-<li>Skitch (pfleidi)
-
-<ul>
-<li><a href="http://getcloudapp.com/">Cloudapp</a></li>
-<li><a href="https://servus.io/">Servus.io</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="https://github.com/munificent/vigil">Vigil - Programming Vigilance</a></li>
-<li><a href="http://www.groths.org/?page_id=322">TRIM enabler</a> (pfleidi)</li>
-<li><a href="http://everyday-app.com/">Everyday iOS App</a> (pfleidi)</li>
-<li><a href="https://github.com/gleitz/howdoi">Howdoi</a></li>
-<li><a href="http://altjs.org/">AltJS</a> (pfleidi)</li>
-<li><a href="http://www.youtube.com/watch?v=ZQ_duzQzS1I">Mr Spock erklaert <code>The Hobbit</code></a></li>
 </ul>
 
 ]]></content>
