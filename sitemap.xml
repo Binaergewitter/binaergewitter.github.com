@@ -336,15 +336,15 @@
     </url>
     <url>
         <loc>
-            http://blog.binaergewitter.de/blog/2013/05/10/binaergewitter-talk-number-51-android-makeup-studio/
-        </loc>
-        <lastmod>2013-05-17T11:21:07+02:00</lastmod>
-    </url>
-    <url>
-        <loc>
             http://blog.binaergewitter.de/blog/2013/05/10/binaergewitter-talk-number-51-freierfox/
         </loc>
         <lastmod>2013-05-10T10:44:24+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://blog.binaergewitter.de/blog/2013/05/17/binaergewitter-talk-number-51-android-makeup-studio/
+        </loc>
+        <lastmod>2013-05-17T11:31:09+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/404.html</loc>
@@ -360,7 +360,7 @@
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/blog/archives/</loc>
-        <lastmod>2013-05-17T11:21:07+02:00</lastmod>
+        <lastmod>2013-05-17T11:31:09+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/impressum/</loc>
@@ -376,6 +376,6 @@
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/</loc>
-        <lastmod>2013-05-17T11:21:07+02:00</lastmod>
+        <lastmod>2013-05-17T11:31:09+02:00</lastmod>
     </url>
 </urlset>
