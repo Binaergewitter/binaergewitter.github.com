@@ -1,7 +1,7 @@
 source "http://rubygems.org"
 
 group :development do
-  gem 'rake'
+  gem 'rake','>=0.9.2'
   gem 'rack'
   gem 'jekyll'
   gem 'rdiscount'
@@ -16,7 +16,7 @@ group :development do
 end
 
 group :test do
-  gem 'rake'
+  gem 'rake','>=0.9.2'
   gem 'rspec'
   gem 'w3c_validators'
 end
