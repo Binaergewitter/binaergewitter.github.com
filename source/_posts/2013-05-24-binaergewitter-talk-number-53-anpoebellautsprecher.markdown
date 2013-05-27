@@ -37,7 +37,7 @@ In Meterschritten quatschen wir diesmal über Tumblr, Hangouts, LinuxTag und nat
 
 ## News
 
-- [eEptition für Netzneutralität(https://epetitionen.bundestag.de/petitionen/_2013/_04/_23/Petition_41906.mitzeichnen.html )
+- [ePetition für Netzneutralität]( https://epetitionen.bundestag.de/petitionen/_2013/_04/_23/Petition_41906.nc.html )
 - [Yahoo übernimmt Tumblr für 1.1 Mrd $]( http://www.bbc.co.uk/news/business-22591026 )
     * [Offizieller Artikel]( http://finance.yahoo.com/news/yahoo-acquire-tumblr-120000116.html )
     * [yahoo.tumblr.com]( http://yahoo.tumblr.com/ )
