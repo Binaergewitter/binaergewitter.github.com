@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 07 Jun 2013 10:55:18 +0200</lastBuildDate>
-    <atom:updated>2013-06-07T10:55:18+02:00</atom:updated>
+    <lastBuildDate>Fri, 07 Jun 2013 10:57:21 +0200</lastBuildDate>
+    <atom:updated>2013-06-07T10:57:21+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -59,8 +59,8 @@
       <title>Binärgewitter Talk #54 - Compliance Lampe in Rot</title>
       <link>http://blog.binaergewitter.de/blog/2013/06/07/binaergewitter-talk-number-54-compliance-lamp-in-rot/</link>
       <comments>http://blog.binaergewitter.de/blog/2013/06/07/binaergewitter-talk-number-54-compliance-lamp-in-rot/#comments</comments>
-      <pubDate>Fri, 07 Jun 2013 10:45:00 +0200</pubDate>
-      <atom:updated>2013-06-07T10:45:00+02:00</atom:updated>
+      <pubDate>Fri, 07 Jun 2013 09:45:00 +0200</pubDate>
+      <atom:updated>2013-06-07T09:45:00+02:00</atom:updated>
 
       
       
@@ -114,12 +114,7 @@
 <h2>Security Fail der Woche</h2>
 
 <ul>
-<li><a href="http://www.heise.de/newsticker/meldung/Google-Forscher-veroeffentlicht-Zero-Day-Exploit-fuer-Windows-1875749.html">Windows</a>
-
-<ul>
-<li>Full disclosure</li>
-</ul>
-</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Google-Forscher-veroeffentlicht-Zero-Day-Exploit-fuer-Windows-1875749.html">Windows</a></li>
 </ul>
 
 
@@ -208,7 +203,12 @@
 <h2>Mimimi der Woche</h2>
 
 <ul>
-<li>DDOS auf DNS Server (Ingo)</li>
+<li>DDOS auf DNS Server
+
+<ul>
+<li>fail2ban</li>
+</ul>
+</li>
 <li><a href="http://blog.hagga.net/archives/iphone-ipod-touch/3791-facebook-app-saugt-den-iphone-akku-leer">Facebook Apps und Stromverbrauch</a></li>
 <li><a href="https://www.archlinux.org/news/binaries-move-to-usrbin-requiring-update-intervention/">Arch Linux geht wieder beim Upgrade kaputt</a></li>
 </ul>
@@ -301,11 +301,6 @@ Security Fail der Woche
 Windows
 
 
-Full disclosure
-
-
-
-
 
 News
 
@@ -392,7 +387,12 @@ How much math do you need(as a programmer)
 Mimimi der Woche
 
 
-DDOS auf DNS Server (Ingo)
+DDOS auf DNS Server
+
+
+fail2ban
+
+
 Facebook Apps und Stromverbrauch
 Arch Linux geht wieder beim Upgrade kaputt
 

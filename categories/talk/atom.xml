@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-06-07T10:55:18+02:00</updated>
+  <updated>2013-06-07T10:57:21+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #54 - Compliance Lampe in Rot]]></title>
     <link href="http://blog.binaergewitter.de/blog/2013/06/07/binaergewitter-talk-number-54-compliance-lamp-in-rot/"/>
-    <updated>2013-06-07T10:45:00+02:00</updated>
+    <updated>2013-06-07T09:45:00+02:00</updated>
     <id>http://blog.binaergewitter.de/blog/2013/06/07/binaergewitter-talk-number-54-compliance-lamp-in-rot</id>
     <content type="html"><![CDATA[<p>Nach einer Woche Pause wieder in Vollbesetzung mit nackten Tatsachen und vielen Picks.</p>
 
@@ -51,12 +51,7 @@
 <h2>Security Fail der Woche</h2>
 
 <ul>
-<li><a href="http://www.heise.de/newsticker/meldung/Google-Forscher-veroeffentlicht-Zero-Day-Exploit-fuer-Windows-1875749.html">Windows</a>
-
-<ul>
-<li>Full disclosure</li>
-</ul>
-</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Google-Forscher-veroeffentlicht-Zero-Day-Exploit-fuer-Windows-1875749.html">Windows</a></li>
 </ul>
 
 
@@ -145,7 +140,12 @@
 <h2>Mimimi der Woche</h2>
 
 <ul>
-<li>DDOS auf DNS Server (Ingo)</li>
+<li>DDOS auf DNS Server
+
+<ul>
+<li>fail2ban</li>
+</ul>
+</li>
 <li><a href="http://blog.hagga.net/archives/iphone-ipod-touch/3791-facebook-app-saugt-den-iphone-akku-leer">Facebook Apps und Stromverbrauch</a></li>
 <li><a href="https://www.archlinux.org/news/binaries-move-to-usrbin-requiring-update-intervention/">Arch Linux geht wieder beim Upgrade kaputt</a></li>
 </ul>
