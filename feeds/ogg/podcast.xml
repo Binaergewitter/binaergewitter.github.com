@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 17 May 2013 11:38:39 +0200</lastBuildDate>
-    <atom:updated>2013-05-17T11:38:39+02:00</atom:updated>
+    <lastBuildDate>Fri, 07 Jun 2013 10:46:36 +0200</lastBuildDate>
+    <atom:updated>2013-06-07T10:46:36+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,782 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #54 - Compliance Lampe in Rot</title>
+      <link>http://blog.binaergewitter.de/blog/2013/06/07/binaergewitter-talk-number-54-compliance-lamp-in-rot/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/06/07/binaergewitter-talk-number-54-compliance-lamp-in-rot/#comments</comments>
+      <pubDate>Fri, 07 Jun 2013 10:45:00 +0200</pubDate>
+      <atom:updated>2013-06-07T10:45:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F06%2F07%2Fbinaergewitter-talk-number-54-compliance-lamp-in-rot%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2354%20-%20Compliance%20Lampe%20in%20Rot&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/06/07/binaergewitter-talk-number-54-compliance-lamp-in-rot</guid>
+      
+      <description>
+        <![CDATA[<p>Nach einer Woche Pause wieder in Vollbesetzung mit nackten Tatsachen und vielen Picks.</p>
+
+<h2>Toter der Woche(n)</h2>
+
+<ul>
+<li><a href="http://www.tagesschau.de/wirtschaft/roaming128.html">Roaming Gebühren</a>
+
+<ul>
+<li><a href="https://www.simquadrat.de/">SimQuadrat</a></li>
+</ul>
+</li>
+<li><a href="http://www.golem.de/news/mac-browser-camino-wird-eingestellt-1305-99532.html">Camino Browser</a></li>
+<li><a href="http://boingboing.net/2013/05/29/beavers-bite-belarusian-who-b.html">Biber Fieber</a></li>
+</ul>
+
+
+<h2>Untoter der Wochen</h2>
+
+<ul>
+<li><a href="http://www.debian.org/ports/hurd/hurd-news.en.html">GNU/HURD</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Windows-8-1-Startbutton-in-neuer-Vorabversion-1873240.html">windows start button</a>
+
+<ul>
+<li><a href="http://arstechnica.com/information-technology/2013/06/windows-8-1-gains-boot-to-desktop-to-attract-business-users/">boot-to-desktop fuer Windows 8.1</a></li>
+</ul>
+</li>
+<li><a href="http://googledevelopers.blogspot.de/2013/06/making-googles-caldav-and-carddav-apis.html">Cal/CardDAV API bei Google</a></li>
+</ul>
+
+
+<h2>Security Fail der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Google-Forscher-veroeffentlicht-Zero-Day-Exploit-fuer-Windows-1875749.html">Windows</a>
+
+<ul>
+<li>Full disclosure</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://arstechnica.com/security/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/2/">Cracking lots of Hashes very fast</a></li>
+<li><a href="http://hyperdex.org/performance/leveldb/">HYPER LevelDB</a></li>
+<li><a href="http://wiki.hetzner.de/index.php/Security_Issue/en">Hetzner pwned</a>
+
+<ul>
+<li><a href="http://pastebin.com/raw.php?i=hmLG6Cfq">email</a></li>
+</ul>
+</li>
+<li>Ubuntu schließt Bug #1</li>
+<li><a href="http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order">NSA hört alle ab</a></li>
+<li><a href="http://www.guardian.co.uk/world/interactive/2013/jun/06/verizon-telephone-data-court-order">Court Order</a></li>
+<li><a href="http://elan.plexapp.com/2013/06/04/introducing-plexconnect-an-appletv-client-which-thinks-different/">Plexconnect</a></li>
+<li><a href="http://m.phys.org/news/2013-05-cement-metal.html">Researchers turn cement into metal</a></li>
+<li><a href="http://www.washington.edu/news/2013/06/04/wi-fi-signals-enable-gesture-recognition-throughout-entire-home/">WiFi Guesture Recognition</a></li>
+<li><a href="http://www.fairphone.com/">Fairphone</a></li>
+<li>anyomität bei bitcoins vorbei?
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Bitcoin-Boerse-Mt-Gox-fuehrt-Identitaetspruefungen-ein-1874193.html">mt gox mit prüfung</a></li>
+<li><a href="https://mtgox.com/press_release_20130530.html">MtGox Presseerklärung</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Razzia-gegen-Internet-Bezahldienst-Bank-fuer-die-kriminelle-Unterwelt-1872430.html">Razzia gegen Bank</a></li>
+</ul>
+</li>
+<li><a href="http://www.digitaljournal.com/article/326976">Frau kann 99 Mio farben MEHR sehen</a></li>
+<li><a href="http://arstechnica.com/information-technology/2013/06/googles-balloon-based-wireless-networks-may-not-be-a-crazy-idea/">Googles Balon Netzwerk</a>
+
+<ul>
+<li><a href="http://www.comnets.rwth-aachen.de/publications/complete-lists/abstracts/2005/diss-oh2005.html">Sat UMTS</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/blog/1517-introducing-octokit">Github bringt Octokit</a></li>
+<li><a href="https://trello.com/board/simquadrat-roadmap/519b34d97f5d7c740a002995">Simquadrat auf Trello</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19868/mit-supertuxkart-durch-buechelberg.html">Kart durch Openstreetmap Karten</a>
+
+<ul>
+<li><a href="http://geoguessr.com">Geoguessr</a></li>
+<li><a href="http://en.m.wikipedia.org/wiki/Special:Nearby">Wikipedia Nearby</a></li>
+</ul>
+</li>
+<li><p><a href="https://drupal.org/news/130529SecurityUpdate">Drupal.org geowned</a></p></li>
+<li><p><a href="http://people.debian.org/~stapelberg/2013/05/27/systemd-survey-results.html">systemd fuer Debian?</a></p></li>
+<li><a href="http://mashable.com/2013/05/21/jif-not-gifs-pronunciation-steve-wilhite/#:eyJzIjoiZyIsImkiOiIxMDcxNDM5NDk0NTAzOTAxNTA2MjIifQ">GIF wird JIF ausgesprochen</a>
+
+<ul>
+<li><a href="http://4.bp.blogspot.com/-N9T8ykodUEw/UEpyIRYJNjI/AAAAAAAAA_o/JMnbWJjNb_4/s1600/jif.jpeg">Jif</a></li>
+<li><a href="http://i.imgur.com/OJ6F3Ar.gif">Jif ferret content</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.spacevatican.org/2012/6/3/fun-with-elasticsearch-s-children-and-nested-documents/">Elasticsearch's children and nested documents</a></li>
+<li><a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm">Roy Fieldings Dissertation</a></li>
+<li><a href="http://thisanimatedlife.blogspot.de/2013/05/pixars-chris-horne-sheds-new-light-on.html?m=1">Ray Tracing bei Pixar</a></li>
+<li><a href="http://www.amazon.de/dp/0425198685?tag=pfleidi-21">Patterm Recognition</a></li>
+<li><a href="http://mattgemmell.com/2012/05/01/familiar-is-not-a-design/">Familiar is not design</a></li>
+<li><a href="https://gist.github.com/adamwiggins/5687294">My Heroku values</a></li>
+<li><a href="https://datanitro.com/blog/2013/5/23/Excel_and_sql/">Excel nach SQL portieren</a>
+
+<ul>
+<li><a href="https://github.com/mangini/gdocs2md">gdocs to markdown</a></li>
+</ul>
+</li>
+<li><a href="http://www.jeffknupp.com/blog/2012/03/31/pythons-hardest-problem/">Python's hardest problem</a>
+
+<ul>
+<li><a href="http://youtu.be/EBRMq2Ioxsc">About Trolling (Guidos Keynote Speech)</a></li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/No_%28word%29#The_Early_English_four-form_system">Yes, no, yea, nay</a></li>
+<li><a href="http://www.smithsonianmag.com/science-nature/Gamblers-Take-Note-The-Odds-in-a-Coin-Flip-Arent-Quite-50-50-181022961.html">Gamblers Take Note: The Odds in a Coin Flip Aren't Quite 50/50</a></li>
+<li><a href="http://youtu.be/sPiWg5jSoZI">Python3 <strong>Metaprogramming</strong>(<strong>video</strong>)</a></li>
+<li><a href="http://inventwithpython.com/blog/2012/03/18/how-much-math-do-i-need-to-know-to-program-not-that-much-actually/">How much math do you need(as a programmer)</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>DDOS auf DNS Server (Ingo)</li>
+<li><a href="http://blog.hagga.net/archives/iphone-ipod-touch/3791-facebook-app-saugt-den-iphone-akku-leer">Facebook Apps und Stromverbrauch</a></li>
+<li><a href="https://www.archlinux.org/news/binaries-move-to-usrbin-requiring-update-intervention/">Arch Linux geht wieder beim Upgrade kaputt</a></li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="https://www.facebook.com/DrawingDicksOnTheHeraldSun">Drawing Dicks On The Herald Sun</a></li>
+<li><a href="">Adventure Time</a>[makefu]</li>
+<li><a href="https://github.com/FredKSchott/CoVim">CoVim</a></li>
+<li><a href="http://www.arero.de/">Arero Fond</a></li>
+<li><a href="http://www.mein-wunschpreis.com/">Wunschpreis</a> (ingo)</li>
+<li><a href="https://itunes.apple.com/de/app/github-issues/id453833494?l=en&amp;mt=8">Github issues iOS App</a></li>
+<li><a href="http://amzn.to/1b9T465">Hama Mini Schraubendreher</a></li>
+<li><a href="https://github.com/mallocator/Elasticsearch-Exporter">ES Exporter</a></li>
+<li><a href="http://lab.hakim.se/reveal-js/">Reveal.js</a></li>
+<li><a href="http://blog.app.net/2013/05/08/app-net-passport-for-ios-is-now-available/">App.net Passport</a></li>
+<li><a href="http://tigerbears.com/felix/">Felix.app</a></li>
+<li><a href="http://wedge.natestedman.com/">Wedge</a></li>
+<li><a href="http://www.docker.io/">Docker</a></li>
+<li><a href="https://github.com/panicsteve/cloud-to-butt">Cloud to butt</a></li>
+<li><a href="https://itunes.apple.com/de/app/acrobits-softphone-sip-phone/id314192799?l=en&amp;mt=8">Acrobits softphone</a>
+
+<ul>
+<li><a href="https://itunes.apple.com/us/app/bria-voip-sip-phone-video/id373968636?mt=8">Bria</a></li>
+<li><a href="http://www.sipgateblog.de/abschied-von-den-smartphone-apps-wir-kommen-wieder/">Sipgate entwickelt Smartphone Apps nicht weiter</a></li>
+</ul>
+</li>
+<li><a href="http://knowyourmeme.com/memes/baby-mugging">Baby Mugging</a></li>
+<li><a href="https://github.com/shpedoikal/tpm-luks">TPM fuer HDD Encryption</a></li>
+<li><a href="https://agilebits.com/onepassword">1Password</a></li>
+<li><a href="https://github.com/phinze/homebrew-cask">Homebrew cask</a>
+
+<ul>
+<li><a href="https://github.com/phinze/homebrew-cask/tree/master/Casks">Liste</a></li>
+</ul>
+</li>
+<li><a href="http://www.unqlite.org/">UnQLite</a></li>
+<li><a href="http://screensiz.es/">Screensize.es</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-06-06.Binaergewitter.Talk.54.ogg"
+        length="95187224"
+        type="audio/ogg" />
+      <media:content url="http://download.binaergewitter.de/2013-06-06.Binaergewitter.Talk.54.ogg"
+        fileSize="95187224"
+        type="audio/ogg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #54 - Compliance Lampe in Rot</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Nach einer Woche Pause wieder in Vollbesetzung mit nackten Tatsachen und vielen Picks.
+
+Toter der Woche(n)
+
+
+Roaming Gebühren
+
+
+SimQuadrat
+
+
+Camino Browser
+Biber Fieber
+
+
+
+Untoter der Wochen
+
+
+GNU/HURD
+windows start button
+
+
+boot-to-desktop fuer Windows 8.1
+
+
+Cal/CardDAV API bei Google
+
+
+
+Security Fail der Woche
+
+
+Windows
+
+
+Full disclosure
+
+
+
+
+
+News
+
+
+Cracking lots of Hashes very fast
+HYPER LevelDB
+Hetzner pwned
+
+
+email
+
+
+Ubuntu schließt Bug #1
+NSA hört alle ab
+Court Order
+Plexconnect
+Researchers turn cement into metal
+WiFi Guesture Recognition
+Fairphone
+anyomität bei bitcoins vorbei?
+
+
+mt gox mit prüfung
+MtGox Presseerklärung
+Razzia gegen Bank
+
+
+Frau kann 99 Mio farben MEHR sehen
+Googles Balon Netzwerk
+
+
+Sat UMTS
+
+
+Github bringt Octokit
+Simquadrat auf Trello
+Kart durch Openstreetmap Karten
+
+
+Geoguessr
+Wikipedia Nearby
+
+
+Drupal.org geowned
+systemd fuer Debian?
+GIF wird JIF ausgesprochen
+
+
+Jif
+Jif ferret content
+
+
+
+
+
+Lesefoo
+
+
+Elasticsearch's children and nested documents
+Roy Fieldings Dissertation
+Ray Tracing bei Pixar
+Patterm Recognition
+Familiar is not design
+My Heroku values
+Excel nach SQL portieren
+
+
+gdocs to markdown
+
+
+Python's hardest problem
+
+
+About Trolling (Guidos Keynote Speech)
+
+
+Yes, no, yea, nay
+Gamblers Take Note: The Odds in a Coin Flip Aren't Quite 50/50
+Python3 Metaprogramming(video)
+How much math do you need(as a programmer)
+
+
+
+Mimimi der Woche
+
+
+DDOS auf DNS Server (Ingo)
+Facebook Apps und Stromverbrauch
+Arch Linux geht wieder beim Upgrade kaputt
+
+
+
+Picks
+
+
+Drawing Dicks On The Herald Sun
+Adventure Time[makefu]
+CoVim
+Arero Fond
+Wunschpreis (ingo)
+Github issues iOS App
+Hama Mini Schraubendreher
+ES Exporter
+Reveal.js
+App.net Passport
+Felix.app
+Wedge
+Docker
+Cloud to butt
+Acrobits softphone
+
+
+Bria
+Sipgate entwickelt Smartphone Apps nicht weiter
+
+
+Baby Mugging
+TPM fuer HDD Encryption
+1Password
+Homebrew cask
+
+
+Liste
+
+
+UnQLite
+Screensize.es
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
+    
+    
+    <item>
+      <title>Binärgewitter Talk #53 - Anpöbellautsprecher</title>
+      <link>http://blog.binaergewitter.de/blog/2013/05/24/binaergewitter-talk-number-53-anpoebellautsprecher/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/05/24/binaergewitter-talk-number-53-anpoebellautsprecher/#comments</comments>
+      <pubDate>Fri, 24 May 2013 10:30:00 +0200</pubDate>
+      <atom:updated>2013-05-24T10:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F05%2F24%2Fbinaergewitter-talk-number-53-anpoebellautsprecher%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2353%20-%20Anp%C3%B6bellautsprecher&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/05/24/binaergewitter-talk-number-53-anpoebellautsprecher</guid>
+      
+      <description>
+        <![CDATA[<p>In Meterschritten quatschen wir diesmal über Tumblr, Hangouts, LinuxTag und natürlich diese komische XFail One. Den großteil der Sendung bestreiten Marc und Pfleidi alleine....</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://thenextweb.com/google/2013/05/22/google-codes-download-option-deprecated-due-to-misuse-only-existing-project-downloads-to-be-kept-after-january-15/">Google Code</a>
+
+<ul>
+<li><a href="https://github.com/blog/1302-goodbye-uploads">Github did it!</a></li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Naked_Came_the_Stranger">Die Kulturlandschaft: Naked Came the Stranger</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Mendenhall_Order">Das Metrische System in den USA</a></li>
+<li><a href="http://blogs.wallstreetjournal.de/die_seite_drei/2013/05/21/an-aus-an-aus-und-am-ende-leuchtet-sie-doch-noch/">Die Glühbirne der Feuerwehr in Livermore</a></li>
+<li><a href="http://dejure.org/gesetze/BGB/118.html">Gramatik: Mangelnde Ernstlichkeit</a></li>
+</ul>
+
+
+<h2>Github der Woche</h2>
+
+<ul>
+<li><a href="https://github.com/Fuco1/clippy.el">Clippy für Emacs</a></li>
+</ul>
+
+
+<h2>LinuxTag</h2>
+
+<ul>
+<li><a href="http://linuxtag.de/2013/">LinuxTag 2013</a></li>
+<li><a href="http://automx.org/">automx</a></li>
+<li><a href="https://puppetlabs.com/">puppet</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="https://epetitionen.bundestag.de/petitionen/_2013/_04/_23/Petition_41906.nc.html">ePetition für Netzneutralität</a></li>
+<li><a href="http://www.bbc.co.uk/news/business-22591026">Yahoo übernimmt Tumblr für 1.1 Mrd $</a>
+
+<ul>
+<li><a href="http://finance.yahoo.com/news/yahoo-acquire-tumblr-120000116.html">Offizieller Artikel</a></li>
+<li><a href="http://yahoo.tumblr.com/">yahoo.tumblr.com</a></li>
+<li><a href="http://www.tumblr.com/tagged/yahoo">Reaktionen von Tumblr Usern auf Übernahme</a></li>
+<li><a href="http://www.marco.org/2013/05/20/one-person-product">The one person product</a></li>
+<li><a href="http://staff.tumblr.com/post/50902268806/news">Bekanntgabe des tumblr Teams</a></li>
+</ul>
+</li>
+<li><a href="http://yahoo.tumblr.com/post/50934634700/your-world-in-full-resolution">Neues von Flickr</a>
+
+<ul>
+<li><a href="http://blog.flickr.net/en/2013/05/20/a-better-brighter-flickr/">Neu und in farbe</a></li>
+<li><a href="https://github.com/ricardobeat/filr">Beliebige Daten im Flickr 1TB Store ablegen</a></li>
+</ul>
+</li>
+<li><a href="http://www.sqlite.org/releaselog/3_7_17.html">SQLite kann Memory Mapped I/O</a>
+
+<ul>
+<li><a href="http://docs.mongodb.org/manual/faq/storage/">Memory Mapped I/O bei MongoDB</a></li>
+</ul>
+</li>
+<li><a href="http://www.wired.com/gadgetlab/2013/05/xbox-one/">Die neue XBox One</a>
+
+<ul>
+<li><a href="http://kotaku.com/the-entire-xbox-one-reveal-summed-up-in-1-5-hilarious-509197649">Zusammenfassung der Keynote</a></li>
+<li><a href="http://xkcd.com/1215/">Passender XKCD</a></li>
+</ul>
+</li>
+<li><a href="http://www.aaronshekey.com/reflow/">Adobe Reflow</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Erstes-Smartphone-mit-Sailfish-OS-1866099.html">erstes Jolla Phone kann vorbestellt werden</a>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=zxv7iXwIgno">Preview von SailfishOS</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Telekom-prueft-Abkehr-vom-Festnetz-fuer-bestimmte-Neubaugebiete-1866012.html">Telekom will keinen Netzausbau</a>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Telekom-legt-Drahtlos-Plaene-fuer-Neubaugebiete-auf-Eis-1867057.html">Qualitätsjournalismus</a></li>
+</ul>
+</li>
+<li><a href="http://lists.x.org/archives/xorg-devel/2013-May/036276.html">X.Org vulnerabilities</a></li>
+</ul>
+
+
+<h2>Kim dotcom der Woche</h2>
+
+<ul>
+<li><a href="http://www.golem.de/news/kim-dotcom-google-facebook-twitter-verletzen-mein-patent-1305-99399.html">kim hat 2-factor-auth erfunden und verklagt alle</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Erfahrungen mit neuen Hangouts und G+</h3>
+
+<ul>
+<li>pfleidi hat seinen G+ Account reaktiviert</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Googles-Chat-Client-kappt-Jabber-Kompatibilitaet-1866059.html">In Zukunft kein XMPP/keine Federation</a>
+
+<ul>
+<li>noch sind 1:1 Hangouts wohl Jabber</li>
+<li><a href="https://dukgo.com/blog/xmpp-services-at-duckduckgo">Duckduckgo bietet XMPP an</a></li>
+</ul>
+</li>
+<li>Links in Hangouts nicht klickbar :(</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/">The Elves Leave Middle Earth – Sodas Are No Longer Free</a></li>
+<li><a href="http://tante.cc/2013/05/20/host-your-own-is-cynical/">Host your own is cynical</a></li>
+<li><a href="http://msonnabaum.github.io/d8-oop-presentation/">Drupal 8 OOP</a></li>
+<li><a href="http://tinyletter.com/thoughtbot">The Bot Cave</a></li>
+<li><a href="http://unicornfree.com/2011/will-low-prices-sell-more">Will low prices sell more?</a></li>
+<li><a href="http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/">The Scientific 7 Minute Workout</a>
+
+<ul>
+<li><a href="http://7-min.com/">Und als Webseite</a></li>
+</ul>
+</li>
+<li><a href="http://blog.robrhyne.com/post/50701471567/stranger-in-a-strange-google-land">Stranger in a strange google land</a></li>
+<li><a href="http://www.yosefk.com/blog/parallelism-and-concurrency-need-different-tools.html">Parallelism and Concurrency need different tools</a></li>
+<li><a href="http://english.stackexchange.com/questions/14478/indian-english-usage-of-kindly">Inder und kindly</a></li>
+<li><a href="http://www.linkedin.com/today/post/article/20130430145142-5799319-why-employees-shouldn-t-have-hours">Why employees shouldn't have hours</a></li>
+<li><a href="http://qz.com/81661/most-data-isnt-big-and-businesses-are-wasting-money-pretending-it-is/">Most data isn't big</a></li>
+<li><a href="http://www.andrewgirardin.com/asterix-latin-jokes-explained.html">Asterix Latin Jokes explained</a></li>
+<li><a href="http://aphyr.com/tags/jepsen">Call me maybe</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Kissen Lautsprecher (pfleidi)</li>
+<li>Mehrfamilien Telekomvergleiche</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://baikal-server.com/">Baikal Cal/CardDav</a></li>
+<li><a href="https://itunes.apple.com/de/app/dumb-ways-to-die/id639930688?l=en&amp;mt=8">Dumb ways to die (iOS)</a></li>
+<li><a href="http://www.marketwatch.com/lazyportfolio/">Lazy Portfolios</a>
+
+<ul>
+<li><a href="https://docs.google.com/a/acquia.com/spreadsheet/ccc?key=0AiPoZ9czoEMWdDVxWU1LN3Y4LU84SmNGUS1PMzdyQ0E#gid=0">Excel Sheet</a></li>
+</ul>
+</li>
+<li><a href="http://riposteapp.net/">Riposte</a></li>
+<li><a href="https://github.com/codegram/futuroscope">Futuroscope</a>
+
+<ul>
+<li><a href="http://tx.pignata.com/2012/11/concurrency-patterns-in-ruby-futures.html">Futures in Ruby</a></li>
+</ul>
+</li>
+<li><a href="https://itunes.apple.com/de/app/duplicate-cleaner-for-iphoto/id586862299?l=en&amp;mt=12">Duplicate Finder for iPhoto</a></li>
+<li><a href="http://www.heuteinstuttgart.de/">Heute in Stuttgart</a></li>
+<li><a href="http://www.raedan.de/handytaschen-coffee-royale-p-55.html">iPhone Tasche</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-05-23.Binaergewitter.Talk.53.ogg"
+        length="110066176"
+        type="audio/ogg" />
+      <media:content url="http://download.binaergewitter.de/2013-05-23.Binaergewitter.Talk.53.ogg"
+        fileSize="110066176"
+        type="audio/ogg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #53 - Anpöbellautsprecher</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[In Meterschritten quatschen wir diesmal über Tumblr, Hangouts, LinuxTag und natürlich diese komische XFail One. Den großteil der Sendung bestreiten Marc und Pfleidi alleine....
+
+Toter der Woche
+
+
+Google Code
+
+
+Github did it!
+
+
+Die Kulturlandschaft: Naked Came the Stranger
+
+
+
+Untoter der Woche
+
+
+Das Metrische System in den USA
+Die Glühbirne der Feuerwehr in Livermore
+Gramatik: Mangelnde Ernstlichkeit
+
+
+
+Github der Woche
+
+
+Clippy für Emacs
+
+
+
+LinuxTag
+
+
+LinuxTag 2013
+automx
+puppet
+
+
+
+News
+
+
+ePetition für Netzneutralität
+Yahoo übernimmt Tumblr für 1.1 Mrd $
+
+
+Offizieller Artikel
+yahoo.tumblr.com
+Reaktionen von Tumblr Usern auf Übernahme
+The one person product
+Bekanntgabe des tumblr Teams
+
+
+Neues von Flickr
+
+
+Neu und in farbe
+Beliebige Daten im Flickr 1TB Store ablegen
+
+
+SQLite kann Memory Mapped I/O
+
+
+Memory Mapped I/O bei MongoDB
+
+
+Die neue XBox One
+
+
+Zusammenfassung der Keynote
+Passender XKCD
+
+
+Adobe Reflow
+erstes Jolla Phone kann vorbestellt werden
+
+
+Preview von SailfishOS
+
+
+Telekom will keinen Netzausbau
+
+
+Qualitätsjournalismus
+
+
+X.Org vulnerabilities
+
+
+
+Kim dotcom der Woche
+
+
+kim hat 2-factor-auth erfunden und verklagt alle
+
+
+
+Themen
+
+Erfahrungen mit neuen Hangouts und G+
+
+
+pfleidi hat seinen G+ Account reaktiviert
+In Zukunft kein XMPP/keine Federation
+
+
+noch sind 1:1 Hangouts wohl Jabber
+Duckduckgo bietet XMPP an
+
+
+Links in Hangouts nicht klickbar :(
+
+
+
+Lesefoo
+
+
+The Elves Leave Middle Earth – Sodas Are No Longer Free
+Host your own is cynical
+Drupal 8 OOP
+The Bot Cave
+Will low prices sell more?
+The Scientific 7 Minute Workout
+
+
+Und als Webseite
+
+
+Stranger in a strange google land
+Parallelism and Concurrency need different tools
+Inder und kindly
+Why employees shouldn't have hours
+Most data isn't big
+Asterix Latin Jokes explained
+Call me maybe
+
+
+
+Mimimi der Woche
+
+
+Kissen Lautsprecher (pfleidi)
+Mehrfamilien Telekomvergleiche
+
+
+
+Picks
+
+
+Baikal Cal/CardDav
+Dumb ways to die (iOS)
+Lazy Portfolios
+
+
+Excel Sheet
+
+
+Riposte
+Futuroscope
+
+
+Futures in Ruby
+
+
+Duplicate Finder for iPhoto
+Heute in Stuttgart
+iPhone Tasche
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
@@ -9301,756 +10077,6 @@ Thinkpad x230i+ UMTS
 Skeu It!
 Kindleberry Pi
 Evolution Documentary (pfleidi)
-
-
-]]>
-      </itunes:summary>
-      <itunes:author>Binärgewitter Crew</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-    </item>
-    
-    
-    <item>
-      <title>Binärgewitter Talk #24 - Google Balls</title>
-      <link>http://blog.binaergewitter.de/blog/2012/08/26/binaergewitter-talk-number-24-google-balls/</link>
-      <comments>http://blog.binaergewitter.de/blog/2012/08/26/binaergewitter-talk-number-24-google-balls/#comments</comments>
-      <pubDate>Sun, 26 Aug 2012 21:19:00 +0200</pubDate>
-      <atom:updated>2012-08-26T21:19:00+02:00</atom:updated>
-
-      
-      
-      <atom:link rel="payment"
-        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F08%2F26%2Fbinaergewitter-talk-number-24-google-balls%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2324%20-%20Google%20Balls&amp;category=audio&amp;tags=podcast,tech,software"
-        type="text/html"
-      />
-
-      
-
-      
-      <category><![CDATA[talk]]></category>
-      
-
-      <media:credit role="author">Binärgewitter Crew</media:credit>
-      <media:rating>nonadult</media:rating>
-      
-      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/08/26/binaergewitter-talk-number-24-google-balls</guid>
-      
-      <description>
-        <![CDATA[<h2>Kategorie der Woche</h2>
-
-<h3>Worst Job of the Internet</h3>
-
-<ul>
-<li><a href="http://www.buzzfeed.com/reyhan/tech-confessional-the-googler-who-looks-at-the-wo">Ein Jahr den Bodensatz des Internets (nicht 4chan) filtern</a></li>
-</ul>
-
-
-<h2>Tote der letzten N Wochen</h2>
-
-<ul>
-<li><a href="http://www.tbray.org/ongoing/When/201x/2012/07/28/Oauth2-dead">OAuth2</a></li>
-<li><a href="http://games.slashdot.org/story/12/08/22/0313250/nintendo-power-to-shut-down">Nintendo Power</a></li>
-<li><a href="http://www.inquisitr.com/289831/google-nexus-q-shipments-stopped-system-will-receive-new-features-then-resume-shipping/">Nexus Q</a></li>
-</ul>
-
-
-<h2>Untote der letzten N Wochen</h2>
-
-<ul>
-<li><a href="http://www.businessweek.com/articles/2012-05-10/on-diasporas-social-network-you-own-your-data">Diaspora</a></li>
-<li><a href="http://techcrunch.com/2012/08/15/hope-for-flickr-marissa-mayer-joins-photo-sharing-site-reportedly-doubles-team/">Flickr mit der Hilfe von Marissa</a></li>
-<li><a href="http://linux.slashdot.org/story/12/08/05/0359224/damn-small-linux-rises-from-the-dead-with-a-411-rc1-release">Damn Small Linux mit Version 4.11 RC1</a></li>
-<li><a href="http://www.gizmodo.de/2012/07/13/darpa-will-tote-satelliten-wiederbeleben.html">Darpa will tote Satelliten wiederbeleben</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://www.forbes.com/sites/andygreenberg/2012/08/17/hotel-lock-firms-fix-for-security-flaw-requires-hardware-changes-for-millions-of-locks/">Security Issues in our products? Well FUCK YOU and buy our new shit</a></li>
-<li><a href="http://www.theregister.co.uk/2012/08/20/android_smszombie/">Malwareinfektion mit Nudie Pics (500k android geraete)</a></li>
-<li><a href="http://us.blizzard.com/en-us/securityupdate.html">Blizzards BattleNet Hack, eure Passwoerter sind sicher...</a>
-
-<ul>
-<li><a href="http://www.opine.me/blizzards-battle-net-hack/">... not!</a></li>
-<li><a href="http://srp.stanford.edu/ndss.html">Secure Remote Password protocol</a></li>
-</ul>
-</li>
-<li><a href="https://www.paymill.de/index.html">Samwer Brüder klonen Stripe</a> "Einfach copy &amp; paste"</li>
-<li><a href="http://www.heise.de/developer/meldung/Twitter-kuendigt-restriktivere-API-an-1669415.html/from/atom10">Twitter kündigt restriktive API Änderungen an</a></li>
-<li><a href="https://join.app.net/">App.net als bezahlte Alternative zu Twitter</a>
-
-<ul>
-<li><a href="http://news.ycombinator.net/item?id=4395665">I Have 50 Dollars</a> ( <a href="http://ihave50dollars.com/">direkt</a> )</li>
-</ul>
-</li>
-<li><a href="http://www.golem.de/news/raumfahrt-curiosity-grillt-marsgestein-1208-93947.html">Curiosity hat LAZZZ0RS und grillt damit Steine</a>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=gZX5GRPnd4U">HD Video von der Landung</a></li>
-<li><a href="http://twitter.com/MarsCuroisity">Curiosity Twitter Account</a></li>
-</ul>
-</li>
-<li><a href="http://www.golem.de/news/glacier-amazon-startet-guenstiges-datenarchiv-1208-93968.html">Amazon startet Datenarchiv</a>
-
-<ul>
-<li><a href="http://aws.amazon.com/glacier/">Amazon Glacier - Super-Affordable Offsite Backup ....</a></li>
-<li><a href="http://news.ycombinator.net/item?id=4411536">... or is it?</a></li>
-</ul>
-</li>
-<li><a href="http://www.golem.de/news/octane-javascript-benchmark-fuer-das-moderne-web-von-google-1208-93983.html">Google bringt neuen JS Benchmark für moderne Browser</a>
-
-<ul>
-<li><a href="https://developers.google.com/octane/benchmark">Liste der Tests</a></li>
-</ul>
-</li>
-<li><a href="http://blog.getbootstrap.com/2012/08/20/bootstrap-2-1-0-released/">Twitter Bootstrap 2.1</a>
-
-<ul>
-<li><a href="http://www.adobe.com/devnet/html5/articles/twitter-bootstrap.html">Styling your apps with twitter bootstrap</a></li>
-</ul>
-</li>
-<li><a href="http://www.engadget.com/2012/08/20/bitinstant-founder-says-bitcoin-debit-card-to-launch-within-next/">Bitcoin Debit Card</a>
-
-<ul>
-<li><a href="https://www.bitinstant.com/home">BitInstant</a></li>
-<li><a href="https://bitcointalk.org/index.php?topic=101874.0">Bitcurex Card</a></li>
-<li><a href="https://www.bitmit.net/de/trade/i/4471-stuttgart-vvs-4er-3-zonen/description">4er 3Zonen VVS Ticket mit BTC kaufen</a></li>
-</ul>
-</li>
-<li><a href="http://geoff.greer.fm/2012/08/12/character-encoding-bugs-are-%F0%9D%92%9Cwesome/">UTF8 in MySQL ist nicht UTF8</a></li>
-<li><a href="http://arstechnica.com/information-technology/2012/08/codethink-launches-little-linux-arm-servers-with-8-quad-core-cpus-per-node/">Der Anfang der Server-Generation ARM?</a></li>
-<li><a href="http://rudd-o.com/linux-and-free-software/ways-in-which-zfs-is-better-than-btrfs">BTRFS ist immer noch schlechter als ZFS</a></li>
-<li><a href="http://theoatmeal.com/blog/tesla_museum">The Oatmeal sammelt fuer Tesla Museum</a>
-
-<ul>
-<li><a href="http://www.indiegogo.com/teslamuseum">Nach 6 Tagen die 850k marke erreicht</a></li>
-<li><a href="http://www.badassoftheweek.com/tesla.html">Tesla: Badass of the week</a></li>
-</ul>
-</li>
-<li><a href="http://www.deadman.io/">Deadman : Technologie des "DuBistAlt.de" Netzwerks</a></li>
-<li><a href="https://github.com/textmate/textmate">Textmate 2 ist open source</a>
-
-<ul>
-<li><a href="http://news.ycombinator.com/item?id=4361390">HN</a></li>
-</ul>
-</li>
-<li><a href="http://news.discovery.com/tech/brain-dish-flies-plane-041022.html">SCIENCE: Gezuechtetes Gehirn fliegt flugzeug</a></li>
-<li><a href="http://spectrum.ieee.org/semiconductors/memory/could-an-sram-hourglass-save-rfid-chips-just-in-time">RFID Security: SRAM to the Rescue</a></li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<h3>Hipster Themen</h3>
-
-<ul>
-<li><a href="https://github.com/k0ral/hbro">Hipster Br0ser for Hipster</a></li>
-<li><a href="https://bugs.ruby-lang.org/issues/5054">Compress a sequence of ends: FUUUUUUUUUUUUUU</a>
-
-<ul>
-<li><a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/">SICP Lecture videos</a></li>
-</ul>
-</li>
-<li><a href="https://twitter.com/shit_hn_says">Shit HN Says</a></li>
-</ul>
-
-
-<h3>Apple Sandbox</h3>
-
-<ul>
-<li><a href="http://apple.slashdot.org/story/12/08/18/0034209/mplayerx-leaving-mac-app-store">MplayerX verlaesst AppStore wegen Sandboxing</a></li>
-<li><a href="https://developer.apple.com/library/mac/#documentation/Miscellaneous/Reference/EntitlementKeyReference/Chapters/EnablingAppSandbox.html#//apple_ref/doc/uid/TP40011195-CH4-SW1">entitlements</a></li>
-<li><a href="http://developer.apple.com/library/mac/#documentation/Security/Conceptual/AppSandboxDesignGuide/DesigningYourSandbox/DesigningYourSandbox.html">Designing for the app sandbox</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://launiusr.wordpress.com/2012/02/08/why-explore-space-a-1970-letter-to-a-nun-in-africa/">Why explore space</a></li>
-<li><a href="http://wtfnasa.com/">WTFNasa</a> (pfleidi)</li>
-<li><a href="http://www.brainpickings.org/index.php/2012/07/27/the-usefulness-of-useless-knowledge/">The Usefulness of Useless Knowledge</a></li>
-<li><a href="http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/">The busy trap</a> (pfleidi)</li>
-<li><a href="http://www.forbes.com/sites/marcwebertobias/2012/07/27/unsafe-gun-safes-can-be-opened-by-a-three-year-old/">Super Babies 3 - Baby Hackers</a></li>
-<li><a href="http://www.freesoftwaremagazine.com/articles/drivers_linux">Writing device drivers in Linux</a></li>
-<li><a href="https://github.com/bitly/dablooms/pull/19">Sexy, sexy performance optimierung</a></li>
-<li><a href="http://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html">Non-Alphanumeric-Javascript</a></li>
-<li><a href="http://jsforcats.com/">JS for cats</a> (pfleidi)</li>
-<li><a href="http://www.ted.com/talks/ramesh_raskar_a_camera_that_takes_one_trillion_frames_per_second.html">Imaging at a trillion frames per second</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li><a href="http://gizmodo.com/5933688">It's OK to be a Hater Because Everything is Bad</a></li>
-<li>Office365 kann keine eMail tags</li>
-<li><a href="http://coding.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/">CSS Specificity</a></li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li>Bitcoin referal links GALORE:
-
-<ul>
-<li><a href="http://bitmit.net/en/?ref=3724">Bitmit</a></li>
-<li><a href="https://www.mybitcointrade.com/?ref=429">Bitcoin Börse</a></li>
-<li><a href="http://glbse.com">GLBSE</a></li>
-</ul>
-</li>
-<li><a href="http://www.youtube.com/watch?v=sNAxrpzc6ws">BBC: The science of decay</a> (pfleidi)</li>
-<li><a href="http://sbp.so/supercombiner">UTF-8 Supercombiner</a></li>
-<li><a href="http://www.youtube.com/watch?v=NG8goJpbKk0">Konstantin Haase: Message in a bottle</a> (pfleidi)</li>
-<li><a href="http://itunes.apple.com/de/app/planets/id305793334?mt=8">Planets</a> (pfleidi)
-
-<ul>
-<li><a href="http://www.google.com/mobile/skymap/">Google Skymap</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/apenwarr/sshuttle/">sshuttle</a></li>
-<li><a href="http://www.jbkaffee.de/">JBKaffee</a></li>
-</ul>
-
-]]>
-      </description>
-      
-      
-      
-      <enclosure url="http://download.binaergewitter.de/2012-08-22.Binaergewitter.Talk.24.ogg"
-        length="112972001"
-        type="audio/ogg" />
-      <media:content url="http://download.binaergewitter.de/2012-08-22.Binaergewitter.Talk.24.ogg"
-        fileSize="112972001"
-        type="audio/ogg" />
-      <itunes:keywords></itunes:keywords>
-      <itunes:subtitle>Binärgewitter Talk #24 - Google Balls</itunes:subtitle>
-      <itunes:summary>
-        <![CDATA[Kategorie der Woche
-
-Worst Job of the Internet
-
-
-Ein Jahr den Bodensatz des Internets (nicht 4chan) filtern
-
-
-
-Tote der letzten N Wochen
-
-
-OAuth2
-Nintendo Power
-Nexus Q
-
-
-
-Untote der letzten N Wochen
-
-
-Diaspora
-Flickr mit der Hilfe von Marissa
-Damn Small Linux mit Version 4.11 RC1
-Darpa will tote Satelliten wiederbeleben
-
-
-
-News
-
-
-Security Issues in our products? Well FUCK YOU and buy our new shit
-Malwareinfektion mit Nudie Pics (500k android geraete)
-Blizzards BattleNet Hack, eure Passwoerter sind sicher...
-
-
-... not!
-Secure Remote Password protocol
-
-
-Samwer Brüder klonen Stripe "Einfach copy &amp; paste"
-Twitter kündigt restriktive API Änderungen an
-App.net als bezahlte Alternative zu Twitter
-
-
-I Have 50 Dollars ( direkt )
-
-
-Curiosity hat LAZZZ0RS und grillt damit Steine
-
-
-HD Video von der Landung
-Curiosity Twitter Account
-
-
-Amazon startet Datenarchiv
-
-
-Amazon Glacier - Super-Affordable Offsite Backup ....
-... or is it?
-
-
-Google bringt neuen JS Benchmark für moderne Browser
-
-
-Liste der Tests
-
-
-Twitter Bootstrap 2.1
-
-
-Styling your apps with twitter bootstrap
-
-
-Bitcoin Debit Card
-
-
-BitInstant
-Bitcurex Card
-4er 3Zonen VVS Ticket mit BTC kaufen
-
-
-UTF8 in MySQL ist nicht UTF8
-Der Anfang der Server-Generation ARM?
-BTRFS ist immer noch schlechter als ZFS
-The Oatmeal sammelt fuer Tesla Museum
-
-
-Nach 6 Tagen die 850k marke erreicht
-Tesla: Badass of the week
-
-
-Deadman : Technologie des "DuBistAlt.de" Netzwerks
-Textmate 2 ist open source
-
-
-HN
-
-
-SCIENCE: Gezuechtetes Gehirn fliegt flugzeug
-RFID Security: SRAM to the Rescue
-
-
-
-Themen
-
-Hipster Themen
-
-
-Hipster Br0ser for Hipster
-Compress a sequence of ends: FUUUUUUUUUUUUUU
-
-
-SICP Lecture videos
-
-
-Shit HN Says
-
-
-
-Apple Sandbox
-
-
-MplayerX verlaesst AppStore wegen Sandboxing
-entitlements
-Designing for the app sandbox
-
-
-
-Lesefoo
-
-
-Why explore space
-WTFNasa (pfleidi)
-The Usefulness of Useless Knowledge
-The busy trap (pfleidi)
-Super Babies 3 - Baby Hackers
-Writing device drivers in Linux
-Sexy, sexy performance optimierung
-Non-Alphanumeric-Javascript
-JS for cats (pfleidi)
-Imaging at a trillion frames per second
-
-
-
-Mimimi der Woche
-
-
-It's OK to be a Hater Because Everything is Bad
-Office365 kann keine eMail tags
-CSS Specificity
-
-
-
-Picks
-
-
-Bitcoin referal links GALORE:
-
-
-Bitmit
-Bitcoin Börse
-GLBSE
-
-
-BBC: The science of decay (pfleidi)
-UTF-8 Supercombiner
-Konstantin Haase: Message in a bottle (pfleidi)
-Planets (pfleidi)
-
-
-Google Skymap
-
-
-sshuttle
-JBKaffee
-
-
-]]>
-      </itunes:summary>
-      <itunes:author>Binärgewitter Crew</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-    </item>
-    
-    
-    <item>
-      <title>Binärgewitter Talk #23 - Pulseaudio-Hirn-Sync</title>
-      <link>http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulseaudio-hirn-sync/</link>
-      <comments>http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulseaudio-hirn-sync/#comments</comments>
-      <pubDate>Fri, 27 Jul 2012 18:30:00 +0200</pubDate>
-      <atom:updated>2012-07-27T18:30:00+02:00</atom:updated>
-
-      
-      
-      <atom:link rel="payment"
-        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F07%2F27%2Fbinaergewitter-talk-number-23-pulseaudio-hirn-sync%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2323%20-%20Pulseaudio-Hirn-Sync&amp;category=audio&amp;tags=podcast,tech,software"
-        type="text/html"
-      />
-
-      
-
-      
-      <category><![CDATA[talk]]></category>
-      
-
-      <media:credit role="author">Binärgewitter Crew</media:credit>
-      <media:rating>nonadult</media:rating>
-      
-      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/27/binaergewitter-talk-number-23-pulseaudio-hirn-sync</guid>
-      
-      <description>
-        <![CDATA[<p>Wieder mal in Vollbesetzung düsen wir durch die News, die Felix ausgesucht hat. Nur mit dem Toten der Woche hat er es diesmal irgendwie nicht hinbekommen, dafür reden wir über (gesprochene) Sprachen und
-Security Foo.</p>
-
-<h2>Kategorie der Woche</h2>
-
-<h3>Schwabe der Woche</h3>
-
-<ul>
-<li><a href="http://nocamels.com/2012/07/recycled-cardboard-bicycles-for-9/">Fahrrad aus Pappe, damit es nicht so weh tut, wenn es geklaut wird</a></li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.golem.de/news/mobile-betriebssysteme-nokia-soll-meltemi-eingestampft-haben-1207-93465.html">Meltimmeeeeeee</a></li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.zdf.de/ZDF/zdfportal/web/heute-Nachrichten/4672/23607064/6d99bd/Das-Linux-der-Sprachen.html">125 Jahre Esperanto</a>
-
-<ul>
-<li><a href="http://www.pimpo.de/pimpo.htm">Pimperanto</a></li>
-<li><a href="http://klingon.wikia.com/">Klingonische Wikipedia</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://fiber.google.com/plans/residential/">Google fiber</a></li>
-<li><a href="http://www.techweekeurope.co.uk/news/usb-3-0-power-delivery-charging-86983">Den Laptop mit neuem USB 3.0 laden - 100W Power</a>
-
-<ul>
-<li><a href="http://www.usb.org/press/USB_Power_Delivery_Spec_Completion_FINAL.pdf">USB 3.0 Power Delivery Specification</a> von Intel, HP, Microsoft, ST-Erricson</li>
-<li><a href="http://semiaccurate.com/2012/07/23/100w-over-usb-is-here-with-the-new-power-delivery-spec/">6 Unterstuetzte Powerprofile von 5,12,20 Volt</a> - Nie wieder proprietaere Ladegerate!</li>
-<li><a href="http://assets.cantbeunseen.com/hashed_silo_content/silo_content/22917/resized/duck.jpg">Duck</a></li>
-</ul>
-</li>
-<li><a href="http://onlinelibrary.wiley.com/doi/10.1002/ejsp.1890/abstract">Seeing women as objects</a></li>
-<li><a href="http://www.forbes.com/sites/andygreenberg/2012/07/23/hacker-will-expose-potential-security-flaw-in-more-than-four-million-hotel-room-keycard-locks/">Sicherheitsluecke in Millionen Hotel-Tueren</a></li>
-<li><a href="http://go.bloomberg.com/tech-blog/2012-07-24-apple-warms-up-to-hackers-plans-presentation-at-black-hat/">Apple bei Blackhat</a></li>
-<li><a href="http://antirez.com/post/redis-sentinel-beta-released.html">Redis Sentinal beta</a> (Marc)</li>
-<li><a href="http://www.pro-linux.de/news/1/18665/valve-chef-gabe-newell-will-alle-spiele-auf-linux-bringen.html">fuck yeah mehr spiele</a>
-
-<ul>
-<li><a href="http://linux.slashdot.org/story/12/07/26/1249246/why-valve-wants-to-port-games-to-linux-because-windows-8-is-a-catastrophe">Warum Steam auf die Linux Pattform will - Weil Windows 8 (Market Place) suckt</a></li>
-<li><a href="http://news.ycombinator.net/item?id=4293046">HN Thread - "CEO's zweifeln oeffentlich an der Zukunft der Windows Plattform"</a></li>
-</ul>
-</li>
-<li><a href="http://webdiary.com/tag/members-btmm-icloud-com/">IPv6 Apple magic</a></li>
-<li><a href="http://techreport.com/articles.x/23291">Korean 27 inch TFTs</a> + <a href="http://news.ycombinator.com/item?id=4292450">HN</a></li>
-<li><a href="http://tech.slashdot.org/story/12/07/26/0412214/the-rise-of-the-junkweb-and-why-its-so-awesome">The Rise of The Junk Web</a></li>
-<li><a href="http://allthingsd.com/20120720/google-claims-popularity-has-made-some-apple-patents-de-facto-essentials/">Google meint, dass Apples erfindungen so cool sind, dass sie geteilt werden sollten</a></li>
-<li><a href="http://www.dailytech.com/Lenovo+CEO+Gives+Part+of+His+3+Million+USD+Bonus+to+10000+Employees/article25227.htm">Lenovo CEO gibt sein $3mio Bonus an seine Mitarbeiter</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Google-kauft-App-Entwickler-Sparrow-1649196.html">Google kauft Sparrow</a>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=GI6CfKcMhjY">CAPTAIN JACK SPARROW</a></li>
-</ul>
-</li>
-<li><a href="http://www.forbes.com/sites/andygreenberg/2012/07/25/next-gen-air-traffic-control-vulnerable-to-hackers-spoofing-planes-out-of-thin-air/">Flugzeugstandorte vortäuschen um Flugkontrolle zu verwirren</a>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=uF39MjuY6ug">Überlebens-RADAR</a></li>
-</ul>
-</li>
-<li><a href="http://news.ycombinator.net/item?id=4286696">Iranisches Atomprogramm spielt AC/DC</a></li>
-<li><a href="http://hackaday.com/2012/07/20/robot-trash-can-catches-anything-you-throw-near-it/">Robot Trash Can</a>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=8_JIKqSMIRQ">Panda can</a></li>
-</ul>
-</li>
-<li><a href="http://www.networkworld.com/news/2012/072512-blackhat-ylonen-261134.html">Vater von SSH meint, dass Security nur schlimmer wird</a></li>
-<li><a href="http://www.gizmodo.de/2012/07/19/sterben-fur-die-unsterblichkeit-wissenschaftler-plant-selbstmord-zur-wiederauferstehung.html">Sterben fuer die Unsterblichkeit</a></li>
-<li><a href="http://boingboing.net/2012/07/20/hdtv-killed-the-twitch-gaming.html">HDTV hat Reaktionsspiele getoetet</a>
-
-<ul>
-<li><a href="http://superuser.com/questions/419070/transatlantic-ping-faster-than-sending-a-pixel-to-the-screen">John Carmac - Listen to the daaaaawg</a></li>
-<li><a href="http://5by5.tv/hypercritical/68">Hypercritical #68</a></li>
-</ul>
-</li>
-<li><a href="http://www.mediumdifficulty.com/2012/07/11/0-xp-the-zynga-counterrevolution/">The Zynga Counterrevolution</a></li>
-<li><a href="lol://drogen">research chemicals</a></li>
-<li><a href="http://gizmodo.com/5927379">Gizmodo hat herausgefunden wofuer Bitcoins gut sind - Waffen und Pr0n</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/apple/2012/07/os-x-10-8/">Ars Technical Mountain Lion Review</a> (Marc)
-
-<ul>
-<li><a href="http://www.stickycomics.com/computer-update/">Computer Updates</a></li>
-</ul>
-</li>
-<li><a href="http://www.youtube.com/watch?v=NG8goJpbKk0">Message in a Bottle</a></li>
-<li><a href="http://www.igvita.com/2012/07/19/latency-the-new-web-performance-bottleneck/">Latency: The new web performance bottleneck</a></li>
-<li><a href="http://www.aelag.com/147952673">Machine Learning for the impatient</a></li>
-<li><a href="http://hackaday.com/2012/07/24/hows-the-60hz-coming-from-your-wall/">Warum haben Fernseher 60/50hz</a> (felix)</li>
-<li><a href="https://auphonic.com/blog/2012/01/07/podcast-comparison-part-1-file-formats-and-bitrates/">Auphonic Blog Podcast Formate</a> (ingo)</li>
-<li><a href="http://cryptome.org/2012/07/gent-forum-spies.htm">The Gentleperson's Guide to Forum Spies</a></li>
-<li><a href="http://www.drdobbs.com/architecture-and-design/the-design-of-llvm/240001128">The design of LLVM</a> (pfleidi)</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Mastercard SecureCode (Marc)</li>
-<li>Arch Linux upgrade mal wieder (pfleidi)</li>
-<li>Spotify Client (pfleidi)</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.unblocker.yt/">Youtube unblocker</a>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=CqGK1mpFvgQ">gesperrtes beispiel Video</a></li>
-</ul>
-</li>
-<li><a href="http://www.youtube.com/watch?v=xdZMXWmlp9g">Richard Feynman on quantum mechanics</a></li>
-<li><a href="http://www.imdb.com/title/tt1345836/">Dark knight rises</a></li>
-<li><a href="http://url2png.com">url2png</a></li>
-<li><a href="http://de.wikipedia.org/wiki/Printer_Job_Language">PJL</a>
-
-<ul>
-<li><a href="http://h20000.www2.hp.com/bizsupport/TechSupport/Document.jsp?objectID=c02004333">HP PJL Directory Traversal</a>
-
-<ul>
-<li>Fix: Turn off the Service</li>
-</ul>
-</li>
-<li><a href="http://techref.massmind.org/techref/printer/hp/pmlfaq.htm">PJL DMINFO ASCIIHEX</a></li>
-<li><a href="http://hackonadime.blogspot.de/2011/12/hacking-printers-pjl-basics.html">Hacking Printer Basics</a></li>
-</ul>
-</li>
-</ul>
-
-]]>
-      </description>
-      
-      
-      
-      <enclosure url="http://download.binaergewitter.de/2012-07-26.Binaergewitter.Talk.23.ogg"
-        length="89024795"
-        type="audio/ogg" />
-      <media:content url="http://download.binaergewitter.de/2012-07-26.Binaergewitter.Talk.23.ogg"
-        fileSize="89024795"
-        type="audio/ogg" />
-      <itunes:keywords></itunes:keywords>
-      <itunes:subtitle>Binärgewitter Talk #23 - Pulseaudio-Hirn-Sync</itunes:subtitle>
-      <itunes:summary>
-        <![CDATA[Wieder mal in Vollbesetzung düsen wir durch die News, die Felix ausgesucht hat. Nur mit dem Toten der Woche hat er es diesmal irgendwie nicht hinbekommen, dafür reden wir über (gesprochene) Sprachen und
-Security Foo.
-
-Kategorie der Woche
-
-Schwabe der Woche
-
-
-Fahrrad aus Pappe, damit es nicht so weh tut, wenn es geklaut wird
-
-
-
-Toter der Woche
-
-
-Meltimmeeeeeee
-
-
-
-Untoter der Woche
-
-
-125 Jahre Esperanto
-
-
-Pimperanto
-Klingonische Wikipedia
-
-
-
-
-
-News
-
-
-Google fiber
-Den Laptop mit neuem USB 3.0 laden - 100W Power
-
-
-USB 3.0 Power Delivery Specification von Intel, HP, Microsoft, ST-Erricson
-6 Unterstuetzte Powerprofile von 5,12,20 Volt - Nie wieder proprietaere Ladegerate!
-Duck
-
-
-Seeing women as objects
-Sicherheitsluecke in Millionen Hotel-Tueren
-Apple bei Blackhat
-Redis Sentinal beta (Marc)
-fuck yeah mehr spiele
-
-
-Warum Steam auf die Linux Pattform will - Weil Windows 8 (Market Place) suckt
-HN Thread - "CEO's zweifeln oeffentlich an der Zukunft der Windows Plattform"
-
-
-IPv6 Apple magic
-Korean 27 inch TFTs + HN
-The Rise of The Junk Web
-Google meint, dass Apples erfindungen so cool sind, dass sie geteilt werden sollten
-Lenovo CEO gibt sein $3mio Bonus an seine Mitarbeiter
-Google kauft Sparrow
-
-
-CAPTAIN JACK SPARROW
-
-
-Flugzeugstandorte vortäuschen um Flugkontrolle zu verwirren
-
-
-Überlebens-RADAR
-
-
-Iranisches Atomprogramm spielt AC/DC
-Robot Trash Can
-
-
-Panda can
-
-
-Vater von SSH meint, dass Security nur schlimmer wird
-Sterben fuer die Unsterblichkeit
-HDTV hat Reaktionsspiele getoetet
-
-
-John Carmac - Listen to the daaaaawg
-Hypercritical #68
-
-
-The Zynga Counterrevolution
-research chemicals
-Gizmodo hat herausgefunden wofuer Bitcoins gut sind - Waffen und Pr0n
-
-
-
-Lesefoo
-
-
-Ars Technical Mountain Lion Review (Marc)
-
-
-Computer Updates
-
-
-Message in a Bottle
-Latency: The new web performance bottleneck
-Machine Learning for the impatient
-Warum haben Fernseher 60/50hz (felix)
-Auphonic Blog Podcast Formate (ingo)
-The Gentleperson's Guide to Forum Spies
-The design of LLVM (pfleidi)
-
-
-
-Mimimi der Woche
-
-
-Mastercard SecureCode (Marc)
-Arch Linux upgrade mal wieder (pfleidi)
-Spotify Client (pfleidi)
-
-
-
-Picks
-
-
-Youtube unblocker
-
-
-gesperrtes beispiel Video
-
-
-Richard Feynman on quantum mechanics
-Dark knight rises
-url2png
-PJL
-
-
-HP PJL Directory Traversal
-
-
-Fix: Turn off the Service
-
-
-PJL DMINFO ASCIIHEX
-Hacking Printer Basics
-
-
 
 
 ]]>
