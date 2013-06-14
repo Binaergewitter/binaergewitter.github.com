@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-06-14T14:38:04+02:00</updated>
+  <updated>2013-06-14T16:46:03+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -24,8 +24,8 @@
 <li><a href="http://www.heise.de/newsticker/meldung/Nokia-gibt-Symbian-den-Gnadenschuss-1886995.html">endlich ganz tot: Symbian</a>
 
 <ul>
-<li>SX1</li>
-<li>N95</li>
+<li><a href="http://en.wikipedia.org/wiki/Siemens_SX1">SX1</a></li>
+<li><a href="http://www.amazon.de/gp/product/B000VXLXVG/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B000VXLXVG&amp;linkCode=as2&amp;tag=trektrip">N95</a></li>
 </ul>
 </li>
 <li>Twitter API v1 :( Suckers!!</li>
