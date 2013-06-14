@@ -359,6 +359,12 @@
         <lastmod>2013-06-07T10:57:17+02:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://blog.binaergewitter.de/blog/2013/06/14/binaergewitter-talk-number-55-ram-verdoppler/
+        </loc>
+        <lastmod>2013-06-14T14:37:57+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://blog.binaergewitter.de/404.html</loc>
         <lastmod>2012-02-16T12:38:25+01:00</lastmod>
     </url>
@@ -372,7 +378,7 @@
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/blog/archives/</loc>
-        <lastmod>2013-06-07T10:57:17+02:00</lastmod>
+        <lastmod>2013-06-14T14:37:57+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/impressum/</loc>
@@ -388,6 +394,6 @@
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/</loc>
-        <lastmod>2013-06-07T10:57:17+02:00</lastmod>
+        <lastmod>2013-06-14T14:37:57+02:00</lastmod>
     </url>
 </urlset>

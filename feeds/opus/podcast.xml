@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 07 Jun 2013 10:57:21 +0200</lastBuildDate>
-    <atom:updated>2013-06-07T10:57:21+02:00</atom:updated>
+    <lastBuildDate>Fri, 14 Jun 2013 14:38:04 +0200</lastBuildDate>
+    <atom:updated>2013-06-14T14:38:04+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,440 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #55 - RAM Verdoppler</title>
+      <link>http://blog.binaergewitter.de/blog/2013/06/14/binaergewitter-talk-number-55-ram-verdoppler/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/06/14/binaergewitter-talk-number-55-ram-verdoppler/#comments</comments>
+      <pubDate>Fri, 14 Jun 2013 12:45:00 +0200</pubDate>
+      <atom:updated>2013-06-14T12:45:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F06%2F14%2Fbinaergewitter-talk-number-55-ram-verdoppler%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2355%20-%20RAM%20Verdoppler&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/06/14/binaergewitter-talk-number-55-ram-verdoppler</guid>
+      
+      <description>
+        <![CDATA[<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Nokia-gibt-Symbian-den-Gnadenschuss-1886995.html">endlich ganz tot: Symbian</a>
+
+<ul>
+<li>SX1</li>
+<li>N95</li>
+</ul>
+</li>
+<li>Twitter API v1 :( Suckers!!</li>
+<li><a href="http://www.huffingtonpost.com/2013/06/12/eyeball-licking-pinkeye_n_3423985.html">Eyeball licking</a>
+
+<ul>
+<li>Biiiiiindehaut</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="https://xiph.org/flac/changelog.html">FLAC geht weiter</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.opera.com/computer/mail">Opera Mail</a></li>
+<li><a href="https://wiki.mozilla.org/Firefox/Features/Theme_Refinement_and_Evolution_%28Australis%29">Firefox UI Änderungen in FF</a>
+
+<ul>
+<li><a href="http://people.mozilla.com/~shorlander/files/australis-designSpecs/australis-designSpecs-osx-mainWindow.html">Preview für OS X</a></li>
+</ul>
+</li>
+<li><a href="http://clb.demon.fi/html5scummvm/">HTML 5 Portierung von ScummVM</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Bericht-Telekom-will-DSL-Drossel-auf-2-Mbit-s-lockern-1886747.html">Telekom will gedrosselte Bandbreite auf 2MBit/s erhöhen</a></li>
+<li><a href="http://fr.slideshare.net/EmilandDC/dear-nsa-let-me-take-care-ou">NSA slide Verschönerung</a>
+
+<ul>
+<li><a href="http://www.sun-sentinel.com/news/local/crime/fl-phone-records-fisa-broward-20130612,0,5434900.story">Anwalt will</a></li>
+<li><a href="https://github.com/goshakkk/nsa_panel">NSA Panel</a></li>
+<li><a href="https://www.eff.org/pages/tor-and-https">EFF: Tor and HTTPS</a></li>
+<li><a href="http://www.golem.de/news/nsa-prism-logo-verstoesst-gegen-copyright-1306-99799.html">Prism Logo nicht lizenziert</a></li>
+<li><a href="https://www.eff.org/deeplinks/2013/06/86-civil-liberties-groups-and-internet-companies-demand-end-nsa-spying">Petition gegen Prisim</a></li>
+<li><a href="http://www.adleaks.org/">Adleaks</a></li>
+<li><a href="http://obamaischeckingyouremail.tumblr.com/">Obama is checking your email</a></li>
+</ul>
+</li>
+<li><a href="http://www.youtube.com/watch?v=G8AVHTsButg">Invisible motion</a></li>
+<li><a href="http://arstechnica.com/gaming/2013/06/analysis-the-one-two-combo-sony-used-to-knock-microsoft-out-of-e3-2013/">PS4 und Xbox One</a>
+
+<ul>
+<li><a href="http://i.imgur.com/PVxSi1T.gif">JIF</a></li>
+<li><a href="http://www.kickstarter.com/projects/1944625487/omni-move-naturally-in-your-favorite-game">Omni Gamecontroller</a></li>
+</ul>
+</li>
+<li><a href="http://linux.slashdot.org/story/13/06/09/1236247/linus-torvalds-promises-profanity-over-linux-310-rc5">Linus kuendigt mehr Beschimpfungen fuer Linux 3.10-rc5 an</a></li>
+<li><a href="http://www.mymodernmet.com/profiles/blogs/ss-ayrfield-the-floating-forest">Bilder vom 102-Jahre alten Schiff was jetzt ein Wald ist</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>APFELPARTY</h3>
+
+<ul>
+<li><a href="http://arstechnica.com/apple/2013/06/a-wwdc-recap-whats-up-with-ios-7-mavericks-mac-pro-and-itunes-radio/">WWDC Recap</a></li>
+<li><a href="http://arstechnica.com/apple/2013/06/apple-unveils-os-x-10-9-mavericks/">Apple Unveils OS X 10.9 Mavericks</a></li>
+<li><a href="http://arstechnica.com/apple/2013/06/how-os-x-mavericks-works-its-power-saving-magic/">How OS X “Mavericks” works its power-saving magic</a>
+
+<ul>
+<li><a href="http://terpconnect.umd.edu/~barua/matt-compress-tr.pdf">RAM compression paper</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/apple/2013/06/new-os-x-uses-windows-file-sharing-by-default/">SMB2 by default</a></li>
+<li><a href="http://arstechnica.com/apple/2013/06/a-critical-look-at-the-new-mac-pro/">Mac Pro</a>
+
+<ul>
+<li><a href="lh5.googleusercontent.com/-r4tMDuud5q8/Ubcdr1fQYBI/AAAAAAAAOdk/exnMsSTf64Y/w433-h612-no/photo.jpg">Bild</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/apple/2013/06/apple-announces-flatter-sleeker-ios-7/">IOS 7</a>
+
+<ul>
+<li><a href="http://mattgemmell.com/2013/06/12/ios-7/">iOS 7 von Matt Gemmel</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/apple/2013/06/apple-steps-to-spotify-and-google-with-itunes-radio/">iTunes Radio</a></li>
+</ul>
+
+
+<h3>Umstieg von Google Reader (nun wirklich)</h3>
+
+<ul>
+<li><a href="http://feedbin.me">Feedbin</a></li>
+<li><a href="https://github.com/swanson/stringer">Stringer</a></li>
+<li><a href="http://newsblur.com">Newsblur</a></li>
+<li><a href="http://www.feedafever.com/">Fever</a></li>
+<li><a href="http://reederapp.com/">Reeder</a>
+
+<ul>
+<li><a href="http://reederapp.com/reader/">The future of Reeder</a></li>
+</ul>
+</li>
+<li><a href="http://theoldreader.com/">TheOldReader</a></li>
+</ul>
+
+
+<h3>Mobile Messaging auf App.net</h3>
+
+<ul>
+<li><a href="http://riposteapp.net/whisper.html">Whisper</a></li>
+<li><a href="https://omega.app.net">Omega</a></li>
+<li><a href="https://directory.app.net/app/166/amy/">Project Amy</a></li>
+<li><a href="http://developers.app.net/docs/basics/messaging/">ADN Messaging API</a></li>
+<li><a href="https://cauldron-app.herokuapp.com/">Cauldron</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://priceonomics.com/skymalls-skyfall/">Skymall's skyfall</a></li>
+<li><a href="http://www.businessweek.com/printer/articles/123492-costco-ceo-craig-jelinek-leads-the-cheapest-happiest-company-in-the-world">Costco CEO Craig Jelinek Leads the Cheapest, Happiest Company in the World</a></li>
+<li><a href="http://jamesgolick.com/2013/4/14/mris-method-caches.html">MRI's method caches</a>
+
+<ul>
+<li><a href="https://charlie.bz/blog/things-that-clear-rubys-method-cache">Things that invalidate the Ruby method cache</a></li>
+</ul>
+</li>
+<li><a href="http://www.businessinsider.com/mauldin-mortgage-in-yen-2013-6">I'm converting my mortgage into Yen</a></li>
+<li><a href="https://medium.com/a-programmers-tale/f7b8c66109ea">The Facebook experiment has failed</a></li>
+<li><a href="http://blog.headius.com/2013/06/the-pain-of-broken-subprocess.html?m=1">The pain of broken subprocess management</a></li>
+<li><a href="http://daker.me/2013/05/5-html5-features-you-need-to-know.html">HTML5 features you need to know</a></li>
+<li><a href="http://www.businessweek.com/printer/articles/122900-how-the-robots-lost-high-frequency-tradings-rise-and-fall">How the Robots Lost: High-Frequency Trading's Rise and Fall</a></li>
+<li><a href="http://www.wrint.de/2013/05/29/ausrustung-fur-anfanger/">Podcast Ausrüstung für Anfänger</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Apple Netzteil</li>
+<li>Webex konvertieren
+
+<ul>
+<li><a href="https://meltmail.com">meltmail</a></li>
+</ul>
+</li>
+<li>oclHashcat
+
+<ul>
+<li>ubuntu superfail</li>
+<li>archlinux
+
+<ul>
+<li>catalyst 13.1</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://nooooooooooooooo.com/">Instant NOOOOOOOOOOOOOOO Button</a></li>
+<li><a href="http://threema.ch/">Threema</a>
+
+<ul>
+<li><a href="http://monoxyd.de/20130118-die-wahrheit-017-threema-smartphone-messenger-mit-verschlusselung">Pottkarst</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/freerange/mocha">Mocha</a></li>
+<li><a href="http://saejinoh.blogspot.de/2012/05/champions-of-reason.html">Champions of Reason</a></li>
+<li><a href="http://rjack.rubyforge.org/">rjack: jars für JRuby</a></li>
+<li><a href="https://itunes.apple.com/de/app/adobe-kuler/id632313714?l=en&amp;mt=8">Adobe Kuller</a></li>
+<li><a href="http://www.zeitjung.de/kultur/8990-fappy-der-anti-masturbations-delfin-selbstbefriedigung/">Fappy der Anti-Masturbationsdelfin</a></li>
+<li><a href="www.youtube.com/user/zefrank1">Zefrank videos</a>: <a href="http://www.youtube.com/watch?v=PKffm2uI4dk">sad cat diary</a>, <a href="http://www.youtube.com/watch?v=Xw1C5T-fH2Y">sad dog diary</a></li>
+<li><a href="http://realtalk.io/">Realtalk</a></li>
+<li><a href="http://au.businessinsider.com/sydney-chemists-are-building-an-app-that-can-identify-cheap-replacements-for-luxury-wines-2013-6">App die dir eine Guenstige Alternative fuer teuren Wein aussucht</a>
+
+<ul>
+<li><a href="http://www.ein-plan.de/schoener/index.html">Drogen mit guenstigsten Mitteln simulieren</a></li>
+<li><a href="http://www.dieter-gase.de/page3.htm">passiert</a></li>
+</ul>
+</li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-06-13.Binaergewitter.Talk.55.opus"
+        length="55514761"
+        type="application/octet-stream" />
+      <media:content url="http://download.binaergewitter.de/2013-06-13.Binaergewitter.Talk.55.opus"
+        fileSize="55514761"
+        type="application/octet-stream" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #55 - RAM Verdoppler</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Toter der Woche
+
+
+endlich ganz tot: Symbian
+
+
+SX1
+N95
+
+
+Twitter API v1 :( Suckers!!
+Eyeball licking
+
+
+Biiiiiindehaut
+
+
+
+
+
+Untoter der Woche
+
+
+FLAC geht weiter
+
+
+
+News
+
+
+Opera Mail
+Firefox UI Änderungen in FF
+
+
+Preview für OS X
+
+
+HTML 5 Portierung von ScummVM
+Telekom will gedrosselte Bandbreite auf 2MBit/s erhöhen
+NSA slide Verschönerung
+
+
+Anwalt will
+NSA Panel
+EFF: Tor and HTTPS
+Prism Logo nicht lizenziert
+Petition gegen Prisim
+Adleaks
+Obama is checking your email
+
+
+Invisible motion
+PS4 und Xbox One
+
+
+JIF
+Omni Gamecontroller
+
+
+Linus kuendigt mehr Beschimpfungen fuer Linux 3.10-rc5 an
+Bilder vom 102-Jahre alten Schiff was jetzt ein Wald ist
+
+
+
+Themen
+
+APFELPARTY
+
+
+WWDC Recap
+Apple Unveils OS X 10.9 Mavericks
+How OS X “Mavericks” works its power-saving magic
+
+
+RAM compression paper
+
+
+SMB2 by default
+Mac Pro
+
+
+Bild
+
+
+IOS 7
+
+
+iOS 7 von Matt Gemmel
+
+
+iTunes Radio
+
+
+
+Umstieg von Google Reader (nun wirklich)
+
+
+Feedbin
+Stringer
+Newsblur
+Fever
+Reeder
+
+
+The future of Reeder
+
+
+TheOldReader
+
+
+
+Mobile Messaging auf App.net
+
+
+Whisper
+Omega
+Project Amy
+ADN Messaging API
+Cauldron
+
+
+
+Lesefoo
+
+
+Skymall's skyfall
+Costco CEO Craig Jelinek Leads the Cheapest, Happiest Company in the World
+MRI's method caches
+
+
+Things that invalidate the Ruby method cache
+
+
+I'm converting my mortgage into Yen
+The Facebook experiment has failed
+The pain of broken subprocess management
+HTML5 features you need to know
+How the Robots Lost: High-Frequency Trading's Rise and Fall
+Podcast Ausrüstung für Anfänger
+
+
+
+Mimimi der Woche
+
+
+Apple Netzteil
+Webex konvertieren
+
+
+meltmail
+
+
+oclHashcat
+
+
+ubuntu superfail
+archlinux
+
+
+catalyst 13.1
+
+
+
+
+
+
+
+Picks
+
+
+Instant NOOOOOOOOOOOOOOO Button
+Threema
+
+
+Pottkarst
+
+
+Mocha
+Champions of Reason
+rjack: jars für JRuby
+Adobe Kuller
+Fappy der Anti-Masturbationsdelfin
+Zefrank videos: sad cat diary, sad dog diary
+Realtalk
+App die dir eine Guenstige Alternative fuer teuren Wein aussucht
+
+
+Drogen mit guenstigsten Mitteln simulieren
+passiert
+
+
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
@@ -257,10 +691,10 @@
       
       
       <enclosure url="http://download.binaergewitter.de/2013-06-06.Binaergewitter.Talk.54.opus"
-        length="54088701"
+        length="54104049"
         type="application/octet-stream" />
       <media:content url="http://download.binaergewitter.de/2013-06-06.Binaergewitter.Talk.54.opus"
-        fileSize="54088701"
+        fileSize="54104049"
         type="application/octet-stream" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #54 - Compliance Lampe in Rot</itunes:subtitle>
