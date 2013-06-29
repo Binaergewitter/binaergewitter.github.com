@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Binärgewitter Talk #56 - durch Maxibriefe punchen"
-date: 2013-06-14 19:45
+date: 2013-06-28 20:45
 comments: true
 categories: talk
 sharing: true
@@ -15,7 +15,7 @@ Nach einer Woche krankheitsbedingter Pause sind die vier Gladiatoren zurück im 
 
 ## Geschenk
 
-* [CodeQuartett](http://suplanus.carina.uberspace.de/s1/shop/#!/~/product/category=0&id=22607426 )
+* [CodeQuartett](http://bit.ly/13fExXu )
 
 ## Toter der Woche
 
@@ -25,7 +25,7 @@ Nach einer Woche krankheitsbedingter Pause sind die vier Gladiatoren zurück im 
 
 ## John Mcafee der Woche
 
-- [youtube video]( http://www.youtube.com/watch?v=bKgf5PaBzyg ) via walter
+- [Howto uninstall McAfee video]( http://www.youtube.com/watch?v=bKgf5PaBzyg ) via walter
 
 ## dotcom der Woche
 
@@ -36,7 +36,7 @@ Nach einer Woche krankheitsbedingter Pause sind die vier Gladiatoren zurück im 
 ## Tumblr der Woche
 
 - [Angela Merkel discovering Neuland]( http://angelamerkeldiscoveringneuland.tumblr.com/ )
-    - http://www.kotzendes-einhorn.de/blog/2013-06/neuland-sagt-alles-ab-das-internet-hat-einen-neuen-namen/
+    * [neuer Name fürs Internet]( http://www.kotzendes-einhorn.de/blog/2013-06/neuland-sagt-alles-ab-das-internet-hat-einen-neuen-namen/ )
 
 ## News
 
@@ -46,7 +46,7 @@ Nach einer Woche krankheitsbedingter Pause sind die vier Gladiatoren zurück im 
 - [Bitcoin-Geschäfte nach einem Jahr steuerbefreit]( http://www.welt.de/print/die_welt/finanzen/article117487737/Bitcoin-Geschaefte-nach-einem-Jahr-steuerbefreit.html )
 - [Der Waffen Ausdruck Verhinderer]( http://arstechnica.com/business/2013/06/worried-about-accidentally-3d-printing-a-gun-new-software-will-prevent-it/ )
 - [AdBlock Plus "Geschäftsmodell"]( http://www.mobilegeeks.de/adblock-plus-undercover-einblicke-in-ein-mafioeses-werbenetzwerk )
-    - Alternativen?
+    * Alternativen?
         - Adblock Edge (ff)
         - Adblock (chrome)
         - [Safari AdBlock]( http://safariadblock.com/ )
@@ -67,7 +67,7 @@ Nach einer Woche krankheitsbedingter Pause sind die vier Gladiatoren zurück im 
 - [SolusVM hart gepwnd]( http://localhost.re/p/solusvm-11303-vulnerabilities )
 - [Standard Wlanpasswort fuer Alicebox (olds)]( http://www.wardriving-forum.de/forum/f275/standard-wlanpassw%F6rter-von-alice-boxen-70287.html )
     - [Implementierung in POSIX Shell]( https://github.com/krebscode/autowifi/blob/master/usr/lib/autowifi/plugins/02alice )
-- [Roboter ownt dich hart in Air Hockey[( http://www.networkworld.com/community/blog/robot-dominates-air-hockey )
+- [Roboter ownt dich hart in Air Hockey]( http://www.networkworld.com/community/blog/robot-dominates-air-hockey )
 - [Nach Nutzungsverbot von Huawei in USA jetzt kein Cisco in China mehr]( http://www.bloomberg.com/news/2013-06-25/cisco-china-sales-vulnerable-as-media-urge-domestic-shift.html )
 - [Neocities]( http://neocities.org/browse )
     - [lists.neocities.org](http://lists.neocities.org/ )
@@ -84,9 +84,7 @@ http://www.core77.com/blog/transportation/scientist_figures_out_how_those_big-as
 - [Warum Skype von P2P weggeht]( http://markmail.org/message/exc3srjkx3uu66bz?q=android )
 - [Learn Lua in 15 minutes](  http://tylerneylon.com/a/learn-lua/ )
 - [Why I'm not using Rubymotion in Production]( http://joshsymonds.com/blog/2013/06/26/why-im-not-using-rubymotion-in-production/ )
-
 - [The Hitchiker's Guide to Python]( http://docs.python-guide.org/en/latest/ )
-
 - [OKCupid: 10 Charts about Sex]( http://blog.okcupid.com/index.php/10-charts-about-sex/ )
 - [Bugfixes as therapy]( http://zachholman.com/posts/bugfixes-as-therapy/ )
   * [Therapeutic refactoring]( http://www.confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring )
