@@ -15,7 +15,7 @@ Nach einer Woche krankheitsbedingter Pause sind die vier Gladiatoren zurück im 
 
 ## Geschenk
 
-* [CodeQuartett](http://bit.ly/13fExXu )
+* [CodeQuartett](http://suplanus.de/shop )
 
 ## Toter der Woche
 
