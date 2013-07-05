@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-06-30T16:57:23+02:00</updated>
+  <updated>2013-07-05T10:20:57+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,121 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #57 - hart bitzeln]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/07/05/binaergewitter-talk-number-57-hart-bitzeln/"/>
+    <updated>2013-07-05T10:45:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/07/05/binaergewitter-talk-number-57-hart-bitzeln</id>
+    <content type="html"><![CDATA[<p>Diesmal nur mit Minimalbesetzung aber mit Urgesteinen der Computergeschichte:</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://de.altavista.com/">Altavista</a></li>
+<li><a href="http://www.ruby-lang.org/en/news/2013/06/30/we-retire-1-8-7/">Ruby 1.8.7</a></li>
+<li><a href="http://www.mobilegeeks.de/betriebssystem-alternative-tizen-so-gut-wie-tot/">Tizen</a>
+
+<ul>
+<li><a href="http://jolla.com/">Jolla</a></li>
+<li>SailfishOS</li>
+<li><a href="http://de.wikipedia.org/wiki/Joyn">Joyn</a></li>
+</ul>
+</li>
+<li><a href="http://www.ietf.org/mail-archive/web/ietf/current/msg80472.html">Maus Erfinder</a>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=yJDv-zdhzMY">Mother of all Demos</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="https://www.replaygamesinc.com/">Larry Reloaded</a>
+
+<ul>
+<li>kleiner Bug in der Linux Version beim Speichern</li>
+</ul>
+</li>
+<li><a href="http://kernelnewbies.org/Linux_3.10">Kernel 3.10</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Samsung-schluckt-Boxee-1911159.html">Samsung kauf Boxee</a>
+
+<ul>
+<li><a href="http://gigaom.com/2013/07/04/boxee-acquired-cloud-dvr-shutting-down-post-mortem/">Bye, bye, Boxee</a></li>
+</ul>
+</li>
+<li><a href="http://blog.flattr.net/2013/07/adding-bitcoin-support/">Flattr hat Bitcoin support</a>
+
+<ul>
+<li><a href="http://bips.me">bips</a></li>
+</ul>
+</li>
+<li><a href="http://www.mobilegeeks.de/mastercard-und-visa-verbieten-zahlungen-an-vpn-provider/">VPN Provider nicht per VISA/MASTERCARD</a>
+
+<ul>
+<li><a href="http://torrentfreak.com/mastercard-and-visa-start-banning-vpn-providers-130703/">Auf Torrentfreak</a></li>
+<li><a href="https://www.privateinternetaccess.com/">Marc mag privateinternetaccess</a></li>
+</ul>
+</li>
+<li><a href="https://www.simplify.com/commerce/">Simplify</a></li>
+<li><a href="http://tobtu.com/decryptocat.php">Decryptocat</a></li>
+<li><a href="http://the90sbutton.com/">Instant 90s Music</a>
+
+<ul>
+<li><a href="https://gist.github.com/rb2k/d20eca0e98d90795e078/raw/ccb149d340352d11c0fa29a675cf76de4d1f8bfc/gistfile1.txt">Songliste</a></li>
+</ul>
+</li>
+<li><a href="http://www.sec.gov/Archives/edgar/data/1579346/000119312513279830/d562329ds1.htm">Winklevoss Bitcoin Trust</a></li>
+<li><a href="http://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html?source=hn#Analysis1">Motorola ist schlimmer als die NSA</a></li>
+<li><a href="http://rethinkdb.com/blog/1.7-release/">RethinkDB 1.7</a></li>
+<li><a href="http://www.youtube.com/watch?v=DZrjXSsfxMQ&amp;feature=player_embedded">Neverwet</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Geruecht-um-Snowden-Boliviens-Praesident-Ueberflugrecht-verweigert-1910238.html">Snowden</a></li>
+<li>Capabilities / LXC
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Aufs">aufs</a></li>
+<li><a href="http://lwn.net/Articles/524952/">LCE: The failure of operating systems and how we can fix it</a></li>
+<li><a href="http://lwn.net/Articles/531114/">Namespaces in Operation</a></li>
+<li><a href="http://lwn.net/Articles/527342/">Syslog Namespaces</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="https://github.com/FooBarWidget/passenger/wiki/Puma-vs-Phusion-Passenger">Puma vs passenger</a></li>
+<li><a href="http://www.slate.com/articles/life/a_fine_whine/2013/07/ghosting_the_irish_goodbye_the_french_leave_stop_saying_goodbye_at_parties.html">Don&#8217;t say goodbye</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>cat /sys/block/sda/queue/scheduler</li>
+<li><a href="http://www.richardnichols.net/2012/08/arrrggh-java-security-cert-certificateexception-certificates-does-not-conform-to-algorithm-constraints/">JDK7 disabled MD2</a></li>
+<li>Zoll Clusterfuck</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=B5mVN2EgKLk&amp;feature=share">Convos with my 2 year old daughters</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #56 - durch Maxibriefe punchen]]></title>
@@ -2395,121 +2510,6 @@ soviel durcheinander - bestimmt..</p>
 <li><a href="http://mywiki.wooledge.org/Bashism">Bashism</a></li>
 <li><a href="http://www.amazon.de/gp/product/B00791CRMW/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00791CRMW&amp;linkCode=as2&amp;tag=trektrip">FritzFon M2</a></li>
 <li><a href="http://runningahackerspace.tumblr.com/">Running A Hackerspace</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #42 - Drehstromziege]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2013/03/01/binaergewitter-talk-number-42-drehstromziege/"/>
-    <updated>2013-03-01T12:00:00+01:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2013/03/01/binaergewitter-talk-number-42-drehstromziege</id>
-    <content type="html"><![CDATA[<p>Ok vielleicht sind wir zuviel auf der Ziege rumgeritten, aber wir sind eben der dumme, unlustige und geschmacklose Podcast und darum hört ihr uns doch ;) Neben der Ziege geht es auch um Mobile Zeugs,
-Browserspiele und auch Linus Torvalds, McAffee und Stallmann fehlen (wie immer) nicht :)</p>
-
-<h2>Apropos letzte Woche</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/security/2013/02/server-hack-prompts-call-for-cpanel-customers-to-take-immediate-action/">cPanel Hacks (letzte woche: SSH Rootkit)</a>
-
-<ul>
-<li><a href="http://en.wikipedia.org/wiki/Comparison_of_web_hosting_control_panels">Vergleich der Hosting Control Panels</a></li>
-</ul>
-</li>
-<li><a href="https://isc.sans.edu/diary.html?storyid=15229">ISC ueber SSHD rootkit</a></li>
-<li>Andreas Labres is cool</li>
-</ul>
-
-
-<h2>Linus Torvalds der Woche</h2>
-
-<p>&#8220;Guys, this is not a dick-sucking contest.
-If you want to parse PE binaries, go right ahead.
-If Red Hat wants to deep-throat Microsoft, that&#8217;s <em>your</em> issue.&#8221;
-- <a href="http://thread.gmane.org/gmane.linux.kernel/1445369/focus=1445405">Original Mail</a></p>
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.guardian.co.uk/tv-and-radio/2013/feb/24/dalek-designer-dies">Dalek Designer verstorben</a>
-
-<ul>
-<li>EXTERMINATE(D)</li>
-</ul>
-</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://www.itworld.com/mobile-wireless/345576/wtf-patent-troll-goes-after-popular-podcasters">Podcast Troll</a></li>
-<li><a href="http://books.google.de/books?id=VZjBk366-BAC&amp;pg=PA56&amp;lpg=PA56&amp;dq=%22The+great+breast+of+knowledge%22&amp;source=bl&amp;ots=arBMobl_1o&amp;sig=xFgcQ85fAHSK5Tuy7dd-HHTarFg&amp;hl=de&amp;sa=X&amp;ei=nq0vUZuMGsiK4gSj2IGABw&amp;ved=0CEMQ6AEwAQ#v=onepage&amp;q=%22The%20great%20breast%20of%20knowledge%22&amp;f=false">The great breast of knowedge</a></li>
-<li><a href="http://www.pro-linux.de/news/1/19499/lg-kauft-webos-von-hewlett-packard.html">LG kauft WebOS</a></li>
-<li><a href="http://www.t-online.de/handy/smartphone/id_62350150/padfone-und-fonepad-asus-zeigt-neuheiten-auf-dem-mwc-2013.html?news">Padfone und Fonepad</a></li>
-<li><a href="https://blog.duosecurity.com/2013/02/bypassing-googles-two-factor-authentication/">Bypassing Google&#8217;s Two-Factor Authentication&#8230; mit Application Specific Passwords</a></li>
-<li><a href="http://googleplusplatform.blogspot.de/2013/02/google-plus-sign-in.html">Google+ Sign-In: Ohne Social Spam</a></li>
-<li><a href="https://www.varnish-cache.org/docs/trunk/phk/ssl.html">Why varnish doesn&#8217;t do SSL</a></li>
-<li><a href="http://thenextweb.com/google/2013/02/25/google-chrome-may-soon-get-audio-indicators-to-show-you-noisy-tabs-keep-them-open-when-memory-runs-out/">Chrome soll &#8216;noisy&#8217; Tabs signalisieren</a></li>
-<li><a href="https://plus.google.com/photos/107558775673569042478/albums/5847845659356001153/5847845657179925346?authkey=CIeX4qWT0pj5JA">IGlass protoyp geleaked</a></li>
-<li><a href="https://github.com/Binaergewitter/binaergewitter.github.com/tree/source/source/_posts">Unser Markdown auf Github</a></li>
-<li><a href="http://arstechnica.com/tech-policy/2013/02/why-a-one-room-west-virginia-library-runs-a-20000-cisco-router/">20000 Cisco Euro Krepel Krepel</a></li>
-<li><a href="http://punkspider.hyperiongray.com/">Punkspider - Vuln-Ass Web Apps with this Web App + It scales!</a>
-
-<ul>
-<li><a href="http://www.theregister.co.uk/2013/02/21/punkspider/">The Register ueber PunkSPIDER</a></li>
-<li><a href="http://www.shodanhq.com/">The Shodan</a></li>
-</ul>
-</li>
-<li><a href="http://www.theregister.co.uk/2013/02/19/apple_hacked/">Irgendwelche Hacker werden immer irgend etwas hacken koennen</a></li>
-<li><a href="http://theon1on.com/">Sadly, this is not The Onion - theon1on.com</a>
-
-<ul>
-<li><a href="reddit.com/r/nottheonion">/r/nottheonion</a></li>
-</ul>
-</li>
-<li><a href="http://feross.org/fill-disk/">Speicher unendlich viele Daten in LocalStorage (leider nicht mit Firefox)</a></li>
-<li><a href="http://www.independent.co.uk/news/science/palaeolithic-park-harvard-professor-seeks-adventurous-woman-to-give-birth-to-baby-neanderthal-8460273.html">What could Possibly go Wrong? Heute Ein Neanderthaler baby bekommen</a></li>
-<li><a href="http://www.latimes.com/news/nation/nationnow/la-pn-bradley-manning-pleads-guilty-20130228,0,5930297.story">Bradley Manning bekennt sich schuldig</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://www.npr.org/blogs/money/2013/02/10/171653721/ask-a-banker-stock-tips">Ask a banker</a></li>
-<li><a href="http://blog.reprap.org/2013/02/vapor-treating-abs-rp-parts.html">3D-Drucke glaetten</a></li>
-<li><a href="http://www.slideshare.net/adrianco/arch-tutoriallo2of3">Adrian Cockcroft: Cloud Architecture Antipatterns</a></li>
-<li><a href="http://blog.prettylittlestatemachine.com/blog/2013/02/20/what-your-culture-really-says/">What your culture really says</a></li>
-<li><a href="http://www.thelocal.de/national/20130224-48161.html#.US-nUuuG1gs">US firms often fail to understand Germany</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Herd anschließen</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://anti-korrektur.tumblr.com/">Anti Korrektur</a></li>
-<li><a href="http://www.wnyc.org/shows/heresthething/">WNYC Here&#8217;s the thing</a></li>
-<li><a href="http://mitallast.github.com/diablo-js/">Diablo im Browser</a></li>
-<li><a href="http://www.xiph.org/video/vid2.shtml">Digital Show and Tell</a></li>
-<li><a href="http://bombermine.com/#/">MMO Bomberman</a></li>
-<li><a href="https://github.com/PoseBiz/stretcher">Stretcher</a></li>
-<li><a href="http://www.youtube.com/watch?v=p0NvlH0FfmA">The Creator of Arnold Schwarzenegger</a>
-
-<ul>
-<li><a href="http://youtu.be/pDxn0Xfqkgw">160 greatest Arnold Schwarzenegger Quotes</a></li>
-</ul>
-</li>
-<li><a href="http://song-of-github.herokuapp.com/?username=rb2k">Song of github</a></li>
-<li><a href="https://plus.google.com/photos/105796021448398557678/albums/5849513673206535601/5849513675541649570?authkey=CJHa-fHgpIr9_gE">Spocks</a></li>
 </ul>
 
 ]]></content>

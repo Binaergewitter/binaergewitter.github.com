@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-06-30T16:57:23+02:00</updated>
+  <updated>2013-07-05T10:20:57+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,121 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #57 - hart bitzeln]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/07/05/binaergewitter-talk-number-57-hart-bitzeln/"/>
+    <updated>2013-07-05T10:45:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/07/05/binaergewitter-talk-number-57-hart-bitzeln</id>
+    <content type="html"><![CDATA[<p>Diesmal nur mit Minimalbesetzung aber mit Urgesteinen der Computergeschichte:</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://de.altavista.com/">Altavista</a></li>
+<li><a href="http://www.ruby-lang.org/en/news/2013/06/30/we-retire-1-8-7/">Ruby 1.8.7</a></li>
+<li><a href="http://www.mobilegeeks.de/betriebssystem-alternative-tizen-so-gut-wie-tot/">Tizen</a>
+
+<ul>
+<li><a href="http://jolla.com/">Jolla</a></li>
+<li>SailfishOS</li>
+<li><a href="http://de.wikipedia.org/wiki/Joyn">Joyn</a></li>
+</ul>
+</li>
+<li><a href="http://www.ietf.org/mail-archive/web/ietf/current/msg80472.html">Maus Erfinder</a>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=yJDv-zdhzMY">Mother of all Demos</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="https://www.replaygamesinc.com/">Larry Reloaded</a>
+
+<ul>
+<li>kleiner Bug in der Linux Version beim Speichern</li>
+</ul>
+</li>
+<li><a href="http://kernelnewbies.org/Linux_3.10">Kernel 3.10</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Samsung-schluckt-Boxee-1911159.html">Samsung kauf Boxee</a>
+
+<ul>
+<li><a href="http://gigaom.com/2013/07/04/boxee-acquired-cloud-dvr-shutting-down-post-mortem/">Bye, bye, Boxee</a></li>
+</ul>
+</li>
+<li><a href="http://blog.flattr.net/2013/07/adding-bitcoin-support/">Flattr hat Bitcoin support</a>
+
+<ul>
+<li><a href="http://bips.me">bips</a></li>
+</ul>
+</li>
+<li><a href="http://www.mobilegeeks.de/mastercard-und-visa-verbieten-zahlungen-an-vpn-provider/">VPN Provider nicht per VISA/MASTERCARD</a>
+
+<ul>
+<li><a href="http://torrentfreak.com/mastercard-and-visa-start-banning-vpn-providers-130703/">Auf Torrentfreak</a></li>
+<li><a href="https://www.privateinternetaccess.com/">Marc mag privateinternetaccess</a></li>
+</ul>
+</li>
+<li><a href="https://www.simplify.com/commerce/">Simplify</a></li>
+<li><a href="http://tobtu.com/decryptocat.php">Decryptocat</a></li>
+<li><a href="http://the90sbutton.com/">Instant 90s Music</a>
+
+<ul>
+<li><a href="https://gist.github.com/rb2k/d20eca0e98d90795e078/raw/ccb149d340352d11c0fa29a675cf76de4d1f8bfc/gistfile1.txt">Songliste</a></li>
+</ul>
+</li>
+<li><a href="http://www.sec.gov/Archives/edgar/data/1579346/000119312513279830/d562329ds1.htm">Winklevoss Bitcoin Trust</a></li>
+<li><a href="http://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html?source=hn#Analysis1">Motorola ist schlimmer als die NSA</a></li>
+<li><a href="http://rethinkdb.com/blog/1.7-release/">RethinkDB 1.7</a></li>
+<li><a href="http://www.youtube.com/watch?v=DZrjXSsfxMQ&amp;feature=player_embedded">Neverwet</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Geruecht-um-Snowden-Boliviens-Praesident-Ueberflugrecht-verweigert-1910238.html">Snowden</a></li>
+<li>Capabilities / LXC
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Aufs">aufs</a></li>
+<li><a href="http://lwn.net/Articles/524952/">LCE: The failure of operating systems and how we can fix it</a></li>
+<li><a href="http://lwn.net/Articles/531114/">Namespaces in Operation</a></li>
+<li><a href="http://lwn.net/Articles/527342/">Syslog Namespaces</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="https://github.com/FooBarWidget/passenger/wiki/Puma-vs-Phusion-Passenger">Puma vs passenger</a></li>
+<li><a href="http://www.slate.com/articles/life/a_fine_whine/2013/07/ghosting_the_irish_goodbye_the_french_leave_stop_saying_goodbye_at_parties.html">Don't say goodbye</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>cat /sys/block/sda/queue/scheduler</li>
+<li><a href="http://www.richardnichols.net/2012/08/arrrggh-java-security-cert-certificateexception-certificates-does-not-conform-to-algorithm-constraints/">JDK7 disabled MD2</a></li>
+<li>Zoll Clusterfuck</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=B5mVN2EgKLk&amp;feature=share">Convos with my 2 year old daughters</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #56 - durch Maxibriefe punchen]]></title>
@@ -785,142 +900,6 @@
 <li><a href="https://itunes.apple.com/de/app/duplicate-cleaner-for-iphoto/id586862299?l=en&amp;mt=12">Duplicate Finder for iPhoto</a></li>
 <li><a href="http://www.heuteinstuttgart.de/">Heute in Stuttgart</a></li>
 <li><a href="http://www.raedan.de/handytaschen-coffee-royale-p-55.html">iPhone Tasche</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #52 - Android Makeup Studio]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2013/05/17/binaergewitter-talk-number-51-android-makeup-studio/"/>
-    <updated>2013-05-17T11:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2013/05/17/binaergewitter-talk-number-51-android-makeup-studio</id>
-    <content type="html"><![CDATA[<p>Ohne Marc aber mit viel IO, mit viel + und Hochwissenschaftlichen Themen.</p>
-
-<h2>Tumblr der Woche</h2>
-
-<ul>
-<li><a href="http://idontwantyourfuckingapp.tumblr.com/">I don't want your fucking App</a></li>
-</ul>
-
-
-<h2>Github Repo der Woche</h2>
-
-<ul>
-<li><a href="https://github.com/noidontdig/gitdown">Git plugin welches einchecken verhindert, wenn man betrunken ist</a></li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.nasa.gov/mission_pages/kepler/news/keplerm-20130515.html">Kepler</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Dyn-schraenkt-kostenlose-DynDNS-Accounts-weiter-ein-1863537.html">DynDNS</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://www.reddit.com/r/Python/comments/1dq7sh/python_repl_finally_gets_tab_completion_by_default/">Von letzter Woche: tab-completion im repl per default</a>
-
-<ul>
-<li><a href="http://ipython.org/">ipython</a></li>
-</ul>
-</li>
-<li><a href="http://www.basicthinking.de/blog/2013/05/15/ein-satz-mit-x-anti-adblockplus-kampagne-ging-nach-hinten-los/">Anti Adblock Kampange</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Vorsicht-beim-Skypen-Microsoft-liest-mit-1857620.html">Skype liest URLs mit</a></li>
-<li><a href="https://www.sipgateblog.de/sipgate-one-wir-geben-auf/">Sipgate stellt One ein</a></li>
-<li><a href="http://play.freeciv.org/">FreeCIV läuft auf HTML5</a></li>
-<li><a href="http://www.theverge.com/2013/5/10/4318770/canada-draganflyer-drone-claims-first-life-saved-search-rescue">Mounties meinen, dass eine Drohne das erste Leben gerettet hat</a></li>
-<li><a href="http://www.techwench.com/scientists-invent-oxygen-particle-that-if-injected-allows-you-to-live-without-breathing/">endlich ohne Atmen leben</a></li>
-<li><a href="http://www.pro-linux.de/news/1/19797/linux-sicherheitsluecke-erlaubt-root-zugriff.html">Linux Kernel Sicherheitlücke</a>
-
-<ul>
-<li><a href="http://packetstormsecurity.com/files/121616/Linux-PERF_EVENTS-Local-Root.html">PERF_EVENTS Exploit</a></li>
-</ul>
-</li>
-<li><a href="http://www.npr.org/blogs/health/2013/05/15/183916891/scientists-clone-human-embryos-to-make-stem-cells">Wissenschaftler klonen Embyos um Stammzellen zu farmen</a></li>
-</ul>
-
-
-<h3>Google IO</h3>
-
-<p>"Wie die South Park Folge wo die Leute an ihren eigenen Fuerze riechen"</p>
-
-<ul>
-<li><a href="http://www.google.com/+/learnmore/hangouts/">Google Hangouts</a>
-
-<ul>
-<li><a href="http://windowspbx.blogspot.de/2013/05/hangouts-wont-hangout-with-other.html">Kein XMPP</a></li>
-</ul>
-</li>
-<li>Neues Google+ Layout und Co</li>
-<li><a href="http://google-latlong.blogspot.de/2013/05/meet-new-google-maps-map-for-every.html">Neue Google Maps</a>
-
-<ul>
-<li><a href="https://maps.google.com/help/maps/helloworld/desktop/preview/?resubmit=true">Einführung</a></li>
-<li><a href="https://maps.google.com/help/maps/helloworld/desktop/preview/">Anmelden fürs neue Maps</a></li>
-</ul>
-</li>
-<li><a href="http://googlecloudplatform.blogspot.com/2013/05/ushering-in-next-generation-of.html">Compute Engine jetzt offen für alle</a></li>
-<li><a href="http://developer.android.com/sdk/installing/studio.html">Android Studio</a>
-
-<ul>
-<li><a href="http://www.jetbrains.com/idea/">Basiert auf Intellij IDEA</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Einfachere-Android-Programmierung-per-Android-Studio-2-Update-1863848.html">Heise Artikel</a></li>
-<li><a href="http://yaxim.org/">Yaxim</a></li>
-</ul>
-</li>
-<li><a href="http://blog.golang.org/2013/05/go-11-is-released.html">Go 1.1 wird schneller</a></li>
-<li><a href="http://www.zdnet.com/debian-linux-now-google-compute-engines-default-os-7000015297/">Google steigt auf Debian um</a></li>
-<li><a href="http://www.google.com/wallet/send-money/">Geld per GMail verschicken</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Drive-Gmail-Google-Photos-Google-legt-Speicherplatz-zusammen-1862122.html">Google legt Speicher zusammen</a></li>
-<li><a href="https://plus.google.com/111395306401981598462/posts/KLkxZvPhdWw">Galaxy S4 kommt mit purem Android</a></li>
-<li><a href="http://arstechnica.com/gadgets/2013/05/how-googles-game-services-api-will-convince-devs-to-make-better-games/">Google Game Services+ API</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://www.wikihow.com/Record-Skype-Into-Garageband-With-SoundFlower-and-LineIn">Record Skype into Garageband with Soundflower and Linein</a></li>
-<li><a href="http://robots.thoughtbot.com/post/48275867281/vim-splits-move-faster-and-more-naturally">VIM splits</a></li>
-<li><a href="http://blog.scrapinghub.com/2013/05/13/mongo-bad-for-scraped-data/">Why MongoDB is a bad choice for storing scaped data</a></li>
-<li><a href="http://corte.si/posts/code/mitmproxy/howitworks/index.html">How MITMProxy works</a></li>
-<li><a href="http://james-iry.blogspot.de/2009/05/brief-incomplete-and-mostly-wrong.html">A Brief, Incomplete, and Mostly Wrong History of Programming Languages</a></li>
-<li><a href="https://yourlogicalfallacyis.com/">You logical fallacy is</a> (pfleidi)</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Fitbit One Clip</li>
-<li>speedport v9 irgendwas</li>
-<li>KabelBW Upgrade die 2</li>
-<li>Google Nexus 4 Rooting</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="https://play.google.com/store/apps/details?id=com.softwarebakery.drivedroid&amp;rdid=com.softwarebakery.drivedroid&amp;rdot=1&amp;feature=md">DriveDroid</a></li>
-<li><a href="http://serverbear.com/">Serverbear</a></li>
-<li><a href="http://www.amazon.de/dp/B008C0UQMC?tag=pfleidi-21">Phillips LED Birnen</a></li>
-<li><a href="http://www.cs.unm.edu/~dlchao/flake/doom/">Doom fuer Systemadministration</a></li>
-<li><a href="http://textfac.es/">Textfaces</a></li>
-<li><a href="https://www.google.com/search?site&amp;tbm=isch&amp;source=hp&amp;biw=1280&amp;bih=738&amp;q=atari+breakout&amp;oq=atari+breakout&amp;gs_l=img.3..0l2j0i24l6.1647.4545.0.4727.16.9.1.6.7.0.64.423.9.9.0...0.0...1ac.1.12.img.LrxnajOCjzE">Atari Breakout in Google
-Images</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.urbandroid.lux&amp;hl=de">Twilight - Redshift fuer Android</a></li>
-<li><a href="https://itunes.apple.com/de/app/runtastic-push-ups-pro/id570180361?l=en&amp;mt=8">Runtastic Pushups</a>
-
-<ul>
-<li><a href="http://www.amazon.de/dp/B003ZYDTVA?tag=pfleidi-21">Pushup Bars</a></li>
-</ul>
-</li>
-<li><a href="http://the-skylab.de/episodes/">Episodes</a></li>
 </ul>
 
 ]]></content>
