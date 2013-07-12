@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 05 Jul 2013 10:25:46 +0200</lastBuildDate>
-    <atom:updated>2013-07-05T10:25:46+02:00</atom:updated>
+    <lastBuildDate>Fri, 12 Jul 2013 10:28:23 +0200</lastBuildDate>
+    <atom:updated>2013-07-12T10:28:23+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,246 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #58 - Schöpfungshöhe nicht erreicht</title>
+      <link>http://blog.binaergewitter.de/blog/2013/07/12/binaergewitter-talk-number-58-schoepfungshoehe-nicht-erreicht/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/07/12/binaergewitter-talk-number-58-schoepfungshoehe-nicht-erreicht/#comments</comments>
+      <pubDate>Fri, 12 Jul 2013 10:45:00 +0200</pubDate>
+      <atom:updated>2013-07-12T10:45:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F07%2F12%2Fbinaergewitter-talk-number-58-schoepfungshoehe-nicht-erreicht%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2358%20-%20Sch%C3%B6pfungsh%C3%B6he%20nicht%20erreicht&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/07/12/binaergewitter-talk-number-58-schoepfungshoehe-nicht-erreicht</guid>
+      
+      <description>
+        <![CDATA[<p>Mit Pfleidi, Felix und Ingo und auch gar nicht so lang aber wieder dumm, unlustig und geschmacklos.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Runderneuerung-fuer-Google-Maps-Aus-fuer-Latitude-1915196.html">Google Latitude</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Fedora-und-Yum-Entwickler-Seth-Vidal-bei-Fahrradunfall-getoetet-1914614.html">Seth Vidal</a></li>
+</ul>
+
+
+<h1>Untoter der Woche</h1>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Daniel-Domscheit-Berg-Openleaks-lebt-noch-1909846.html">Openleaks</a>
+
+<ul>
+<li><a href="http://wikileaks.org/MasterCard-breaks-ranks-in.html">Endlich duerft ihr mit Mastercard Julien Assange supporten </a></li>
+</ul>
+</li>
+<li><a href="http://www.tizenexperts.com/2013/07/is-tizen-really-dead-well-intel-doesnt-think-so/">Tizen</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="https://github.com/ValveSoftware">Valve Software hat men Github Account</a></li>
+<li><a href="http://lists.debian.org/debian-devel/2013/06/msg00720.html">1200 exploitable crashes in Debian (in 22000 Projekten)</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Urteil-Kein-Urheberrechtsschutz-fuer-Pornos-1908794.html">Kein Urheberrechtsschutz für pr0n</a></li>
+<li><a href="">NSA baut kostenloses Cloud-Basiertes Backup</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Saehroboter-fuer-den-englischen-Rasen-1916047.html">Sähroboter</a></li>
+<li><a href="http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/media/10158311/Sky-Deutschland-to-broadcast-adverts-directly-into-train-passengers-heads.html">Sky will Werbung in die Brains projezieren</a></li>
+<li><a href="https://github.com/blog/1547-release-your-software">Github bring Release-Management</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Schwedische-Polizei-beschlagnahmt-Server-von-Untertitel-Webseite-1915924.html">Untertitelseite offline wegen Razia</a></li>
+<li><a href="http://developers.slashdot.org/story/13/07/05/1647215/oracle-quietly-switches-berkeleydb-to-agpl">Oracle ändert Lizenz von BerkeleyDB zu AGPL</a></li>
+<li><a href="http://www.extremetech.com/extreme/160131-thorium-nuclear-reactor-trial-begins-could-provide-cleaner-safer-almost-waste-free-energy">Endlich saubere Energie!</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Congstar-Firefox-Smartphone-ab-Herbst-in-Deutschland-1916056.html">Firefox Phone in Dtl.</a></li>
+<li><a href="http://thenextweb.com/google/2013/07/09/chrome-28-arrives-with-rich-notifications-for-apps-and-extensions-on-windows-mac-and-linux-coming-soon/">Chrome 28 kommt mit Blink</a></li>
+<li><a href="http://www.heise.de/hardware-hacks/meldung/3D-Kopierer-vom-Discounter-1913328.html">3D-Kopierer vom Discounter</a>
+
+<ul>
+<li><a href="http://memegenerator.co/instance/39618442">Yo dawg I herd you like chicken nuggets</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/FFmpeg-2-0-unterstuetzt-OpenCL-1914416.html">FFmpeg mit opencl</a></li>
+<li><a href="http://tech.slashdot.org/story/13/07/05/2034253/tech-companies-looking-into-sarcasm-detection">Der Sarkasmusdetektor, funktioniert bestimmt</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://pages.apigee.com/web-api-design-ebook.html">APIGeee Web API Design Ebook</a>
+
+<ul>
+<li><a href="http://martinfowler.com/articles/richardsonMaturityModel.html">Richardson maturity model</a></li>
+<li><a href="http://en.wikipedia.org/wiki/HTTP_2.0">HTTP 2.0</a></li>
+</ul>
+</li>
+<li><a href="http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/">Benchmarking  Ruby Code</a></li>
+<li><a href="http://shawntoneil.com/index.php/pages/nerftest1">A Statistical Analysis of Nerf Blasters and Darts</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://shownot.es/">Shownot.es Nutzung in Podcasts</a> (pfleidi)
+
+<ul>
+<li><a href="https://github.com/shownotes/OSF-in-a-Nutshell">OSF in a nutshell</a></li>
+<li><a href="https://github.com/shownotes/OpenShownotesFormat">Shownotes Format</a></li>
+<li><a href="http://pad.shownot.es/doc/binaergewitter-58">Binärgewitter Show-Pad</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=86ELBWLNdmg">Bundeswehr beschützt die Bananen</a></li>
+<li>Bitcoin Miner gewinnen</li>
+<li><a href="https://itunes.apple.com/de/app/gesundheit!/id591696651?l=en&amp;mt=8">Gesundheit!</a></li>
+<li><a href="http://www.debuggex.com/">Regex Visualisieren</a>
+
+<ul>
+<li><a href="http://regexpal.com/">Regex Tester</a></li>
+</ul>
+</li>
+<li><a href="https://itunes.apple.com/de/app/badland/id535176909?l=en&amp;mt=8">Badland</a></li>
+<li><a href="https://itunes.apple.com/de/app/wheres-my-water/id449735650?mt=8">Where ist my Water?</a></li>
+<li><a href="http://www.seeks-project.info/site/">Seeks - Decentralized Search and Filtering</a></li>
+<li>[ixquick](https://www.ixquick.com/</li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-07-11.Binaergewitter.Talk.58.opus"
+        length="38973592"
+        type="application/octet-stream" />
+      <media:content url="http://download.binaergewitter.de/2013-07-11.Binaergewitter.Talk.58.opus"
+        fileSize="38973592"
+        type="application/octet-stream" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #58 - Schöpfungshöhe nicht erreicht</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Mit Pfleidi, Felix und Ingo und auch gar nicht so lang aber wieder dumm, unlustig und geschmacklos.
+
+Toter der Woche
+
+
+Google Latitude
+Seth Vidal
+
+
+
+Untoter der Woche
+
+
+Openleaks
+
+
+Endlich duerft ihr mit Mastercard Julien Assange supporten 
+
+
+Tizen
+
+
+
+News
+
+
+Valve Software hat men Github Account
+1200 exploitable crashes in Debian (in 22000 Projekten)
+Kein Urheberrechtsschutz für pr0n
+NSA baut kostenloses Cloud-Basiertes Backup
+Sähroboter
+Sky will Werbung in die Brains projezieren
+Github bring Release-Management
+Untertitelseite offline wegen Razia
+Oracle ändert Lizenz von BerkeleyDB zu AGPL
+Endlich saubere Energie!
+Firefox Phone in Dtl.
+Chrome 28 kommt mit Blink
+3D-Kopierer vom Discounter
+
+
+Yo dawg I herd you like chicken nuggets
+
+
+FFmpeg mit opencl
+Der Sarkasmusdetektor, funktioniert bestimmt
+
+
+
+Lesefoo
+
+
+APIGeee Web API Design Ebook
+
+
+Richardson maturity model
+HTTP 2.0
+
+
+Benchmarking  Ruby Code
+A Statistical Analysis of Nerf Blasters and Darts
+
+
+
+Mimimi der Woche
+
+
+Shownot.es Nutzung in Podcasts (pfleidi)
+
+
+OSF in a nutshell
+Shownotes Format
+Binärgewitter Show-Pad
+
+
+
+
+
+Picks
+
+
+Bundeswehr beschützt die Bananen
+Bitcoin Miner gewinnen
+Gesundheit!
+Regex Visualisieren
+
+
+Regex Tester
+
+
+Badland
+Where ist my Water?
+Seeks - Decentralized Search and Filtering
+[ixquick](https://www.ixquick.com/
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
@@ -9927,286 +10167,6 @@ Random Cooking via @Bastinat0r
 Espresso Mushroom Grow Set (pfleidi)
 Chronic Gem (pfleidi)
 Ubucon (ingo)
-
-
-]]>
-      </itunes:summary>
-      <itunes:author>Binärgewitter Crew</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-    </item>
-    
-    
-    <item>
-      <title>Binärgewitter Talk #28 - Kindle Whitepaper</title>
-      <link>http://blog.binaergewitter.de/blog/2012/10/12/binaergewitter-talk-number-28-kindle-whitepaper/</link>
-      <comments>http://blog.binaergewitter.de/blog/2012/10/12/binaergewitter-talk-number-28-kindle-whitepaper/#comments</comments>
-      <pubDate>Fri, 12 Oct 2012 11:30:00 +0200</pubDate>
-      <atom:updated>2012-10-12T11:30:00+02:00</atom:updated>
-
-      
-      
-      <atom:link rel="payment"
-        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F10%2F12%2Fbinaergewitter-talk-number-28-kindle-whitepaper%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2328%20-%20Kindle%20Whitepaper&amp;category=audio&amp;tags=podcast,tech,software"
-        type="text/html"
-      />
-
-      
-
-      
-      <category><![CDATA[talk]]></category>
-      
-
-      <media:credit role="author">Binärgewitter Crew</media:credit>
-      <media:rating>nonadult</media:rating>
-      
-      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/10/12/binaergewitter-talk-number-28-kindle-whitepaper</guid>
-      
-      <description>
-        <![CDATA[<p>Diesmal etwas kürzer als gewohnt, aber nicht weniger witzig oder informativ. Wir reden über Pokemons, Owncloud 4.5 und UFOs....</p>
-
-<h2>Blast from the Past</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/tech-policy/2012/10/i-am-calling-you-from-windows-a-tech-support-scammer-dials-ars-technica/">I am calling you from Windows</a></li>
-</ul>
-
-
-<h2>Kategorie der Woche</h2>
-
-<h3>Nerd der Woche</h3>
-
-<ul>
-<li><a href="http://entertainment.slashdot.org/story/12/10/08/1249240/student-publishes-extensive-statistics-on-the-population-of-middle-earth">Student publiziert Statistiken ueber Mittelerde</a></li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.bbc.co.uk/news/world-us-canada-19879379">Typ sirbt nach Kakalaken Contest</a></li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=yWLClUwAHGc">Sim City</a> (marc)</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/security/2012/10/mcafee-trust-guard-certifications-can-make-websites-less-safe/">Trust Guard certifications can make websites less safe</a></li>
-<li><a href="http://features.peta.org/pokemon-black-and-white-parody/">Petamon</a> (marc)</li>
-<li><a href="https://github.com/pagespeed/ngx_pagespeed">nginx version of mod_pagespeed</a> (marc)</li>
-<li><a href="https://owncloud.com/blog/another-great-community-effort-meet-owncloud-4-5">Owncloud 4.5</a></li>
-<li><a href="http://news.cnet.com/8301-1035_3-57526994-94/android-users-outraged-over-motorolas-broken-promise/">Motorolla Android updates... not</a></li>
-<li><a href="http://mashable.com/2012/10/02/ew-has-smartphone-inside/">Entertainment weekly smartphone foo</a> (marc)</li>
-<li><a href="https://www.edis.at/en/server/colocation/austria/raspberrypi/">RPi Colocation</a></li>
-<li><a href="http://www.boredpanda.org/famous-old-photographs-restored-in-color/">Famous Old Photographs Restored in Color</a>
-
-<ul>
-<li><a href="http://www.huffingtonpost.com/bianca-bosker/normalize-instagram-app_b_1812556.html">Normalize Instagram undo</a></li>
-</ul>
-</li>
-<li><a href="http://www.extremetech.com/extreme/137505-us-air-forces-1950s-supersonic-flying-saucer-declassified">UFOs von der US Air Force deklassifiziert</a></li>
-<li><a href="http://www.amazon.de/gp/product/B007OZO03M/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007OZO03M&amp;linkCode=as2&amp;tag=trektrip">Kindle Paperwhite</a></li>
-<li><a href="http://androidheadlines.com/2012/10/featured-in-2011-more-money-at-apple-and-google-went-towards-patents-than-rd.html">In 2011, More Money At Apple And Google Went Towards Patents Than R&amp;D</a></li>
-<li><a href="https://github.com/iamultra/xmppmitm">XMPPMITM</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://webplatform.org">WebPlatform</a> (pfleidi)
-
-<ul>
-<li><a href="http://paulirish.com/2012/why-im-so-excited-about-web-platform-docs/">Blog Post von Paul Irish</a></li>
-</ul>
-</li>
-<li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=mWtJwlv7TtU">How we test Acquia Cloud</a> (marc)</li>
-<li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.6.8122">Consistency maintenance in peer-to-peer file sharing networks</a> (pfleidi)</li>
-<li><a href="http://www.businessweek.com/articles/2012-10-08/the-only-earthling-with-a-facebook-dislike-button">Facebook Release Engineer Interview</a> (marc)</li>
-<li><a href="http://www.phptherightway.com/">PHP the right way</a></li>
-<li><a href="http://ikaisays.com/2012/10/04/clearing-up-some-things-about-linkedin-mobiles-move-from-rails-to-node-js/">Linkedin's move from rails to node</a> (marc)</li>
-<li><a href="http://pulse.sportngin.com/news_article/show/153460">Load testing mit em-proxy</a> (marc)</li>
-<li><a href="http://en.wikipedia.org/wiki/ReDoS">ReDos - Regex Denial of Service</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>MacBook Pro black screen</li>
-<li>FUCKING SCHEISS HP DRUCKER
-
-<ul>
-<li>Idee für progressive rock band: "Paper Jam"</li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.rockbox.org/">Rockbox Firmware</a>
-
-<ul>
-<li><a href="http://www.rockbox.org/wiki/SoundCodecs">SoundCodec in Rockbox</a></li>
-</ul>
-</li>
-<li><a href="https://twitter.com/morgonfreeman">@MorgonFreeman</a>
-
-<ul>
-<li>dagegen (marc)</li>
-</ul>
-</li>
-<li><a href="http://www.hoaxilla.com/">Hoaxilla mit Vorspann hinten</a></li>
-<li><a href="http://www.audioponies.de/">Die Strömung</a></li>
-<li><a href="https://www.amazon.de/dp/B001BWQTOC/ref=as_li_ss_til?tag=pfleidi-21">Gum Pro</a> (pfleidi)</li>
-<li><a href="https://www.youtube.com/watch?v=4dKwHOfd2dk&amp;feature=player_embedded">Bottle beware!</a></li>
-<li><a href="https://www.amazon.de/dp/B001AX8QUM/ref=as_li_ss_til?tag=pfleidi-21">Funk Steckdosen</a> (pfleidi)</li>
-<li><a href="http://www.amazon.de/gp/product/B000PJ56E6/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B000PJ56E6&amp;linkCode=as2&amp;tag=trektrip">Sodastream Pinguin</a></li>
-<li><a href="http://www.youtube.com/user/EvolutionDocumentary">Evolution Documentary</a> (pfleidi)
-
-<ul>
-<li><a href="https://github.com/rb2k/viddl-rb">viddl-rb</a></li>
-</ul>
-</li>
-</ul>
-
-]]>
-      </description>
-      
-      
-      
-      <enclosure url="http://download.binaergewitter.de/2012-10-11.Binaergewitter.Talk.28.opus"
-        length="30137266"
-        type="application/octet-stream" />
-      <media:content url="http://download.binaergewitter.de/2012-10-11.Binaergewitter.Talk.28.opus"
-        fileSize="30137266"
-        type="application/octet-stream" />
-      <itunes:keywords></itunes:keywords>
-      <itunes:subtitle>Binärgewitter Talk #28 - Kindle Whitepaper</itunes:subtitle>
-      <itunes:summary>
-        <![CDATA[Diesmal etwas kürzer als gewohnt, aber nicht weniger witzig oder informativ. Wir reden über Pokemons, Owncloud 4.5 und UFOs....
-
-Blast from the Past
-
-
-I am calling you from Windows
-
-
-
-Kategorie der Woche
-
-Nerd der Woche
-
-
-Student publiziert Statistiken ueber Mittelerde
-
-
-
-Toter der Woche
-
-
-Typ sirbt nach Kakalaken Contest
-
-
-
-Untoter der Woche
-
-
-Sim City (marc)
-
-
-
-News
-
-
-Trust Guard certifications can make websites less safe
-Petamon (marc)
-nginx version of mod_pagespeed (marc)
-Owncloud 4.5
-Motorolla Android updates... not
-Entertainment weekly smartphone foo (marc)
-RPi Colocation
-Famous Old Photographs Restored in Color
-
-
-Normalize Instagram undo
-
-
-UFOs von der US Air Force deklassifiziert
-Kindle Paperwhite
-In 2011, More Money At Apple And Google Went Towards Patents Than R&amp;D
-XMPPMITM
-
-
-
-Lesefoo
-
-
-WebPlatform (pfleidi)
-
-
-Blog Post von Paul Irish
-
-
-How we test Acquia Cloud (marc)
-Consistency maintenance in peer-to-peer file sharing networks (pfleidi)
-Facebook Release Engineer Interview (marc)
-PHP the right way
-Linkedin's move from rails to node (marc)
-Load testing mit em-proxy (marc)
-ReDos - Regex Denial of Service
-
-
-
-Mimimi der Woche
-
-
-MacBook Pro black screen
-FUCKING SCHEISS HP DRUCKER
-
-
-Idee für progressive rock band: "Paper Jam"
-
-
-
-
-
-Picks
-
-
-Rockbox Firmware
-
-
-SoundCodec in Rockbox
-
-
-@MorgonFreeman
-
-
-dagegen (marc)
-
-
-Hoaxilla mit Vorspann hinten
-Die Strömung
-Gum Pro (pfleidi)
-Bottle beware!
-Funk Steckdosen (pfleidi)
-Sodastream Pinguin
-Evolution Documentary (pfleidi)
-
-
-viddl-rb
-
-
 
 
 ]]>

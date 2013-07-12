@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-07-05T10:25:46+02:00</updated>
+  <updated>2013-07-12T10:28:23+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,110 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #58 - Schöpfungshöhe nicht erreicht]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/07/12/binaergewitter-talk-number-58-schoepfungshoehe-nicht-erreicht/"/>
+    <updated>2013-07-12T10:45:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/07/12/binaergewitter-talk-number-58-schoepfungshoehe-nicht-erreicht</id>
+    <content type="html"><![CDATA[<p>Mit Pfleidi, Felix und Ingo und auch gar nicht so lang aber wieder dumm, unlustig und geschmacklos.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Runderneuerung-fuer-Google-Maps-Aus-fuer-Latitude-1915196.html">Google Latitude</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Fedora-und-Yum-Entwickler-Seth-Vidal-bei-Fahrradunfall-getoetet-1914614.html">Seth Vidal</a></li>
+</ul>
+
+
+<h1>Untoter der Woche</h1>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Daniel-Domscheit-Berg-Openleaks-lebt-noch-1909846.html">Openleaks</a>
+
+<ul>
+<li><a href="http://wikileaks.org/MasterCard-breaks-ranks-in.html">Endlich duerft ihr mit Mastercard Julien Assange supporten </a></li>
+</ul>
+</li>
+<li><a href="http://www.tizenexperts.com/2013/07/is-tizen-really-dead-well-intel-doesnt-think-so/">Tizen</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="https://github.com/ValveSoftware">Valve Software hat men Github Account</a></li>
+<li><a href="http://lists.debian.org/debian-devel/2013/06/msg00720.html">1200 exploitable crashes in Debian (in 22000 Projekten)</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Urteil-Kein-Urheberrechtsschutz-fuer-Pornos-1908794.html">Kein Urheberrechtsschutz für pr0n</a></li>
+<li><a href="">NSA baut kostenloses Cloud-Basiertes Backup</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Saehroboter-fuer-den-englischen-Rasen-1916047.html">Sähroboter</a></li>
+<li><a href="http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/media/10158311/Sky-Deutschland-to-broadcast-adverts-directly-into-train-passengers-heads.html">Sky will Werbung in die Brains projezieren</a></li>
+<li><a href="https://github.com/blog/1547-release-your-software">Github bring Release-Management</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Schwedische-Polizei-beschlagnahmt-Server-von-Untertitel-Webseite-1915924.html">Untertitelseite offline wegen Razia</a></li>
+<li><a href="http://developers.slashdot.org/story/13/07/05/1647215/oracle-quietly-switches-berkeleydb-to-agpl">Oracle ändert Lizenz von BerkeleyDB zu AGPL</a></li>
+<li><a href="http://www.extremetech.com/extreme/160131-thorium-nuclear-reactor-trial-begins-could-provide-cleaner-safer-almost-waste-free-energy">Endlich saubere Energie!</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Congstar-Firefox-Smartphone-ab-Herbst-in-Deutschland-1916056.html">Firefox Phone in Dtl.</a></li>
+<li><a href="http://thenextweb.com/google/2013/07/09/chrome-28-arrives-with-rich-notifications-for-apps-and-extensions-on-windows-mac-and-linux-coming-soon/">Chrome 28 kommt mit Blink</a></li>
+<li><a href="http://www.heise.de/hardware-hacks/meldung/3D-Kopierer-vom-Discounter-1913328.html">3D-Kopierer vom Discounter</a>
+
+<ul>
+<li><a href="http://memegenerator.co/instance/39618442">Yo dawg I herd you like chicken nuggets</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/FFmpeg-2-0-unterstuetzt-OpenCL-1914416.html">FFmpeg mit opencl</a></li>
+<li><a href="http://tech.slashdot.org/story/13/07/05/2034253/tech-companies-looking-into-sarcasm-detection">Der Sarkasmusdetektor, funktioniert bestimmt</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://pages.apigee.com/web-api-design-ebook.html">APIGeee Web API Design Ebook</a>
+
+<ul>
+<li><a href="http://martinfowler.com/articles/richardsonMaturityModel.html">Richardson maturity model</a></li>
+<li><a href="http://en.wikipedia.org/wiki/HTTP_2.0">HTTP 2.0</a></li>
+</ul>
+</li>
+<li><a href="http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/">Benchmarking  Ruby Code</a></li>
+<li><a href="http://shawntoneil.com/index.php/pages/nerftest1">A Statistical Analysis of Nerf Blasters and Darts</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://shownot.es/">Shownot.es Nutzung in Podcasts</a> (pfleidi)
+
+<ul>
+<li><a href="https://github.com/shownotes/OSF-in-a-Nutshell">OSF in a nutshell</a></li>
+<li><a href="https://github.com/shownotes/OpenShownotesFormat">Shownotes Format</a></li>
+<li><a href="http://pad.shownot.es/doc/binaergewitter-58">Binärgewitter Show-Pad</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=86ELBWLNdmg">Bundeswehr beschützt die Bananen</a></li>
+<li>Bitcoin Miner gewinnen</li>
+<li><a href="https://itunes.apple.com/de/app/gesundheit!/id591696651?l=en&amp;mt=8">Gesundheit!</a></li>
+<li><a href="http://www.debuggex.com/">Regex Visualisieren</a>
+
+<ul>
+<li><a href="http://regexpal.com/">Regex Tester</a></li>
+</ul>
+</li>
+<li><a href="https://itunes.apple.com/de/app/badland/id535176909?l=en&amp;mt=8">Badland</a></li>
+<li><a href="https://itunes.apple.com/de/app/wheres-my-water/id449735650?mt=8">Where ist my Water?</a></li>
+<li><a href="http://www.seeks-project.info/site/">Seeks - Decentralized Search and Filtering</a></li>
+<li>[ixquick](https://www.ixquick.com/</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #57 - hart bitzeln]]></title>
@@ -2399,118 +2503,6 @@ soviel durcheinander - bestimmt..</p>
 </ul>
 </li>
 <li><a href="http://www.youtube.com/watch?v=i5v-RR8bX7o&amp;feature=youtu.be">Friseuse Claudia</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #43 - Elstergate]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2013/03/08/binaergewitter-talk-number-43-elstergate/"/>
-    <updated>2013-03-08T11:00:00+01:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2013/03/08/binaergewitter-talk-number-43-elstergate</id>
-    <content type="html"><![CDATA[<p>Wieder nur das dynamische Duo (toller Seitenhiep auf die Batman-Story ;)) bestehend aus Felix und Ingo. Dafür diese Woche mehr Linux, mehr Atombomben und weniger Web oder so&#8230;</p>
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://t.co/MuJyk9Er4U">Twitter stellt Tweetdeck ein</a> via @schmittlauch
-
-<ul>
-<li><a href="https://dev.twitter.com/blog/planning-for-api-v1-retirement">410 Gone fuer die Alte Twitter API</a></li>
-<li><a href="https://alpha.app.net/ingoebel">Ingo auf App.net</a></li>
-<li><a href="https://twitter.com/makefoo">Felix auf Twitter</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.heise.de/newsticker/meldung/Fortschritte-bei-De-Mail-1816549.html">De Mail</a></li>
-</ul>
-
-
-<h2>Kim dotcom der Woche</h2>
-
-<ul>
-<li><a href="http://www.heise.de/newsticker/meldung/Kim-Dotcom-Berufungsgericht-erlaubt-Klage-gegen-Geheimdienst-1818089.html">Er darf klagen</a></li>
-</ul>
-
-
-<h2>Man kann alles kaputtmachen der Woche</h2>
-
-<ul>
-<li><a href="http://thedroidguy.com/2013/03/security-flaw-found-in-samsung-galaxy-note-2/">Security Flaw in Samsungs Android</a></li>
-<li><a href="http://blog.evernote.com/blog/2013/03/02/security-notice-service-wide-password-reset/">Evernote gehackt</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://www.bbc.co.uk/news/uk-england-leeds-21654930">Real Life Batman</a>
-
-<ul>
-<li><a href="http://designtaxi.com/news/353090/Infographic-How-Much-Would-It-Cost-To-Be-Batman/">Was wuerde es kosten BATMAN zu sein</a></li>
-</ul>
-</li>
-<li><a href="http://arstechnica.com/gadgets/2013/03/who-needs-thumbs-samsung-galaxy-s-iv-will-scroll-using-eye-tracking/">Samsung bring eye tracking - scrollen mit den augen!?</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Counter-Strike-Condition-Zero-fuer-Linux-1818248.html">Valve rockt</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Formatkrieg-beim-Videochat-WebRTC-gegen-CU-RTC-1805581.html">Immer noch blöder Browserkrieg</a></li>
-<li><a href="http://apple.slashdot.org/comments.pl?sid=3518883&amp;cid=43088105">Miguel de Icaza wechselt zu Apple</a></li>
-<li><a href="http://www.gizmodo.com.au/2013/03/pentagon-lets-threaten-nuke-strike-against-hackers/">Pentagon goes &#8216;nuclear&#8217; on hax0rs &#8230; what could possibly go Wrong</a></li>
-<li><a href="http://www.golem.de/news/sicherheitstacho-telekom-zeigt-netzwerkangriffe-in-echtzeit-1303-98016.html">Telekom in Echtzeit</a>
-
-<ul>
-<li><a href="http://map.honeynet.org/">honeynet.org</a></li>
-</ul>
-</li>
-<li><a href="http://science.slashdot.org/story/13/03/07/0418233/using-google-to-help-predict-side-effects-of-mixing-drugs">Google Hilft dir beim Finden von passenden Kombinationen von Drogen</a></li>
-<li><a href="http://hardware.slashdot.org/story/13/03/04/2314215/japan-plans-to-restart-most-of-their-nuclear-reactors">Japan will seine Nuklearreaktoren wieder starten</a></li>
-<li><a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTMxNzI">Ubuntu wechselt mal wieder den Window Server</a><a href="http://news.ycombinator.com/item?id=5319434">HackerNews</a>
-
-<ul>
-<li><a href="http://news.ycombinator.com/item?id=5319434">MirSpec</a></li>
-</ul>
-</li>
-<li><a href="http://arstechnica.com/apple/2013/03/apples-lightning-to-hdmi-cant-actually-output-at-1080p/">Apple&#8217;s Lightning-to-HDMI Adapter mit ARM und 256ram schafft keinen 1080p output</a></li>
-<li><a href="https://rdns.im/the-pirate-bay-north-korean-hosting-no-its-fake">Priaten Bucht in Nordkorea bzw. nicht</a></li>
-<li><a href="http://www.pro-linux.de/news/1/19536/elster-formular-fuer-linux-anscheinend-zurueckgehalten.html">No Elster for Linux</a></li>
-<li><a href="https://www.humblebundle.com/">Humble Android Bundle</a></li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<ul>
-<li>app.net / Twitter API Wechsel</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>o2 DSL Kündigung (Ingo)</li>
-<li>Server Migration (aka. wupps, hostingvertrag abgelaufen) (Felix)
-
-<ul>
-<li><a href="http://duplicity.nongnu.org/">duplicity</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://i.imgur.com/q8PLerd.jpg">SSDs machen sexy</a></li>
-<li><a href="http://www.amazon.de/gp/product/B00BLU0UKS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00BLU0UKS&amp;linkCode=as2&amp;tag=trektrip">Mark Brandis Folge 23</a></li>
-<li><a href="http://backreference.org/2013/03/01/ipv6-address-normalization/">IPv6 address normalisierung</a></li>
-<li><a href="http://mywiki.wooledge.org/Bashism">Bashism</a></li>
-<li><a href="http://www.amazon.de/gp/product/B00791CRMW/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00791CRMW&amp;linkCode=as2&amp;tag=trektrip">FritzFon M2</a></li>
-<li><a href="http://runningahackerspace.tumblr.com/">Running A Hackerspace</a></li>
 </ul>
 
 ]]></content>
