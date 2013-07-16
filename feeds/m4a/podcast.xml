@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 12 Jul 2013 10:32:29 +0200</lastBuildDate>
-    <atom:updated>2013-07-12T10:32:29+02:00</atom:updated>
+    <lastBuildDate>Tue, 16 Jul 2013 08:30:29 +0200</lastBuildDate>
+    <atom:updated>2013-07-16T08:30:29+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -83,100 +83,301 @@
       <description>
         <![CDATA[<p>Mit Pfleidi, Felix und Ingo und auch gar nicht so lang aber wieder dumm, unlustig und geschmacklos.</p>
 
-<h2>Toter der Woche</h2>
+<h2>Intro <code>00:00:00</code></h2>
 
 <ul>
-<li><a href="http://www.heise.de/newsticker/meldung/Runderneuerung-fuer-Google-Maps-Aus-fuer-Latitude-1915196.html">Google Latitude</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Fedora-und-Yum-Entwickler-Seth-Vidal-bei-Fahrradunfall-getoetet-1914614.html">Seth Vidal</a></li>
+<li><a href="http://blog.binaergewitter.de/">Begrüßung zur 58ten Episode des Binärgewitter Podcast</a></li>
+<li><a href="http://de.wikipedia.org/wiki/National_Security_Agency">Begrüßung der NSA</a></li>
+<li>Shownotes Crowdsourcen</li>
+<li><a href="http://shownot.es/">Shownot.es Projekt</a></li>
+<li><a href="https://alpha.app.net/simonwaldherr">Simon Waldherr</a></li>
+<li>„We want you for Shownotes“</li>
+<li>„Die Bundeswehr Marine holt die Bananen“</li>
 </ul>
 
 
-<h1>Untoter der Woche</h1>
+<h2>Toter der Woche <code>00:02:46</code></h2>
+
+<h3><a href="https://www.google.de/latitude/b/0">Google Latitude</a> <code>00:02:52</code></h3>
 
 <ul>
-<li><a href="http://www.heise.de/newsticker/meldung/Daniel-Domscheit-Berg-Openleaks-lebt-noch-1909846.html">Openleaks</a>
+<li><a href="http://de.wikipedia.org/wiki/Geofencing">Geofencing</a></li>
+<li>Es ist schon interessant zu wissen wo sich jemand befindet</li>
+<li><a href="http://de.wikipedia.org/wiki/PRISM_%28%C3%9Cberwachungsprogramm%29">PRISM</a></li>
+<li><a href="http://de.wikipedia.org/wiki/National_Security_Agency">NSA</a></li>
+<li>„Kranke Technologien aus den Neunzigern“
 
 <ul>
-<li><a href="http://wikileaks.org/MasterCard-breaks-ranks-in.html">Endlich duerft ihr mit Mastercard Julien Assange supporten </a></li>
+<li><a href="http://de.wikipedia.org/wiki/SOAP">SOAP</a></li>
+<li><a href="http://en.wikipedia.org/wiki/CORBA">CORBA</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Internetwork_Packet_Exchange">IPX</a></li>
 </ul>
 </li>
-<li><a href="http://www.tizenexperts.com/2013/07/is-tizen-really-dead-well-intel-doesnt-think-so/">Tizen</a></li>
+<li>Starcraft</li>
+<li><a href="http://en.wikipedia.org/wiki/Command_and_Conquer">Command and Conquer</a></li>
+<li>Am 9 (Monat einfügen) ist Schluss mit Google Latitude</li>
+<li>Als Ersatz soll Google+ dienen</li>
+<li><a href="http://de.wikipedia.org/wiki/Cronjob">Cronjob</a></li>
+<li><a href="http://www.moves-app.com/">Moves</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Keyhole_Markup_Language">KML</a></li>
+<li>Google hat einem wenigstens die Daten gegeben</li>
+<li><a href="http://www.endomondo.com/">Endomondo</a></li>
+<li><a href="http://www.openstreetmap.org/">Open Street Map</a></li>
+<li><a href="http://www.google.com/mobile/mytracks/">My Tracks</a></li>
+<li><a href="http://www.fitbit.com/de">Fitbit</a></li>
 </ul>
 
 
-<h2>News</h2>
+<h3><a href="https://lists.fedoraproject.org/pipermail/announce/2013-July/003174.html">Seth Vidal</a> <code>00:11:41</code></h3>
 
 <ul>
-<li><a href="https://github.com/ValveSoftware">Valve Software hat men Github Account</a></li>
-<li><a href="http://lists.debian.org/debian-devel/2013/06/msg00720.html">1200 exploitable crashes in Debian (in 22000 Projekten)</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Urteil-Kein-Urheberrechtsschutz-fuer-Pornos-1908794.html">Kein Urheberrechtsschutz für pr0n</a></li>
-<li><a href="">NSA baut kostenloses Cloud-Basiertes Backup</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Saehroboter-fuer-den-englischen-Rasen-1916047.html">Sähroboter</a></li>
-<li><a href="http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/media/10158311/Sky-Deutschland-to-broadcast-adverts-directly-into-train-passengers-heads.html">Sky will Werbung in die Brains projezieren</a></li>
+<li><a href="http://fedoraproject.org/wiki/Yum">Yum</a>
+
+<ul>
+<li><a href="http://yum.baseurl.org/">yellowdog updater modified</a></li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Yellow_Dog_Linux">Yellow Dog Linux</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Power_PC">Power PC</a></li>
+<li>Sony Playstation 3 mit Linux</li>
+<li><a href="http://www-03.ibm.com/systems/power/software/linux/">IBM Power Linux</a></li>
+<li><a href="http://fedoraproject.org/">Fedora</a></li>
+<li><a href="https://www.archlinux.org/">Arch Linux</a></li>
+<li><a href="https://www.suse.com">SuSe Linux</a></li>
+<li><a href="http://www.redhat.com/products/enterprise-linux/">Red Hat Enterprise Linux</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Symbolische_Verkn%C3%BCpfung">Symlink</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Filesystem_Hierarchy_Standard">Linux Verzeichnisstruktur</a></li>
+<li><a href="http://manjaro.org/">Manjaro</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29">Python</a></li>
+</ul>
+
+
+<h2>Untoter der Woche <code>00:17:00</code></h2>
+
+<h3><a href="http://de.wikipedia.org/wiki/OpenLeaks">Open Leaks</a> <code>00:17:05</code></h3>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Daniel_Domscheit-Berg">Daniel Domscheit Berg (der einzige hinter OpenLeaks)</a></li>
+<li>Endlich duerft ihr mit Mastercard Julien Assange supporten</li>
+</ul>
+
+
+<h3><a href="https://www.tizen.org/">Tizen</a> <code>00:17:57</code></h3>
+
+<ul>
+<li><a href="http://www.eweek.com/mobile/intel-samsung-kick-off-app-contest-for-tizen-os/">Intel (+Samsung) App Challenge (4 Millonen $)</a></li>
+<li>iOS Apps sind in Objectiv-C, Android Apps in Java
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Objective_C">Objectiv C</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Java_%28Programmiersprache%29">Java</a></li>
+</ul>
+</li>
+<li>Die Challenge wird viele halbfertige Apps hervorbringen</li>
+<li>„Mit Tizen Geld verdienen funktioniert auf jedem Fall“</li>
+</ul>
+
+
+<h2>News <code>00:20:31</code></h2>
+
+<h3><a href="https://github.com/ValveSoftware">Valve hat einen Github Account für SDKs</a> <code>00:20:40</code></h3>
+
+<ul>
+<li>und als Issue Tracker</li>
+<li><a href="http://de.wikipedia.org/wiki/ID_Software">ID Software</a></li>
+<li><a href="http://lists.debian.org/debian-devel/2013/06/msg00720.html">Debian Crash Report Sammlung der Carnegie Mellon University</a></li>
+<li>1200 exploitable crashes in Debian (in 22000 Projekten)</li>
+<li><a href="http://www.cmu.edu/index.shtml">Carnegie Mellon University</a></li>
+</ul>
+
+
+<h3><a href="http://www.heise.de/newsticker/meldung/Urteil-Kein-Urheberrechtsschutz-fuer-Pornos-1908794.html">Kein Urheberrechtsschutz für pr0n</a> <code>00:27:20</code></h3>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Urheberrechtsschutz">Urheberrecht</a></li>
+<li>„Warum hast du eigentlich ne Maske auf?“</li>
+<li>„Keine Schöpfungshöhe“</li>
+<li><a href="http://prism.andrevv.com/">Marketingfail bei der NSA, NSA baut kostenloses Cloud-basiertes Backup</a></li>
+</ul>
+
+
+<h3><a href="http://www.heise.de/newsticker/meldung/Saehroboter-fuer-den-englischen-Rasen-1916047.html">Sähroboter</a> <code>00:31:30</code></h3>
+
+<ul>
+<li><a href="http://arduino.cc/">Arduino</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Monsanto">Monsanto</a></li>
+<li><a href="http://www.imdb.com/title/tt0091949/">Nummer 5 lebt</a></li>
+<li><a href="http://www.imdb.com/title/tt0910970/">Wall-E</a></li>
+<li><a href="http://www.instructables.com/">Instructables</a></li>
+</ul>
+
+
+<h3><a href="http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/media/10158311/Sky-Deutschland-to-broadcast-adverts-directly-into-train-passengers-heads.html">Sky will Werbung in die Brains projizieren</a> <code>00:34:29</code></h3>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Subliminal_%28Psychologie%29">Subliminale Botschaften</a></li>
 <li><a href="https://github.com/blog/1547-release-your-software">Github bring Release-Management</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Schwedische-Polizei-beschlagnahmt-Server-von-Untertitel-Webseite-1915924.html">Untertitelseite offline wegen Razia</a></li>
-<li><a href="http://developers.slashdot.org/story/13/07/05/1647215/oracle-quietly-switches-berkeleydb-to-agpl">Oracle ändert Lizenz von BerkeleyDB zu AGPL</a></li>
-<li><a href="http://www.extremetech.com/extreme/160131-thorium-nuclear-reactor-trial-begins-could-provide-cleaner-safer-almost-waste-free-energy">Endlich saubere Energie!</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Congstar-Firefox-Smartphone-ab-Herbst-in-Deutschland-1916056.html">Firefox Phone in Dtl.</a></li>
-<li><a href="http://thenextweb.com/google/2013/07/09/chrome-28-arrives-with-rich-notifications-for-apps-and-extensions-on-windows-mac-and-linux-coming-soon/">Chrome 28 kommt mit Blink</a></li>
-<li><a href="http://www.heise.de/hardware-hacks/meldung/3D-Kopierer-vom-Discounter-1913328.html">3D-Kopierer vom Discounter</a>
+</ul>
+
+
+<h3><a href="http://www.heise.de/newsticker/meldung/Schwedische-Polizei-beschlagnahmt-Server-von-Untertitel-Webseite-1915924.html">Untertitelseite offline wegen Razia</a> <code>00:39:31</code></h3>
 
 <ul>
-<li><a href="http://memegenerator.co/instance/39618442">Yo dawg I herd you like chicken nuggets</a></li>
+<li><a href="http://thepiratebay.se">Piratebay</a></li>
+<li><a href="http://flattr.com">Flattr</a></li>
+<li><a href="http://www.undertexter.se/">Undertexter</a></li>
+<li>„Unsere Shownotes Schreiber sind toll“</li>
 </ul>
-</li>
-<li><a href="http://www.heise.de/newsticker/meldung/FFmpeg-2-0-unterstuetzt-OpenCL-1914416.html">FFmpeg mit opencl</a></li>
+
+
+<h3><a href="http://developers.slashdot.org/story/13/07/05/1647215/oracle-quietly-switches-berkeleydb-to-agpl">Oracle ändert Lizenz von BerkeleyDB zu AGPL</a> <code>00:42:45</code></h3>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Berkeley_DB">BerkeleyDB</a></li>
+<li><a href="http://de.wikipedia.org/wiki/GNU_Affero_General_Public_License">AGPL</a></li>
+<li>„Die Assi GPL wegforken“</li>
+<li><a href="https://de.wikipedia.org/wiki/MySQL">MySQL</a></li>
+<li>„Oracle hat keine Lust mehr, dass man ihre Software noch verwendet“</li>
+<li><a href="http://de.wikipedia.org/wiki/Sleepycat_Software">Sleepycat Software</a></li>
+</ul>
+
+
+<h3><a href="http://www.extremetech.com/extreme/160131-thorium-nuclear-reactor-trial-begins-could-provide-cleaner-safer-almost-waste-free-energy">Endlich saubere Energie!</a> <code>00:45:27</code></h3>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Thorium">Thorium</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Kernkraftwerk_Fukushima_Daiichi">Fukushima Daiichi</a></li>
+<li><a href="http://www.tagesschau.de/ausland/japan-atomkraft104.html">Tagesschau Meldung zu Fukushima</a></li>
+<li><a href="http://www.tagesspiegel.de/weltspiegel/japan-ex-manager-von-fukushima-an-krebs-gestorben/8476138.html">Ex-Manager von Fukushima an Krebs gestorben</a></li>
+</ul>
+
+
+<h3><a href="http://www.heise.de/newsticker/meldung/Congstar-Firefox-Smartphone-ab-Herbst-in-Deutschland-1916056.html">Firefox Phone in Deutschland</a> <code>00:48:00</code></h3>
+
+<ul>
+<li><a href="http://www.alcatelonetouch.com/de/">Alcatel one touch</a></li>
+</ul>
+
+
+<h3><a href="http://thenextweb.com/google/2013/07/09/chrome-28-arrives-with-rich-notifications-for-apps-and-extensions-on-windows-mac-and-linux-coming-soon/">Chrome 28 kommt mit Blink</a> <code>00:49:58</code></h3>
+
+<ul>
+<li><a href="http://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html">Blink: A rendering engine for Chrome</a></li>
+<li><a href="http://www.chromium.org/">Chromium</a></li>
+</ul>
+
+
+<h3><a href="http://www.heise.de/hardware-hacks/meldung/3D-Kopierer-vom-Discounter-1913328.html">3D-Kopierer/Drucker vom Discounter</a> <code>00:51:35</code></h3>
+
+<ul>
+<li><a href="http://www.pearl.de">Pearl</a></li>
+<li><a href="http://www.makerbot.com/">Makerbot</a></li>
+<li>„Käse mit oder ohne Löcher drucken“</li>
+<li><a href="http://memegenerator.co/instance/39618442">Yo dawg I herd you like chicken nuggets</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Molekulark%C3%BCche">Molekulares kochen</a></li>
+</ul>
+
+
+<h3><a href="http://www.heise.de/newsticker/meldung/FFmpeg-2-0-unterstuetzt-OpenCL-1914416.html">FFmpeg mit OpenCL</a> <code>00:56:21</code></h3>
+
+<ul>
+<li><a href="http://handbrake.fr/">Handbrake</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Motion_JPEG">M-JPEG</a></li>
 <li><a href="http://tech.slashdot.org/story/13/07/05/2034253/tech-companies-looking-into-sarcasm-detection">Der Sarkasmusdetektor, funktioniert bestimmt</a></li>
 </ul>
 
 
-<h2>Lesefoo</h2>
+<h2>Lesefoo <code>01:02:13</code></h2>
+
+<h3><a href="http://pages.apigee.com/web-api-design-ebook.html">APIGeee Web API Design Ebook</a> <code>01:02:36</code></h3>
 
 <ul>
-<li><a href="http://pages.apigee.com/web-api-design-ebook.html">APIGeee Web API Design Ebook</a>
-
-<ul>
+<li><a href="https://www.google.de/search?site=&amp;source=hp&amp;q=APIGeee+Web+API+Design+Ebook&amp;oq=APIGeee+Web+API+Design+Ebook">Suche über Google</a></li>
 <li><a href="http://martinfowler.com/articles/richardsonMaturityModel.html">Richardson maturity model</a></li>
 <li><a href="http://en.wikipedia.org/wiki/HTTP_2.0">HTTP 2.0</a></li>
-</ul>
-</li>
-<li><a href="http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/">Benchmarking  Ruby Code</a></li>
-<li><a href="http://shawntoneil.com/index.php/pages/nerftest1">A Statistical Analysis of Nerf Blasters and Darts</a></li>
+<li><a href="http://de.wikipedia.org/wiki/SPDY">SPDY</a></li>
+<li><a href="http://de.wikipedia.org/wiki/HTTP">HTTP/1.1</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Transmission_Control_Protocol">TCP</a></li>
+<li><a href="http://de.wikipedia.org/wiki/WebSocket">Websockets</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventSource">EventSource</a></li>
+<li>HTTP 2.0 komprimiert auch die HTTP Header</li>
+<li><a href="http://de.wikipedia.org/wiki/IPv6">IPv6</a></li>
 </ul>
 
 
-<h2>Mimimi der Woche</h2>
+<h3><a href="http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/">Benchmarking  Ruby Code</a> <code>01:14:18</code></h3>
 
 <ul>
-<li><a href="http://shownot.es/">Shownot.es Nutzung in Podcasts</a> (pfleidi)
+<li>Der Blog Eintrag gibt einen guten Überblick</li>
+<li><a href="http://www.ruby-doc.org/stdlib-2.0/libdoc/benchmark/rdoc/Benchmark.html">Benchmark.bmbm</a></li>
+</ul>
+
+
+<h3><a href="http://shawntoneil.com/index.php/pages/nerftest1">A Statistical Analysis of Nerf Blasters and Darts</a> <code>01:15:25</code></h3>
 
 <ul>
-<li><a href="https://github.com/shownotes/OSF-in-a-Nutshell">OSF in a nutshell</a></li>
-<li><a href="https://github.com/shownotes/OpenShownotesFormat">Shownotes Format</a></li>
-<li><a href="http://pad.shownot.es/doc/binaergewitter-58">Binärgewitter Show-Pad</a></li>
+<li>Sience mit Nerf Guns</li>
+<li><a href="http://de.wikipedia.org/wiki/LaTeX">LaTeX</a></li>
+<li><a href="http://knowyourmeme.com/memes/rule-34">Rule 34</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche <code>01:18:12</code></h2>
+
+<ul>
+<li><a href="http://shownot.es/">Shownot.es Nutzung in Podcasts (pfleidi)</a></li>
+<li><a href="https://github.com/shownotes/OSF-in-a-Nutshell">Open Shownotes Format (OSF) - OSF in a nutshell</a></li>
+<li>Tools des Shownot.es Teams
+
+<ul>
+<li><a href="https://github.com/shownotes/show-pad">ShowPad</a></li>
+<li><a href="https://github.com/shownotes/tinyOSF.js">tinyOSF.js (OSF Parser in JS)</a></li>
+<li><a href="https://github.com/SimonWaldherr/wp-osf-shownotes">shownot.es Wordpress Plugin</a></li>
+<li><a href="https://github.com/shownotes">(…)</a></li>
 </ul>
 </li>
+<li>Die Shownot.es Tools ermöglichen die Ausgabe in verschiedenen Formaten
+
+<ul>
+<li>Kapitelmarken (mp4chaps)</li>
+<li>HTML (verschiedene Styles)</li>
+<li>Markdown</li>
+</ul>
+</li>
+<li><a href="https://flattr.com/profile/shownotes">Shownot.es Flattr Page</a></li>
+<li><a href="https://flattr.com/profile/binaergewitter">Binärgewitter Flattr Page</a></li>
+<li><a href="http://streams.xenim.de/">Xenim</a></li>
+<li>„mehr Metadaten ist immer gut“</li>
+<li>Das Shownot.es Team teilt hiermit mit, dass die meisten Probleme bereits gefixt sind</li>
 </ul>
 
 
-<h2>Picks</h2>
+<h2>Picks <code>01:30:25</code></h2>
 
 <ul>
 <li><a href="https://www.youtube.com/watch?v=86ELBWLNdmg">Bundeswehr beschützt die Bananen</a></li>
-<li>Bitcoin Miner gewinnen</li>
-<li><a href="https://itunes.apple.com/de/app/gesundheit!/id591696651?l=en&amp;mt=8">Gesundheit!</a></li>
-<li><a href="http://www.debuggex.com/">Regex Visualisieren</a>
+<li>„Erst gabs Rosinenbomber, jetzt gibts Bananenzerstörer“</li>
+<li><a href="https://twitter.com/makefoo/status/352050359075737603/photo/1">Bitcoin Miner</a>
 
 <ul>
-<li><a href="http://regexpal.com/">Regex Tester</a></li>
+<li><a href="http://www.butterflylabs.com/">Butterfly Labs</a></li>
 </ul>
 </li>
+<li><a href="https://itunes.apple.com/de/app/gesundheit!/id591696651?l=en&amp;mt=8">Gesundheit!</a></li>
+<li><a href="http://www.debuggex.com/">Regex Visualisieren</a></li>
+<li><a href="http://regexpal.com/">Regex Tester</a></li>
 <li><a href="https://itunes.apple.com/de/app/badland/id535176909?l=en&amp;mt=8">Badland</a></li>
 <li><a href="https://itunes.apple.com/de/app/wheres-my-water/id449735650?mt=8">Where ist my Water?</a></li>
 <li><a href="http://www.seeks-project.info/site/">Seeks - Decentralized Search and Filtering</a></li>
+<li><a href="https://duckduckgo.com">DuckDuckGo</a></li>
 <li><a href="https://www.ixquick.com/">ixquick</a></li>
+<li><a href="http://metager2.de/">MetaGer2</a></li>
+<li><a href="http://de.wikipedia.org/wiki/PubSubHubbub">PubSubHubbub (PuSH)</a></li>
+<li>„LASER!“</li>
 </ul>
 
+
+<h2>Ende <code>01:47:07</code></h2>
 ]]>
       </description>
       
@@ -193,101 +394,291 @@
       <itunes:summary>
         <![CDATA[Mit Pfleidi, Felix und Ingo und auch gar nicht so lang aber wieder dumm, unlustig und geschmacklos.
 
-Toter der Woche
+Intro 00:00:00
 
 
-Google Latitude
-Seth Vidal
-
-
-
-Untoter der Woche
-
-
-Openleaks
-
-
-Endlich duerft ihr mit Mastercard Julien Assange supporten 
-
-
-Tizen
+Begrüßung zur 58ten Episode des Binärgewitter Podcast
+Begrüßung der NSA
+Shownotes Crowdsourcen
+Shownot.es Projekt
+Simon Waldherr
+„We want you for Shownotes“
+„Die Bundeswehr Marine holt die Bananen“
 
 
 
-News
+Toter der Woche 00:02:46
+
+Google Latitude 00:02:52
 
 
-Valve Software hat men Github Account
+Geofencing
+Es ist schon interessant zu wissen wo sich jemand befindet
+PRISM
+NSA
+„Kranke Technologien aus den Neunzigern“
+
+
+SOAP
+CORBA
+IPX
+
+
+Starcraft
+Command and Conquer
+Am 9 (Monat einfügen) ist Schluss mit Google Latitude
+Als Ersatz soll Google+ dienen
+Cronjob
+Moves
+KML
+Google hat einem wenigstens die Daten gegeben
+Endomondo
+Open Street Map
+My Tracks
+Fitbit
+
+
+
+Seth Vidal 00:11:41
+
+
+Yum
+
+
+yellowdog updater modified
+
+
+Yellow Dog Linux
+Power PC
+Sony Playstation 3 mit Linux
+IBM Power Linux
+Fedora
+Arch Linux
+SuSe Linux
+Red Hat Enterprise Linux
+Symlink
+Linux Verzeichnisstruktur
+Manjaro
+Python
+
+
+
+Untoter der Woche 00:17:00
+
+Open Leaks 00:17:05
+
+
+Daniel Domscheit Berg (der einzige hinter OpenLeaks)
+Endlich duerft ihr mit Mastercard Julien Assange supporten
+
+
+
+Tizen 00:17:57
+
+
+Intel (+Samsung) App Challenge (4 Millonen $)
+iOS Apps sind in Objectiv-C, Android Apps in Java
+
+
+Objectiv C
+Java
+
+
+Die Challenge wird viele halbfertige Apps hervorbringen
+„Mit Tizen Geld verdienen funktioniert auf jedem Fall“
+
+
+
+News 00:20:31
+
+Valve hat einen Github Account für SDKs 00:20:40
+
+
+und als Issue Tracker
+ID Software
+Debian Crash Report Sammlung der Carnegie Mellon University
 1200 exploitable crashes in Debian (in 22000 Projekten)
-Kein Urheberrechtsschutz für pr0n
-NSA baut kostenloses Cloud-Basiertes Backup
-Sähroboter
-Sky will Werbung in die Brains projezieren
+Carnegie Mellon University
+
+
+
+Kein Urheberrechtsschutz für pr0n 00:27:20
+
+
+Urheberrecht
+„Warum hast du eigentlich ne Maske auf?“
+„Keine Schöpfungshöhe“
+Marketingfail bei der NSA, NSA baut kostenloses Cloud-basiertes Backup
+
+
+
+Sähroboter 00:31:30
+
+
+Arduino
+Monsanto
+Nummer 5 lebt
+Wall-E
+Instructables
+
+
+
+Sky will Werbung in die Brains projizieren 00:34:29
+
+
+Subliminale Botschaften
 Github bring Release-Management
-Untertitelseite offline wegen Razia
-Oracle ändert Lizenz von BerkeleyDB zu AGPL
-Endlich saubere Energie!
-Firefox Phone in Dtl.
-Chrome 28 kommt mit Blink
-3D-Kopierer vom Discounter
 
 
+
+Untertitelseite offline wegen Razia 00:39:31
+
+
+Piratebay
+Flattr
+Undertexter
+„Unsere Shownotes Schreiber sind toll“
+
+
+
+Oracle ändert Lizenz von BerkeleyDB zu AGPL 00:42:45
+
+
+BerkeleyDB
+AGPL
+„Die Assi GPL wegforken“
+MySQL
+„Oracle hat keine Lust mehr, dass man ihre Software noch verwendet“
+Sleepycat Software
+
+
+
+Endlich saubere Energie! 00:45:27
+
+
+Thorium
+Fukushima Daiichi
+Tagesschau Meldung zu Fukushima
+Ex-Manager von Fukushima an Krebs gestorben
+
+
+
+Firefox Phone in Deutschland 00:48:00
+
+
+Alcatel one touch
+
+
+
+Chrome 28 kommt mit Blink 00:49:58
+
+
+Blink: A rendering engine for Chrome
+Chromium
+
+
+
+3D-Kopierer/Drucker vom Discounter 00:51:35
+
+
+Pearl
+Makerbot
+„Käse mit oder ohne Löcher drucken“
 Yo dawg I herd you like chicken nuggets
+Molekulares kochen
 
 
-FFmpeg mit opencl
+
+FFmpeg mit OpenCL 00:56:21
+
+
+Handbrake
+M-JPEG
 Der Sarkasmusdetektor, funktioniert bestimmt
 
 
 
-Lesefoo
+Lesefoo 01:02:13
+
+APIGeee Web API Design Ebook 01:02:36
 
 
-APIGeee Web API Design Ebook
-
-
+Suche über Google
 Richardson maturity model
 HTTP 2.0
+SPDY
+HTTP/1.1
+TCP
+Websockets
+EventSource
+HTTP 2.0 komprimiert auch die HTTP Header
+IPv6
 
 
-Benchmarking  Ruby Code
-A Statistical Analysis of Nerf Blasters and Darts
+
+Benchmarking  Ruby Code 01:14:18
+
+
+Der Blog Eintrag gibt einen guten Überblick
+Benchmark.bmbm
 
 
 
-Mimimi der Woche
+A Statistical Analysis of Nerf Blasters and Darts 01:15:25
+
+
+Sience mit Nerf Guns
+LaTeX
+Rule 34
+
+
+
+Mimimi der Woche 01:18:12
 
 
 Shownot.es Nutzung in Podcasts (pfleidi)
+Open Shownotes Format (OSF) - OSF in a nutshell
+Tools des Shownot.es Teams
 
 
-OSF in a nutshell
-Shownotes Format
-Binärgewitter Show-Pad
+ShowPad
+tinyOSF.js (OSF Parser in JS)
+shownot.es Wordpress Plugin
+(…)
+
+
+Die Shownot.es Tools ermöglichen die Ausgabe in verschiedenen Formaten
+
+
+Kapitelmarken (mp4chaps)
+HTML (verschiedene Styles)
+Markdown
+
+
+Shownot.es Flattr Page
+Binärgewitter Flattr Page
+Xenim
+„mehr Metadaten ist immer gut“
+Das Shownot.es Team teilt hiermit mit, dass die meisten Probleme bereits gefixt sind
 
 
 
-
-
-Picks
+Picks 01:30:25
 
 
 Bundeswehr beschützt die Bananen
-Bitcoin Miner gewinnen
+„Erst gabs Rosinenbomber, jetzt gibts Bananenzerstörer“
+Bitcoin Miner
+
+
+Butterfly Labs
+
+
 Gesundheit!
 Regex Visualisieren
-
-
 Regex Tester
-
-
 Badland
-Where ist my Water?
-Seeks - Decentralized Search and Filtering
-ixquick
-
-
-]]>
+Where ist my ...]]>
       </itunes:summary>
       <itunes:author>Binärgewitter Crew</itunes:author>
       <itunes:explicit>no</itunes:explicit>
