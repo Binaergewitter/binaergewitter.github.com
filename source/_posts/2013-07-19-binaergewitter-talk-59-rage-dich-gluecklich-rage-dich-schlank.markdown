@@ -16,16 +16,12 @@ Damit auch die NSA wieder zuhört viele tolle Begriffe gleich am Anfang. Wir ran
 
 ## A Blast from the Past
 
-- [Thorium Fluessigsalzreaktoren]
-- [Originalartikel letzte Woche: Finnland baut experimentellen Thoriumreaktor]( 
-http://www.extremetech.com/extreme/160131-thorium-nuclear-reactor-trial-begins-could-provide-cleaner-safer-almost-waste-free-energy )
- - [Wiki DE: Flüssigsalzreaktor]( 
-http://de.wikipedia.org/wiki/Flüssigsalzreaktor )
-- [Wiki EN: Liquid Thorium Reactor]( 
-http://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor )
+- Thorium Fluessigsalzreaktoren
+- [Originalartikel letzte Woche: Finnland baut experimentellen Thoriumreaktor]( http://www.extremetech.com/extreme/160131-thorium-nuclear-reactor-trial-begins-could-provide-cleaner-safer-almost-waste-free-energy )
+- [Wiki DE: Fluessigsalzreaktor]( http://de.wikipedia.org/wiki/Fl%C3%BCssigsalzreaktor )
+- [Wiki EN: Liquid Thorium Reactor]( http://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor )
 - [Anti Atom Piraten]( http://wiki.piratenpartei.de/AntiAtomPiraten/Argumente#Thorium-Fl.C3.BCssigsalz-Versuchsreaktor )
 - [Vice doku]( http://www.vice.com/motherboard/thorium-dream )
-
 
 ## Toter der Woche
 
