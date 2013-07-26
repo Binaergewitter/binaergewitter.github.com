@@ -380,7 +380,19 @@
         <loc>
             http://blog.binaergewitter.de/blog/2013/07/12/binaergewitter-talk-number-58-schoepfungshoehe-nicht-erreicht/
         </loc>
-        <lastmod>2013-07-16T08:30:18+02:00</lastmod>
+        <lastmod>2013-07-26T09:09:51+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://blog.binaergewitter.de/blog/2013/07/19/binaergewitter-talk-59-rage-dich-gluecklich-rage-dich-schlank/
+        </loc>
+        <lastmod>2013-07-26T09:03:03+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://blog.binaergewitter.de/blog/2013/07/26/binaergewitter-talk-number-60-ministerium-fuer-internetpornographie/
+        </loc>
+        <lastmod>2013-07-26T09:17:57+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/404.html</loc>
@@ -396,7 +408,7 @@
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/blog/archives/</loc>
-        <lastmod>2013-07-16T08:30:18+02:00</lastmod>
+        <lastmod>2013-07-26T09:17:57+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/impressum/</loc>
@@ -412,6 +424,6 @@
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/</loc>
-        <lastmod>2013-07-16T08:30:18+02:00</lastmod>
+        <lastmod>2013-07-26T09:17:57+02:00</lastmod>
     </url>
 </urlset>
