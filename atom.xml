@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-07-26T09:27:41+02:00</updated>
+  <updated>2013-08-02T11:36:44+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,179 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #61 - Linuscrisy]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy/"/>
+    <updated>2013-08-02T11:30:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy</id>
+    <content type="html"><![CDATA[<p>Trotz Sommerloch und Temperaturen jenseits der 30 Grad im Studio  senden wir fröhlich weiter. Diesmal ohne Marc aber mit Pfleidis Test des ResPi als Mediacenter und wir diskutieren über Dikaturen, Amazons
+Umgang mit Kunden und Überwachung der (eigenen) Kinder.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Herzschrittmacher-Hacker-Barnaby-Jack-stirbt-eine-Woche-vor-Black-Hat-Auftritt-1925016.html">Barnaby Jack</a></li>
+</ul>
+
+
+<h2>Tumblr der Woche</h2>
+
+<ul>
+<li><a href="http://lifeofastrangerwhostolemyphone.tumblr.com/">life of a stranger who stole my phone</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://blog.samuellevy.com/post/46-do-i-look-like-i-give-a-shit-public-licence.html">Die &#8216;Do I look like I give a shit&#8217; Lizenz</a></li>
+<li><a href="http://de.demo.openslides.org/projector/dashboard/">OpenSlides</a> via Eric</li>
+<li><a href="http://blog.gtvhacker.com/2013/chromecast-exploiting-the-newest-device-by-google/">Root-Shell auf Chromecast</a>
+
+<ul>
+<li><a href="http://wiki.gtvhacker.com/index.php/Google_Chromecast#Bootloader_Exploit_Package">Exploit</a></li>
+<li><a href="http://www.ifixit.com/Teardown/Chromecast+Teardown/16069/1%7C">iFixit Teardown</a></li>
+</ul>
+</li>
+<li><a href="http://tox.im/">Tox: Not Skype</a></li>
+<li><a href="http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data">Mehr NSA evil&#8217;ness - dieses mal XKeyscore</a></li>
+<li><a href="http://queue.acm.org/detail.cfm?id=2508864">Mehr verschluesselung ist nicht die Loesung (?)</a></li>
+<li><a href="http://www.theinquirer.net/inquirer/news/2285529/lenovo-banned-from-supplying-western-intelligence-services">Lenovo darf keine Geraete mehr an NSA et.al. verkaufen wegen backdoor verdacht</a></li>
+<li><a href="http://www.gulli.com/news/22116-amazon-schliesst-kunden-aus-die-zu-oft-ware-zuruecksenden-2013-07-31">Amazon schliesst Kunden aus die zu oft von ihrem rueckgaberecht gebrauch machen</a></li>
+<li><a href="http://www.chip.de/news/Filip-Kinder-Smartwatch-zur-Totalueberwachung_63319469.html">Endlich totalueberwachung fuer Kinder - &#8216;SmartWatch&#8217;</a></li>
+<li><a href="http://qz.com/108920/the-materials-breakthrough-that-might-lead-to-computers-thousands-of-times-faster/">Magnetit macht [bald] alle computer 1000 mal schneller nachdem Silizium physikalische grenzen erreicht hat</a></li>
+<li><a href="http://hg.python.org/peps/rev/fb24c80e9afb">Python PEP8 update</a></li>
+<li><a href="http://coreos.com/">CoreOS</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/07/man-gets-ransomware-porn-pop-up-turns-self-in-on-child-porn-charges/">Mann zeigt sich nach Ransomware Pop-up selbst an</a></li>
+<li><a href="http://torrentfreak.com/uk-porn-filter-will-censor-other-content-too-isps-reveal-130726/"><em>Überraschung</em> UK Ministerium für Internetpornografie will mehr als nur Porn zensieren</a>
+
+<ul>
+<li><a href="http://www.wired.co.uk/news/archive/2013-07/27/pornwall">Wired Artikel</a></li>
+<li><a href="https://www.openrightsgroup.org/blog/2013/sleepwalking-into-censorship"> Open Rights Group Artikel </a></li>
+</ul>
+</li>
+<li><a href="http://kotaku.com/how-chinese-ingenuity-destroyed-salad-bars-at-pizza-hut-834835079">Warum es in China keine Pizza Hut Salatbars mehr gibt</a></li>
+<li><a href="http://arstechnica.com/gadgets/2013/08/usb-3-1-spec-finalized-horns-in-on-thunderbolts-turf-with-10gbps-speeds/">USB 3.1 ist fertig</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Raspberry Pi als HTPC</h3>
+
+<h4>Probleme</h4>
+
+<ul>
+<li>Probleme den Update Server zu finden</li>
+<li>Schlechte audio Qualität über Klinke
+
+<ul>
+<li><a href="http://www.raspyfi.com/raspberry-pi-usb-audio-fix/">Audio Fix Post</a></li>
+<li><a href="http://docs.mopidy.com/en/latest/installation/raspberrypi/#fixing-audio-quality-issues">Fixing audio quality issues</a></li>
+<li><a href="https://github.com/Hexxeh/rpi-update">RPI Update Tool</a></li>
+<li>Alternativ: USB Audio interface</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Hardware</h4>
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B008PT4GGC?tag=pfleidi-21">Der Kuchencomputer</a></li>
+<li><a href="http://www.amazon.de/dp/B00A7BGXGW?tag=pfleidi-21">Gehäuse</a></li>
+<li><a href="http://www.amazon.de/dp/B008O7RH5C?tag=pfleidi-21">HDMI Adapter mit Audio</a></li>
+<li><a href="http://elinux.org/RPi_VerifiedPeripherals#Working_power_Adapters">Netzteile</a>
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B00B0ZNF5G?tag=pfleidi-21">pfleidi seines</a></li>
+</ul>
+</li>
+<li><a href="http://www.amazon.de/dp/B003MTTJOY?tag=pfleidi-21">USB Wifi Stick</a></li>
+<li><a href="http://www.amazon.de/dp/B000KTBF6Y?tag=pfleidi-21">Tesa Power Strips</a></li>
+</ul>
+
+
+<h4>Installation</h4>
+
+<ul>
+<li><a href="http://wiki.xbmc.org/?title=Raspberry_Pi">RP im XBMC Wiki</a></li>
+<li><a href="http://www.raspbmc.com/">Raspbmc</a></li>
+<li><a href="https://github.com/Hexxeh/rpi-update">RPI-Update</a></li>
+</ul>
+
+
+<h4>Fernbedienungen</h4>
+
+<ul>
+<li><a href="http://wiki.xbmc.org/index.php?title=Keyboard_controls">Keyboard Controls</a></li>
+<li><a href="http://learn.adafruit.com/using-an-ir-remote-with-a-raspberry-pi-media-center/hardware">RP mit Fernbedienung</a>
+
+<ul>
+<li><a href="http://aron.ws/projects/lirc_rpi/">Lirc GPIO Treiber</a></li>
+<li><a href="http://www.conrad.de/ce/de/product/171115/IR-Empfaenger-Modul-Vishay-TSOP-4838-Wellen-Laenge-950-nm">3,3V IR-Empfänger</a></li>
+<li><a href="http://forum.stmlabs.com/showthread.php?tid=1954">Weitere Anleitung</a></li>
+<li><a href="http://druss.pp.ua/2012/08/raspbmc-lirc-gpio-xbmc-en/">Und noch eine</a></li>
+<li><a href="http://www.pro-linux.de/artikel/2/1624/3,raspberry-pi-eine-erfolgsgeschichte.html">Eine auf deutsch</a></li>
+<li><a href="https://www.amazon.de/dp/B005G16098/?tag=krebsco-21">Logitech K400 Tastatur + Touchpad</a></li>
+</ul>
+</li>
+<li><a href="http://wiki.xbmc.org/index.php?title=Official_XBMC_Remote">XBMC Remote APP</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.mail-archive.com/dri-devel@lists.sourceforge.net/msg39091.html">Linus ueber git rebase</a></li>
+<li><a href="http://fasthorizon.blogspot.de/2013/07/the-script-kiddie-is-dead.html">The Script Kiddie is dead</a></li>
+<li><a href="http://www.ctrl-verlust.net/23andme-wie-ich-fur-todkrank-erklart-wurde-und-mich-wieder-gesund-debuggte/">Wie ich für todkrank erklärt wurde und mich wieder gesund debuggte</a></li>
+<li><a href="http://kestas.kuliukas.com/RainbowTables/">How Rainbow Tables work</a></li>
+<li><a href="https://www.amazon.de/dp/0465067107?tag=pfleidi-21">The design of everyday things</a></li>
+<li><a href="https://twitter.com/inschka/status/362856045359529985/photo/1">Face Palm der Woche: Homöopatisches Impfen</a></li>
+<li><a href="http://thedoghousediaries.com/5263">A Comprehensive List of things That Help me calm down [doghousediaries]</a></li>
+<li><a href="https://speakerdeck.com/dherman/rust-low-level-programming-without-the-segfaults">Rust: Low-level programming without the segfaults</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://kb.mozillazine.org/Transferring_data_to_a_new_profile_-_Thunderbird">Thunderbird Profil</a></li>
+<li><a href="http://blog.theoldreader.com/post/56798895350/desperate-times-call-for-desperate-measures">OldReader (schon wieder!)</a>[makefu]
+
+<ul>
+<li><a href="https://inoreader.com/">inoreader als alternative</a></li>
+</ul>
+</li>
+<li>Arch Linux benennt bei Upgrade /grub/menu.lst um</li>
+<li>1&amp;1 Server und IPv6</li>
+<li>DVB-T
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B005HPVWSM?tag=pfleidi-21">Xoro Receiver</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.laszlo.nu/post/553591402/how-to-kill-an-unresponsive-ssh-session">How to kill an unresponsive SSH Session</a></li>
+<li><a href="http://www.developerarguments.com/">Developer Arguments</a></li>
+<li><a href="http://imgur.com/a/8IrJ4">4chan /v/ Battle stations</a></li>
+<li><a href="https://gpgtools.org/#gpgsuite">GPG Mail</a></li>
+<li><a href="https://plus.google.com/photos/116848145484059011070/albums/5905970470721489169">Software terminology</a></li>
+<li><a href="https://github.com/lukas-vlcek/bigdesk/">Bigdesk</a></li>
+<li><a href="https://www.youtube.com/watch?v=q64hTNEj6KQ">Porn Sex vs Real Sex: The difference explained with food</a></li>
+<li><a href="http://vimeo.com/m/71278954">The future of programming</a></li>
+<li><a href="http://www.mobilegeeks.de/">Danke an Mobile Geeks fuers pluggen</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #60 - Ministerium für Internetpornographie]]></title>
@@ -2521,167 +2694,6 @@ Style&#8221;</a>
 <li><a href="http://www.kedisoft.com/totals/">Totals.app</a></li>
 <li><a href="http://divshot.github.com/geo-bootstrap/">Geo Skin fuer Bootstrap</a></li>
 <li><a href="http://www.distancetomars.com/">Distance to Mars</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #46 - Kim Jong Ilmages]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2013/03/29/binaergewitter-talk-number-46-kim-jong-ilmages/"/>
-    <updated>2013-03-29T20:20:00+01:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2013/03/29/binaergewitter-talk-number-46-kim-jong-ilmages</id>
-    <content type="html"><![CDATA[<p>Heute mal ohne Ingo aber mit Pfleidi, Felix und Jan und einer langen Sendung, die leider zwischen drin Technikprobleme hatte. Wir wünschen euch trotzdem ein tolles Osterfest. Baut Schneehasen und feiert
-ein bisschen oder esst euch an Hasen satt.</p>
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://ycorpblog.com/2013/03/25/yahoo-to-acquire-summly/">Yahoo kauft Summly für 30 Millionen $</a>, iOS app gibts nicht mehr. Artikel und Diskussionen dazu <a href="https://news.ycombinator.com/item?id=5442290">auf Hacker News</a>, und <a href="https://news.ycombinator.com/item?id=5445159">noch eine</a>
-
-<ul>
-<li>apropos&#8230;IRC Digest Bot</li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.cispaisback.org/">CISPA ist wieder da</a> – alle eure Mailadressen in die Petition eintragen!</li>
-<li><a href="http://www.osnews.com/story/26865/Samsung_s_future_is_Tizen_not_Android">Samsung setzt auf Tizen</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://fanboys.fm/drossel/">Pläne zur DSL Drosselung bei der Telekom</a></li>
-<li><a href="http://forecast.io/">Forecast.io</a></li>
-<li><a href="https://www.gnome.org/news/2013/03/gnome-3-8-released/">GNOME 3.8 released</a></li>
-<li><a href="http://www.golem.de/news/html5-unreal-engine-laeuft-nativ-im-browser-1303-98432.html">Unreal Engine läuft im Browser</a>, <a href="https://blog.mozilla.org/blog/2013/03/27/mozilla-is-unlocking-the-power-of-the-web-as-a-platform-for-gaming/">Mozilla Blog dazu</a></li>
-<li><a href="http://mrdoob.github.com/three.js/editor/">Three.js Editor</a></li>
-<li><a href="https://lwn.net/SubscriberLink/544347/d9c904117b4824d1/">Status.net Transition zu pump.io</a>, PHP -> node.js, mehr Infrastruktur
-
-<ul>
-<li><a href="https://openfarmgame.com/">Open Farm Game</a></li>
-</ul>
-</li>
-<li><a href="https://www.noisebridge.net/pipermail/noisebridge-discuss/2013-March/035494.html">Noisebridge darf nicht sterben</a></li>
-<li><a href="https://www.archlinux.org/news/mariadb-replaces-mysql-in-repositories/">Archlinux ersetzt MySQL mit MariaDB</a></li>
-</ul>
-
-
-<h3>Security Dinge</h3>
-
-<ul>
-<li><a href="http://venturebeat.com/2013/03/22/apple-password-flaw/">Apple Passwort Fail</a></li>
-<li><a href="http://hackaday.com/2013/03/23/html-link-tag-hack-sends-you-to-the-wrong-place/">HTML link tag hack</a></li>
-<li><a href="http://www.net-security.org/secworld.php?id=14651">Digitalkamera mit Wifi gehackt</a></li>
-<li><a href="http://www.gulli.com/news/21132-massive-ddos-angriffe-gegen-spamhaus-2013-03-27">Bislang groesster DDoS gegen Spamhaus</a></li>
-<li><a href="http://www.theregister.co.uk/2013/03/26/netbsd_crypto_bug/">Schwache NetBSD Keys</a></li>
-<li><a href="http://www.v3.co.uk/v3-uk/news/2258192/leaky-amazon-s3-buckets-put-thousands-of-company-secrets-at-risk">Leaky Amazon S3 buckets</a></li>
-<li><a href="http://9to5google.com/2013/03/25/faa-expected-to-allow-tablet-and-laptop-use-during-take-off-landing-this-year/">Endlich Laptops und Tablets beim Starten und Landen an lassen</a></li>
-<li><a href="http://www.shiotsu-used-car.com/blog/hitachi-selfdrivingroboticcar-ropits.htm">Self-driving Robotic Car ROPITS</a></li>
-<li><a href="http://www.neowin.net/news/ie11-to-appear-as-firefox-to-avoid-legacy-ie-css">IE11 gibt sich als Firefox aus</a></li>
-<li><a href="http://www.google.com/transparencyreport/removals/">Google Transparenzbericht</a></li>
-<li><a href="http://www.heise.de/open/meldung/Microsoft-wegen-Secure-Boot-verklagt-1830704.html">Microsoft wegen Secure Boot verklagt</a></li>
-<li><a href="http://slashdot.org/topic/cloud/massachusetts-considering-a-tax-on-the-cloud/">Massachusetts - We&#8217;ve gotta Tax &#8230;. THE CLOUD</a></li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<h3>Tools zur Verwaltung von Notizen</h3>
-
-<ul>
-<li><a href="http://www.cnn.com/2013/03/04/tech/web/evernote-hacked">Evernote hacked</a></li>
-<li><a href="http://www.dropbox.com/">Dropbox</a>
-
-<ul>
-<li>Drobox rendert Markdown beim verlinken von Dateien</li>
-</ul>
-</li>
-<li><a href="http://brettterpstra.com/projects/nvalt/">NvAlt</a>
-
-<ul>
-<li><a href="http://bettermess.com/nvalt-and-byword/">NvAlt + Byword</a></li>
-</ul>
-</li>
-<li><a href="http://taskwarrior.org/projects/show/taskwarrior">Taskwarrior Task</a></li>
-<li><a href="http://daringfireball.net/projects/markdown/">Markdown</a></li>
-<li><a href="http://markedapp.com/">Marked.app</a></li>
-<li><a href="http://markable.in/">Markable</a></li>
-<li><a href="http://notesy-app.com/">Notesy</a></li>
-<li><a href="https://github.com/itspriddle/vim-marked">Vim-marked</a></li>
-<li><a href="http://www.iawriter.com/mac/">iA Writer</a></li>
-<li><a href="http://markable.in/">Markable</a></li>
-<li><a href="http://brettterpstra.com/ios-text-editors/">iOS Text Editor Comparison</a></li>
-<li><a href="http://litewrite.net">Litewrite</a> ist ein simples web-app welches offline funktioniert (localStorage &amp; AppCache) und <a href="http://remotestorage.io">remoteStorage</a> für sync nutzt. Auch im <a href="https://chrome.google.com/webstore/detail/litewrite/cbdonnipllnmnkbmeopncohocjggmdkk">Chrome Web
-Store</a> (jan)</li>
-<li><a href="http://owncloud.org">ownCloud</a> hat auch ein Notes app in Entwicklung. Nutzt einfach Textdateien in einem »Notes«-Ordner, daher leicht über WebDAV synchronisierbar. (jan)</li>
-<li>zu Markdown: es gibt noch kein gescheites App mit gutem Inline-Markdown (Zeichen werden angezeigt, und Formatierung auch). Ist entweder nur sehr simples Syntaxhighlighting oder geteilt in edit / preview
-mode, wie z.B. bei <a href="http://epiceditor.com">Epic Editor</a>. Planen für Litewrite den <a href="http://codemirror.net/mode/markdown/index.html">CodeMirror Markdown mode</a> zu verbessern (jan)</li>
-<li><a href="https://write-box.appspot.com/">Writebox</a> Web-App für Notes, synct mit Google Drive oder Dropbox</li>
-<li><a href="https://drive.google.com/keep/">Google Keep</a>, haha ja ist klar Google</li>
-</ul>
-
-
-<h3>Design in open source (jan)</h3>
-
-<ul>
-<li><a href="https://blog.mozilla.org/ux/">Mozilla UX blog</a></li>
-<li><a href="http://design.canonical.com/">Ubuntu design blog</a></li>
-<li><a href="https://planet.gnome.org/ux/">GNOME UX planet</a></li>
-<li><a href="https://make.wordpress.org/ui/">Wordpress UI group</a></li>
-<li><a href="https://www.mediawiki.org/wiki/Design">Wikimedia design page</a></li>
-<li><a href="http://www.acquia.com/blog/design">Acquia design blog</a></li>
-<li><a href="https://owncloud.com/blog/category/community">ownCloud blog</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://www.paperplanes.de//2013/1/16/coffee-and-the-art-of-customer-happiness.html">Coffee and the art of customer happiness</a> (pfleidi)</li>
-<li><a href="https://joepie91.wordpress.com/2013/03/21/licensing-for-beginners/">Licensing for Beginners</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>SMS und Multisim (pfleidi)
-
-<ul>
-<li><a href="https://twitter.com/dhlpaket">@DHLPaket Support</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.apple.com/iphone/icloud/#find">Find my iPhone</a> (pfleidi)</li>
-<li><a href="http://conversat.io/binaergewitter">conversat.io: Hangout mit WebRTC</a> (jan)</li>
-<li><a href="http://labs.echonest.com/Uploader/index.html">Infinite Jukebox</a></li>
-<li><a href="http://monosnap.com/">Monosnap</a> (pfleidi)</li>
-<li><a href="https://getmyo.com/">Myo: Gesture Control Armband</a> aus YCombinator Winter batch</li>
-<li><a href="http://www.gar1t.com/blog/2013/03/21/erlang-the-movie-ii-the-sequel/">Erlang the movie II the sequel</a></li>
-<li><a href="http://www.elezea.com/">Elezea</a> und <a href="http://ignorethecode.net/blog/">Ignore the Code</a> (jan)</li>
-<li><a href="http://forkmydongle.com/">Fork my Dongle</a></li>
-<li><a href="http://github.com/jancborchardt/hackercouch">Hacker Couch</a> – forkt es und packt eure Couch rein! (jan)</li>
-<li><a href="https://github.com/garbas/vim-snipmate">snipmate-vim</a>
-
-<ul>
-<li><a href="https://github.com/honza/snipmate-snippets">Snippets Repo</a></li>
-<li>Markdown snippets etc.</li>
-</ul>
-</li>
-<li><a href="http://www.reddit.com/r/tldr">reddit TL;DR</a> (jan)</li>
-<li><a href="http://hackershelf.com/browse/">The Hacker Shelf</a> (jan)</li>
 </ul>
 
 ]]></content>

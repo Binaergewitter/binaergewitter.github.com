@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 26 Jul 2013 09:27:41 +0200</lastBuildDate>
-    <atom:updated>2013-07-26T09:27:41+02:00</atom:updated>
+    <lastBuildDate>Fri, 02 Aug 2013 11:36:44 +0200</lastBuildDate>
+    <atom:updated>2013-08-02T11:36:44+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,384 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #61 - Linuscrisy</title>
+      <link>http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy/#comments</comments>
+      <pubDate>Fri, 02 Aug 2013 11:30:00 +0200</pubDate>
+      <atom:updated>2013-08-02T11:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F08%2F02%2Fbinaergewitter-talk-number-61-linuscrisy%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2361%20-%20Linuscrisy&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy</guid>
+      
+      <description>
+        <![CDATA[<p>Trotz Sommerloch und Temperaturen jenseits der 30 Grad im Studio  senden wir fröhlich weiter. Diesmal ohne Marc aber mit Pfleidis Test des ResPi als Mediacenter und wir diskutieren über Dikaturen, Amazons
+Umgang mit Kunden und Überwachung der (eigenen) Kinder.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Herzschrittmacher-Hacker-Barnaby-Jack-stirbt-eine-Woche-vor-Black-Hat-Auftritt-1925016.html">Barnaby Jack</a></li>
+</ul>
+
+
+<h2>Tumblr der Woche</h2>
+
+<ul>
+<li><a href="http://lifeofastrangerwhostolemyphone.tumblr.com/">life of a stranger who stole my phone</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://blog.samuellevy.com/post/46-do-i-look-like-i-give-a-shit-public-licence.html">Die 'Do I look like I give a shit' Lizenz</a></li>
+<li><a href="http://de.demo.openslides.org/projector/dashboard/">OpenSlides</a> via Eric</li>
+<li><a href="http://blog.gtvhacker.com/2013/chromecast-exploiting-the-newest-device-by-google/">Root-Shell auf Chromecast</a>
+
+<ul>
+<li><a href="http://wiki.gtvhacker.com/index.php/Google_Chromecast#Bootloader_Exploit_Package">Exploit</a></li>
+<li><a href="http://www.ifixit.com/Teardown/Chromecast+Teardown/16069/1%7C">iFixit Teardown</a></li>
+</ul>
+</li>
+<li><a href="http://tox.im/">Tox: Not Skype</a></li>
+<li><a href="http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data">Mehr NSA evil'ness - dieses mal XKeyscore</a></li>
+<li><a href="http://queue.acm.org/detail.cfm?id=2508864">Mehr verschluesselung ist nicht die Loesung (?)</a></li>
+<li><a href="http://www.theinquirer.net/inquirer/news/2285529/lenovo-banned-from-supplying-western-intelligence-services">Lenovo darf keine Geraete mehr an NSA et.al. verkaufen wegen backdoor verdacht</a></li>
+<li><a href="http://www.gulli.com/news/22116-amazon-schliesst-kunden-aus-die-zu-oft-ware-zuruecksenden-2013-07-31">Amazon schliesst Kunden aus die zu oft von ihrem rueckgaberecht gebrauch machen</a></li>
+<li><a href="http://www.chip.de/news/Filip-Kinder-Smartwatch-zur-Totalueberwachung_63319469.html">Endlich totalueberwachung fuer Kinder - 'SmartWatch'</a></li>
+<li><a href="http://qz.com/108920/the-materials-breakthrough-that-might-lead-to-computers-thousands-of-times-faster/">Magnetit macht [bald] alle computer 1000 mal schneller nachdem Silizium physikalische grenzen erreicht hat</a></li>
+<li><a href="http://hg.python.org/peps/rev/fb24c80e9afb">Python PEP8 update</a></li>
+<li><a href="http://coreos.com/">CoreOS</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/07/man-gets-ransomware-porn-pop-up-turns-self-in-on-child-porn-charges/">Mann zeigt sich nach Ransomware Pop-up selbst an</a></li>
+<li><a href="http://torrentfreak.com/uk-porn-filter-will-censor-other-content-too-isps-reveal-130726/"><em>Überraschung</em> UK Ministerium für Internetpornografie will mehr als nur Porn zensieren</a>
+
+<ul>
+<li><a href="http://www.wired.co.uk/news/archive/2013-07/27/pornwall">Wired Artikel</a></li>
+<li><a href="https://www.openrightsgroup.org/blog/2013/sleepwalking-into-censorship"> Open Rights Group Artikel </a></li>
+</ul>
+</li>
+<li><a href="http://kotaku.com/how-chinese-ingenuity-destroyed-salad-bars-at-pizza-hut-834835079">Warum es in China keine Pizza Hut Salatbars mehr gibt</a></li>
+<li><a href="http://arstechnica.com/gadgets/2013/08/usb-3-1-spec-finalized-horns-in-on-thunderbolts-turf-with-10gbps-speeds/">USB 3.1 ist fertig</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Raspberry Pi als HTPC</h3>
+
+<h4>Probleme</h4>
+
+<ul>
+<li>Probleme den Update Server zu finden</li>
+<li>Schlechte audio Qualität über Klinke
+
+<ul>
+<li><a href="http://www.raspyfi.com/raspberry-pi-usb-audio-fix/">Audio Fix Post</a></li>
+<li><a href="http://docs.mopidy.com/en/latest/installation/raspberrypi/#fixing-audio-quality-issues">Fixing audio quality issues</a></li>
+<li><a href="https://github.com/Hexxeh/rpi-update">RPI Update Tool</a></li>
+<li>Alternativ: USB Audio interface</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Hardware</h4>
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B008PT4GGC?tag=pfleidi-21">Der Kuchencomputer</a></li>
+<li><a href="http://www.amazon.de/dp/B00A7BGXGW?tag=pfleidi-21">Gehäuse</a></li>
+<li><a href="http://www.amazon.de/dp/B008O7RH5C?tag=pfleidi-21">HDMI Adapter mit Audio</a></li>
+<li><a href="http://elinux.org/RPi_VerifiedPeripherals#Working_power_Adapters">Netzteile</a>
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B00B0ZNF5G?tag=pfleidi-21">pfleidi seines</a></li>
+</ul>
+</li>
+<li><a href="http://www.amazon.de/dp/B003MTTJOY?tag=pfleidi-21">USB Wifi Stick</a></li>
+<li><a href="http://www.amazon.de/dp/B000KTBF6Y?tag=pfleidi-21">Tesa Power Strips</a></li>
+</ul>
+
+
+<h4>Installation</h4>
+
+<ul>
+<li><a href="http://wiki.xbmc.org/?title=Raspberry_Pi">RP im XBMC Wiki</a></li>
+<li><a href="http://www.raspbmc.com/">Raspbmc</a></li>
+<li><a href="https://github.com/Hexxeh/rpi-update">RPI-Update</a></li>
+</ul>
+
+
+<h4>Fernbedienungen</h4>
+
+<ul>
+<li><a href="http://wiki.xbmc.org/index.php?title=Keyboard_controls">Keyboard Controls</a></li>
+<li><a href="http://learn.adafruit.com/using-an-ir-remote-with-a-raspberry-pi-media-center/hardware">RP mit Fernbedienung</a>
+
+<ul>
+<li><a href="http://aron.ws/projects/lirc_rpi/">Lirc GPIO Treiber</a></li>
+<li><a href="http://www.conrad.de/ce/de/product/171115/IR-Empfaenger-Modul-Vishay-TSOP-4838-Wellen-Laenge-950-nm">3,3V IR-Empfänger</a></li>
+<li><a href="http://forum.stmlabs.com/showthread.php?tid=1954">Weitere Anleitung</a></li>
+<li><a href="http://druss.pp.ua/2012/08/raspbmc-lirc-gpio-xbmc-en/">Und noch eine</a></li>
+<li><a href="http://www.pro-linux.de/artikel/2/1624/3,raspberry-pi-eine-erfolgsgeschichte.html">Eine auf deutsch</a></li>
+<li><a href="https://www.amazon.de/dp/B005G16098/?tag=krebsco-21">Logitech K400 Tastatur + Touchpad</a></li>
+</ul>
+</li>
+<li><a href="http://wiki.xbmc.org/index.php?title=Official_XBMC_Remote">XBMC Remote APP</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.mail-archive.com/dri-devel@lists.sourceforge.net/msg39091.html">Linus ueber git rebase</a></li>
+<li><a href="http://fasthorizon.blogspot.de/2013/07/the-script-kiddie-is-dead.html">The Script Kiddie is dead</a></li>
+<li><a href="http://www.ctrl-verlust.net/23andme-wie-ich-fur-todkrank-erklart-wurde-und-mich-wieder-gesund-debuggte/">Wie ich für todkrank erklärt wurde und mich wieder gesund debuggte</a></li>
+<li><a href="http://kestas.kuliukas.com/RainbowTables/">How Rainbow Tables work</a></li>
+<li><a href="https://www.amazon.de/dp/0465067107?tag=pfleidi-21">The design of everyday things</a></li>
+<li><a href="https://twitter.com/inschka/status/362856045359529985/photo/1">Face Palm der Woche: Homöopatisches Impfen</a></li>
+<li><a href="http://thedoghousediaries.com/5263">A Comprehensive List of things That Help me calm down [doghousediaries]</a></li>
+<li><a href="https://speakerdeck.com/dherman/rust-low-level-programming-without-the-segfaults">Rust: Low-level programming without the segfaults</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://kb.mozillazine.org/Transferring_data_to_a_new_profile_-_Thunderbird">Thunderbird Profil</a></li>
+<li><a href="http://blog.theoldreader.com/post/56798895350/desperate-times-call-for-desperate-measures">OldReader (schon wieder!)</a>[makefu]
+
+<ul>
+<li><a href="https://inoreader.com/">inoreader als alternative</a></li>
+</ul>
+</li>
+<li>Arch Linux benennt bei Upgrade /grub/menu.lst um</li>
+<li>1&amp;1 Server und IPv6</li>
+<li>DVB-T
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B005HPVWSM?tag=pfleidi-21">Xoro Receiver</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.laszlo.nu/post/553591402/how-to-kill-an-unresponsive-ssh-session">How to kill an unresponsive SSH Session</a></li>
+<li><a href="http://www.developerarguments.com/">Developer Arguments</a></li>
+<li><a href="http://imgur.com/a/8IrJ4">4chan /v/ Battle stations</a></li>
+<li><a href="https://gpgtools.org/#gpgsuite">GPG Mail</a></li>
+<li><a href="https://plus.google.com/photos/116848145484059011070/albums/5905970470721489169">Software terminology</a></li>
+<li><a href="https://github.com/lukas-vlcek/bigdesk/">Bigdesk</a></li>
+<li><a href="https://www.youtube.com/watch?v=q64hTNEj6KQ">Porn Sex vs Real Sex: The difference explained with food</a></li>
+<li><a href="http://vimeo.com/m/71278954">The future of programming</a></li>
+<li><a href="http://www.mobilegeeks.de/">Danke an Mobile Geeks fuers pluggen</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.m4a"
+        length="78494117"
+        type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.m4a"
+        fileSize="78494117"
+        type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #61 - Linuscrisy</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Trotz Sommerloch und Temperaturen jenseits der 30 Grad im Studio  senden wir fröhlich weiter. Diesmal ohne Marc aber mit Pfleidis Test des ResPi als Mediacenter und wir diskutieren über Dikaturen, Amazons
+Umgang mit Kunden und Überwachung der (eigenen) Kinder.
+
+Toter der Woche
+
+
+Barnaby Jack
+
+
+
+Tumblr der Woche
+
+
+life of a stranger who stole my phone
+
+
+
+News
+
+
+Die 'Do I look like I give a shit' Lizenz
+OpenSlides via Eric
+Root-Shell auf Chromecast
+
+
+Exploit
+iFixit Teardown
+
+
+Tox: Not Skype
+Mehr NSA evil'ness - dieses mal XKeyscore
+Mehr verschluesselung ist nicht die Loesung (?)
+Lenovo darf keine Geraete mehr an NSA et.al. verkaufen wegen backdoor verdacht
+Amazon schliesst Kunden aus die zu oft von ihrem rueckgaberecht gebrauch machen
+Endlich totalueberwachung fuer Kinder - 'SmartWatch'
+Magnetit macht [bald] alle computer 1000 mal schneller nachdem Silizium physikalische grenzen erreicht hat
+Python PEP8 update
+CoreOS
+Mann zeigt sich nach Ransomware Pop-up selbst an
+Überraschung UK Ministerium für Internetpornografie will mehr als nur Porn zensieren
+
+
+Wired Artikel
+ Open Rights Group Artikel 
+
+
+Warum es in China keine Pizza Hut Salatbars mehr gibt
+USB 3.1 ist fertig
+
+
+
+Themen
+
+Raspberry Pi als HTPC
+
+Probleme
+
+
+Probleme den Update Server zu finden
+Schlechte audio Qualität über Klinke
+
+
+Audio Fix Post
+Fixing audio quality issues
+RPI Update Tool
+Alternativ: USB Audio interface
+
+
+
+
+
+Hardware
+
+
+Der Kuchencomputer
+Gehäuse
+HDMI Adapter mit Audio
+Netzteile
+
+
+pfleidi seines
+
+
+USB Wifi Stick
+Tesa Power Strips
+
+
+
+Installation
+
+
+RP im XBMC Wiki
+Raspbmc
+RPI-Update
+
+
+
+Fernbedienungen
+
+
+Keyboard Controls
+RP mit Fernbedienung
+
+
+Lirc GPIO Treiber
+3,3V IR-Empfänger
+Weitere Anleitung
+Und noch eine
+Eine auf deutsch
+Logitech K400 Tastatur + Touchpad
+
+
+XBMC Remote APP
+
+
+
+Lesefoo
+
+
+Linus ueber git rebase
+The Script Kiddie is dead
+Wie ich für todkrank erklärt wurde und mich wieder gesund debuggte
+How Rainbow Tables work
+The design of everyday things
+Face Palm der Woche: Homöopatisches Impfen
+A Comprehensive List of things That Help me calm down [doghousediaries]
+Rust: Low-level programming without the segfaults
+
+
+
+Mimimi der Woche
+
+
+Thunderbird Profil
+OldReader (schon wieder!)[makefu]
+
+
+inoreader als alternative
+
+
+Arch Linux benennt bei Upgrade /grub/menu.lst um
+1&amp;1 Server und IPv6
+DVB-T
+
+
+Xoro Receiver
+
+
+
+
+
+Picks
+
+
+How to kill an unresponsive SSH Session
+Developer Arguments
+4chan /v/ Battle stations
+GPG Mail
+Software terminology
+Bigdesk
+Porn Sex vs Real Sex: The difference explained with food
+The future of programming
+Danke an Mobile Geeks fuers pluggen
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
@@ -10309,312 +10687,6 @@ TryStack
 Ethercalc
 Thor (pfleidi)
 Bus Werbung (DasWort)
-
-
-]]>
-      </itunes:summary>
-      <itunes:author>Binärgewitter Crew</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-    </item>
-    
-    
-    <item>
-      <title>Binärgewitter Talk #31 - Pfleidi hol die Pilze</title>
-      <link>http://blog.binaergewitter.de/blog/2012/11/10/binaergewitter-talk-number-31-pfleidi-hol-die-pilze/</link>
-      <comments>http://blog.binaergewitter.de/blog/2012/11/10/binaergewitter-talk-number-31-pfleidi-hol-die-pilze/#comments</comments>
-      <pubDate>Sat, 10 Nov 2012 00:15:00 +0100</pubDate>
-      <atom:updated>2012-11-10T00:15:00+01:00</atom:updated>
-
-      
-      
-      <atom:link rel="payment"
-        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F11%2F10%2Fbinaergewitter-talk-number-31-pfleidi-hol-die-pilze%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2331%20-%20Pfleidi%20hol%20die%20Pilze&amp;category=audio&amp;tags=podcast,tech,software"
-        type="text/html"
-      />
-
-      
-
-      
-      <category><![CDATA[talk]]></category>
-      
-
-      <media:credit role="author">Binärgewitter Crew</media:credit>
-      <media:rating>nonadult</media:rating>
-      
-      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/11/10/binaergewitter-talk-number-31-pfleidi-hol-die-pilze</guid>
-      
-      <description>
-        <![CDATA[<h1>Kategorie der Woche</h1>
-
-<h2>Papagei der Woche</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/science/2012/11/parrot-in-captivity-manufactures-tools-something-not-seen-in-the-wild/">Papagei nuzt Werkzeuge</a></li>
-<li><a href="https://lh4.googleusercontent.com/-yoaN7movr4g/UClREFEGD2I/AAAAAAABIy8/W_l7Za9I_Sc/s480/My+First+Project-new.gif">Runner-Up</a></li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://lists.grok.org.uk/pipermail/full-disclosure/2012-November/088813.html">Sophos Full Disclosure</a> (rb2k)
-
-<ul>
-<li><a href="http://www.cso.com.au/article/441070/google_security_researcher_keep_sophos_away_from_high_value_systems/">Felix sein Link</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li>Enlightenment / E17</li>
-<li><a href="http://www.muktware.com/4760/half-life-3-linux-exclusive">HalfLife 3 auf Gnu Hurd</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://www.cultofmac.com/198521/the-yatcht-steve-jobs-designed-with-philippe-starck-has-finally-been-unveiled/">Die Yacht von Steve Jobs (IPhallus)</a></li>
-<li><a href="http://news.cnet.com/8301-17852_3-57541847-71/microsofts-picture-password-ad-intriguing-or-confusing/">Microsoft picture-password</a></li>
-<li><a href="http://www.microsoft.com/Surface/en-US/support/surface-with-windows-RT/files-folders-and-online-storage/surface-disk-space-faq">Surface Diskspace FAQ</a> (rb2k)</li>
-<li><a href="http://news.ycombinator.net/item?id=4736448">US Government: You Don't Own Your Cloud Data So We Can Access It At Any Time</a></li>
-<li><a href="http://www.golem.de/news/microsoft-dem-windows-live-messenger-droht-das-aus-1211-95533.html">MS will Live messenger zu gunsten von Skype abschalten</a></li>
-<li><a href="http://news.ycombinator.net/item?id=4716322">Markdown: The Spec</a></li>
-<li><a href="http://elm-lang.org/learn/Escape-from-Callback-Hell.elm">Escape from Callback Hell</a></li>
-<li><a href="http://www.itproportal.com/2012/11/01/online-security-tips-a-password-manager-alone-isnt-enough/">A Password manager is not enough?</a></li>
-<li>ARM statt Intel bei Apple</li>
-<li><a href="http://gamelab.mit.edu/games/a-slower-speed-of-light/">A Slower Speed of Light</a></li>
-<li><a href="http://arstechnica.com/tech-policy/2012/11/do-not-track-finally-arrives-with-version-23-of-chrome/">DNT in Chrome</a></li>
-<li><a href="http://www.networkworld.com/news/2012/110712-security-experts-push-back-at-264036.html">Der Cyber 9/11</a>
-
-<ul>
-<li><a href="http://vimeo.com/46717788">Pac-Man - The Movie</a></li>
-</ul>
-</li>
-<li><a href="http://science.slashdot.org/story/12/11/06/2325234/hiv-vaccine-safe-enough-to-pass-phase-1-human-trials">HIV Vaccine</a></li>
-<li><a href="http://what-if.xkcd.com/18/">XKCD What-IF: BB Gun</a></li>
-<li><a href="http://arstechnica.com/business/2012/11/kim-dotcom-now-plans-to-give-new-zealand-free-broadband-pipe-to-us/">Unterseekabel und freies Internets fuer Neuseeland</a></li>
-<li><a href="http://www.h-online.com/security/news/item/German-Customs-Investigation-Bureau-seeks-trojan-programmers-1743025.html">Deutsche Regierung sucht mal wieder Trojaner-Coder</a></li>
-<li><a href="http://www.informationweek.com/security/attacks/hackers-trade-tips-on-ddos-sql-injection/240012531">Hackers Trade Tips on DDoS,SQL Injection</a>
-
-<ul>
-<li><a href="http://www.theregister.co.uk/2012/11/08/hard_token_in_credit_card/">Alternativer Link</a></li>
-</ul>
-</li>
-<li><a href="https://www.archlinux.org/news/end-of-initscripts-support/">Archlinux: End of initscripts</a></li>
-<li><a href="http://arstechnica.com/gaming/2012/10/walt-disney-buys-lucasfilm-promises-star-wars-episode-7-in-2015/">Walt Disney kauft Lucasfilms</a></li>
-<li><a href="https://lh4.googleusercontent.com/-8MAw_UJERYw/UJBAppoOOXI/AAAAAAAAYfg/WH077Gamz9M/s500/tumblr_mc7lqvKn4d1ri1fcro1_500.gif">Star Wars Preview</a></li>
-<li><a href="http://www.androidpolice.com/2012/11/07/google-nexus-4-review-the-beautifully-crafted-premium-flagship-phone-that-android-deserves/">Google Nexus 4 Review</a> (rb2k)
-
-<ul>
-<li><a href="https://play.google.com/store/apps/details?id=de.danoeh.antennapod">antennapod</a></li>
-</ul>
-</li>
-<li><a href="http://arstechnica.com/gadgets/2012/11/google-wallet-may-integrate-programmable-payment-cards/">Google Wallet jetzt HartToken</a> (felix)</li>
-<li><a href="http://whitepeoplemourningromney.tumblr.com/">White people mourning Romney</a> (rb2k)</li>
-<li><a href="https://blog.mozilla.org/ux/2012/10/save-for-later/">Firefox :Save For Later</a></li>
-<li><a href="http://accumulo.apache.org/">Apache Accmulo</a> (rb2k)</li>
-<li><a href="http://blog.gittip.com/post/35057426257/stolen-money-on-gittip-part-1">Stolen money on Gittip</a> (felix)</li>
-<li><a href="http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/46348">Ruby 2.0.0-preview1</a>
-
-<ul>
-<li><a href="http://globaldev.co.uk/2012/11/ruby-2-0-0-preview-features/">features</a> (rb2k)</li>
-</ul>
-</li>
-<li><a href="http://www.haystacksoftware.com/blog/2012/11/arq-cloud-backup-for-mac-adds-support-for-amazon-glacier/">Arq 3 kann nun Amazon Glacier</a> (rb2k)</li>
-<li><a href="http://www.heise.de/open/meldung/Steam-fuer-Linux-startet-im-Betatest-1744961.html">Steam für Linux</a>
-
-<ul>
-<li><a href="http://www.heise.de/open/meldung/Nvidia-Neuer-Linux-Treiber-fuer-mehr-Leistung-beim-Spielen-1745377.html">neue Nvidia Treiber für Linux</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://www.wired.com/wired/archive/4.12/ffglass_pr.html">Neal Stephenson - Mother earth, mother board</a> (pfleidi)</li>
-<li><a href="http://web.mit.edu/snikolov/Public/trend.pdf">Trend or No Trend: A Novel Nonparametric Method for Classifying Time Series</a> (rb2k)</li>
-<li><a href="http://blog.cloudflare.com/why-google-went-offline-today-and-a-bit-about">Why Google Went Offline Today and a Bit about How the Internet Works</a> (rb2k)</li>
-<li><a href="http://abstractstrategygames.blogspot.de/2010/10/singularity-chess.html">Singularity Chess</a></li>
-<li><a href="http://physics.nyu.edu/grierlab/conveyor7c/">Tractor Beams are Real</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>continue</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.kaffeewiki.de/">Kaffee Wiki</a> (pfeidi)</li>
-<li><a href="http://www.asofterworld.com/index.php?id=891">A Softer World: 891</a></li>
-<li><a href="https://www.amazon.de/dp/B008F4W0DS/ref=as_li_ss_til?tag=pfleidi-21">Touchscreen Handschuhe</a> (pfleidi)</li>
-<li><a href="http://www.kickstarter.com/projects/145553614/star-trek-renegades">Kickstarter Star Trek</a>
-
-<ul>
-<li><a href="http://nkdev.de/misc/kaffee2.jpg">Kaffee ist wichtig!</a></li>
-</ul>
-</li>
-<li><a href="http://www.reddit.com/r/fossworldproblems">Foss world problems</a></li>
-<li><a href="http://qubes-os.org/Home.html">Qubes OS</a></li>
-<li><a href="http://www.imdb.com/title/tt1371111/">Cloud Atlas</a> (pfleidi)</li>
-<li><a href="http://www.pornkins.com/store">Pornkins</a></li>
-<li><a href="http://2012.jsconf.eu/speaker/2012/08/24/inspector-web-and-the-mystery-of-the-shadow-dom.html">Inspector web and the mystery of the shadow DOM</a> (pfleidi)</li>
-<li><a href="http://terriblelinuxwallpaper.tumblr.com/">Terrible Linux Wallpapers</a> via daswort</li>
-<li><a href="http://de.wikipedia.org/wiki/Castle_%28Fernsehserie%29">Castle</a></li>
-</ul>
-
-]]>
-      </description>
-      
-      
-      
-      <enclosure url="http://download.binaergewitter.de/2012-11-08.Binaergewitter.Talk.31.m4a"
-        length="63124248"
-        type="audio/mpeg" />
-      <media:content url="http://download.binaergewitter.de/2012-11-08.Binaergewitter.Talk.31.m4a"
-        fileSize="63124248"
-        type="audio/mpeg" />
-      <itunes:keywords></itunes:keywords>
-      <itunes:subtitle>Binärgewitter Talk #31 - Pfleidi hol die Pilze</itunes:subtitle>
-      <itunes:summary>
-        <![CDATA[Kategorie der Woche
-
-Papagei der Woche
-
-
-Papagei nuzt Werkzeuge
-Runner-Up
-
-
-
-Toter der Woche
-
-
-Sophos Full Disclosure (rb2k)
-
-
-Felix sein Link
-
-
-
-
-
-Untoter der Woche
-
-
-Enlightenment / E17
-HalfLife 3 auf Gnu Hurd
-
-
-
-News
-
-
-Die Yacht von Steve Jobs (IPhallus)
-Microsoft picture-password
-Surface Diskspace FAQ (rb2k)
-US Government: You Don't Own Your Cloud Data So We Can Access It At Any Time
-MS will Live messenger zu gunsten von Skype abschalten
-Markdown: The Spec
-Escape from Callback Hell
-A Password manager is not enough?
-ARM statt Intel bei Apple
-A Slower Speed of Light
-DNT in Chrome
-Der Cyber 9/11
-
-
-Pac-Man - The Movie
-
-
-HIV Vaccine
-XKCD What-IF: BB Gun
-Unterseekabel und freies Internets fuer Neuseeland
-Deutsche Regierung sucht mal wieder Trojaner-Coder
-Hackers Trade Tips on DDoS,SQL Injection
-
-
-Alternativer Link
-
-
-Archlinux: End of initscripts
-Walt Disney kauft Lucasfilms
-Star Wars Preview
-Google Nexus 4 Review (rb2k)
-
-
-antennapod
-
-
-Google Wallet jetzt HartToken (felix)
-White people mourning Romney (rb2k)
-Firefox :Save For Later
-Apache Accmulo (rb2k)
-Stolen money on Gittip (felix)
-Ruby 2.0.0-preview1
-
-
-features (rb2k)
-
-
-Arq 3 kann nun Amazon Glacier (rb2k)
-Steam für Linux
-
-
-neue Nvidia Treiber für Linux
-
-
-
-
-
-Lesefoo
-
-
-Neal Stephenson - Mother earth, mother board (pfleidi)
-Trend or No Trend: A Novel Nonparametric Method for Classifying Time Series (rb2k)
-Why Google Went Offline Today and a Bit about How the Internet Works (rb2k)
-Singularity Chess
-Tractor Beams are Real
-
-
-
-Mimimi der Woche
-
-
-continue
-
-
-
-Picks
-
-
-Kaffee Wiki (pfeidi)
-A Softer World: 891
-Touchscreen Handschuhe (pfleidi)
-Kickstarter Star Trek
-
-
-Kaffee ist wichtig!
-
-
-Foss world problems
-Qubes OS
-Cloud Atlas (pfleidi)
-Pornkins
-Inspector web and the mystery of the shadow DOM (pfleidi)
-Terrible Linux Wallpapers via daswort
-Castle
 
 
 ]]>

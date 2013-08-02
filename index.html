@@ -9,7 +9,7 @@
   <meta name="author" content="Binärgewitter Crew">
 
   
-  <meta name="description" content="In der Ausgabe 210 oder 60 AT beschäftigen wir uns mit Schmuddelbildern im Internet, weil die gesperrt werden außerdem gehts um die neuen Google ...">
+  <meta name="description" content="Trotz Sommerloch und Temperaturen jenseits der 30 Grad im Studio senden wir fröhlich weiter. Diesmal ohne Marc aber mit Pfleidis Test des ResPi als ...">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -87,6 +87,250 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy/">Binärgewitter Talk #61 - Linuscrisy</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-08-02T11:30:00+02:00" pubdate data-updated="true">02.08.2013</time>
+        
+         | <a href="/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Trotz Sommerloch und Temperaturen jenseits der 30 Grad im Studio  senden wir fröhlich weiter. Diesmal ohne Marc aber mit Pfleidis Test des ResPi als Mediacenter und wir diskutieren über Dikaturen, Amazons
+Umgang mit Kunden und Überwachung der (eigenen) Kinder.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Herzschrittmacher-Hacker-Barnaby-Jack-stirbt-eine-Woche-vor-Black-Hat-Auftritt-1925016.html">Barnaby Jack</a></li>
+</ul>
+
+
+<h2>Tumblr der Woche</h2>
+
+<ul>
+<li><a href="http://lifeofastrangerwhostolemyphone.tumblr.com/">life of a stranger who stole my phone</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://blog.samuellevy.com/post/46-do-i-look-like-i-give-a-shit-public-licence.html">Die &#8216;Do I look like I give a shit&#8217; Lizenz</a></li>
+<li><a href="http://de.demo.openslides.org/projector/dashboard/">OpenSlides</a> via Eric</li>
+<li><a href="http://blog.gtvhacker.com/2013/chromecast-exploiting-the-newest-device-by-google/">Root-Shell auf Chromecast</a>
+
+<ul>
+<li><a href="http://wiki.gtvhacker.com/index.php/Google_Chromecast#Bootloader_Exploit_Package">Exploit</a></li>
+<li><a href="http://www.ifixit.com/Teardown/Chromecast+Teardown/16069/1%7C">iFixit Teardown</a></li>
+</ul>
+</li>
+<li><a href="http://tox.im/">Tox: Not Skype</a></li>
+<li><a href="http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data">Mehr NSA evil&#8217;ness - dieses mal XKeyscore</a></li>
+<li><a href="http://queue.acm.org/detail.cfm?id=2508864">Mehr verschluesselung ist nicht die Loesung (?)</a></li>
+<li><a href="http://www.theinquirer.net/inquirer/news/2285529/lenovo-banned-from-supplying-western-intelligence-services">Lenovo darf keine Geraete mehr an NSA et.al. verkaufen wegen backdoor verdacht</a></li>
+<li><a href="http://www.gulli.com/news/22116-amazon-schliesst-kunden-aus-die-zu-oft-ware-zuruecksenden-2013-07-31">Amazon schliesst Kunden aus die zu oft von ihrem rueckgaberecht gebrauch machen</a></li>
+<li><a href="http://www.chip.de/news/Filip-Kinder-Smartwatch-zur-Totalueberwachung_63319469.html">Endlich totalueberwachung fuer Kinder - &#8216;SmartWatch&#8217;</a></li>
+<li><a href="http://qz.com/108920/the-materials-breakthrough-that-might-lead-to-computers-thousands-of-times-faster/">Magnetit macht [bald] alle computer 1000 mal schneller nachdem Silizium physikalische grenzen erreicht hat</a></li>
+<li><a href="http://hg.python.org/peps/rev/fb24c80e9afb">Python PEP8 update</a></li>
+<li><a href="http://coreos.com/">CoreOS</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/07/man-gets-ransomware-porn-pop-up-turns-self-in-on-child-porn-charges/">Mann zeigt sich nach Ransomware Pop-up selbst an</a></li>
+<li><a href="http://torrentfreak.com/uk-porn-filter-will-censor-other-content-too-isps-reveal-130726/"><em>Überraschung</em> UK Ministerium für Internetpornografie will mehr als nur Porn zensieren</a>
+
+<ul>
+<li><a href="http://www.wired.co.uk/news/archive/2013-07/27/pornwall">Wired Artikel</a></li>
+<li><a href="https://www.openrightsgroup.org/blog/2013/sleepwalking-into-censorship"> Open Rights Group Artikel </a></li>
+</ul>
+</li>
+<li><a href="http://kotaku.com/how-chinese-ingenuity-destroyed-salad-bars-at-pizza-hut-834835079">Warum es in China keine Pizza Hut Salatbars mehr gibt</a></li>
+<li><a href="http://arstechnica.com/gadgets/2013/08/usb-3-1-spec-finalized-horns-in-on-thunderbolts-turf-with-10gbps-speeds/">USB 3.1 ist fertig</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Raspberry Pi als HTPC</h3>
+
+<h4>Probleme</h4>
+
+<ul>
+<li>Probleme den Update Server zu finden</li>
+<li>Schlechte audio Qualität über Klinke
+
+<ul>
+<li><a href="http://www.raspyfi.com/raspberry-pi-usb-audio-fix/">Audio Fix Post</a></li>
+<li><a href="http://docs.mopidy.com/en/latest/installation/raspberrypi/#fixing-audio-quality-issues">Fixing audio quality issues</a></li>
+<li><a href="https://github.com/Hexxeh/rpi-update">RPI Update Tool</a></li>
+<li>Alternativ: USB Audio interface</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Hardware</h4>
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B008PT4GGC?tag=pfleidi-21">Der Kuchencomputer</a></li>
+<li><a href="http://www.amazon.de/dp/B00A7BGXGW?tag=pfleidi-21">Gehäuse</a></li>
+<li><a href="http://www.amazon.de/dp/B008O7RH5C?tag=pfleidi-21">HDMI Adapter mit Audio</a></li>
+<li><a href="http://elinux.org/RPi_VerifiedPeripherals#Working_power_Adapters">Netzteile</a>
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B00B0ZNF5G?tag=pfleidi-21">pfleidi seines</a></li>
+</ul>
+</li>
+<li><a href="http://www.amazon.de/dp/B003MTTJOY?tag=pfleidi-21">USB Wifi Stick</a></li>
+<li><a href="http://www.amazon.de/dp/B000KTBF6Y?tag=pfleidi-21">Tesa Power Strips</a></li>
+</ul>
+
+
+<h4>Installation</h4>
+
+<ul>
+<li><a href="http://wiki.xbmc.org/?title=Raspberry_Pi">RP im XBMC Wiki</a></li>
+<li><a href="http://www.raspbmc.com/">Raspbmc</a></li>
+<li><a href="https://github.com/Hexxeh/rpi-update">RPI-Update</a></li>
+</ul>
+
+
+<h4>Fernbedienungen</h4>
+
+<ul>
+<li><a href="http://wiki.xbmc.org/index.php?title=Keyboard_controls">Keyboard Controls</a></li>
+<li><a href="http://learn.adafruit.com/using-an-ir-remote-with-a-raspberry-pi-media-center/hardware">RP mit Fernbedienung</a>
+
+<ul>
+<li><a href="http://aron.ws/projects/lirc_rpi/">Lirc GPIO Treiber</a></li>
+<li><a href="http://www.conrad.de/ce/de/product/171115/IR-Empfaenger-Modul-Vishay-TSOP-4838-Wellen-Laenge-950-nm">3,3V IR-Empfänger</a></li>
+<li><a href="http://forum.stmlabs.com/showthread.php?tid=1954">Weitere Anleitung</a></li>
+<li><a href="http://druss.pp.ua/2012/08/raspbmc-lirc-gpio-xbmc-en/">Und noch eine</a></li>
+<li><a href="http://www.pro-linux.de/artikel/2/1624/3,raspberry-pi-eine-erfolgsgeschichte.html">Eine auf deutsch</a></li>
+<li><a href="https://www.amazon.de/dp/B005G16098/?tag=krebsco-21">Logitech K400 Tastatur + Touchpad</a></li>
+</ul>
+</li>
+<li><a href="http://wiki.xbmc.org/index.php?title=Official_XBMC_Remote">XBMC Remote APP</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.mail-archive.com/dri-devel@lists.sourceforge.net/msg39091.html">Linus ueber git rebase</a></li>
+<li><a href="http://fasthorizon.blogspot.de/2013/07/the-script-kiddie-is-dead.html">The Script Kiddie is dead</a></li>
+<li><a href="http://www.ctrl-verlust.net/23andme-wie-ich-fur-todkrank-erklart-wurde-und-mich-wieder-gesund-debuggte/">Wie ich für todkrank erklärt wurde und mich wieder gesund debuggte</a></li>
+<li><a href="http://kestas.kuliukas.com/RainbowTables/">How Rainbow Tables work</a></li>
+<li><a href="https://www.amazon.de/dp/0465067107?tag=pfleidi-21">The design of everyday things</a></li>
+<li><a href="https://twitter.com/inschka/status/362856045359529985/photo/1">Face Palm der Woche: Homöopatisches Impfen</a></li>
+<li><a href="http://thedoghousediaries.com/5263">A Comprehensive List of things That Help me calm down [doghousediaries]</a></li>
+<li><a href="https://speakerdeck.com/dherman/rust-low-level-programming-without-the-segfaults">Rust: Low-level programming without the segfaults</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://kb.mozillazine.org/Transferring_data_to_a_new_profile_-_Thunderbird">Thunderbird Profil</a></li>
+<li><a href="http://blog.theoldreader.com/post/56798895350/desperate-times-call-for-desperate-measures">OldReader (schon wieder!)</a>[makefu]
+
+<ul>
+<li><a href="https://inoreader.com/">inoreader als alternative</a></li>
+</ul>
+</li>
+<li>Arch Linux benennt bei Upgrade /grub/menu.lst um</li>
+<li>1&amp;1 Server und IPv6</li>
+<li>DVB-T
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B005HPVWSM?tag=pfleidi-21">Xoro Receiver</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.laszlo.nu/post/553591402/how-to-kill-an-unresponsive-ssh-session">How to kill an unresponsive SSH Session</a></li>
+<li><a href="http://www.developerarguments.com/">Developer Arguments</a></li>
+<li><a href="http://imgur.com/a/8IrJ4">4chan /v/ Battle stations</a></li>
+<li><a href="https://gpgtools.org/#gpgsuite">GPG Mail</a></li>
+<li><a href="https://plus.google.com/photos/116848145484059011070/albums/5905970470721489169">Software terminology</a></li>
+<li><a href="https://github.com/lukas-vlcek/bigdesk/">Bigdesk</a></li>
+<li><a href="https://www.youtube.com/watch?v=q64hTNEj6KQ">Porn Sex vs Real Sex: The difference explained with food</a></li>
+<li><a href="http://vimeo.com/m/71278954">The future of programming</a></li>
+<li><a href="http://www.mobilegeeks.de/">Danke an Mobile Geeks fuers pluggen</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+
+
+
+
+
+<div class="audio-content">
+   <audio preload='none' controls><source src='http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.mp3' type='audio/mp3' /><source src='http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.ogg' type='audio/ogg' /><source src='http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.m4a' type='audio/x-m4a' /><source src='http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.mp3' type='audio/mp3' /></audio>
+  <p id="download-buttons">
+  
+  <a href="http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.mp3"><img src="/images/audio_mp3_button.png"
+    title="download mp3" alt="download mp3" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.ogg"><img src="/images/audio_ogg_button.png"
+    title="download ogg" alt="download ogg" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.m4a"><img src="/images/audio_m4a_button.png"
+    title="download m4a" alt="download m4a" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.mp3"><img src="/images/audio_opus_button.png"
+    title="download opus" alt="download opus" style="border:0; border-radius:0;" /></a>
+  
+  </p>
+</div>
+
+
+
+  <div class="flattr-button">
+  <a class="FlattrButton" style="display:none;"
+    
+    
+    title="Binärgewitter Talk #61 - Linuscrisy"
+    data-flattr-uid="binaergewitter"
+    data-flattr-tags="podcast,tech,software"
+    data-flattr-button="compact"
+    data-flattr-category="audio"
+    href="http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy//index.html">
+    Binärgewitter Talk #61 - Linuscrisy
+  </a>
+</div>
+
+
+
+    </article>
   
   
     <article>
@@ -2332,269 +2576,6 @@ Images</a></li>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/05/10/binaergewitter-talk-number-51-freierfox/">Binärgewitter Talk #51 - FreierFox</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-05-10T11:00:00+02:00" pubdate data-updated="true">10.05.2013</time>
-        
-         | <a href="/blog/2013/05/10/binaergewitter-talk-number-51-freierfox/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Am Herrentag/Männertag/Vatertag oder auch Himmelfahrt haben wir uns natürlich mit Alkohol und Bollerwagen im Studio eingefunden. Daher ist die Sendung mal wieder an ein paar Stellen gemacklos und manchmal
-kommen Wörter zustande die es gar nicht gibt. Aber es hätte auch viel schlimmer kommen können&#8230;..</p>
-
-<h2>Blast from the past</h2>
-
-<ul>
-<li><a href="http://www.radiotux.de/index.php?/archives/3353-RadioTuxHoRadS-102-mehr-Ruhm-fuer-alle!.html">RadioTuxTalk 102</a></li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://webcache.googleusercontent.com/search?q=cache:minimaxir.com%2F2013%2F05%2Fstones-of-jordan%2F">Diablo 3 Economy</a></li>
-<li><a href="http://www.csmonitor.com/World/Europe/2013/0429/Japan-and-Russia-want-to-finally-end-World-War-II-agree-it-is-abnormal-not-to">2. Weltkrieg</a></li>
-<li><a href="http://tech.slashdot.org/story/13/05/07/2129245/adobes-creative-cloud-illustrates-how-the-cloud-costs-you-more">Adobe Creative Suite</a>
-
-<ul>
-<li><a href="http://www.getpaint.net/">Paint.net</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.bleedingcool.com/2013/05/06/the-it-crowd-to-return-for-one-more-episode">IT Crowd</a></li>
-<li><a href="http://www.infoworld.com/d/open-source-software/the-linux-desktop-already-the-new-normal-217818">Der Linux Desktop ist bereits unter uns</a></li>
-</ul>
-
-
-<h2>Tumblr der Woche</h2>
-
-<ul>
-<li><a href="http://dogshitselfie.tumblr.com/">Dog Shit Selfies</a></li>
-<li><a href="http://cosmarxpolitan.tumblr.com/">Cosmarxpolitan</a></li>
-<li><a href="http://dbareactions.tumblr.com/">DBA Reactions</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://allthingsd.com/20130426/livingsocial-hacked-more-than-50-million-customer-names-emails-birthdates-and-encrypted-passwords-accessed/">LivingSocial hat 50mio dinge verloren</a>
-
-<ul>
-<li><a href="https://bugs.php.net/bug.php?id=55439">Go home PHP, you&#8217;re drunk</a></li>
-<li><a href="https://www.ausweisapp.bund.de/pweb/index.do]">Ausweisapp</a></li>
-</ul>
-</li>
-<li><a href="http://tech.slashdot.org/story/13/05/04/2020235/orbxjs-1080p-drm-free-video-and-cloud-gaming-enirely-in-javascript">ORBX.js</a>
-
-<ul>
-<li><a href="http://brendaneich.com/2013/05/today-i-saw-the-future/">Post von Brendan Eich</a></li>
-<li><a href="https://news.ycombinator.com/item?id=5653531">HN Diskussion</a></li>
-<li><a href="http://instacam.tk">instacam.tk - projekt makefu</a></li>
-<li><a href="http://www.pro-linux.de/news/1/19764/google-bereitet-freie-patentlizenz-fuer-vp8-vor.html">VP8 Lizenz</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Stallmann der Woche</h2>
-
-<ul>
-<li><a href="http://www.pro-linux.de/news/1/19769/stallman-kein-drm-in-webstandards.html">RMS gegen DRM in HTML5</a></li>
-</ul>
-
-
-<h2>mehr News</h2>
-
-<ul>
-<li><a href="https://bugs.ruby-lang.org/issues/8339">Ruby 2.1 mit generational GC?</a></li>
-<li><a href="http://www.heise.de/security/meldung/Webserver-Rootkit-befaellt-auch-lighttpd-und-nginx-1859414.html">Webserver rootkit</a>
-
-<ul>
-<li><a href="http://www.heise.de/open/meldung/Webserver-Nginx-ueberholt-IIS-1403664.html">Nginx vor ISS</a></li>
-<li><a href="http://mailman.nginx.org/pipermail/nginx-announce/2013/000112.html">Nginx Security Advisory</a></li>
-</ul>
-</li>
-<li><a href="http://archiveroom.net/">ArchiveRoom - dein Github in 3D</a></li>
-<li><a href="http://www.golem.de/news/dsl-drosselung-telekom-bietet-weiter-flatrates-an-aber-teurer-1305-99155.html">Telekom will doch richtige Flatrates anbieten</a></li>
-<li><a href="http://theonion.github.io/fartscroll.js/">The Onion releases fartscroll.js</a></li>
-<li><a href="http://www.neoseeker.com/news/22846-wii-u-hack-unlocks-console-completely-claims-group-behind-popular-wii-modchip/">Wii U gehacked</a>
-
-<ul>
-<li><a href="http://hackaday.com/2013/05/08/hdmi-color-processing-board-used-as-an-fpga-dev-board-to-mine-bitcoins/">FPGA in hdmi controller</a></li>
-</ul>
-</li>
-<li><a href="https://news.ycombinator.com/item?id=5633005">OVH Hack</a>
-
-<ul>
-<li><a href="https://bitcointalk.org/index.php?topic=186902.msg1936161#msg1936161">Slush Pool auch</a></li>
-</ul>
-</li>
-<li><a href="http://graduateschool.vt.edu/slashdot.html?page=StoringDataInVideo">Daten in Video abspeichern (mit QR)</a></li>
-<li><a href="http://hashcat.net/forum/thread-2269.html">Schnelleres Cuda auf Nvidia</a></li>
-<li><a href="http://arstechnica.com/gadgets/2013/05/weve-got-a-butterfly-labs-bitcoin-miner-and-its-pretty-darn-fast/">Butterflylabs liefert tatsaechlich</a></li>
-<li><a href="https://bitcointalk.org/index.php?board=67.0">Super unterhaltsame neue coin scams</a>
-
-<ul>
-<li><a href="http://www.coinchoose.com/">CoinChoose</a></li>
-</ul>
-</li>
-<li><a href="http://www.gulli.com/news/21446-bitcoin-von-laien-kuenstlich-am-leben-erhalten-2013-05-04">Bitcoin: Von Laien kuenstlich am Leben erhalten(gulli.com)</a>
-
-<ul>
-<li><a href="http://mises.org/daily/6401/">auch hier</a></li>
-</ul>
-</li>
-<li><a href="http://tech.slashdot.org/story/13/05/03/1322242/is-google-glass-too-nerdy-for-the-mainstream">Google Glass too nerdy?</a>
-
-<ul>
-<li><a href="http://whitemenwearinggoogleglass.tumblr.com/">White men wearing google glass</a></li>
-</ul>
-</li>
-<li><a href="http://www.ps3hax.net/2013/04/illumiroom-a-new-gaming-experience/">IllumiRoom</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://dailyjs.com/2013/04/19/leveldb-and-node-1/">Quick Intro to LevelDB</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Black_start">Black Start</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Restore mit Rsync und Dropbox</li>
-<li>Fitbit iOS App</li>
-<li>Moves</li>
-<li>Google Now</li>
-</ul>
-
-
-<h2>Apropos</h2>
-
-<ul>
-<li><a href="http://futurezone.at/digitallife/15783-nasa-stellt-iss-von-windows-auf-linux-um.php#__sid=0">Linux im Weltall</a> via <a href="http://twitter.com/verfassungsklage">@verfassungsklage</a></li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="https://www.dropbox.com/s/4fphtrgrnksfuf6/dialup-final.png">The Dialup Sound explained</a></li>
-<li><a href="http://www.youtube.com/user/PronunciationManual?feature=watch">Pronounciation Manual</a></li>
-<li><a href="http://www.reactiongifs.com/">Reaction GIFs</a></li>
-<li><a href="http://us.tunigo.com/">Tunigo</a></li>
-<li><a href="http://ramp.ie/index.php/columns/top-tens/top-ten-horrible-book-covers/">Top Ten Horrible Book Covers</a>
-
-<ul>
-<li><a href="http://www.amazon.de/Avoid-Huge-Ships-John-Trimmer/dp/0870334336/?tag=krebsco-21">How to avoid Huge Ships</a></li>
-<li><a href="http://www.amazon.com/Avoid-Huge-Ships-John-Trimmer/product-reviews/0870334336/ref=dp_top_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1&amp;tag-krebsco-21">US: 465 Customer Reviews</a></li>
-</ul>
-</li>
-<li><a href="http://openbuildservice.org/">OpenBuildService</a></li>
-<li><a href="https://itunes.apple.com/de/app/eufloria/id549881316?l=en&amp;mt=8">Eufloria</a>
-
-<ul>
-<li><a href="https://itunes.apple.com/de/app/galcon-fusion/id364902651?mt=8">Galcon Fusion?</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/dergachev/vagrant-vbox-snapshot">Vagrant 1.1+ snapshot plugin</a></li>
-<li><a href="http://bluezbox.com/audiobookbinder.html">Audiobook Binder</a></li>
-<li><a href="http://www.mokita.de/blog/2012/05/10/incommunicado-das-horbuch-teil-1/">#Incommunicado, das Hörbuch</a></li>
-<li><a href="http://www.youtube.com/watch?v=Ark90G_aWLM">How to fold clothes army style</a></li>
-<li><a href="https://itunes.apple.com/de/app/departure-dein-fahrplan-auf/id608956345?l=en&amp;mt=8">Departure.app</a></li>
-<li><a href="http://www.pixelmator.com/blog/2013/05/08/pixelmator-2-2-is-available-today-from-the-mac-app-store/">Pixelmator 2.2</a></li>
-<li><a href="http://www.filebot.net/cli.html">Filebot</a></li>
-<li>Serien
-
-<ul>
-<li>Defiance</li>
-<li>Hannibal und Rectify via h43z</li>
-<li>mehr siehe <a href="http://retinacast.de/">Retinacast</a></li>
-</ul>
-</li>
-</ul>
-
-</div>
-  
-  
-
-
-
-
-
-
-
-<div class="audio-content">
-   <audio preload='none' controls><source src='http://download.binaergewitter.de/2013-05-09.Binaergewitter.Talk.51.mp3' type='audio/mp3' /><source src='http://download.binaergewitter.de/2013-05-09.Binaergewitter.Talk.51.ogg' type='audio/ogg' /><source src='http://download.binaergewitter.de/2013-05-09.Binaergewitter.Talk.51.m4a' type='audio/x-m4a' /><source src='http://download.binaergewitter.de/2013-05-09.Binaergewitter.Talk.51.opus' type='' /></audio>
-  <p id="download-buttons">
-  
-  <a href="http://download.binaergewitter.de/2013-05-09.Binaergewitter.Talk.51.mp3"><img src="/images/audio_mp3_button.png"
-    title="download mp3" alt="download mp3" style="border:0; border-radius:0;" /></a>
-  
-  <a href="http://download.binaergewitter.de/2013-05-09.Binaergewitter.Talk.51.ogg"><img src="/images/audio_ogg_button.png"
-    title="download ogg" alt="download ogg" style="border:0; border-radius:0;" /></a>
-  
-  <a href="http://download.binaergewitter.de/2013-05-09.Binaergewitter.Talk.51.m4a"><img src="/images/audio_m4a_button.png"
-    title="download m4a" alt="download m4a" style="border:0; border-radius:0;" /></a>
-  
-  <a href="http://download.binaergewitter.de/2013-05-09.Binaergewitter.Talk.51.opus"><img src="/images/audio_opus_button.png"
-    title="download opus" alt="download opus" style="border:0; border-radius:0;" /></a>
-  
-  </p>
-</div>
-
-
-
-  <div class="flattr-button">
-  <a class="FlattrButton" style="display:none;"
-    
-    
-    title="Binärgewitter Talk #51 - FreierFox"
-    data-flattr-uid="binaergewitter"
-    data-flattr-tags="podcast,tech,software"
-    data-flattr-button="compact"
-    data-flattr-category="audio"
-    href="http://blog.binaergewitter.de/blog/2013/05/10/binaergewitter-talk-number-51-freierfox//index.html">
-    Binärgewitter Talk #51 - FreierFox
-  </a>
-</div>
-
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/2/">&larr; Older</a>
@@ -2610,6 +2591,10 @@ kommen Wörter zustande die es gar nicht gibt. Aber es hätte auch viel schlimme
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy/">Binärgewitter Talk #61 - Linuscrisy</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2013/07/26/binaergewitter-talk-number-60-ministerium-fuer-internetpornographie/">Binärgewitter Talk #60 - Ministerium für Internetpornographie</a>
       </li>
     
@@ -2623,10 +2608,6 @@ kommen Wörter zustande die es gar nicht gibt. Aber es hätte auch viel schlimme
     
       <li class="post">
         <a href="/blog/2013/07/05/binaergewitter-talk-number-57-hart-bitzeln/">Binärgewitter Talk #57 - hart bitzeln</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/06/28/binaergewitter-talk-number-56-durch-Maxibriefe-punchen/">Binärgewitter Talk #56 - durch Maxibriefe punchen</a>
       </li>
     
   </ul>

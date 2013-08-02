@@ -1,0 +1,550 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Binärgewitter Talk #61 - Linuscrisy - Binärgewitter</title>
+  <meta name="author" content="Binärgewitter Crew">
+
+  
+  <meta name="description" content="Trotz Sommerloch und Temperaturen jenseits der 30 Grad im Studio senden wir fröhlich weiter. Diesmal ohne Marc aber mit Pfleidis Test des ResPi als ...">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="http://feeds.feedburner.com/binaergewitter-podcast" rel="alternate" title="Binärgewitter" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
+</script>
+
+
+  <meta property="og:url" content="http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy" />
+  <meta property="og:title" content="Binärgewitter Talk #61 - Linuscrisy - Binärgewitter" />
+  <meta property="og:locale" content="de_DE" />
+  <meta property="og:image" content="http://blog.binaergewitter.de/images/binaergewitter_logo.png" /> 
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Binärgewitter</a></h1>
+  
+    <h2>Web, Technologie und OpenSource Software</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="http://feeds.feedburner.com/binaergewitter-podcast" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:blog.binaergewitter.de" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/live/">Live</a></li>
+  <li><a href="/das-team/">Team</a></li>
+  <li><a href="/ueber-uns/">&#220;ber Bin&#228;rgewitter</a></li>
+  <li><a href="/abonnieren/">Abonnieren</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/impressum/">Impressum</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Binärgewitter Talk #61 - Linuscrisy</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-08-02T11:30:00+02:00" pubdate data-updated="true">02.08.2013</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Trotz Sommerloch und Temperaturen jenseits der 30 Grad im Studio  senden wir fröhlich weiter. Diesmal ohne Marc aber mit Pfleidis Test des ResPi als Mediacenter und wir diskutieren über Dikaturen, Amazons
+Umgang mit Kunden und Überwachung der (eigenen) Kinder.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Herzschrittmacher-Hacker-Barnaby-Jack-stirbt-eine-Woche-vor-Black-Hat-Auftritt-1925016.html">Barnaby Jack</a></li>
+</ul>
+
+
+<h2>Tumblr der Woche</h2>
+
+<ul>
+<li><a href="http://lifeofastrangerwhostolemyphone.tumblr.com/">life of a stranger who stole my phone</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://blog.samuellevy.com/post/46-do-i-look-like-i-give-a-shit-public-licence.html">Die &#8216;Do I look like I give a shit&#8217; Lizenz</a></li>
+<li><a href="http://de.demo.openslides.org/projector/dashboard/">OpenSlides</a> via Eric</li>
+<li><a href="http://blog.gtvhacker.com/2013/chromecast-exploiting-the-newest-device-by-google/">Root-Shell auf Chromecast</a>
+
+<ul>
+<li><a href="http://wiki.gtvhacker.com/index.php/Google_Chromecast#Bootloader_Exploit_Package">Exploit</a></li>
+<li><a href="http://www.ifixit.com/Teardown/Chromecast+Teardown/16069/1%7C">iFixit Teardown</a></li>
+</ul>
+</li>
+<li><a href="http://tox.im/">Tox: Not Skype</a></li>
+<li><a href="http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data">Mehr NSA evil&#8217;ness - dieses mal XKeyscore</a></li>
+<li><a href="http://queue.acm.org/detail.cfm?id=2508864">Mehr verschluesselung ist nicht die Loesung (?)</a></li>
+<li><a href="http://www.theinquirer.net/inquirer/news/2285529/lenovo-banned-from-supplying-western-intelligence-services">Lenovo darf keine Geraete mehr an NSA et.al. verkaufen wegen backdoor verdacht</a></li>
+<li><a href="http://www.gulli.com/news/22116-amazon-schliesst-kunden-aus-die-zu-oft-ware-zuruecksenden-2013-07-31">Amazon schliesst Kunden aus die zu oft von ihrem rueckgaberecht gebrauch machen</a></li>
+<li><a href="http://www.chip.de/news/Filip-Kinder-Smartwatch-zur-Totalueberwachung_63319469.html">Endlich totalueberwachung fuer Kinder - &#8216;SmartWatch&#8217;</a></li>
+<li><a href="http://qz.com/108920/the-materials-breakthrough-that-might-lead-to-computers-thousands-of-times-faster/">Magnetit macht [bald] alle computer 1000 mal schneller nachdem Silizium physikalische grenzen erreicht hat</a></li>
+<li><a href="http://hg.python.org/peps/rev/fb24c80e9afb">Python PEP8 update</a></li>
+<li><a href="http://coreos.com/">CoreOS</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2013/07/man-gets-ransomware-porn-pop-up-turns-self-in-on-child-porn-charges/">Mann zeigt sich nach Ransomware Pop-up selbst an</a></li>
+<li><a href="http://torrentfreak.com/uk-porn-filter-will-censor-other-content-too-isps-reveal-130726/"><em>Überraschung</em> UK Ministerium für Internetpornografie will mehr als nur Porn zensieren</a>
+
+<ul>
+<li><a href="http://www.wired.co.uk/news/archive/2013-07/27/pornwall">Wired Artikel</a></li>
+<li><a href="https://www.openrightsgroup.org/blog/2013/sleepwalking-into-censorship"> Open Rights Group Artikel </a></li>
+</ul>
+</li>
+<li><a href="http://kotaku.com/how-chinese-ingenuity-destroyed-salad-bars-at-pizza-hut-834835079">Warum es in China keine Pizza Hut Salatbars mehr gibt</a></li>
+<li><a href="http://arstechnica.com/gadgets/2013/08/usb-3-1-spec-finalized-horns-in-on-thunderbolts-turf-with-10gbps-speeds/">USB 3.1 ist fertig</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Raspberry Pi als HTPC</h3>
+
+<h4>Probleme</h4>
+
+<ul>
+<li>Probleme den Update Server zu finden</li>
+<li>Schlechte audio Qualität über Klinke
+
+<ul>
+<li><a href="http://www.raspyfi.com/raspberry-pi-usb-audio-fix/">Audio Fix Post</a></li>
+<li><a href="http://docs.mopidy.com/en/latest/installation/raspberrypi/#fixing-audio-quality-issues">Fixing audio quality issues</a></li>
+<li><a href="https://github.com/Hexxeh/rpi-update">RPI Update Tool</a></li>
+<li>Alternativ: USB Audio interface</li>
+</ul>
+</li>
+</ul>
+
+
+<h4>Hardware</h4>
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B008PT4GGC?tag=pfleidi-21">Der Kuchencomputer</a></li>
+<li><a href="http://www.amazon.de/dp/B00A7BGXGW?tag=pfleidi-21">Gehäuse</a></li>
+<li><a href="http://www.amazon.de/dp/B008O7RH5C?tag=pfleidi-21">HDMI Adapter mit Audio</a></li>
+<li><a href="http://elinux.org/RPi_VerifiedPeripherals#Working_power_Adapters">Netzteile</a>
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B00B0ZNF5G?tag=pfleidi-21">pfleidi seines</a></li>
+</ul>
+</li>
+<li><a href="http://www.amazon.de/dp/B003MTTJOY?tag=pfleidi-21">USB Wifi Stick</a></li>
+<li><a href="http://www.amazon.de/dp/B000KTBF6Y?tag=pfleidi-21">Tesa Power Strips</a></li>
+</ul>
+
+
+<h4>Installation</h4>
+
+<ul>
+<li><a href="http://wiki.xbmc.org/?title=Raspberry_Pi">RP im XBMC Wiki</a></li>
+<li><a href="http://www.raspbmc.com/">Raspbmc</a></li>
+<li><a href="https://github.com/Hexxeh/rpi-update">RPI-Update</a></li>
+</ul>
+
+
+<h4>Fernbedienungen</h4>
+
+<ul>
+<li><a href="http://wiki.xbmc.org/index.php?title=Keyboard_controls">Keyboard Controls</a></li>
+<li><a href="http://learn.adafruit.com/using-an-ir-remote-with-a-raspberry-pi-media-center/hardware">RP mit Fernbedienung</a>
+
+<ul>
+<li><a href="http://aron.ws/projects/lirc_rpi/">Lirc GPIO Treiber</a></li>
+<li><a href="http://www.conrad.de/ce/de/product/171115/IR-Empfaenger-Modul-Vishay-TSOP-4838-Wellen-Laenge-950-nm">3,3V IR-Empfänger</a></li>
+<li><a href="http://forum.stmlabs.com/showthread.php?tid=1954">Weitere Anleitung</a></li>
+<li><a href="http://druss.pp.ua/2012/08/raspbmc-lirc-gpio-xbmc-en/">Und noch eine</a></li>
+<li><a href="http://www.pro-linux.de/artikel/2/1624/3,raspberry-pi-eine-erfolgsgeschichte.html">Eine auf deutsch</a></li>
+<li><a href="https://www.amazon.de/dp/B005G16098/?tag=krebsco-21">Logitech K400 Tastatur + Touchpad</a></li>
+</ul>
+</li>
+<li><a href="http://wiki.xbmc.org/index.php?title=Official_XBMC_Remote">XBMC Remote APP</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.mail-archive.com/dri-devel@lists.sourceforge.net/msg39091.html">Linus ueber git rebase</a></li>
+<li><a href="http://fasthorizon.blogspot.de/2013/07/the-script-kiddie-is-dead.html">The Script Kiddie is dead</a></li>
+<li><a href="http://www.ctrl-verlust.net/23andme-wie-ich-fur-todkrank-erklart-wurde-und-mich-wieder-gesund-debuggte/">Wie ich für todkrank erklärt wurde und mich wieder gesund debuggte</a></li>
+<li><a href="http://kestas.kuliukas.com/RainbowTables/">How Rainbow Tables work</a></li>
+<li><a href="https://www.amazon.de/dp/0465067107?tag=pfleidi-21">The design of everyday things</a></li>
+<li><a href="https://twitter.com/inschka/status/362856045359529985/photo/1">Face Palm der Woche: Homöopatisches Impfen</a></li>
+<li><a href="http://thedoghousediaries.com/5263">A Comprehensive List of things That Help me calm down [doghousediaries]</a></li>
+<li><a href="https://speakerdeck.com/dherman/rust-low-level-programming-without-the-segfaults">Rust: Low-level programming without the segfaults</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://kb.mozillazine.org/Transferring_data_to_a_new_profile_-_Thunderbird">Thunderbird Profil</a></li>
+<li><a href="http://blog.theoldreader.com/post/56798895350/desperate-times-call-for-desperate-measures">OldReader (schon wieder!)</a>[makefu]
+
+<ul>
+<li><a href="https://inoreader.com/">inoreader als alternative</a></li>
+</ul>
+</li>
+<li>Arch Linux benennt bei Upgrade /grub/menu.lst um</li>
+<li>1&amp;1 Server und IPv6</li>
+<li>DVB-T
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B005HPVWSM?tag=pfleidi-21">Xoro Receiver</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.laszlo.nu/post/553591402/how-to-kill-an-unresponsive-ssh-session">How to kill an unresponsive SSH Session</a></li>
+<li><a href="http://www.developerarguments.com/">Developer Arguments</a></li>
+<li><a href="http://imgur.com/a/8IrJ4">4chan /v/ Battle stations</a></li>
+<li><a href="https://gpgtools.org/#gpgsuite">GPG Mail</a></li>
+<li><a href="https://plus.google.com/photos/116848145484059011070/albums/5905970470721489169">Software terminology</a></li>
+<li><a href="https://github.com/lukas-vlcek/bigdesk/">Bigdesk</a></li>
+<li><a href="https://www.youtube.com/watch?v=q64hTNEj6KQ">Porn Sex vs Real Sex: The difference explained with food</a></li>
+<li><a href="http://vimeo.com/m/71278954">The future of programming</a></li>
+<li><a href="http://www.mobilegeeks.de/">Danke an Mobile Geeks fuers pluggen</a></li>
+</ul>
+
+</div>
+
+
+
+
+
+
+
+<div class="audio-content">
+   <audio preload='none' controls><source src='http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.mp3' type='audio/mp3' /><source src='http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.ogg' type='audio/ogg' /><source src='http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.m4a' type='audio/x-m4a' /><source src='http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.mp3' type='audio/mp3' /></audio>
+  <p id="download-buttons">
+  
+  <a href="http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.mp3"><img src="/images/audio_mp3_button.png"
+    title="download mp3" alt="download mp3" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.ogg"><img src="/images/audio_ogg_button.png"
+    title="download ogg" alt="download ogg" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.m4a"><img src="/images/audio_m4a_button.png"
+    title="download m4a" alt="download m4a" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2013-08-01.Binaergewitter.Talk.61.mp3"><img src="/images/audio_opus_button.png"
+    title="download opus" alt="download opus" style="border:0; border-radius:0;" /></a>
+  
+  </p>
+</div>
+
+
+
+  <div class="flattr-button">
+  <a class="FlattrButton" style="display:none;"
+    
+    
+    title="Binärgewitter Talk #61 - Linuscrisy"
+    data-flattr-uid="binaergewitter"
+    data-flattr-tags="podcast,tech,software"
+    data-flattr-button="compact"
+    data-flattr-category="audio"
+    href="http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy/">
+    
+  </a>
+</div>
+
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Binärgewitter Crew</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-08-02T11:30:00+02:00" pubdate data-updated="true">02.08.2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/talk/'>talk</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy/" data-via="binaergewitter" data-counturl="http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2013/07/26/binaergewitter-talk-number-60-ministerium-fuer-internetpornographie/" title="Previous Post: Binärgewitter Talk #60 - Ministerium für Internetpornographie">&laquo; Binärgewitter Talk #60 - Ministerium für Internetpornographie</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy/">Binärgewitter Talk #61 - Linuscrisy</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/26/binaergewitter-talk-number-60-ministerium-fuer-internetpornographie/">Binärgewitter Talk #60 - Ministerium für Internetpornographie</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/19/binaergewitter-talk-59-rage-dich-gluecklich-rage-dich-schlank/">Binärgewitter Talk #59 - Rage dich glücklich - rage dich schlank!</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/12/binaergewitter-talk-number-58-schoepfungshoehe-nicht-erreicht/">Binärgewitter Talk #58 - Schöpfungshöhe nicht erreicht</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/05/binaergewitter-talk-number-57-hart-bitzeln/">Binärgewitter Talk #57 - hart bitzeln</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+<div class="flattr-button">
+  <h1>Flattr</h1>
+  <a class="FlattrButton" style="display:none;"
+    title="Binärgewitter"
+    data-flattr-uid="binaergewitter"
+    data-flattr-tags="podcast,tech,software"
+    data-flattr-category="audio"
+    href="http://blog.binaergewitter.de">
+    Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt
+  </a>
+</div>
+</section>
+
+
+<section>
+  <h1>Github Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/binaergewitter">@binaergewitter</a> on Github
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'binaergewitter',
+            count: 2,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("binaergewitter", 5, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/binaergewitter" class="twitter-follow-button" data-show-count="false">Follow @binaergewitter</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Binärgewitter Crew - Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a> -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  <!-- analytics tracking code -->
+
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+(function () { var u=(("https:" == document.location.protocol) ? "https://piwik.roothausen.de/" : "http://piwik.roothausen.de/");
+ _paq.push(['setSiteId', 3]);
+ _paq.push(['setTrackerUrl', u+'piwik.php']);
+ _paq.push(['trackPageView']);
+ _paq.push(['enableLinkTracking']);
+ var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.defer=true; g.async=true; g.src=u+'piwik.js';
+ s.parentNode.insertBefore(g,s); })();
+</script>
+<!-- End Piwik Code -->
+
+
+
+<!-- other JS plugins -->
+
+
+<script type="text/javascript">
+      var disqus_shortname = 'binaergewitterpodcast';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy/';
+        var disqus_url = 'http://blog.binaergewitter.de/blog/2013/08/02/binaergewitter-talk-number-61-linuscrisy/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
