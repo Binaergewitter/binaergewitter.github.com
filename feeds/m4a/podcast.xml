@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 02 Aug 2013 11:36:44 +0200</lastBuildDate>
-    <atom:updated>2013-08-02T11:36:44+02:00</atom:updated>
+    <lastBuildDate>Fri, 02 Aug 2013 11:44:04 +0200</lastBuildDate>
+    <atom:updated>2013-08-02T11:44:04+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -87,7 +87,15 @@ Umgang mit Kunden und Überwachung der (eigenen) Kinder.</p>
 <h2>Toter der Woche</h2>
 
 <ul>
-<li><a href="http://www.heise.de/newsticker/meldung/Herzschrittmacher-Hacker-Barnaby-Jack-stirbt-eine-Woche-vor-Black-Hat-Auftritt-1925016.html">Barnaby Jack</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Herzschrittmacher-Hacker-Barnaby-Jack-stirbt-eine-Woche-vor-Black-Hat-Auftritt-1925016.html">Barnaby Jack</a>
+
+<ul>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Science-Fiction">Science Fiction</a></li>
+<li><a href="http://www.amazon.de/gp/product/B00BBDGU4A/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00BBDGU4A&amp;linkCode=as2&amp;tag=trektrip">Homeland</a></li>
+<li><a href="http://www.amazon.de/gp/product/B009DW9G9M/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B009DW9G9M&amp;linkCode=as2&amp;tag=trektrip">Star Trek TNG in HD</a></li>
+<li><a href="http://dashburst.com/humor/star-trek-predicting-the-future-since-1966/">Star Trek: Predicting the Future since 1966</a></li>
+</ul>
+</li>
 </ul>
 
 
@@ -267,6 +275,14 @@ Toter der Woche
 
 
 Barnaby Jack
+
+
+WP: Science Fiction
+Homeland
+Star Trek TNG in HD
+Star Trek: Predicting the Future since 1966
+
+
 
 
 
