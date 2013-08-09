@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 02 Aug 2013 11:44:04 +0200</lastBuildDate>
-    <atom:updated>2013-08-02T11:44:04+02:00</atom:updated>
+    <lastBuildDate>Fri, 09 Aug 2013 13:55:55 +0200</lastBuildDate>
+    <atom:updated>2013-08-09T13:55:55+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,312 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #62 - Krepel ist keine schmackhafte Backware</title>
+      <link>http://blog.binaergewitter.de/blog/2013/08/09/binaergewitter-talk-number-62-krepel-ist-keine-schmackhafte-backware/</link>
+      <comments>http://blog.binaergewitter.de/blog/2013/08/09/binaergewitter-talk-number-62-krepel-ist-keine-schmackhafte-backware/#comments</comments>
+      <pubDate>Fri, 09 Aug 2013 13:30:00 +0200</pubDate>
+      <atom:updated>2013-08-09T13:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2013%2F08%2F09%2Fbinaergewitter-talk-number-62-krepel-ist-keine-schmackhafte-backware%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2362%20-%20Krepel%20ist%20keine%20schmackhafte%20Backware&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2013/08/09/binaergewitter-talk-number-62-krepel-ist-keine-schmackhafte-backware</guid>
+      
+      <description>
+        <![CDATA[<p>Heute ohne Ingo aber mit dem Mailthema und wie immer den News der letzten Woche...</p>
+
+<ul>
+<li><a href="http://pad.shownot.es/doc/binaergewitter-62">komplette Shownotes mit Zeitangaben</a> - Danke <a href="https://twitter.com/schmittlauch">@Schmittlauch</a></li>
+<li><a href="http://xenim.imake.io/chatlog/binaergewitter-BGT062">Chatlog</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.nzz.ch/aktuell/digital/asus-gibt-windows-rt-auf-1.18126063">Windows RT</a></li>
+<li><a href="http://www.heise.de/open/meldung/Firefox-23-mit-Teilen-Funktion-und-ohne-blink-1930833.html">blink</a></li>
+<li><a href="http://www.mnn.com/earth-matters/climate-weather/stories/north-pole-melts-forms-lake-at-top-of-the-world">Nordpol</a></li>
+<li><a href="https://github.com/search?p=3&amp;q=mysqldump+-p&amp;ref=searchresults&amp;type=Code">Internetsicherheit</a><a href="https://github.com/search?p=3&amp;q=extension:php+mysql_query+$_GET&amp;ref=searchresults&amp;type=Code"> und nochmal</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Samsung-Tizen-fuer-alles-1930958.html">Tizen again</a></li>
+</ul>
+
+
+<h2>Tumblr der Woche</h2>
+
+<ul>
+<li><a href="http://devsdoart.com/">Devs do Art</a></li>
+<li><a href="http://securityreactions.tumblr.com/post/57703935169/this-happens-every-time-we-draw-network-diagrams-on-the"></a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://sekurak.pl/hp-laserjet-pro-printers-remote-admin-password-extraction/">HP pwnage</a>
+
+<ul>
+<li><a href="http://reddit.com/r/shittyadvice">einfach mal</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/tech-policy/2013/08/researchers-say-tor-targeted-malware-phoned-home-to-nsa/">Alles Tor wurde geowned</a>
+
+<ul>
+<li><a href="http://www.twitlonger.com/show/n_1rlo0uu">Original Artikel</a></li>
+</ul>
+</li>
+<li><a href="https://medium.com/language-lingustics/7e3b7130f131">Happy Brithday @Horse_Ebooks</a></li>
+<li><a href="http://techcrunch.com/2013/08/05/bezos-not-bozos/">Bezos kauft Washtingon Post</a> <a href="http://www.washingtonpost.com/national/washington-post-to-be-sold-to-jeff-bezos/2013/08/05/ca537c9e-fe0c-11e2-9711-3708310f6f4d_story.html">derp</a></li>
+<li><a href="http://blog.rockmelt.com/post/57166686461/big-company-news">Yahoo kauft Rockmelt</a>
+
+<ul>
+<li><a href="http://yahoo.tumblr.com/post/57582020969/kicking-off-30-days-of-change">30 days</a></li>
+</ul>
+</li>
+<li><a href="http://www.playframework.com/security/vulnerability/20130806-SessionInjection">Play Framework wird gepwned</a>
+
+<ul>
+<li><a href="http://grahamhackingscala.blogspot.de/2009/11/xml-generation-with-scala.html">Scala XML Literals</a></li>
+</ul>
+</li>
+<li><a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/">Putty wurde gepatcht nach unendlich viel Zeit</a></li>
+<li><a href="http://www.mla.org/style/handbook_faq/cite_a_tweet">Offizieller tweet quote styleguide</a></li>
+<li><a href="http://blog.elliottkember.com/chromes-insane-password-security-strategy">Chrome Passwort Sicherheit</a></li>
+<li><a href="https://bitcoin.co.th/trading-suspended-due-to-bank-of-thailand-advisement/?bettertitle">Bitcoin illegal in Thailand</a></li>
+<li><a href="https://www.google.com/shopping/express/about/index.html">Google Express</a></li>
+<li><a href="https://bitbucket.org/multicoreware/x265/wiki/Home">x265</a>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/High_Efficiency_Video_Coding">HEVC</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Mail</h3>
+
+<ul>
+<li><a href="http://zarafa.com">Zarafa</a>
+
+<ul>
+<li>zpush</li>
+<li><a href="http://www.radiotux.de/index.php?/archives/7159-RadioTux-Magazin-Juli-2011.html">RadioTux Sendung über Zarafa und z-push</a></li>
+</ul>
+</li>
+<li><a href="https://www.namecheap.com/email/email-hosting.aspx">Namecheap Open-Xchange</a></li>
+<li><a href="http://www.getsyncd.com/index.php">Getsyncd</a></li>
+<li><a href="https://www.fastmail.fm/">FastMail</a></li>
+<li><a href="https://www.zoho.com/">Zoho</a></li>
+<li><a href="http://blog.binaergewitter.de/blog/2012/02/23/binaergewitter-talk-number-4-ich-filter-blumen/">Binärgewitter Talk #4</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://business.time.com/2012/11/15/is-dollar-cost-averaging-dumb/">Is Dollar cost averaging dumb</a></li>
+<li><a href="http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/">Block, Proc, Lambda</a></li>
+<li><a href="http://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/">29 Common beginner Python error</a></li>
+<li><a href="http://www.eecs.berkeley.edu/~sylvia/papers/osdi2012_megapipe.pdf">Megapipe Paper</a></li>
+<li><a href="https://charlie.bz/blog/things-that-clear-rubys-method-cache">Things that clear Ruby's method cache</a></li>
+<li><a href="http://www.datastax.com/dev/blog/lightweight-transactions-in-cassandra-2-0">Lightweight transactions in Cassandra 2.0</a></li>
+<li><a href="http://www.wired.com/underwire/2013/08/xkcd-time-comic/">xkcd time</a>
+
+<ul>
+<li><a href="http://geekwagon.net/projects/xkcd1190/">Viewer</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="https://github.com/shackspace/soundflower/blob/master/backend/soundflower/mpdrunner.py">MPD als Streaming abstraktion (am Beispiel Soundflower)</a></li>
+<li><a href="https://github.com/travisjeffery/timecop">Timecop Gem</a></li>
+<li><a href="https://github.com/defunkt/fakefs">FakeFS</a></li>
+<li><a href="https://www.bloc.io/ruby-warrior/#/">Ruby Warrior</a></li>
+<li><a href="http://gifdanceparty.com/">Gifdanceparty</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Telecomix#Blackthrow">Blackthrow bootstrapping</a></li>
+<li><a href="http://www.imdb.com/title/tt2480514/">In the flesh</a></li>
+<li><a href="https://www.youtube.com/watch?v=ntlI-pDUxPE">Parcours robot</a></li>
+<li><a href="http://wahrsagercheck.wordpress.com/2013/07/29/so-funktioniert-astrologie-immer/">Komplettloesung von allen Astrologie Dingen</a></li>
+<li><a href="https://itunes.apple.com/de/app/ikea/id508738026?l=en&amp;mt=8">Ikea iOS App</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2013-08-08.Binaergewitter.Talk.62.opus"
+        length="40414700"
+        type="application/octet-stream" />
+      <media:content url="http://download.binaergewitter.de/2013-08-08.Binaergewitter.Talk.62.opus"
+        fileSize="40414700"
+        type="application/octet-stream" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #62 - Krepel ist keine schmackhafte Backware</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Heute ohne Ingo aber mit dem Mailthema und wie immer den News der letzten Woche...
+
+
+komplette Shownotes mit Zeitangaben - Danke @Schmittlauch
+Chatlog
+
+
+
+Toter der Woche
+
+
+Windows RT
+blink
+Nordpol
+Internetsicherheit und nochmal
+
+
+
+Untoter der Woche
+
+
+Tizen again
+
+
+
+Tumblr der Woche
+
+
+Devs do Art
+
+
+
+
+News
+
+
+HP pwnage
+
+
+einfach mal
+
+
+Alles Tor wurde geowned
+
+
+Original Artikel
+
+
+Happy Brithday @Horse_Ebooks
+Bezos kauft Washtingon Post derp
+Yahoo kauft Rockmelt
+
+
+30 days
+
+
+Play Framework wird gepwned
+
+
+Scala XML Literals
+
+
+Putty wurde gepatcht nach unendlich viel Zeit
+Offizieller tweet quote styleguide
+Chrome Passwort Sicherheit
+Bitcoin illegal in Thailand
+Google Express
+x265
+
+
+HEVC
+
+
+
+
+
+Themen
+
+Mail
+
+
+Zarafa
+
+
+zpush
+RadioTux Sendung über Zarafa und z-push
+
+
+Namecheap Open-Xchange
+Getsyncd
+FastMail
+Zoho
+Binärgewitter Talk #4
+
+
+
+Lesefoo
+
+
+Is Dollar cost averaging dumb
+Block, Proc, Lambda
+29 Common beginner Python error
+Megapipe Paper
+Things that clear Ruby's method cache
+Lightweight transactions in Cassandra 2.0
+xkcd time
+
+
+Viewer
+
+
+
+
+
+Picks
+
+
+MPD als Streaming abstraktion (am Beispiel Soundflower)
+Timecop Gem
+FakeFS
+Ruby Warrior
+Gifdanceparty
+Blackthrow bootstrapping
+In the flesh
+Parcours robot
+Komplettloesung von allen Astrologie Dingen
+Ikea iOS App
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
@@ -10439,270 +10745,6 @@ OneTime Geheimnis
 Kalixa (marc)
 FPM (marc)
 weechat
-
-
-]]>
-      </itunes:summary>
-      <itunes:author>Binärgewitter Crew</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-    </item>
-    
-    
-    <item>
-      <title>Binärgewitter Talk #32 - Jimmy Wales Starrzeit</title>
-      <link>http://blog.binaergewitter.de/blog/2012/11/16/binaergewitter-talk-number-32-jimmy-wales-starrzeit/</link>
-      <comments>http://blog.binaergewitter.de/blog/2012/11/16/binaergewitter-talk-number-32-jimmy-wales-starrzeit/#comments</comments>
-      <pubDate>Fri, 16 Nov 2012 12:00:00 +0100</pubDate>
-      <atom:updated>2012-11-16T12:00:00+01:00</atom:updated>
-
-      
-      
-      <atom:link rel="payment"
-        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F11%2F16%2Fbinaergewitter-talk-number-32-jimmy-wales-starrzeit%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2332%20-%20Jimmy%20Wales%20Starrzeit&amp;category=audio&amp;tags=podcast,tech,software"
-        type="text/html"
-      />
-
-      
-
-      
-      <category><![CDATA[talk]]></category>
-      
-
-      <media:credit role="author">Binärgewitter Crew</media:credit>
-      <media:rating>nonadult</media:rating>
-      
-      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/11/16/binaergewitter-talk-number-32-jimmy-wales-starrzeit</guid>
-      
-      <description>
-        <![CDATA[<h1>Kategorie der Woche</h1>
-
-<h2>Badass der Woche</h2>
-
-<ul>
-<li><a href="http://www.metro.co.uk/weird/917706-grandma-in-russia-kills-wolf-with-bare-hands-and-axe?ref=fb_invite_declined">Grossmutter toetet Wolf mit Axt und blossen Händen</a></li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li>Der Wolf, der von der Grossmutter getoetet wurde</li>
-<li><a href="http://www.reddit.com/r/programming/comments/137kd9/18_months_ago_termkit_a_nextgeneration_terminal/">TermKit</a></li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li>Bücher</li>
-<li><a href="http://www.golem.de/news/open-source-buchscanner-blaettert-mit-staubsaugerhilfe-um-1211-95718.html">Google Buch Einleser</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://www.golem.de/news/tod-in-belize-regierungschef-nennt-john-mcafee-meschugge-1211-95730.html">John McAffee auf der Flucht</a></li>
-<li><a href="http://yro.slashdot.org/story/12/11/12/2016247/john-mcafee-accused-of-murder-wanted-by-belize-police">John McAfee in Mord verwickelt</a>
-
-<ul>
-<li><a href="http://news.cnet.com/8301-1009_3-57548458-83/antivirus-pioneer-mcafee-sought-for-questioning-in-murder-case/">Hat ein eigenes Drogenlabor speziell fuer seine Firma</a></li>
-<li><a href="http://www.wired.co.uk/news/archive/2012-11/14/john-mcafee-audio-interview">Interview mit Wired: Hat sich in seinem eigenen Garten eingegraben damit die Feds ihn nicht finden</a></li>
-</ul>
-</li>
-<li><a href="http://arstechnica.com/apple/2012/11/op-ed-where-are-all-the-iphone-5-app-updates/">iPhone5 Updates auf größeres Display</a></li>
-<li><a href="http://seclists.org/fulldisclosure/2012/Nov/94">Linux Rootkit, welches HTTP Requests umschreibt</a></li>
-<li><a href="http://hardware.slashdot.org/story/12/11/09/2049240/moores-law-is-becoming-irrelevant-says-arms-boss">Duh: ARM chef meint, dass Moores Law irrelevant wird, dass effizienz und Preis wichtiger ist</a>
-
-<ul>
-<li><a href="http://en.wikipedia.org/wiki/Moores_law">Moores Law</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Amdahl's_law">Amdahls Law</a></li>
-</ul>
-</li>
-<li><a href="http://hothardware.com/News/Microsofts-Big-Hidden-Windows-8-Feature-BuiltIn-Advertising/">Win8 hidden features: Ads</a></li>
-<li><a href="http://arstechnica.com/tech-policy/2012/11/ohio-attorney-creates-fake-child-porn-for-case-now-must-pay-300000/">Staatsanwalt soll 300k Euro zahlen weil er kindergesichter auf Pr0n geshooped hat</a></li>
-<li><a href="http://pixus-ru.blogspot.ru/2012/11/hack-any-skype-account-in-6-easy-steps.html">Hack any skype account in 6 easy steps</a></li>
-<li><a href="https://petitions.whitehouse.gov/petition/peacefully-grant-state-texas-withdraw-united-states-america-and-create-its-own-new-government/BmdWCP8B">Nach Wahlen - Buerger Texas' starten Petition um aus USA auszutreten</a></li>
-<li><a href="http://www.golem.de/news/rapid-prototyping-us-armee-entwickelt-guenstigen-3d-drucker-1211-95633.html">US Army will guenstige 3d-drucker fuer den Feldeinsatz</a></li>
-<li><a href="http://hardware.slashdot.org/story/12/11/08/2017257/open-compute-wants-to-make-biodegradable-servers">Bio-degradable Servers von Open Compute</a>
-
-<ul>
-<li><a href="http://opencompute.org">http://opencompute.org/</a></li>
-</ul>
-</li>
-<li><a href="http://www.recursivity.com/blog/2012/10/28/ides-are-a-language-smell/">IDEs Are a Language Smell</a> (pfleidi)</li>
-<li><a href="http://hothardware.com/News/Nike-FuelBand-One-Big-Security-Hole-For-Your-Life/">Nike FuleBand deckt Fremdgaenger auf</a></li>
-<li><a href="http://www.heise.de/developer/meldung/Redis-2-6-unterstuetzt-Skripting-mit-Lua-1734935.html">Redis 2.6 mit Lua Scripting</a> (pfleidi)</li>
-<li><a href="http://luajit.org/performance_x86.html">LuaJIT 2.0 ist schnell</a>
-
-<ul>
-<li><a href="http://playingwithpointers.com/archives/1010">A peek into LuaJIT</a></li>
-</ul>
-</li>
-<li><a href="http://www.golem.de/news/freies-arbeiten-apple-naehert-unternehmenskultur-an-google-an-1211-95692.html">Apple kuckt in Sachen Unternehmenskultur bei Google ab</a></li>
-<li><a href="http://arstechnica.com/gadgets/2012/11/why-the-hell-does-this-mouse-need-to-connect-to-the-internet/">Deine Maus braucht mehr Internet</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://blog.cdleary.com/2012/11/arm-chars-are-unsigned-by-default/">ARM chars are unsigned by default</a></li>
-<li><a href="http://eloquentjavascript.net/contents.html">Eloquent JavaScript</a> (pfleidi)
-
-<ul>
-<li><a href="https://www.amazon.de/dp/1593272820/ref=as_li_ss_til?tag=pfleidi-21">Eloquent JavaScript Buch</a></li>
-</ul>
-</li>
-<li><a href="http://io9.com/5958479/7-best+case-scenarios-for-the-future-of-humanity">7 Best-Case Scenarios für die Zukunft</a></li>
-<li><a href="http://danielmiessler.com/study/lsof/">Lsof Beispiele</a> (pfleidi)</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>solaris10 (felix)</li>
-<li>Arch Linux boot fail (pfleidi)</li>
-<li>Nexus4 (felix)</li>
-<li>Wasserkühlung (pfleidi)</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=6YrjAqPqM30">BoxeeBox Hack</a> via @RowC</li>
-<li><a href="http://clonezilla.org">Clonezilla Bare Metal Restore</a></li>
-<li>rear</li>
-<li><a href="https://itunes.apple.com/de/app/berlin-coffee-map/id493217376?mt=8">Berlin Coffee Map</a> (pfleidi)</li>
-<li><a href="http://wiki.openstack.org/TryStack">TryStack</a></li>
-<li><a href="http://ethercalc.net/">Ethercalc</a></li>
-<li><a href="https://github.com/wycats/thor">Thor</a> (pfleidi)</li>
-<li><a href="https://www.youtube.com/watch?v=75F3CSZcCFs">Bus Werbung (DasWort)</a></li>
-</ul>
-
-]]>
-      </description>
-      
-      
-      
-      <enclosure url="http://download.binaergewitter.de/2012-11-15.Binaergewitter.Talk.32.opus"
-        length="42052764"
-        type="application/octet-stream" />
-      <media:content url="http://download.binaergewitter.de/2012-11-15.Binaergewitter.Talk.32.opus"
-        fileSize="42052764"
-        type="application/octet-stream" />
-      <itunes:keywords></itunes:keywords>
-      <itunes:subtitle>Binärgewitter Talk #32 - Jimmy Wales Starrzeit</itunes:subtitle>
-      <itunes:summary>
-        <![CDATA[Kategorie der Woche
-
-Badass der Woche
-
-
-Grossmutter toetet Wolf mit Axt und blossen Händen
-
-
-
-Toter der Woche
-
-
-Der Wolf, der von der Grossmutter getoetet wurde
-TermKit
-
-
-
-Untoter der Woche
-
-
-Bücher
-Google Buch Einleser
-
-
-
-News
-
-
-John McAffee auf der Flucht
-John McAfee in Mord verwickelt
-
-
-Hat ein eigenes Drogenlabor speziell fuer seine Firma
-Interview mit Wired: Hat sich in seinem eigenen Garten eingegraben damit die Feds ihn nicht finden
-
-
-iPhone5 Updates auf größeres Display
-Linux Rootkit, welches HTTP Requests umschreibt
-Duh: ARM chef meint, dass Moores Law irrelevant wird, dass effizienz und Preis wichtiger ist
-
-
-Moores Law
-Amdahls Law
-
-
-Win8 hidden features: Ads
-Staatsanwalt soll 300k Euro zahlen weil er kindergesichter auf Pr0n geshooped hat
-Hack any skype account in 6 easy steps
-Nach Wahlen - Buerger Texas' starten Petition um aus USA auszutreten
-US Army will guenstige 3d-drucker fuer den Feldeinsatz
-Bio-degradable Servers von Open Compute
-
-
-http://opencompute.org/
-
-
-IDEs Are a Language Smell (pfleidi)
-Nike FuleBand deckt Fremdgaenger auf
-Redis 2.6 mit Lua Scripting (pfleidi)
-LuaJIT 2.0 ist schnell
-
-
-A peek into LuaJIT
-
-
-Apple kuckt in Sachen Unternehmenskultur bei Google ab
-Deine Maus braucht mehr Internet
-
-
-
-Lesefoo
-
-
-ARM chars are unsigned by default
-Eloquent JavaScript (pfleidi)
-
-
-Eloquent JavaScript Buch
-
-
-7 Best-Case Scenarios für die Zukunft
-Lsof Beispiele (pfleidi)
-
-
-
-Mimimi der Woche
-
-
-solaris10 (felix)
-Arch Linux boot fail (pfleidi)
-Nexus4 (felix)
-Wasserkühlung (pfleidi)
-
-
-
-Picks
-
-
-BoxeeBox Hack via @RowC
-Clonezilla Bare Metal Restore
-rear
-Berlin Coffee Map (pfleidi)
-TryStack
-Ethercalc
-Thor (pfleidi)
-Bus Werbung (DasWort)
 
 
 ]]>

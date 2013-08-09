@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-08-02T11:44:04+02:00</updated>
+  <updated>2013-08-09T13:55:55+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,143 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #62 - Krepel ist keine schmackhafte Backware]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/08/09/binaergewitter-talk-number-62-krepel-ist-keine-schmackhafte-backware/"/>
+    <updated>2013-08-09T13:30:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/08/09/binaergewitter-talk-number-62-krepel-ist-keine-schmackhafte-backware</id>
+    <content type="html"><![CDATA[<p>Heute ohne Ingo aber mit dem Mailthema und wie immer den News der letzten Woche...</p>
+
+<ul>
+<li><a href="http://pad.shownot.es/doc/binaergewitter-62">komplette Shownotes mit Zeitangaben</a> - Danke <a href="https://twitter.com/schmittlauch">@Schmittlauch</a></li>
+<li><a href="http://xenim.imake.io/chatlog/binaergewitter-BGT062">Chatlog</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.nzz.ch/aktuell/digital/asus-gibt-windows-rt-auf-1.18126063">Windows RT</a></li>
+<li><a href="http://www.heise.de/open/meldung/Firefox-23-mit-Teilen-Funktion-und-ohne-blink-1930833.html">blink</a></li>
+<li><a href="http://www.mnn.com/earth-matters/climate-weather/stories/north-pole-melts-forms-lake-at-top-of-the-world">Nordpol</a></li>
+<li><a href="https://github.com/search?p=3&amp;q=mysqldump+-p&amp;ref=searchresults&amp;type=Code">Internetsicherheit</a><a href="https://github.com/search?p=3&amp;q=extension:php+mysql_query+$_GET&amp;ref=searchresults&amp;type=Code"> und nochmal</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Samsung-Tizen-fuer-alles-1930958.html">Tizen again</a></li>
+</ul>
+
+
+<h2>Tumblr der Woche</h2>
+
+<ul>
+<li><a href="http://devsdoart.com/">Devs do Art</a></li>
+<li><a href="http://securityreactions.tumblr.com/post/57703935169/this-happens-every-time-we-draw-network-diagrams-on-the"></a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://sekurak.pl/hp-laserjet-pro-printers-remote-admin-password-extraction/">HP pwnage</a>
+
+<ul>
+<li><a href="http://reddit.com/r/shittyadvice">einfach mal</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/tech-policy/2013/08/researchers-say-tor-targeted-malware-phoned-home-to-nsa/">Alles Tor wurde geowned</a>
+
+<ul>
+<li><a href="http://www.twitlonger.com/show/n_1rlo0uu">Original Artikel</a></li>
+</ul>
+</li>
+<li><a href="https://medium.com/language-lingustics/7e3b7130f131">Happy Brithday @Horse_Ebooks</a></li>
+<li><a href="http://techcrunch.com/2013/08/05/bezos-not-bozos/">Bezos kauft Washtingon Post</a> <a href="http://www.washingtonpost.com/national/washington-post-to-be-sold-to-jeff-bezos/2013/08/05/ca537c9e-fe0c-11e2-9711-3708310f6f4d_story.html">derp</a></li>
+<li><a href="http://blog.rockmelt.com/post/57166686461/big-company-news">Yahoo kauft Rockmelt</a>
+
+<ul>
+<li><a href="http://yahoo.tumblr.com/post/57582020969/kicking-off-30-days-of-change">30 days</a></li>
+</ul>
+</li>
+<li><a href="http://www.playframework.com/security/vulnerability/20130806-SessionInjection">Play Framework wird gepwned</a>
+
+<ul>
+<li><a href="http://grahamhackingscala.blogspot.de/2009/11/xml-generation-with-scala.html">Scala XML Literals</a></li>
+</ul>
+</li>
+<li><a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/">Putty wurde gepatcht nach unendlich viel Zeit</a></li>
+<li><a href="http://www.mla.org/style/handbook_faq/cite_a_tweet">Offizieller tweet quote styleguide</a></li>
+<li><a href="http://blog.elliottkember.com/chromes-insane-password-security-strategy">Chrome Passwort Sicherheit</a></li>
+<li><a href="https://bitcoin.co.th/trading-suspended-due-to-bank-of-thailand-advisement/?bettertitle">Bitcoin illegal in Thailand</a></li>
+<li><a href="https://www.google.com/shopping/express/about/index.html">Google Express</a></li>
+<li><a href="https://bitbucket.org/multicoreware/x265/wiki/Home">x265</a>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/High_Efficiency_Video_Coding">HEVC</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Mail</h3>
+
+<ul>
+<li><a href="http://zarafa.com">Zarafa</a>
+
+<ul>
+<li>zpush</li>
+<li><a href="http://www.radiotux.de/index.php?/archives/7159-RadioTux-Magazin-Juli-2011.html">RadioTux Sendung über Zarafa und z-push</a></li>
+</ul>
+</li>
+<li><a href="https://www.namecheap.com/email/email-hosting.aspx">Namecheap Open-Xchange</a></li>
+<li><a href="http://www.getsyncd.com/index.php">Getsyncd</a></li>
+<li><a href="https://www.fastmail.fm/">FastMail</a></li>
+<li><a href="https://www.zoho.com/">Zoho</a></li>
+<li><a href="http://blog.binaergewitter.de/blog/2012/02/23/binaergewitter-talk-number-4-ich-filter-blumen/">Binärgewitter Talk #4</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://business.time.com/2012/11/15/is-dollar-cost-averaging-dumb/">Is Dollar cost averaging dumb</a></li>
+<li><a href="http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/">Block, Proc, Lambda</a></li>
+<li><a href="http://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/">29 Common beginner Python error</a></li>
+<li><a href="http://www.eecs.berkeley.edu/~sylvia/papers/osdi2012_megapipe.pdf">Megapipe Paper</a></li>
+<li><a href="https://charlie.bz/blog/things-that-clear-rubys-method-cache">Things that clear Ruby's method cache</a></li>
+<li><a href="http://www.datastax.com/dev/blog/lightweight-transactions-in-cassandra-2-0">Lightweight transactions in Cassandra 2.0</a></li>
+<li><a href="http://www.wired.com/underwire/2013/08/xkcd-time-comic/">xkcd time</a>
+
+<ul>
+<li><a href="http://geekwagon.net/projects/xkcd1190/">Viewer</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="https://github.com/shackspace/soundflower/blob/master/backend/soundflower/mpdrunner.py">MPD als Streaming abstraktion (am Beispiel Soundflower)</a></li>
+<li><a href="https://github.com/travisjeffery/timecop">Timecop Gem</a></li>
+<li><a href="https://github.com/defunkt/fakefs">FakeFS</a></li>
+<li><a href="https://www.bloc.io/ruby-warrior/#/">Ruby Warrior</a></li>
+<li><a href="http://gifdanceparty.com/">Gifdanceparty</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Telecomix#Blackthrow">Blackthrow bootstrapping</a></li>
+<li><a href="http://www.imdb.com/title/tt2480514/">In the flesh</a></li>
+<li><a href="https://www.youtube.com/watch?v=ntlI-pDUxPE">Parcours robot</a></li>
+<li><a href="http://wahrsagercheck.wordpress.com/2013/07/29/so-funktioniert-astrologie-immer/">Komplettloesung von allen Astrologie Dingen</a></li>
+<li><a href="https://itunes.apple.com/de/app/ikea/id508738026?l=en&amp;mt=8">Ikea iOS App</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #61 - Linuscrisy]]></title>
@@ -765,122 +902,6 @@ projizieren</a> <code>00:34:29</code></li>
 <li><a href="https://www.ixquick.com/">ixquick</a></li>
 <li><a href="http://metager2.de/">MetaGer2</a></li>
 <li><a href="http://de.wikipedia.org/wiki/PubSubHubbub">PubSubHubbub (PuSH)</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #57 - hart bitzeln]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2013/07/05/binaergewitter-talk-number-57-hart-bitzeln/"/>
-    <updated>2013-07-05T10:45:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2013/07/05/binaergewitter-talk-number-57-hart-bitzeln</id>
-    <content type="html"><![CDATA[<p>Diesmal nur mit Minimalbesetzung aber mit Urgesteinen der Computergeschichte:</p>
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://de.altavista.com/">Altavista</a></li>
-<li><a href="http://www.ruby-lang.org/en/news/2013/06/30/we-retire-1-8-7/">Ruby 1.8.7</a></li>
-<li><a href="http://www.mobilegeeks.de/betriebssystem-alternative-tizen-so-gut-wie-tot/">Tizen</a>
-
-<ul>
-<li><a href="http://jolla.com/">Jolla</a></li>
-<li>SailfishOS</li>
-<li><a href="http://de.wikipedia.org/wiki/Joyn">Joyn</a></li>
-</ul>
-</li>
-<li><a href="http://www.ietf.org/mail-archive/web/ietf/current/msg80472.html">Maus Erfinder</a>
-
-<ul>
-<li><a href="https://www.youtube.com/watch?v=yJDv-zdhzMY">Mother of all Demos</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="https://www.replaygamesinc.com/">Larry Reloaded</a>
-
-<ul>
-<li><a href="http://www.bitblokes.de/2013/07/leisure-suit-larry-in-the-land-of-the-lounge-lizards-reloaded-nach-speichern-und-laden-unter-linux-ist-larry-verschwunden/">kleiner Bug in der Linux Version beim
-Speichern</a></li>
-</ul>
-</li>
-<li><a href="http://kernelnewbies.org/Linux_3.10">Kernel 3.10</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Samsung-schluckt-Boxee-1911159.html">Samsung kauf Boxee</a>
-
-<ul>
-<li><a href="http://gigaom.com/2013/07/04/boxee-acquired-cloud-dvr-shutting-down-post-mortem/">Bye, bye, Boxee</a></li>
-</ul>
-</li>
-<li><a href="http://blog.flattr.net/2013/07/adding-bitcoin-support/">Flattr hat Bitcoin support</a>
-
-<ul>
-<li><a href="http://bips.me">bips</a></li>
-</ul>
-</li>
-<li><a href="http://www.mobilegeeks.de/mastercard-und-visa-verbieten-zahlungen-an-vpn-provider/">VPN Provider nicht per VISA/MASTERCARD</a>
-
-<ul>
-<li><a href="http://torrentfreak.com/mastercard-and-visa-start-banning-vpn-providers-130703/">Auf Torrentfreak</a></li>
-<li><a href="https://www.privateinternetaccess.com/">Marc mag privateinternetaccess</a></li>
-</ul>
-</li>
-<li><a href="https://www.simplify.com/commerce/">Simplify</a></li>
-<li><a href="http://tobtu.com/decryptocat.php">Decryptocat</a></li>
-<li><a href="http://the90sbutton.com/">Instant 90s Music</a>
-
-<ul>
-<li><a href="https://gist.github.com/rb2k/d20eca0e98d90795e078/raw/ccb149d340352d11c0fa29a675cf76de4d1f8bfc/gistfile1.txt">Songliste</a></li>
-</ul>
-</li>
-<li><a href="http://www.sec.gov/Archives/edgar/data/1579346/000119312513279830/d562329ds1.htm">Winklevoss Bitcoin Trust</a></li>
-<li><a href="http://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html?source=hn#Analysis1">Motorola ist schlimmer als die NSA</a></li>
-<li><a href="http://rethinkdb.com/blog/1.7-release/">RethinkDB 1.7</a></li>
-<li><a href="http://www.youtube.com/watch?v=DZrjXSsfxMQ&amp;feature=player_embedded">Neverwet</a></li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<ul>
-<li><a href="http://www.heise.de/newsticker/meldung/Geruecht-um-Snowden-Boliviens-Praesident-Ueberflugrecht-verweigert-1910238.html">Snowden</a></li>
-<li>Capabilities / LXC
-
-<ul>
-<li><a href="http://de.wikipedia.org/wiki/Aufs">aufs</a></li>
-<li><a href="http://lwn.net/Articles/524952/">LCE: The failure of operating systems and how we can fix it</a></li>
-<li><a href="http://lwn.net/Articles/531114/">Namespaces in Operation</a></li>
-<li><a href="http://lwn.net/Articles/527342/">Syslog Namespaces</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="https://github.com/FooBarWidget/passenger/wiki/Puma-vs-Phusion-Passenger">Puma vs passenger</a></li>
-<li><a href="http://www.slate.com/articles/life/a_fine_whine/2013/07/ghosting_the_irish_goodbye_the_french_leave_stop_saying_goodbye_at_parties.html">Don't say goodbye</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>cat /sys/block/sda/queue/scheduler</li>
-<li><a href="http://www.richardnichols.net/2012/08/arrrggh-java-security-cert-certificateexception-certificates-does-not-conform-to-algorithm-constraints/">JDK7 disabled MD2</a></li>
-<li>Zoll Clusterfuck</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=B5mVN2EgKLk&amp;feature=share">Convos with my 2 year old daughters</a></li>
 </ul>
 
 ]]></content>

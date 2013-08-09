@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-08-02T11:44:04+02:00</updated>
+  <updated>2013-08-09T13:55:55+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,143 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #62 - Krepel ist keine schmackhafte Backware]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/08/09/binaergewitter-talk-number-62-krepel-ist-keine-schmackhafte-backware/"/>
+    <updated>2013-08-09T13:30:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/08/09/binaergewitter-talk-number-62-krepel-ist-keine-schmackhafte-backware</id>
+    <content type="html"><![CDATA[<p>Heute ohne Ingo aber mit dem Mailthema und wie immer den News der letzten Woche&#8230;</p>
+
+<ul>
+<li><a href="http://pad.shownot.es/doc/binaergewitter-62">komplette Shownotes mit Zeitangaben</a> - Danke <a href="https://twitter.com/schmittlauch">@Schmittlauch</a></li>
+<li><a href="http://xenim.imake.io/chatlog/binaergewitter-BGT062">Chatlog</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.nzz.ch/aktuell/digital/asus-gibt-windows-rt-auf-1.18126063">Windows RT</a></li>
+<li><a href="http://www.heise.de/open/meldung/Firefox-23-mit-Teilen-Funktion-und-ohne-blink-1930833.html">blink</a></li>
+<li><a href="http://www.mnn.com/earth-matters/climate-weather/stories/north-pole-melts-forms-lake-at-top-of-the-world">Nordpol</a></li>
+<li><a href="https://github.com/search?p=3&amp;q=mysqldump+-p&amp;ref=searchresults&amp;type=Code">Internetsicherheit</a><a href="https://github.com/search?p=3&amp;q=extension:php+mysql_query+$_GET&amp;ref=searchresults&amp;type=Code"> und nochmal</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Samsung-Tizen-fuer-alles-1930958.html">Tizen again</a></li>
+</ul>
+
+
+<h2>Tumblr der Woche</h2>
+
+<ul>
+<li><a href="http://devsdoart.com/">Devs do Art</a></li>
+<li><a href="http://securityreactions.tumblr.com/post/57703935169/this-happens-every-time-we-draw-network-diagrams-on-the"></a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://sekurak.pl/hp-laserjet-pro-printers-remote-admin-password-extraction/">HP pwnage</a>
+
+<ul>
+<li><a href="http://reddit.com/r/shittyadvice">einfach mal</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/tech-policy/2013/08/researchers-say-tor-targeted-malware-phoned-home-to-nsa/">Alles Tor wurde geowned</a>
+
+<ul>
+<li><a href="http://www.twitlonger.com/show/n_1rlo0uu">Original Artikel</a></li>
+</ul>
+</li>
+<li><a href="https://medium.com/language-lingustics/7e3b7130f131">Happy Brithday @Horse_Ebooks</a></li>
+<li><a href="http://techcrunch.com/2013/08/05/bezos-not-bozos/">Bezos kauft Washtingon Post</a> <a href="http://www.washingtonpost.com/national/washington-post-to-be-sold-to-jeff-bezos/2013/08/05/ca537c9e-fe0c-11e2-9711-3708310f6f4d_story.html">derp</a></li>
+<li><a href="http://blog.rockmelt.com/post/57166686461/big-company-news">Yahoo kauft Rockmelt</a>
+
+<ul>
+<li><a href="http://yahoo.tumblr.com/post/57582020969/kicking-off-30-days-of-change">30 days</a></li>
+</ul>
+</li>
+<li><a href="http://www.playframework.com/security/vulnerability/20130806-SessionInjection">Play Framework wird gepwned</a>
+
+<ul>
+<li><a href="http://grahamhackingscala.blogspot.de/2009/11/xml-generation-with-scala.html">Scala XML Literals</a></li>
+</ul>
+</li>
+<li><a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/">Putty wurde gepatcht nach unendlich viel Zeit</a></li>
+<li><a href="http://www.mla.org/style/handbook_faq/cite_a_tweet">Offizieller tweet quote styleguide</a></li>
+<li><a href="http://blog.elliottkember.com/chromes-insane-password-security-strategy">Chrome Passwort Sicherheit</a></li>
+<li><a href="https://bitcoin.co.th/trading-suspended-due-to-bank-of-thailand-advisement/?bettertitle">Bitcoin illegal in Thailand</a></li>
+<li><a href="https://www.google.com/shopping/express/about/index.html">Google Express</a></li>
+<li><a href="https://bitbucket.org/multicoreware/x265/wiki/Home">x265</a>
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/High_Efficiency_Video_Coding">HEVC</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Mail</h3>
+
+<ul>
+<li><a href="http://zarafa.com">Zarafa</a>
+
+<ul>
+<li>zpush</li>
+<li><a href="http://www.radiotux.de/index.php?/archives/7159-RadioTux-Magazin-Juli-2011.html">RadioTux Sendung über Zarafa und z-push</a></li>
+</ul>
+</li>
+<li><a href="https://www.namecheap.com/email/email-hosting.aspx">Namecheap Open-Xchange</a></li>
+<li><a href="http://www.getsyncd.com/index.php">Getsyncd</a></li>
+<li><a href="https://www.fastmail.fm/">FastMail</a></li>
+<li><a href="https://www.zoho.com/">Zoho</a></li>
+<li><a href="http://blog.binaergewitter.de/blog/2012/02/23/binaergewitter-talk-number-4-ich-filter-blumen/">Binärgewitter Talk #4</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://business.time.com/2012/11/15/is-dollar-cost-averaging-dumb/">Is Dollar cost averaging dumb</a></li>
+<li><a href="http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/">Block, Proc, Lambda</a></li>
+<li><a href="http://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/">29 Common beginner Python error</a></li>
+<li><a href="http://www.eecs.berkeley.edu/~sylvia/papers/osdi2012_megapipe.pdf">Megapipe Paper</a></li>
+<li><a href="https://charlie.bz/blog/things-that-clear-rubys-method-cache">Things that clear Ruby&#8217;s method cache</a></li>
+<li><a href="http://www.datastax.com/dev/blog/lightweight-transactions-in-cassandra-2-0">Lightweight transactions in Cassandra 2.0</a></li>
+<li><a href="http://www.wired.com/underwire/2013/08/xkcd-time-comic/">xkcd time</a>
+
+<ul>
+<li><a href="http://geekwagon.net/projects/xkcd1190/">Viewer</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="https://github.com/shackspace/soundflower/blob/master/backend/soundflower/mpdrunner.py">MPD als Streaming abstraktion (am Beispiel Soundflower)</a></li>
+<li><a href="https://github.com/travisjeffery/timecop">Timecop Gem</a></li>
+<li><a href="https://github.com/defunkt/fakefs">FakeFS</a></li>
+<li><a href="https://www.bloc.io/ruby-warrior/#/">Ruby Warrior</a></li>
+<li><a href="http://gifdanceparty.com/">Gifdanceparty</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Telecomix#Blackthrow">Blackthrow bootstrapping</a></li>
+<li><a href="http://www.imdb.com/title/tt2480514/">In the flesh</a></li>
+<li><a href="https://www.youtube.com/watch?v=ntlI-pDUxPE">Parcours robot</a></li>
+<li><a href="http://wahrsagercheck.wordpress.com/2013/07/29/so-funktioniert-astrologie-immer/">Komplettloesung von allen Astrologie Dingen</a></li>
+<li><a href="https://itunes.apple.com/de/app/ikea/id508738026?l=en&amp;mt=8">Ikea iOS App</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #61 - Linuscrisy]]></title>
@@ -2483,225 +2620,6 @@ Style&#8221;</a>
 <li><a href="http://pltts.me/">Pllts</a> und <a href="http://www.colourlovers.com/">Colour Lovers</a> (pfleidi)</li>
 <li><a href="https://itunes.apple.com/de/app/xenim-streams/id478586970?mt=8">Xenim App für iOS</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=de.danoeh.antennapod&amp;hl=de">antennapod für Android</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #47 - von Null auf Systemd]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2013/04/05/binaergewitter-talk-number-47-von-null-auf-systemd/"/>
-    <updated>2013-04-05T18:00:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2013/04/05/binaergewitter-talk-number-47-von-null-auf-systemd</id>
-    <content type="html"><![CDATA[<p>Ostern ist vorbei. Binärgewitter ist wieder da und das in vollzähliger Stammbesetzung. Heiß her gehts diesmal über den Sinn von Atomkraftwerken und über das vermessene Selbst&#8230;.</p>
-
-<h2>1. April der Woche</h2>
-
-<ul>
-<li><a href="http://vividtimes.com/round-up-all-best-april-fools-day-prank-around-the-world/">Lustige 1. April dinge</a>
-
-<ul>
-<li><a href="http://lists.freedesktop.org/archives/systemd-devel/2013-March/010062.html">systemd bekommt libc modul</a>
-
-<ul>
-<li><a href="http://www.golem.de/news/zerg-demo-erlang-on-xen-startet-ohne-os-in-rund-100-millisekunden-1302-97673.html">Erlang Party</a></li>
-</ul>
-</li>
-<li><a href="http://www.capcom-unity.com/combofiend/blog/2013/04/01/introducing-super-duper-street-fighter-4">Super Duper Street Fighter 4</a></li>
-<li><a href="http://www.googlewatchblog.de/2013/03/haeuser-google-street-view/">Haeuser mit Google Street view renovieren</a></li>
-<li><a href="http://www.youtube.com/watch?v=B7a58JxWCUA&amp;feature=youtu.be">Abfuehrmittel bei Moewen</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.gulli.com/news/21186-lucasarts-schliessung-nach-uebernahme-durch-disney-2013-04-04">LucasArts</a>
-
-<ul>
-<li><a href="http://www.gulli.com/news/21186-lucasarts-schliessung-nach-uebernahme-durch-disney-2013-04-04">Jedi Knight Source Code freigegeben</a></li>
-</ul>
-</li>
-<li><a href="http://arstechnica.com/information-technology/2013/03/worlds-fastest-supercomputer-from-09-is-now-obsolete-will-be-dismantled">IBM Roadrunner</a></li>
-</ul>
-
-
-<h2>Apache Graveyard der Woche</h2>
-
-<ul>
-<li><a href="http://www.pro-linux.de/news/1/19629/apache-bloodhound-wird-offizielles-apache-projekt.html">Apache Bloodhound</a></li>
-</ul>
-
-
-<h2>Sicherheit durch Ignoranz der Woche</h2>
-
-<ul>
-<li>Owncloud</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://techcrunch.com/2013/04/04/live-blog-live-from-the-facebook-phone-event/">Facebook Home</a></li>
-<li><a href="http://news.cnet.com/8301-1023_3-57577587-93/chinese-search-engine-develops-google-glass-rival-says-report/">Baidu (<code>Not</code> Google) entwickelt <code>Not</code> Google Glasses</a></li>
-<li><a href="http://news.cnet.com/8301-13578_3-57577887-38/apples-imessage-encryption-trips-up-feds-surveillance/">iMessage encryption</a></li>
-<li><a href="http://www.pro-linux.de/news/1/19632/alles-gute-15-jahre-mozilla.html">15 Jahre Mozilla</a></li>
-<li><a href="http://arstechnica.com/information-technology/2013/04/firefox-turns-20version-20-that-is/">Firefox wird 20</a></li>
-<li><a href="https://blog.mozilla.org/blog/2013/04/03/mozilla-and-samsung-collaborate-on-next-generation-web-browser-engine/">Mozilla und Samsung arbeiten zusammen an Browser Engine</a></li>
-<li><a href="https://github.com/mozilla/rust/blob/release-0.6/RELEASES.txt">Rust 0.6 wurde veröffentlicht</a>
-
-<ul>
-<li><a href="http://ejohn.org/blog/asmjs-javascript-compile-target/">Blogpost zu ASM.js</a></li>
-</ul>
-</li>
-<li><a href="http://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html">Blink: Neue Rendering Engine für Chrome</a>
-
-<ul>
-<li><a href="http://prng.net/blink-faq.html">No Bullshit translation</a></li>
-<li><a href="http://www.chromium.org/blink#new-features">Features</a></li>
-<li><a href="http://www.brucelawson.co.uk/2013/hello-blink/">Opera ist auch mit von der Partie</a></li>
-<li><a href="http://robertnyman.com/2013/04/04/thoughts-on-blink-googles-new-rendering-engine/">Kommentarpost #1</a></li>
-<li><a href="http://infrequently.org/2013/04/probably-wrong/">Kommentarpost #2</a></li>
-</ul>
-</li>
-<li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=U8HVQXkeU8U">BF4 gameplay video</a></li>
-<li><a href="http://cen.acs.org/articles/91/web/2013/04/Nuclear-Power-Prevents-Deaths-Causes.html">Nuklearkraft verhindert mehr Tote als es verursacht</a>
-
-<ul>
-<li>Felix und Marc stimmen zu und haben eine völlig falsche Risikoabschätzung</li>
-</ul>
-</li>
-<li><a href="http://www.heise.de/developer/meldung/Adobe-stellt-Blank-Font-unter-Open-Source-Lizenz-1833872.html">Adobe macht Blank font Open-Source</a></li>
-<li><a href="http://jefferai.org/2013/03/24/too-perfect-a-mirror/">Too perfect a mirror</a>
-
-<ul>
-<li>(deleted the post&#8230; not cool - google cache for the rescue)[http://webcache.googleusercontent.com/search?q=cache:aqEkjdYcDPIJ:ampache.jefferai.org/2013/03/24/too-perfect-a-mirror/+ )</li>
-</ul>
-</li>
-<li><a href="https://blog.bit9.com/2013/04/02/the-realities-of-cyberwar-fear-uncertainty-and-doubt/">The Realities of Cyberwar</a></li>
-<li><a href="http://arstechnica.com/security/2013/04/wtf-ats-profane-password-ban-lets-some-swears-through/">ATT bannt anstoessige Passwoerter</a></li>
-<li><a href="http://blog.dotcloud.com/new-sandbox">Dotcloud gibt Stack als OSS frei</a></li>
-<li><a href="http://www.golem.de/news/cloud-drive-amazon-konkurriert-mit-dropbox-1304-98459.html">Amazon bringt Dateisynchronisation</a></li>
-<li><a href="http://www.golem.de/news/webmailer-yahoo-integriert-dropbox-1304-98481.html">Yahoo integriert Dropbox</a></li>
-<li><a href="http://www.golem.de/news/aerofs-das-bessere-dropbox-1304-98485.html">AeroFS nun offen für alle</a>
-
-<ul>
-<li><a href="http://blog.aerofs.com/70/aerofss3-private-syncing-to-amazons-cloud-made-easy">pseudo S3 Support</a></li>
-</ul>
-</li>
-<li><a href="http://www.heise.de/developer/meldung/Dateisystem-ZFS-on-Linux-bereit-fuer-Alltagseinsatz-1833105.html">ZFS auf Linux bereit für den Praxiseinsatz</a> (wo bleibt cheeseFS )</li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<h3>Quantified Self</h3>
-
-<ul>
-<li>Devices
-
-<ul>
-<li><a href="http://www.amazon.de/dp/B009OC8W96?tag=pfleidi-21">Fitbit One</a>
-
-<ul>
-<li><a href="http://blog.marc-seeger.de/2012/09/16/backing-up-fitbit-data-using-their-api/">Daten Backup</a></li>
-<li><a href="https://github.com/openyou/libfitbit">Libfitbit</a></li>
-</ul>
-</li>
-<li><a href="http://www.amazon.de/dp/B0077L8YOO?tag=pfleidi-21">Fitbit Aria</a></li>
-<li><a href="http://www.amazon.de/dp/B002JE2PSA?tag=pfleidi-21">Withings Wifi Scale</a>
-
-<ul>
-<li><a href="http://www.amazon.de/dp/B00BKRQ4E8?tag=pfleidi-21">Neue Version</a></li>
-</ul>
-</li>
-<li><a href="http://www.tictrac.com/">Tictrac</a></li>
-<li><a href="http://www.amazon.de/dp/B007S088F4?tag=pfleidi-21">POLAR Brustgurt H7 WearLink</a></li>
-<li><a href="http://amzn.to/XT0Mjy">Wahoo Fitness Bluetooth Herzfrequenzgurt Blue HR Smart</a>
-
-<ul>
-<li><a href="http://de.wikipedia.org/wiki/Anaerobe_Schwelle">Anaerobe Schwelle</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Running Apps
-
-<ul>
-<li><a href="http://www.runtastic.com/">Runtastic</a></li>
-<li><a href="http://www.endomondo.com/">Endomondo</a></li>
-<li><a href="http://blog.marc-seeger.de/2011/10/21/running-apps-on-the-iphone/">Runmeter</a></li>
-<li><a href="http://www.runkeeper.com">Runkeeper</a></li>
-</ul>
-</li>
-<li><a href="https://itunes.apple.com/de/app/sleep-cycle-alarm-clock/id320606217?l=en&amp;mt=8">Sleep Cycle</a></li>
-<li><a href="https://itunes.apple.com/de/app/everyday/id398081659?l=en&amp;mt=8">Everyday</a></li>
-<li><a href="https://github.com/mroth/lolcommits">lolcommits</a></li>
-</ul>
-
-
-<h2>Homeautomation</h2>
-
-<ul>
-<li><a href="http://fhem.de/fhem.html">FHEM</a></li>
-<li><a href="http://www.amazon.de/gp/product/B00AQ9E77M/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00AQ9E77M&amp;linkCode=as2&amp;tag=trektrip">intelligente Steckdose Fritz Dect 200</a></li>
-<li><a href="http://volkszaehler.org">Volkszähler</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li>S/Key <a href="http://www.fatsquirrel.org/veghead/wot/skey.php">1</a> <a href="http://www.ece.northwestern.edu/CSEL/skey/skey_eecs.html">2</a></li>
-<li><a href="http://blog.bufferapp.com/how-much-sleep-do-we-really-need-to-work-productively">How much sleep do we really need to work productively?</a></li>
-<li><a href="http://engineering.getglue.com/post/46520116130/fast-range-queries-with-redis">Fast Range queries with redis</a></li>
-<li><a href="http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding">What every web developer must know about url encoding</a></li>
-<li><a href="http://www.avc.com/a_vc/2012/03/the-startup-curve.html">Bitcoin: The Startup Curve</a></li>
-<li><a href="http://www.c0t0d0s0.org/archives/6071-No,-ZFS-really-doesnt-need-a-fsck.html">ZFS really doesn&#8217;t need a FSCK</a></li>
-<li><a href="http://isotope11.com/blog/getting-a-ruby-backtrace-from-gnu-debugger">Ruby Backtrace aus GDB</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>EDGE Land (Ingo)</li>
-<li>PHP STDLIB (Marc)</li>
-<li>pacman update (Felix)
-
-<pre><code>  pacman -Syy
-  pacman-key --refresh-keys
-  pacman -Rdd gcc-multilib gcc-libs-multilib
-  pacman -Rcs armory-git electrum libndef retroshare
-  pacman -Syu
-</code></pre></li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://whenyouliveinstuttgart.tumblr.com/">When you live in Stuttgart</a>
-
-<ul>
-<li><a href="http://whenyoureallyliveinfellbach.tumblr.com/">You really live in Fellbach when</a></li>
-</ul>
-</li>
-<li><a href="https://www.youtube.com/watch?v=xOLqGxuvf08&amp;feature=player_embedded">Alle 6 Star Wars Filme gleichzeitig schauen (IN HD!)</a></li>
-<li><a href="https://code.google.com/p/iterm2/wiki/TmuxIntegration">iTerm + tmux 1.8</a> (pfleidi)
-
-<ul>
-<li><a href="http://sourceforge.net/p/tmux/tmux-code/ci/master/tree/CHANGES">tmux Changelog</a></li>
-</ul>
-</li>
-<li><a href="http://www.imdb.com/title/tt1610527/">Workaholics</a></li>
-<li><a href="http://www.wolframalpha.com/extensions/chrome-extension.html">Wolframaplha Chrome Plugin</a> (Ingo)</li>
-<li><a href="http://www.kedisoft.com/totals/">Totals.app</a></li>
-<li><a href="http://divshot.github.com/geo-bootstrap/">Geo Skin fuer Bootstrap</a></li>
-<li><a href="http://www.distancetomars.com/">Distance to Mars</a></li>
 </ul>
 
 ]]></content>
