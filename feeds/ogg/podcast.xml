@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 09 Aug 2013 13:55:55 +0200</lastBuildDate>
-    <atom:updated>2013-08-09T13:55:55+02:00</atom:updated>
+    <lastBuildDate>Sat, 10 Aug 2013 12:29:35 +0200</lastBuildDate>
+    <atom:updated>2013-08-10T12:29:35+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -84,7 +84,7 @@
         <![CDATA[<p>Heute ohne Ingo aber mit dem Mailthema und wie immer den News der letzten Woche...</p>
 
 <ul>
-<li><a href="http://pad.shownot.es/doc/binaergewitter-62">komplette Shownotes mit Zeitangaben</a> - Danke <a href="https://twitter.com/schmittlauch">@Schmittlauch</a></li>
+<li><a href="http://pad.shownot.es/doc/binaergewitter-62/readonly#htmllist">komplette Shownotes mit Zeitangaben</a> - Danke <a href="https://twitter.com/schmittlauch">@schmittlauch</a></li>
 <li><a href="http://xenim.imake.io/chatlog/binaergewitter-BGT062">Chatlog</a></li>
 </ul>
 
@@ -110,7 +110,7 @@
 
 <ul>
 <li><a href="http://devsdoart.com/">Devs do Art</a></li>
-<li><a href="http://securityreactions.tumblr.com/post/57703935169/this-happens-every-time-we-draw-network-diagrams-on-the"></a></li>
+<li><a href="http://securityreactions.tumblr.com/post/57703935169/this-happens-every-time-we-draw-network-diagrams-on-the">SecurityReactions</a></li>
 </ul>
 
 
@@ -216,10 +216,10 @@
       
       
       <enclosure url="http://download.binaergewitter.de/2013-08-08.Binaergewitter.Talk.62.ogg"
-        length="66450217"
+        length="66450735"
         type="audio/ogg" />
       <media:content url="http://download.binaergewitter.de/2013-08-08.Binaergewitter.Talk.62.ogg"
-        fileSize="66450217"
+        fileSize="66450735"
         type="audio/ogg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #62 - Krepel ist keine schmackhafte Backware</itunes:subtitle>
@@ -227,7 +227,7 @@
         <![CDATA[Heute ohne Ingo aber mit dem Mailthema und wie immer den News der letzten Woche...
 
 
-komplette Shownotes mit Zeitangaben - Danke @Schmittlauch
+komplette Shownotes mit Zeitangaben - Danke @schmittlauch
 Chatlog
 
 
@@ -253,7 +253,7 @@ Tumblr der Woche
 
 
 Devs do Art
-
+SecurityReactions
 
 
 
@@ -389,6 +389,11 @@ Ikea iOS App
       <description>
         <![CDATA[<p>Trotz Sommerloch und Temperaturen jenseits der 30 Grad im Studio  senden wir fröhlich weiter. Diesmal ohne Marc aber mit Pfleidis Test des ResPi als Mediacenter und wir diskutieren über Dikaturen, Amazons
 Umgang mit Kunden und Überwachung der (eigenen) Kinder.</p>
+
+<ul>
+<li><a href="http://xenim.imake.io/chatlog/binaergewitter-BGT061">Chatlog</a></li>
+</ul>
+
 
 <h2>Toter der Woche</h2>
 
@@ -576,6 +581,11 @@ Umgang mit Kunden und Überwachung der (eigenen) Kinder.</p>
       <itunes:summary>
         <![CDATA[Trotz Sommerloch und Temperaturen jenseits der 30 Grad im Studio  senden wir fröhlich weiter. Diesmal ohne Marc aber mit Pfleidis Test des ResPi als Mediacenter und wir diskutieren über Dikaturen, Amazons
 Umgang mit Kunden und Überwachung der (eigenen) Kinder.
+
+
+Chatlog
+
+
 
 Toter der Woche
 
@@ -783,6 +793,11 @@ Danke an Mobile Geeks fuers pluggen
       <description>
         <![CDATA[<p>In der Ausgabe 210 oder 60 AT beschäftigen wir uns mit Schmuddelbildern im Internet, weil die gesperrt werden außerdem gehts um die neuen Google Produkte und Mobilefunkzeugs und viel anderer Nerdkram.</p>
 
+<ul>
+<li><a href="http://xenim.imake.io/chatlog/binaergewitter-BGT060">Chatlog</a></li>
+</ul>
+
+
 <h2>OpenApache Graveyard</h2>
 
 <ul>
@@ -957,6 +972,11 @@ Danke an Mobile Geeks fuers pluggen
       <itunes:subtitle>Binärgewitter Talk #60 - Ministerium für Internetpornographie</itunes:subtitle>
       <itunes:summary>
         <![CDATA[In der Ausgabe 210 oder 60 AT beschäftigen wir uns mit Schmuddelbildern im Internet, weil die gesperrt werden außerdem gehts um die neuen Google Produkte und Mobilefunkzeugs und viel anderer Nerdkram.
+
+
+Chatlog
+
+
 
 OpenApache Graveyard
 
