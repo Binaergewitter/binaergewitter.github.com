@@ -13,6 +13,8 @@ audioformats:
 ---
 In der Ausgabe 210 oder 60 AT beschäftigen wir uns mit Schmuddelbildern im Internet, weil die gesperrt werden außerdem gehts um die neuen Google Produkte und Mobilefunkzeugs und viel anderer Nerdkram.
 
+* [Chatlog](http://xenim.imake.io/chatlog/binaergewitter-BGT060 )
+
 ## OpenApache Graveyard
 
 * [Mesos](http://www.pro-linux.de/news/1/20058/mesos-wird-apache-top-level-project.html )

@@ -14,6 +14,8 @@ audioformats:
 Trotz Sommerloch und Temperaturen jenseits der 30 Grad im Studio  senden wir fröhlich weiter. Diesmal ohne Marc aber mit Pfleidis Test des ResPi als Mediacenter und wir diskutieren über Dikaturen, Amazons 
 Umgang mit Kunden und Überwachung der (eigenen) Kinder. 
 
+* [Chatlog](http://xenim.imake.io/chatlog/binaergewitter-BGT061 )
+
 ## Toter der Woche
 
 * [Barnaby Jack]( http://www.heise.de/newsticker/meldung/Herzschrittmacher-Hacker-Barnaby-Jack-stirbt-eine-Woche-vor-Black-Hat-Auftritt-1925016.html )
