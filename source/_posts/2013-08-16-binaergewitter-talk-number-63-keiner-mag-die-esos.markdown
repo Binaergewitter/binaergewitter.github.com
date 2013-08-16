@@ -53,8 +53,7 @@ und jeder Menge Techniknews.
 - [Android macht crypto falsch]( http://arstechnica.com/security/2013/08/google-confirms-critical-android-crypto-flaw-used-in-5700-bitcoin-heist/ )
     * [Digitalocean]( http://missingm.co/2013/07/identical-droplets-in-the-digitalocean-regenerate-your-ubuntu-ssh-host-keys-now/ )
 - [Online Kommentare stimmen eh nie!]( http://arstechnica.com/science/2013/08/online-comment-systems-reveal-multiple-layers-of-social-bias/ )
-- [wer an Gmail schickt hat pech gehabt](http://www.heise.de/newsticker/meldu
-ng/Google-E-Mail-an-Gmail-Verzicht-auf-Privatsphaere-1935892.html )
+- [wer an Gmail schickt hat pech gehabt](http://www.heise.de/newsticker/meldung/Google-E-Mail-an-Gmail-Verzicht-auf-Privatsphaere-1935892.html )
    * [targeted Advertising deaktivieren bei google](https://www.google.com/settings/u/0/ads?hl=de&sig=ACi0TCgC-8mmp1H952ZejeTBdsMM5y6tLbQNvHwctkgYDlTCKNLdVUy-gcIzOVkXg9QE_hGFfDyH2sn7jPoLSL8WLYxyX_TYcw )
 - [SpaceX HOLY FUCK]( http://www.spacex.com/news/2013/08/14/grasshopper-100m-lateral-divert-test )
 - [G1 und Lucene werden keine Freunde]( https://issues.apache.org/jira/browse/LUCENE-5168 )
