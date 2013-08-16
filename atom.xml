@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2013-08-10T12:29:35+02:00</updated>
+  <updated>2013-08-16T08:43:05+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,155 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #63 - keiner mag die Esos]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2013/08/16/binaergewitter-talk-number-63-keiner-mag-die-esos/"/>
+    <updated>2013-08-16T08:30:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2013/08/16/binaergewitter-talk-number-63-keiner-mag-die-esos</id>
+    <content type="html"><![CDATA[<p>Gut dass Ingo diesmal wieder dabei ware sonst hättet ihr den Atompodcast hören müssen, so geht es aber über Mail made in Germany, über das Beenden von Dingen und Schildkröten und jeder Menge Techniknews.</p>
+
+<ul>
+<li><a href="http://xenim.imake.io/chatlog/binaergewitter-BGT063">Chatlog</a></li>
+</ul>
+
+
+<h2>Tumblrs der Woche</h2>
+
+<ul>
+<li><a href="http://pofallabeendetdinge.tumblr.com/">Pofalla beendet Dinge</a></li>
+<li><a href="http://chantalismus.tumblr.com/">Chantalismus</a>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/German_name#Forenames">Wookiepedia</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="24.media.tumblr.com/f8d920c7a4c54240197957dcf7ca5a35/tumblr_mrgjne4GFZ1sfu1slo1_500.jpg">Lotti die Schnappschildkroete</a>
+
+<ul>
+<li><a href="http://www.abendzeitung-muenchen.de/inhalt.jagd-auf-alligatorschildkroete-schnappschildkroete-lotti-ins-sea-life-nach-muenchen.01916bec-e3c8-45a1-81a8-b7cef289500c.html">Käseblatt</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Kim-Dotcom-kuendigt-sicheren-E-Mail-Dienst-an-1934785.html">Dotcom der Woche</a></li>
+<li>United Internet und Telekom verschlüsseln auf dem Transportweg
+
+<ul>
+<li>Mail in Germany</li>
+<li>Wie Anbieter alle schon immer (SMTP+TLS)</li>
+<li>Marc setzte z-push auf
+
+<ul>
+<li><a href="http://baikal-server.com">Baikal Server</a></li>
+<li><a href="https://github.com/dupondje/PHP-Push-2">PHP-Push-2</a></li>
+</ul>
+</li>
+<li><a href="http://www.syncroton.org/wiki/Main_Page">Syncronton</a></li>
+</ul>
+</li>
+<li><p><a href="http://www.heise.de/newsticker/meldung/Hyperloop-Elon-Musk-stellt-Rohrpost-fuer-Menschen-vor-1934205.html">Innovation der Woche: Menschen Rohrpost</a></p>
+
+<ul>
+<li><a href="https://medium.com/jog-with-a-blog/1f283f8545fa">Explaining the Hyperloop in simple terms</a></li>
+<li><a href="http://opensourceecology.org/">Open Source Ecology</a></li>
+</ul>
+</li>
+<li><p><a href="http://blog.opensecurityresearch.com/2013/08/remote-code-execution-on-wired-side.html">Wireless Authentication Server Compromise</a></p></li>
+<li><a href="http://www.heise.de/ix/meldung/Widerstand-gegen-das-WLAN-der-Schweizer-Bahn-1936496.html">WLAN bei der SBB</a></li>
+<li><a href="http://news.nationalgeographic.com/news/2011/03/110309-humans-men-penises-spines-dna-genome-science/">Menschlicher Penis war frueher dornig - und warum er jetzt nicht mehr vorhanden ist</a></li>
+<li><a href="http://www.v3.co.uk/v3-uk/news/2288595/cyber-criminals-target-the-dalai-lama-website-with-java-watering-hole-exploit">Internet Dalai Lama angegriffen</a>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Serfdom_in_Tibet_controversy">Dalail</a></li>
+</ul>
+</li>
+<li><a href="http://www.pro-linux.de/news/1/20137/projekt-open-root-server-reanimiert.html">open root server projekt wieder da</a>
+
+<ul>
+<li><a href="https://gist.github.com/rb2k/6243781">Marc&#8217;s IP Country Ruby Krepel</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/business/2013/08/welcome-to-the-future-new-zealand-approves-permit-for-jet-pack/">Endlich! Echte Jetpacks</a></li>
+<li><a href="http://blog.hipchat.com/2013/08/12/hipchat-search-now-powered-by-elasticsearch/">Hipchat powered by Elasticsearch</a></li>
+<li><a href="http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers/">Kids can&#8217;t use computers</a></li>
+<li><a href="https://spideroak.com/blog/20130812192940-private-and-encrypted-storage-for-bitcoin-spideroak-gives-it-a-try">Spideroak akzeptiert Bitcoin</a></li>
+<li><a href="http://www.python.org/dev/peps/pep-0450/">PEP 450 Statistics Module in Python</a></li>
+<li><a href="http://arstechnica.com/security/2013/08/google-confirms-critical-android-crypto-flaw-used-in-5700-bitcoin-heist/">Android macht crypto falsch</a>
+
+<ul>
+<li><a href="http://missingm.co/2013/07/identical-droplets-in-the-digitalocean-regenerate-your-ubuntu-ssh-host-keys-now/">Digitalocean</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/science/2013/08/online-comment-systems-reveal-multiple-layers-of-social-bias/">Online Kommentare stimmen eh nie!</a></li>
+<li><a href="http://www.heise.de/newsticker/meldu%0Ang/Google-E-Mail-an-Gmail-Verzicht-auf-Privatsphaere-1935892.html">wer an Gmail schickt hat pech gehabt</a>
+
+<ul>
+<li><a href="https://www.google.com/settings/u/0/ads?hl=de&amp;sig=ACi0TCgC-8mmp1H952ZejeTBdsMM5y6tLbQNvHwctkgYDlTCKNLdVUy-gcIzOVkXg9QE_hGFfDyH2sn7jPoLSL8WLYxyX_TYcw">targeted Advertising deaktivieren bei google</a></li>
+</ul>
+</li>
+<li><a href="http://www.spacex.com/news/2013/08/14/grasshopper-100m-lateral-divert-test">SpaceX HOLY FUCK</a></li>
+<li><a href="https://issues.apache.org/jira/browse/LUCENE-5168">G1 und Lucene werden keine Freunde</a></li>
+<li><a href="http://www.bbc.co.uk/news/technology-23665490">London Trash Bin Rage</a></li>
+<li><a href="http://www.techdirt.com/articles/20130805/02354124062/us-government-war-hackers-backfires-now-hackers-wont-work-us-government.shtml">Duh der Woche - Wenn du die hacker hackst dann arbeiten sie nicht mehr fuer dich</a></li>
+<li><a href="http://people.xiph.org/~xiphmont/demo/daala/demo3.shtml">Daala erklärt v3</a></li>
+<li><a href="http://haxit.blogspot.de/">Hacking Wifi SD Cards for Fun and Profit</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="https://speakerdeck.com/janogonzalez/ruby-for-java-minds">Ruby for Java minds</a></li>
+<li><a href="http://www.groenaz.de/monkey-island-getwittert/">Die Geschichte von Monkey Island getwittert</a></li>
+<li><a href="http://www.elasticsearch.org/blog/managing-relations-inside-elasticsearch/">Managing relations inside Elasticsearch</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Seasteading_Institute#Seasteading_Institute">Seasteading</a></li>
+<li><a href="http://mentalfloss.com/article/32127/decimal-time-how-french-made-10-hour-day">Alternative Zeitbeschreibungen</a></li>
+<li><a href="http://blogs.smithsonianmag.com/science/2013/08/this-is-how-your-brain-becomes-addicted-to-caffeine/">How your brain becomes addicted to caffeine</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="https://mediacru.sh/demo">Gifs nehmen Platz weg. Platz ist wichtig.</a>
+
+<ul>
+<li><a href="http://www.kickstarter.com/projects/374397522/apngasm-foss-animated-png-tools-and-apng-standardi">Kickstarter für apng</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.coffitivity.com/">Coffitivity</a></li>
+<li><a href="https://maps.google.com/maps?hl=en&amp;ll=51.492159,-0.19092&amp;spn=0.005291,0.013937&amp;sll=51.492140,-0.193028&amp;layer=c&amp;cid=12502927659667388442&amp;panoid=c9UMhWP_MWm9U0L48xEjYw&amp;cbp=13,291.8,,0,18.86&amp;gl=US&amp;t=m&amp;cbll=51.492132,-0.192862&amp;z=17">Enter the Tardis via Google Maps</a></li>
+<li><a href="http://en.ilovecoffee.jp/posts/view/89">8 things worth knowing about eating sushi</a></li>
+<li><a href="http://fritz.box//html/capture.html">Fritzbox</a></li>
+<li><a href="http://amzn.to/14gGwXv">Quest Bars</a>
+
+<ul>
+<li><a href="http://www.questproteinbar.com/">Internet</a></li>
+<li><a href="http://www.meandmydiabetes.com/2012/03/03/high-fiber-foods-and-blood-sugar-quest-protein-bart-interview/">Komisches Interview</a></li>
+</ul>
+</li>
+<li><a href="http://www.namecheap.com/">Namecheap Dyndns</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #62 - Krepel ist keine schmackhafte Backware]]></title>
@@ -2519,117 +2668,6 @@ Style&#8221;</a>
 <li><a href="http://www.coffeecircle.com/clever-coffee-dripper/">Clever coffee dripper</a> (pfleidi)</li>
 <li><a href="http://hyperlapse.tllabs.io/">Google Streetview Tourraffer</a></li>
 <li><a href="http://starlogs.net/">Starlogs</a> (pfleidi)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #48 - Live aus Wolgograd]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2013/04/12/binaergewitter-talk-number-48-live-aus-wolgograd/"/>
-    <updated>2013-04-12T13:00:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2013/04/12/binaergewitter-talk-number-48-live-aus-wolgograd</id>
-    <content type="html"><![CDATA[<p>Nur zu Dritt und ohne extra Thema, aber mit Spaß an News präsentieren euch in gewohnt guter Laune pfleidi, Felix und Ingo folgende Themen:</p>
-
-<h1>Stallmann der Woche</h1>
-
-<ul>
-<li><a href="http://amerika21.de/2013/04/81994/stallman-bolivien">Stallmann berät Bolivien</a>
-
-<ul>
-<li><a href="https://secure.mysociety.org/admin/lists/pipermail/developers-public/2011-October/007647.html">Stallman Rider</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.golem.de/news/soziales-netzwerk-schuelervz-wird-ende-april-2013-abgeschaltet-1304-98593.html">SchülerVZ wird zu gemacht</a></li>
-<li><a href="http://windows.microsoft.com/en-us/messenger/messenger-to-skype">msn messenger</a> via @daniel_bohrer</li>
-<li>Roger Ebert</li>
-<li><a href="http://www.der-postillon.com/2013/04/margaret-thatcher-privatisiert-holle.html">Margaret Thatcher privatisiert die Hölle</a></li>
-</ul>
-
-
-<h2>OpenApache Graveyard der Woche</h2>
-
-<ul>
-<li><a href="http://www.heise.de/open/meldung/End-of-Life-fuer-Apache-Struts-1-1836800.html">Strus 1 ist EoL</a></li>
-<li><a href="http://www.heise.de/open/meldung/Medizin-Software-Apache-cTAKES-wird-Top-Level-Project-1837967.html">cTAKES</a></li>
-<li><a href="http://www.pro-linux.de/news/1/19648/openmeetings-21-erschienen.html">Openmeetings</a> via Eric</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/tech-policy/2013/04/how-a-banner-ad-for-hs-ok/">Provider injiziert Werbung in Webseiten</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Vectoring-Regulierer-genehmigt-VDSL-Turbo-1837933.html">Vectoring kommt</a></li>
-<li><a href="http://linux.slashdot.org/story/13/04/08/198254/qt-51-adds-android-and-ios-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">Qt 5.1 mit Android und iOS Support</a></li>
-<li><a href="https://github.com/blog/1470-five-years">Github wird 5</a></li>
-<li><a href="https://github.com/blog/1452-new-github-pages-domain-github-io">Github Pages bekommt eigene Domain</a>
-
-<ul>
-<li> <a href="https://github.com/blog/1466-yummy-cookies-across-domains">Egor macht mal wider Dinge kaputt</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/timahoney/decaf">Decaf: Ruby im Browser</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Site_Compatibility_for_Firefox_23#Non-SSL_contents_on_SSL_pages_are_blocked_by_default">Firefox 23 wird non-secure content auf HTTPS seiten blocken</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Firefox-bleibt-bei-Cookie-Blockade-hart-1839688.html">Cookies in FF</a></li>
-<li><a href="http://paritynews.com/web-news/item/931-mozilla-introduces-experimental-open-payment-system-for-firefox-os">Firefox OS bekommt bezahlsystem</a></li>
-<li><a href="http://www.golem.de/news/malware-der-rechner-als-bitcoin-generator-1304-98580.html">Malware zum Bitcoin minen</a></li>
-<li><a href="http://thejh.net/misc/website-terminal-copy-paste">Copy-paste aus dem Internet, aufpassen!</a></li>
-<li><a href="http://www.gulli.com/news/21205-facebook-home-der-neue-homescreen-fuer-android-2013-04-05">Facebook Home suckt</a>
-
-<ul>
-<li><a href="http://www.networkworld.com/community/node/82816">Microsoft sagt, dass ihre Ideen zuerst gesuckt haben</a></li>
-</ul>
-</li>
-<li><a href="http://www.theregister.co.uk/2013/04/05/laser_3d_distance_imaging/">Super hardcore laser die dinge aus einem Kilometer 3d-ifizieren koennen</a></li>
-<li>Computer bewertet dein Essay</li>
-<li><a href="http://www.golem.de/news/linux-kernel-lizenzprobleme-beim-arm-code-1304-98666.html">Lizenzprobleme bei Linux?!</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://stevelosh.com/blog/2013/04/git-koans/">Git Koans</a> (pfleidi)(makefu)</li>
-<li><a href="http://www.amazon.de/dp/1592535631?tag=pfleidi-21">The art and craft of coffee</a> (pfleidi)</li>
-<li><a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=xOCurBYI_gY">Computer program that learns to play NES games</a>(makefu)</li>
-<li><a href="https://github.com/bigcompany/know-your-http">Know your HTTP</a> (pfleidi)</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Teamviewer 8 (Ingo)</li>
-<li>t.co (Twitters URL shortener)</li>
-<li>ADN
-
-<ul>
-<li><a href="https://alpha.app.net/pfleidi">pfleidi</a></li>
-<li><a href="https://alpha.app.net/ingoebel">ingo</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="https://chrome.google.com/webstore/detail/rest-console/cokgbflfommojglbmbpenpphppikmonn/related?hl=en">Chrome REST Console</a> (pfleidi)</li>
-<li><a href="http://i.imgur.com/Q3cUg29.gif">CSS erklaert</a></li>
-<li><a href="http://reasonsmysoniscrying.tumblr.com/">Reasons my son is crying</a> (makefu)</li>
-<li><a href="https://chrome.google.com/webstore/detail/create-amazon-affiliate-l/opiggebokahabecjobgjoaiinjeeejib">Create Amazon affiliate link</a> (pfleidi)</li>
-<li><a href="http://www.openwlanmap.org/?lang=en">Open WLAN Map</a> (makefu)</li>
-<li><a href="http://www.amazon.de/dp/B000M51T12?tag=pfleidi-21">Tune Belt</a> (pfleidi)</li>
-<li><a href="http://pltts.me/">Pllts</a> und <a href="http://www.colourlovers.com/">Colour Lovers</a> (pfleidi)</li>
-<li><a href="https://itunes.apple.com/de/app/xenim-streams/id478586970?mt=8">Xenim App für iOS</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=de.danoeh.antennapod&amp;hl=de">antennapod für Android</a></li>
 </ul>
 
 ]]></content>
